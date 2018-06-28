@@ -789,11 +789,119 @@
                      <l>And all the reſt o'th' fleet?</l>
                   </lg>
                </sp>
-             
+               <sp who="#ari">
+                  <speaker>Ari.</speaker>
+                  <lg>
+                     <l>Safely in harbour</l>
+                     <l>Is the King's ſhip; in the deep nook, where once</l>
+                     <l>Thou call'dſt me up at midnight, to fetch dew</l>
+                     <l>From the ſtill-vext Bermudas, there ſhe's hid:</l>
+                     <l>The mariners all under hatches ſtow'd,</l>
+                     <l>Who, with a charm join'd to their ſuffered labour,</l>
+                     <l>I've left aſleep; and for the reſt o'th' fleet</l>
+                     <l>(Which I diſpers'd) they all have met again,</l>
+                     <l>And are upon the Mediterranean flote,</l>
+                     <l>Bound ſadly home for Naples;</l>
+                     <l>Suppoſing, that they ſaw the King's ſhip wreckt,</l>
+                     <l>And his great perſon periſh.</l>
+                  </lg>
+               </sp>
+               <sp who="#pro">
+                  <speaker>Pro.</speaker>
+                  <lg>
+                     <l>Ariel, thy charge</l>
+                     <l>Exactly is perform'd; but there's more work,</l>
+                     <l>What is the time o'th' day?</l>
+                  </lg>
+               </sp>
+               <sp who="#ari">
+                  <speaker>Ari.</speaker>
+                  <l>Paſt the mid ſeaſon.</l>
+               </sp>
+               <sp who="#pro">
+                  <speaker>Pro.</speaker>
+                  <lg>
+                     <l>At leaſt two glaſſes; the time 'twixt fix and now</l>
+                     <l>Muſt by us both be ſpent moſt preciouſly.</l>
+                  </lg>
+               </sp>
+               <sp who="#ari">
+                  <speaker>Ari.</speaker>
+                 <lg>
+                  <l>Is there more toil? ſince thou doſt give me pains,</l>
+                  <l>Let me remember thee what thou haſt promis'd,</l>
+                  <l>Which is not yet perform'd me.</l>
+                 </lg>
+               </sp>
+               <sp who="#pro">
+                  <lg>
+                     <l>How now? moody?</l>
+                     <l>What is't thou canſt demand?</l>
+                  </lg>
+               </sp>
+               <sp who="#ari">
+                  <speaker>Ari.</speaker>
+                  <l>My liberty.</l>
+               </sp>
+               <sp who="#pro">
+                  <speaker>Pro.</speaker>
+                  <l>Before the time be out? no more.</l>
+               </sp>
+               <sp who="#ari">
+                  <speaker>Ari.</speaker>
+                  <lg>
+                     <l>I pr'ythee,</l>
+                     <l>Remember, I have done thee worthy ſervice;</l>
+            <pb/>
+                     <l>Told thee no lies, made no miſtakings, ſerv'd</l>
+                     <l>Without or grudge, or grumblings; thou didſt promiſe</l>
+                     <l>To bate me a full year.</l>
+                  </lg>
+               </sp>
+               <sp who="#pro">
+                  <speaker>Pro.</speaker>
+                  <lg>
+                     <l>Doft thou forget</l>
+                     <l>From what a torment I did free thee?</l>
+                  </lg>
+               </sp>
+               <sp who="#ari">
+                  <speaker>Ari.</speaker>
+                  <l>No.</l>
+               </sp>
+               <sp who="pro">
+                  <speaker>Pro.</speaker>
+                  <lg>
+                     <l>Thou doſt; and think'ſt it much to tread the ooze</l>
+                     <l>Of the ſalt deep;</l>
+                     <l>To run upon the ſharp Wind of the North;</l>
+                     <l>To do me buſineſs in the veins o'th' earth,</l>
+                     <l>When it is bak'd with froſt.</l>
+                  </lg>
+               </sp>
+               <sp who="#ari">
+                  <speaker>Ari.</speaker>
+                  <l>I do not, Sir.</l>
+               </sp>
+               <sp who="#pro">
+                  <speaker>Pro.</speaker>
+                  <lg>
+                     <l>Thou ly'ſt, malignant thing! haſt thou forgot</l>
+                     <l>The foul witch Sycorax, who with age and envy</l>
+                     <l>Was grown into a hoop? haſt thou forgot her?</l>
+                  </lg>
+               </sp>
+               <sp who="#ari">
+                  <speaker>Ari.</speaker>
+                  <l>No, Sir.</l>
+               </sp>
+               <sp who="#pro">
+                  <speaker>Pro.</speaker>
+                  <l>Thou haſt: where was ſhe born? ſpeak; tell me.</l>
+               </sp>
             </div>
          </div>
      
-      
         </body>
     </text>
 </TEI>
