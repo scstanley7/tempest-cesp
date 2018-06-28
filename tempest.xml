@@ -21,8 +21,8 @@
            <div type="scene">
            <head>The Tempest.</head>
             <head type="act">Act. I.</head>
-            <stage>Scene, On a Ship at Sea.</stage>
-            <stage>A tempeſtuous noiſe of thunder and lightning heard:
+            <stage type="setting">Scene, On a Ship at Sea.</stage>
+            <stage type="setting">A tempeſtuous noiſe of thunder and lightning heard:
                Enter a Ship-maſter, and a Boatſwain.</stage>
                <sp who="#mas">
                   <speaker>Master.</speaker>
@@ -40,8 +40,8 @@
                      <lb/>beſtir, beſtir.
                   </p>
                </sp>
-            <stage>[Exit.</stage>
-            <stage>Enter Mariners</stage>
+            <stage type="exit">[Exit.</stage>
+            <stage type="entrance">Enter Mariners</stage>
                <sp who="#boat">
                   <speaker>Boatſ.</speaker>
                   <p>
@@ -50,7 +50,7 @@
                      <lb/>blow, 'til thou burſt thy wind, if room enough.
                   </p>
                </sp>
-            <stage>Enter Alonſo, Sebaſtian, Anthonio, Ferdinand, Gonzalo, and others.</stage>
+            <stage type="entrance">Enter Alonſo, Sebaſtian, Anthonio, Ferdinand, Gonzalo, and others.</stage>
                <sp who="#alon">
                   <speaker>Alon.</speaker>
                   <p>
@@ -103,7 +103,7 @@
                     <lb/>way, I ſay.
                  </p>
               </sp>
-              <stage>[Exit.</stage>
+              <stage type="exit">[Exit.</stage>
               <sp who="#gon">
                  <speaker>Gonz.</speaker>
                  <p>
@@ -115,8 +115,8 @@
                     <lb/>hang'd, our caſe is miſerable.
                  </p>
               </sp>
-              <stage>[Exeunt.</stage>
-              <stage>Re-enter Boatſwain.</stage>
+              <stage type="exit">[Exeunt.</stage>
+              <stage type="entrance">Re-enter Boatſwain.</stage>
               <sp who="#boat">
                  <speaker>Boatſ.</speaker>
                  <p>
@@ -124,7 +124,7 @@
                     <lb/>bring her to try with main-courſe. A plague upon this
                     <lb/>howling!―
                  </p>
-              <stage>A cry within. Re-enter Sebaſtian, Anthonio, and Gonzalo.</stage>
+              <stage type="mixed">A cry within. Re-enter Sebaſtian, Anthonio, and Gonzalo.</stage>
                  <p>
                     <lb/>they are louder than the weather, or our office. Yet
                     <lb/>again? what do you here? ſhall we give o'er, and drown?
@@ -165,7 +165,7 @@
                     <lb/>off to ſea again, lay her off.
                  </p>
               </sp>              
-              <stage>Enter Mariners wet.</stage>
+              <stage type="mixed">Enter Mariners wet.</stage>
               <sp who="#mar">
                  <speaker>Mariners</speaker>
                  <p>All loſt! to prayers, to prayers! all loſt!</p>
@@ -202,7 +202,7 @@
                     <l>He'll be hang'd yet,</l>
                     <l>Though every drop of water ſwear againſt it,</l>
                     <l>And gape at wid'ſt to glut him.</l>
-                    <stage>A confuſed noiſe within.]</stage>
+                    <stage type="business">A confuſed noiſe within.]</stage>
                     <l>Mercy on us !</l>
                     <l>We ſplit, we ſplit! Farewel, my Wife and Children!</l>
                     <l>Brother, farewel! we ſplit, we ſplit, we ſplit!</l>
@@ -212,12 +212,12 @@
                  <speaker>Ant.</speaker>
                  <p>Let's all ſink with the King.</p>
               </sp>
-             <stage>[Exit.</stage>
+             <stage type="exit">[Exit.</stage>
               <sp who="#seb">
                  <speaker>Seb.</speaker>
                  <p>Let's take leave of him.</p>
               </sp>
-             <stage>[Exit.</stage>
+             <stage type="exit">[Exit.</stage>
               <sp who="#gon">
                  <speaker>Gonz.</speaker>
                  <p>
@@ -227,13 +227,13 @@
                     <lb/>die a dry death!
                  </p>
               </sp>
-             <stage>[Exit.</stage>
+             <stage type="exit">[Exit.</stage>
             </div>
             
             <div type="scene">
-             <stage>Scene changes to a Part of the Inchanted Iſland, 
+             <stage type="setting">Scene changes to a Part of the Inchanted Iſland, 
                   near the Cell of Proſpero.</stage>  
-             <stage>Enter Proſpero and Miranda.</stage>
+             <stage type="entrance">Enter Proſpero and Miranda.</stage>
                <sp who="#mira">
                   <speaker>Mira.</speaker>
                   <lg>
@@ -692,12 +692,12 @@
                      <l>Will ever after droop.―Here ceaſe more queſtions;</l>
                      <l>Thou art inclin'd to ſleep. 'Tis a good dulneſs,</l>
                      <l>And give it way; I know, thou canſt not chuſe―</l>
-                        <stage>[Miranda ſleeps.</stage>
+                        <stage type="business">[Miranda ſleeps.</stage>
                      <l>Come away, ſervant, come; I'm ready now:</l>
                      <l>Approach, my Ariel. Come.</l>
                   </lg>
                </sp>
-               <stage>Enter Ariel.</stage>
+               <stage type="entrance">Enter Ariel.</stage>
                <sp who="#ari">
                   <speaker>Ari.</speaker>
                   <lg>

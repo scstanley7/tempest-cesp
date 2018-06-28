@@ -30,4 +30,21 @@ Record dramatic speech with the `<sp>` element. This element should wrap the ent
 
 ## Speaker Labels
 
-You should record the speakers labels as they appear in the text
+You should record the speakers labels as they appear in the text, regardless of if there are misspellings or incorrect labels. Speaker labels should be recorded with `<speaker>`
+
+## Prose Passages 
+
+Prose passages should be recorded within `<p>`.
+
+## Verse Passages 
+
+Verse passages should be recorded with `<lg>` for multi-line passages. Each individual line should be recorded with an `<l>`. If there is a passage (i.e. a speech) that only contains one line, you don't need to use `<lg>` to wrap the single line. 
+
+## Stage Directions 
+
+You should record the presence of stage directions with `<stage>`. The `<stage>` element should have the required `@type` attribute, which records the type of action being described in the stage direction. The allowable values on for `@type` on `<stage>` are:
+
+* setting (describes a setting)
+* entrance (describes an entrance)
+* exit (describes an exit)
+* business (describes some activity done on stage, such as "draws curtains" or "fetches water")
