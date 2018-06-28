@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:svg="http://www.w3.org/2000/svg"
+    xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>ODD Customization for The Tempest @ FSU</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Published using Bryan J. Brown's Comparative Editions Solution Pack.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Created by Sarah Stanley. Born Digital.</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <schemaSpec ident="oddex1" start="TEI">
+                <moduleRef key="header"/>
+                <moduleRef key="core" except="binaryObject divGen headItem headLabel measureGrp media meeting"/>
+                <moduleRef key="tei"/>
+                <moduleRef key="textstructure" except="div1 div2 div3 div4 div5 div6 div7"/>
+                <moduleRef key="analysis" include="s span"/>
+                <moduleRef key="drama" except="actor camera caption move performance set sound tech view"/>
+                <moduleRef key="figure"/>
+                <moduleRef key="gaiji" except="charProp glyphName localName mapping unicodeName"/>
+                <moduleRef key="linking" include="ab anchor seg"/>
+                <moduleRef key="tagdocs" include="gi val code"/>
+                <moduleRef key="transcr" include=""/>
+                
+                <elementSpec ident="div" mode="change">
+                    <attList>
+                        <attDef ident="type" mode="change" usage="req">
+                            <datatype>
+                                <dataRef key="teidata.enumerated"/>
+                            </datatype>
+                            <valList mode="replace" type="closed">
+                                <valItem ident="prefatory"/>
+                                <valItem ident="conclusion"/>
+                                <valItem ident="act"/>
+                                <valItem ident="scene"/>
+                                <valItem ident="castList"/>
+                                <valItem ident="prologue"/>
+                                <valItem ident="epilogue"/>
+                            </valList>
+                        </attDef>
+                    </attList>
+                </elementSpec>
+                
+                
+                <elementSpec ident="sp" mode="change">
+                    <attList>
+                        <attDef ident="who" mode="change" usage="req"></attDef>
+                    </attList>
+                </elementSpec>
+                
+                <elementSpec ident="stage" mode="change">
+                    <attList>
+                        <attDef ident="type" mode="change" usage="req">
+                        </attDef>
+                    </attList>
+                </elementSpec> 
+                
+            </schemaSpec>
+        </body>
+    </text>
+</TEI>
