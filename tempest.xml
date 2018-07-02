@@ -15,7 +15,82 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body>
+       <front>
+          <div type="castList">
+             <castList>
+                <castItem>
+                   <role xml:id="alo">Alonso</role>
+                   <roleDesc>King of Naples</roleDesc>
+                </castItem>
+                <castItem>
+                   <role xml:id="seb">Sebaſtian</role>
+                   <roleDesc>his Brother</roleDesc>
+                </castItem>
+                <castItem>
+                   <role xml:id="pro">Proſpero</role>
+                   <roleDesc>the rightfull Duke of Milan.</roleDesc>
+                </castItem>
+                <castItem>
+                   <role xml:id="ant">Anthonio</role>
+                   <roleDesc>his Brother, the uſurping Duke of Milan</roleDesc>
+                </castItem>
+                <castItem>
+                   <role xml:id="fer">Ferdinand</role>
+                   <roleDesc>Son to the King of Naples.</roleDesc>
+                </castItem>
+                <castItem>
+                   <role xml:id="gon">Gonzalo</role>
+                   <roleDesc>an honeſt old Counſellor of Naples.</roleDesc>
+                </castItem>
+                <castItem>
+                   <role xml:id="adr">Adrian</role>
+                   <roleDesc>Lords</roleDesc>
+                </castItem>
+                <castItem>
+                   <role xml:id="fran">Franciſco</role>
+                   <roleDesc>Lords</roleDesc>
+                </castItem>
+                <castItem>
+                   <role xml:id="cal">Caliban</role>
+                   <roleDesc>a Savage, and deformed Slave,</roleDesc>
+                </castItem>
+                <castItem>
+                   <role xml:id="tri">Trinculo</role>
+                   <roleDesc>a Jeſter.</roleDesc>
+                </castItem>
+                <castItem>
+                   <role xml:id="ste">Stephano</role>
+                   <roleDesc>a drunken Butler.</roleDesc>
+                </castItem>
+                <castItem>
+                   <role xml:id="mas">Maſter of a Ship</role>
+                   <role xml:id="boat">Boatſwain</role>
+                   <role xml:id="mar">Mariners</role>
+                </castItem>
+                <castItem>
+                   <role xml:id="mira">Miranda</role>
+                   <roleDesc>Daughter to Proſpero</roleDesc>
+                </castItem>
+                <castItem>
+                   <role xml:id="ari">Ariel</role>
+                   <roleDesc>an aiery Spirit</roleDesc>
+                </castItem>
+                <castItem>
+                   <role>Iris</role>
+                   <role>Ceres</role>
+                   <role>Juno</role>
+                   <role>Nymphs</role>
+                   <role>Reapers</role>
+                   <roleDesc> Sprits, employ'd in the Maſque</roleDesc>
+                </castItem>
+                <castItem>
+                   <role>Other Spirits, attending on Proſpero</role>
+                </castItem>
+             </castList>
+          </div>
+         
+       </front> 
+       <body>
               
          <div type="act">
            <div type="scene">
@@ -62,7 +137,9 @@
                   <speaker>Boatſ.</speaker>
                   <p>I pray now, keep below.</p>
                </sp>
+              
            <pb/>
+              
               <sp who='#ant'>
                  <speaker>Ant.</speaker>
                  <p>Where is the maſter, boatſwain?</p>
@@ -157,7 +234,9 @@
                     <lb/>ſtanch'd wench.
                  </p>
               </sp>
+              
             <pb/>
+              
               <sp who="#boat">
                  <speaker>Boatſ.</speaker>
                  <p>
@@ -245,7 +324,9 @@
                      <l>With thoſe that I ſaw ſuffer: a brave veſſel</l>
                      <l>(Who had, no doubt, ſome noble creatures in her)</l>
                      <l>Daſh'd all to pieces. O! the cry did knock</l>
+                     
             <pb/>
+                     
                      <l>Againſt my very heart: poor ſouls, they periſh'd!</l>
                      <l>Had I been any God of Pow'r, I would</l>
                      <l>Have ſunk the ſea within the earth: or ere</l>
@@ -318,7 +399,9 @@
                      <lb/>miliar with our Poet, and in ſome Degree ſynonomous to
                      <lb/>Perdition in the next Line.
                      -->
+                     
             <pb/>
+                     
                      <l>Begun to tell me what I am, but ſtopt,</l>
                      <l>And left me to a bottleſs inquiſition;</l>
                      <l>Concluding, Stay; not yet.―</l>
@@ -409,7 +492,9 @@
                      <lb/>the Expreſſion is obſolete, but it ſupply'd the Senſe of, full
                      <lb/>out, out-right, or right-out.
                      -->
+                     
             <pb/>
+                     
                      <l>By foul play (as thou ſay'ſt) were we heav'd thence;</l>
                      <l>But bleſſedly help'd hither.</l>
                   </lg>
@@ -476,7 +561,9 @@
                      <l>As my truſt was; which had, indeed, no limit,</l>
                      <l>A confidence ſans bound. He being thus lorder,</l>
                      <l>Not only with what my Revenue yielded,</l>
+                     
             <pb/>
+                     
                      <l>But what my power might elſe exact; like one,</l>
                      <l>Who having into truth, by telling of it,</l>
                      <l>Made ſuch a ſinner of his memory,</l>
@@ -543,6 +630,7 @@
                cont. on next pg
                -->
             <pb/>
+               
                <sp who="#pro">
                   <speaker>Pro.</speaker>
                   <lg>
@@ -610,6 +698,7 @@
                      <lb/>People to have bad Children."-->
                      
              <pb/>
+                     
                      <l>To th' winds, whoſe pity, ſighing back again,</l>
                      <l>Did us but loving wrong.</l>
                   </lg>
@@ -687,7 +776,9 @@
                      <l>Brought to this ſhore: and, by my preſcience</l>
                      <l>I find, my Zenith doth depend upon</l>
                      <l>A moſt auſpicious ſtar; whoſe Influence</l>
+                     
             <pb/>
+                     
                      <l>If now I court not, but omit, my fortunes</l>
                      <l>Will ever after droop.―Here ceaſe more queſtions;</l>
                      <l>Thou art inclin'd to ſleep. 'Tis a good dulneſs,</l>
@@ -852,7 +943,9 @@
                   <lg>
                      <l>I pr'ythee,</l>
                      <l>Remember, I have done thee worthy ſervice;</l>
+                     
             <pb/>
+                     
                      <l>Told thee no lies, made no miſtakings, ſerv'd</l>
                      <l>Without or grudge, or grumblings; thou didſt promiſe</l>
                      <l>To bate me a full year.</l>
@@ -899,8 +992,693 @@
                   <speaker>Pro.</speaker>
                   <l>Thou haſt: where was ſhe born? ſpeak; tell me.</l>
                </sp>
+               <sp who="#ari">
+                  <speaker>Ari.</speaker>
+                  <l>Sir, in Argier.</l>
+               </sp>
+               <sp who="#pro">
+                  <speaker>Pro.</speaker>
+                  <lg>
+                     <l>Oh, was ſhe ſo? I muſt</l>
+                     <l>Once in a month recount what thou haſt been,</l>
+                     <l>Which thou forget'ſt. This damn'd witch Sycorax,</l>
+                     <l>For miſchiefs manifold and forceries terrible</l>
+                     <l>To enter human hearing, from Argier,</l>
+                     <l>Thou know'ſt, was baniſh'd: for one thing ſhe did,</l>
+                     <l>They would not take her life. Is not this true?</l>
+                  </lg>
+               </sp>
+               <sp who="#ari">
+                  <speaker>Ari.</speaker>
+                  <l>Ay, Sir.</l>
+               </sp>
+               <sp who="#pro">
+                  <speaker>Pro.</speaker>
+                  <lg>
+                     <l>This blue-ey'd hag was hither brought with child,</l>
+                     <l>And here was left by th' ſailors; thou my ſlave</l>
+                     <l>As thou report'ſt thy ſelf, waſt then her fervant.</l>
+                     <l>And, for thou waſt a ſpirit too delicate</l>
+                     <l>To act her earthy and abhorr'd commands,</l>
+                     <l>Refuſing her grand heſts ſhe did confine thee,</l>
+                     <l>By help of her more potent miniſters,</l>
+                     <l>And in her moſt unmitigable rage,</l>
+                     <l>Into a cloven pine; within which rift</l>
+                     <l>Impriſon'd, thou didſt painfuly remain</l>
+                     <l>A dozen years, within which ſpace the dy'd,</l>
+                     <l>And left thee there: where thou didvt vent thy groans,</l>
+                     <l>As faſt as mill-wheels ſtrike. Then was this Iſland</l>
+                     <l>(Save for the ſon that ſhe did litter here,</l>
+                     
+            <pb/>
+                     
+                     <l>A freckled whelp, hag-born) not honour'd with</l>
+                     <l>A human ſhape.</l>
+                  </lg>
+               </sp>
+               <sp who="#ari">
+                  <speaker>Ari.</speaker>
+                  <l>Yes; Caliban her ſon.</l>
+               </sp>
+               <sp who="#pro">
+                  <speaker>Pro.</speaker>
+                  <lg>
+                     <l>Dull thing, I ſay ſo: he, that Caliban,</l>
+                     <l>Whom now I keep in ſervice. Thou beſt know'ſt,</l>
+                     <l>What torment I did find thee in; thy groans</l>
+                     <l>Did make wolves howl, and penetrate the breaſts</l>
+                     <l>Of ever'angry bears; it was a torment</l>
+                     <l>To lay upon the damn'd, which Sycorax</l>
+                     <l>Could not again undo: it was mine art,</l>
+                     <l>When I arriv'd and heard thee, that made gape</l>
+                     <l>The pine, and let thee out.</l>
+                  </lg>
+               </sp>
+               <sp who="#ari">
+                  <speaker>Ari.</speaker>
+                  <l>I thank thee, maſter.</l>
+               </sp>
+               <sp who="#pro">
+                  <speaker>Pro.</speaker>
+                  <lg>
+                     <l>If thou more murmur'ſt, I will rend an oak,</l>
+                     <l>And peg thee in his knotty entrails, 'till</l>
+                     <l>Thou'ſt howl'd away twelve winters.</l>
+                  </lg>
+               </sp>
+               <sp who="#ari">
+                  <speaker>Ari.</speaker>
+                  <lg>
+                     <l>Pardon, maſter.</l>
+                     <l>I will be correſpondent to command,</l>
+                     <l>And do my ſp'riting gently.</l>
+                  </lg>
+               </sp>
+               <sp who="#pro">
+                  <speaker>Pro.</speaker>
+                  <lg>
+                     <l>Do ſo: and after two days</l>
+                     <l>I will diſcharge thee.</l>
+                  </lg>
+               </sp>
+               <sp who="#ari">
+                  <speaker>Ari.</speaker>
+                  <lg>
+                     <l>That's my noble maſter:</l>
+                     <l>What ſhall I do? ſay what? what ſhall I do?</l>
+                  </lg>
+               </sp>
+               <sp who="#pro">
+                  <speaker>Pro.</speaker>
+                  <lg>
+                     <l>Go make thy ſelf like to a nymph o'th' ſea.</l>
+                     <l>Be ſubject to no fight but mine: inviſible</l>
+                     <l>To every eye-ball elſe. Go take this ſhape,</l>
+                     <l>And hither come in it: go hence with diligence.</l>
+               <stage type="exit">[Exit Ariel.</stage>
+                     <l>Awake, dear heart, awake! thou haſt ſlept well;</l>
+                     <l>Awake―</l>
+                  </lg>
+               </sp>
+               <sp who="#mira">
+                  <speaker>Mira.</speaker>
+                  <lg>
+                     <l>The ſtrangeneſs of your ſtory put</l>
+                     <l>Heavineſs in me.</l>
+                  </lg>
+               </sp>
+               <sp who="#pro">
+                  <speaker>Pro.</speaker>
+                  <lg>
+                     <l>Shake it off: come on;</l>
+                     <l>We'll viſit Caliban my ſlave, who never</l>
+                     <l>Yields us kind anſwer.</l>
+                  </lg>
+               </sp>
+               <sp who="#mira">
+                  <speaker>Mira.</speaker>
+                  <lg>
+                     <l>'Tis a villain, Sir,</l>
+                     <l>I do not love to look on―</l>
+                  </lg>
+               </sp>
+               <sp who="#pro">
+                  <speaker>Pro.</speaker>
+                  <lg>
+                     <l>But, as 'tis,</l>
+                     <l>We cannot miſs him: he does make our fire,</l>
+                     <l>Fetch in our wood, and ſerves in offices</l>
+                     
+            <pb/>
+                     
+                     <l>That profit us. What ho! ſlave! Caliban!</l>
+                     <l>Thou earth, thou! ſpeak.</l>
+                  </lg>
+               </sp>
+               <sp who="#cal">
+                  <speaker>Cal.</speaker>
+               <stage type="location">(within)</stage>
+                     <l>There's wood enough within.</l>
+               </sp>
+               <sp who="#pro">
+                  <lg>
+                     <l>Come forth, I ſay; there's other buſineſs for thee.</l>
+                     <l>Come, thou Tortoiſe! when?―</l>
+                     
+               <stage type="mixed">Enter Ariel like a Water-Nymph.</stage>   
+                   
+                     <l>Fine apparition! my quaint Ariel,</l>
+                     <l>Hark in thine ear.</l>
+                  </lg>
+               </sp>
+               <sp who="#ari">
+                  <speaker>Ari.</speaker>
+                  <l>My lord, it ſhall be done.</l>
+               </sp>
+               <stage type="exit">[Exit.</stage>
+               <sp who="pro">
+                  <speaker>Pro.</speaker>
+                  <lg>
+                     <l>Thou poiſonous ſlave, got by the devil himſelf</l>
+                     <l>Upon thy wicked dam, come forth.</l>
+                  </lg>
+               </sp>
+               
+               <stage type="entrance">Enter Caliban.</stage>
+               
+               <sp who="#cal">
+                  <speaker>Cal.</speaker>
+                  <lg>
+                     <l>As wicked dew, as e'er my mother bruſh'd</l>
+                     <l>With raven's feather from unwholſom fen,</l>
+                     <l>Drop on you both! a ſouth-weſt blow on ye,</l>
+                     <l>And bliſter you all o'er!</l>
+                  </lg>
+               </sp>
+               <sp who="#pro">
+                  <speaker>Pro.</speaker>
+                  <lg>
+                     <l>For this, be ſure, to night thou ſhalt have cramps,</l>
+                     <l>Side-ſtitches that ſhall pen thy breath up; urchins</l>
+                     <l>Shall, for that vaſt of night that they may work,</l>
+                     <l>All exerciſe on thee: thou ſhall be pinch'd</l>
+                     <l>As thick as honey-combs, each pinch more ſtinging</l>
+                     <l>Than bees that made 'em.</l>
+                  </lg>
+               </sp>
+               <sp who="#cal">
+                  <speaker>Cal.</speaker>
+                  <lg>
+                     <l>I muſt eat my dinner.</l>
+                     <l>This Iſland's mine by Sycorax my mother,</l>
+                     <l>Which thou tak'ſt from me. When thou cameſt firſt,</l>
+                     <l>Thou ſtroak'dst me, and mad'ſt much of me; and would'ſt give me</l>
+                     <l>Water with berriew in't; and teach me how</l>
+                     <l>To name the bogger light, and how the leſs,</l>
+                     <l>That burn by day and night: and then I lov'd thee,</l>
+                     <l>And ſhew'd thee all the qualities o' th' Iſle,</l>
+                     <l>The freſh ſprings, brine-pits; barren place, and fertile.</l>
+                     <l>Curs'd be I, that I did ſo! all the charms</l>
+                     <l>Of Sycorax, toads, beetles, bats, light on you!</l>
+                     <l>For I am all the ſubjects that you have,</l>
+                     <l>Who firſt was mine own King; and here you ſty me</l>
+                     <l>In this hard rock, whiles you do keep from me</l>
+                     <l>The reſt of th' Iſland.</l>
+                  </lg>
+               </sp>
+            
+            <pb/>
+               
+               <sp who="#pro">
+                  <speaker>Pro.</speaker>
+                  <lg>
+                     <l>Thou moſt lying ſlave,</l>
+                     <l>Whom ſtripes may move, not kindneſs; I have us'd thee</l>
+                     <l>(Filth as thou art) with humane care, and lodg'e</l>
+                     <l>In mine own cell, 'till thou didſt ſeek to violate</l>
+                     <l>The honour of my child.</l>
+                  </lg>
+               </sp>
+               <sp who="#cal">
+                  <speaker>Cal.</speaker>
+                  <lg>
+                     <l>Oh ho, oh ho!―I wou'd, it had been done!</l>
+                     <l>Thou didſt prevent me, I had peopled elſe</l>
+                     <l>This Iſle with Calibans.</l>
+                  </lg>
+               </sp>
+               <sp who="#pro">
+                  <speaker>Pro.</speaker>
+                  <lg>
+                     <l>Abhorred ſlave; <!-- Note (5) here --></l>
+                     <l>Which any print of goodneſs wilt not take,</l>
+                     <l>Being capable of all ill! I pity'd thee,</l>
+                     <l>Took pains to make the ſpeak, taught thee each hour</l>
+                     <l>One thing or other. When thou didſt not, ſavage,</l>
+                     <l>Know thine own meanings, but wouldſt gabble like</l>
+                     <l>A thing moſt bruitiſh, I endow'dthy purpoſes</l>
+                     <l>With words that made them known. But thy vile race</l>
+                     <l>(Tho' thou didſt learn) had that in't, which good natures</l>
+                     <l>Could not abide to be with; therefore waſt thou</l>
+                     <l>Deſervedly confin'd into this rock,</l>
+                     <l>Who hadſt deſerv'd more than a priſon―</l>
+                  </lg>
+               </sp>
+               <sp who="#cal">
+                  <speaker>Cal.</speaker>
+                  <lg>
+                     <l>You taught me language, and my profit on't</l>
+                     <l>Is, I know how to curſe: the red plague rid you,</l>
+                     <l>For learning me your language!</l>
+                  </lg>
+               </sp>
+               <sp who="#pro">
+                  <speaker>Pro.</speaker>
+                  <lg>
+                     <l>Hag-ſeed, hence!</l>
+                     <l>Fetch us in fewel, and be quick (thou wer't beſt)</l>
+                     <l>To anſwer other buſineſs. Shrug'ſt thou, malice?</l>
+                     
+                     <!-- <p><lb/>(5) Mira. Abhorred Slave;] In all the printer Editions this
+                     <lb/>Speech is given to Miranda: but I am perſuaded, the Author
+                     <lb/>never deſign'd it for her. In the firſt Place, 'tis probable
+                     <lb/>Proſpero taught Caliban to ſpeak, rather than left that Office
+                     <lb/>to his Daughter: in the next Place, as Proſpero was here rating
+                     <lb/>Caliban, it would be a great Impropriety for her to take the
+                     <lb/>Diſcipline out of his Hands; and, indeed, in ſome ſort, an In-
+                     <lb/>decency in her to reply to what Caliban, laſt was ſpeaking of.
+                     <lb/>Mr. Dryden, I obſerve, in his Alteration of this Play, has ju-
+                     <lb/>diciouſly placed this Speech to Proſpero. I can eaſily gueſs,
+                     <lb/>that the Change was firſt deriv'd from the Players, who not
+                     <lb/>loving that any Character ſhould ſtand too long ſilent on the
+                     <lb/>Stage, to obviate that Inconvenience with Regard to Miranda,
+                     <lb/>clap'd this Speech to her Part.
+                     -->
+            
+            <pb/>
+                     <l>If thou neglect'ſt, or doſt unwillingly</l>
+                     <l>What I command, I'll rack thee with old cramps;</l>
+                     <l>Fill all thy bones with aches, make thee roar,</l>
+                     <l>That beaſts ſhall tremble at thy din.</l>
+                  </lg>
+               </sp>
+               <sp who="#cal">
+                  <speaker>Cal.</speaker>
+                  <lg>
+                     <l>No, 'pray thee.</l>
+                     <l>I muſt obey; his art is of ſuch pow'r,</l>
+                     <l>It would controul my dam's god Setebos,</l>
+                     <l>And make a vaſſal of him.</l>
+                  </lg>
+               </sp>
+               <sp who="#pro">
+                  <speaker>Pro.</speaker>
+                  <l>So, ſlave, hence!</l>
+               </sp>
+               <stage type="exit">[Exit Caliban.</stage>
+               
+               <stage type="mixed">Enter Ferdinand; and Ariel inviſible, playing and ſinging.</stage>
+            
+               <p>Ariel's Song.</p>
+               
+               <sp who="#ari">
+                  <lg>
+                     <l>Come unto theſe yellow ſands,</l>
+                     <l>And then take hands:</l>
+                     <l>Curt'ſied when you have, and kiſt</l>
+                     <l>The wild waves whiſt;</l>
+                     <l>Foot it featly here and there,</l>
+                     <l>And, ſweet ſprites, the burthen bear.</l>
+                     <!--"Burthen, diſperſedly." could be stage or a line?-->
+                     <l>Hark, hark, bough-waugh: the watch-dogs bark,</l>
+                     <l>Baugh waugh.</l>
+                   </lg>
+               </sp>
+               <sp who="#ari">
+                  <speaker>Ari.</speaker>
+                  <lg>
+                     <l>Hark, hark, I hear</l>
+                     <l>The ſtrain of ſtrutting chanticlere</l>
+                     <l>Cry, Cock-a-doodle-do.</l>
+                  </lg>
+               </sp>
+               <sp who="#fer">
+                  <speaker>Fer.</speaker>
+                  <lg>
+                     <l>Where ſhould this muſick be, i'th'air, or earth?—</l>
+                     <l>It ſounds no more: and, ſure, it waits upon</l>
+                     <l>Some God o'th' Iſland. Sitting on a bank,</l>
+                     <l>Weeping againſt the King my father's wreck,</l>
+                     <l>This muſick crept by me upon the waters;</l>
+                     <l>Allaying both their fury and my paſſion,</l>
+                     <l>With its ſweet air; thence I have follow'd it,</l>
+                     <l>Or it hath drawn me rather―but 'tis gone.</l>
+                     <l>No, it begins again.</l>
+                  </lg>
+               </sp>
+               
+               <p>Ariel's Song.</p>
+               
+               <lg>
+                  <l>Full fathom five thy father lies,</l>
+                  <l>Of his bones are coral made:</l>
+                  
+           <pb/>
+                  
+                  <l>Thoſe are pearls, that were his eyes;</l>
+                  <l>Nothing of him, that doth fade,</l>
+                  <l>But doth ſuffer a ſea-change,</l>
+                  <l>Into ſomething rich and ſtrange.</l>
+                  <l>Sea-nymphs hourly ring his knell.</l>
+                  <l>Hark, now I hear them, ding-dong, bell.</l>
+               </lg>
+               <stage type="business">[Burthen: ding-dong.</stage>
+               
+               <sp who="#fer">
+                  <speaker>Fer.</speaker>
+                  <lg>
+                     <l>The ditty does remember my drown'd father;</l>
+                     <l>This is no mortal buſineſs, nor no ſound</l>
+                     <l>That the earth owns: I hear it now above me.</l>
+                  </lg>
+               </sp>
+               <sp who="#pro">
+                  <speaker>Pro.</speaker>
+                  <lg>
+                     <l>The fringed curtains of thine eyes advance,</l>
+                     <l>And ſay, what thou ſeeſt yond.</l>
+                  </lg>
+               </sp>
+               <sp who="#mira">
+                  <speaker>Mira.</speaker>
+                  <lg>
+                     <l>What is't, a ſpirit?</l>
+                     <l>Lord, how it looks about! believe me, Sir,</l>
+                     <l>It carries a brave form. But 'tis a ſpirit.</l>
+                  </lg>
+               </sp>
+               <sp who="#pro">
+                  <speaker>Pro.</speaker>
+                  <lg>
+                     <l>No, wench, it eats, and ſleeps, and hath ſuch ſenses</l>
+                     <l>As we have, ſuch. This gallant, which thou ſeeſt,</l>
+                     <l>Was in the wreck: and, but he's ſomething ſtain'd</l>
+                     <l>With grief, (that's beauty's canker) thou might'ſt call him</l>
+                     <l>A goodly perſon. He hath loft his fellows,</l>
+                     <l>And ſtrays about to find 'em.</l>
+                  </lg>
+               </sp>
+               <sp who="#mira">
+                  <speaker>Mira.</speaker>
+                  <lg>
+                     <l>I might call him</l>
+                     <l>A thing divine; for nothing natural</l>
+                     <l>I ever ſaw ſo noble.</l>
+                  </lg>
+               </sp>
+               <sp who="#pro">
+                  <speaker>Pro.</speaker>
+                  <lg>
+                     <l>It goes on, I ſee,</l>
+                     <stage type="delivery">[Aside.</stage>
+                     <l>As my ſoul prompts it. Spirit, fine ſpirit, I'll free thee</l>
+                     <l>Within two days for this.</l>
+                  </lg>
+               </sp>
+               <sp who="#fer">
+                  <speaker>Fer.</speaker>
+                  <lg>
+                     <l>Moſt ſure, the Goddeſs</l>
+                     <l>On whom theſe ayres attend! vouchſafe, my pray'r</l>
+                     <l>May know, if you remain upon this Iſland;</l>
+                     <l>And that you will ſome good inſtruction give,</l>
+                     <l>How I may bear me here: my prime requeſt</l>
+                     <l>(Which I do laſt pronounce) is, O you wonder!</l>
+                     <l>If you be made or no?</l>
+                  </lg>
+               </sp>
+               <sp who="#mira">
+                  <speaker>Mira.</speaker>
+                  <lg>
+                     <l>No wonder, Sir,</l>
+                     <l>But certainly a maid.</l>
+                  </lg>
+               </sp>
+               <sp who="#fer">
+                  <speaker>Fer.</speaker>
+                  <lg>
+                     <l>My language! heav'ns!</l>
+                     <l>I am the beſt of them that ſpeak this ſpeech,</l>
+                     <l>Were I but where 'tis ſpoken.</l>
+                  </lg>
+               </sp>
+            
+            <pb/>
+               
+               <sp who="#pro">
+                  <speaker>Pro.</speaker>
+                  <lg>
+                     <l>How? the beſt?</l>
+                     <l>What wert thou, if the King of Naples heard thee?</l>
+                  </lg>
+               </sp>
+               <sp who="#fer">
+                  <speaker>Fer.</speaker>
+                  <lg>
+                     <l>A ſingle thing, as I am now, that wonders</l>
+                     <l>To hear thee ſpeak of Naples. He does hear me;</l>
+                     <l>And, that he does, I weep: my ſelf am Naples,</l>
+                     <l>Who, with mine eyes (ne'er ſince at ebb) beheld</l>
+                     <l>The King my father wreckt.</l>
+                  </lg>
+               </sp>
+               <sp who="#mira">
+                  <speaker>Mira.</speaker>
+                  <l>Alack, for mercy!</l>
+               </sp>
+               <sp who="#fer">
+                  <speaker>Fer.</speaker>
+                  <lg>
+                     <l>Yes, faith, and all his lords: the Duke of Milan,</l>
+                     <l>And his brave ſon, being twain. <!-- (6) footnote --></l>
+                  </lg>
+               </sp>
+               <sp who="#pro">
+                  <speaker>Pro.</speaker>
+                  <lg>
+                     <l>The Duke of Milan,</l>
+                     <l>And his more braver daughter, could contruol thee,</l>
+                     <l>If now 'twere fit to do't:―At the firſt ſight,</l>
+                     <l>They have chang'd eyes: (delicate Ariel,</l>
+                     <l>I'll ſet thee free for this.) A word, good Sir,</l>
+                     <l>I fear, you've done your ſelf ſome wrong: a word―</l>
+                  </lg>
+               </sp>
+               <sp who="#mira">
+                  <speaker>Mira.</speaker>
+                  <lg>
+                     <l>Why ſpeaks my father ſo urgently? this</l>
+                     <l>Is the third man, that I e'er ſaw; the firſt,</l>
+                     <l>That e'er I ſigh'd for. Pity move my father</l>
+                     <l>To be inclin'd my way!</l>
+                  </lg>
+               </sp>
+               <sp who="#fer">
+                  <speaker>Fer.</speaker>
+                  <lg>
+                     <l>O, if a Virgin,</l>
+                     <l>And your Affection not gone forth, I'll make you</l>
+                     <l>The Queen of Naples.</l>
+                  </lg>
+               </sp>
+               <sp who="#pro">
+                  <speaker>Pro.</speaker>
+                  <lg>
+                     <l>Soft, Sir; one word more.―</l>
+                     <l>They're both in either's power: but this ſwift buſineſs</l>
+                     <l>I muſt uneaſie make, left too light winning</l>
+                     <l>Make the prize light. Sir, one word more; I charge thee,</l>
+                     <l>That thou attend me:―thou doſt here uſurp</l>
+                     <l>Upon this Iſland, as a ſpy, to win it</l>
+                     <l>From me, the lord on't.</l>
+                  </lg>
+               </sp>
+               <sp who="#fer">
+                  <speaker>Fer.</speaker>
+                  <l>No, as I'm a man.</l>
+               </sp>
+               <!-- <p>
+                  <lb/>(6)―the Duke of Milan,
+                  <lb/>And his brave Son, being twain.] Here ſeems a ſlight
+                  <lb/>Forgetfulneſs in our Poet: No Body was loſt in this Wreck,
+                  <lb/>as is manifeſt from ſeveral Paſſages: and yet we have no ſuch
+                  <lb/>Character introduc'd in the Fable, as the Duke of Milan's Son.
+                  <lb/>No Doubt, in his firſt Plan he had mark's out ſuch a Character;
+                  <lb/>but, on ſecond Thought, found it enneceſſary.
+               </p> -->
+               
+            <pb/>
+               
+               <sp who="#mira">
+                  <speaker>Mira.</speaker>
+                  <lg>
+                     <l>There's nothing ill can dwell in ſuch a temple.</l>
+                     <l>If the ill ſpirit have ſo fair an houſe,</l>
+                     <l>Good things will ſtrive to dwell with't.</l>
+                  </lg>
+               </sp>
+               <sp who="#pro">
+                  <speaker>Pro.</speaker>
+                  <lg>
+                     <l>Follow me―</l>
+                     <l>Speak not you for him: he's a traitor. Come,</l>
+                     <l>I'll manacle thy neck and feet togehter;</l>
+                     <l>Sea-water ſhalt thou drink; thy food ſhall be</l>
+                     <l>The freſh-brook muſſels, wither'd roots, and husks</l>
+                     <l>Wherein the acorn cradled. Follow.</l>
+                  </lg>
+               </sp>
+               <sp who="#fer">
+                  <speaker>Fer.</speaker>
+                  <lg>
+                     <l>No,</l>
+                     <l>I will reſiſt ſuch entertainment, 'till</l>
+                     <l>Mine enemy has more power.</l>
+                  </lg>
+               </sp>
+               <stage type="business">[He draws and is charm'd from moving.</stage>
+               <sp who="#mira">
+                  <speaker>Mira.</speaker>
+                  <lg>
+                     <l>O dear father,</l>
+                     <l>Make not too raſh a tryal of him; for</l>
+                     <l>He's gentle, and not fearful.</l>
+                  </lg>
+               </sp>
+               <sp who="#pro">
+                  <speaker>Pro.</speaker>
+                  <lg>
+                     <l>What, I ſay,</l>
+                     <l>My foot my tutor? put thy ſword up, traitor,</l>
+                     <l>Who mak'ſt a ſhew, but dar'ſt not ſtrike; thy con-ſcience</l>
+                     <l>Is ſo poſſeſt with guilt: come from thy ward,</l>
+                     <l>For I can here diſarm thee with this ſtick,</l>
+                     <l>And make thy weapon drop.</l>
+                  </lg>
+               </sp>
+               <sp who="#mira">
+                  <speaker>Mira.</speaker>
+                  <l>Beſeech you, father.</l>
+               </sp>
+               <sp who="#pro">
+                  <speaker>Pro.</speaker>
+                  <l>Hence: hang not on my garment.</l>
+               </sp>
+               <sp who="#mira">
+                  <speaker>Mira.</speaker>
+                  <lg>
+                     <l>Sir, have pity;</l>
+                     <l>I'll be his ſurety.</l>
+                  </lg>
+               </sp>
+               <sp who="#pro">
+                  <speaker>Pro.</speaker>
+                  <lg>
+                     <l>Silence: one word more</l>
+                     <l>Shall make me chide thee, if not hate thee. What,</l>
+                     <l>An advocate for an impoſtor? huſh!</l>
+                     <l>Thou think'ſt, there are no more ſuch ſhapes as he,</l>
+                     <l>Hanving ſeen but him and Caliban; fooliſh wench!</l>
+                     <l>To th' moſt of men this is a Caliban,</l>
+                     <l>And they to him are angels.</l>
+                  </lg>
+               </sp>
+               <sp who="#mira">
+                  <speaker>Mira.</speaker>
+                  <lg>
+                     <l>My affections</l>
+                     <l>Are then moſt humble: I have no ambition</l>
+                     <l>To ſee a goodlier man.</l>
+                  </lg>
+               </sp>
+               <sp who="#pro">
+                  <speaker>Pro.</speaker>
+                  <lg>
+                     <l>Come on, obey;</l>
+                     <l>Thy nerves are in their infancy again,</l>
+                     <l>And have no vigour in them.</l>
+                  </lg>
+               </sp>
+            
+            <pb/>
+               
+               <sp who="#fer">
+                  <speaker>Fer.</speaker>
+                  <lg>
+                     <l>So they are:</l>
+                     <l>My ſpirits, as in a dream, are all bound up.</l>
+                     <l>My father's loſs, the weakneſs which I feel,</l>
+                     <l>The wreck of all my friends, and this man's threats,</l>
+                     <l>To whom I am ſubdu'd, were but light to me</l>
+                     <l>Might I but through my priſon once a day</l>
+                     <l>Behold this maid: all corners elſe o'th' earth</l>
+                     <l>Let liberty make uſe of; ſpace enough</l>
+                     <l>Have I, in ſuch a priſon.</l>
+                  </lg>
+               </sp>
+               <sp who="#pro">
+                  <speaker>Pro.</speaker>
+                  <lg>
+                     <l>It works: come on.</l>
+                     <l>(Thou haſt done well, fine Ariel:) follow me.</l>
+                     <l>Hark, what thou elſe ſhalt do me.</l>
+                  </lg>
+               </sp>
+               <stage type="delivery">[To Ariel.</stage>
+               <sp who="#mira">
+                  <speaker>Mira.</speaker>
+                  <lg>
+                     <l>Be of comfort,</l>
+                     <l>My father's of a better nature, Sir,</l>
+                     <l>Than he appears by ſpeech: this is unwonted,</l>
+                     <l>Which now came from him.</l>
+                  </lg>
+               </sp>
+               <sp who="#pro">
+                  <speaker>Pro.</speaker>
+                  <lg>
+                     <l>Thou ſhalt be as free</l>
+                     <l>As mountain winds; but then exactly do</l>
+                     <l>All points of my command.</l>
+                  </lg>
+               </sp>
+               <sp who="#ari">
+                  <speaker>Ari.</speaker>
+                  <l>To th' ſyllable.</l>
+               </sp>
+               <sp who="#pro">
+                  <speaker>Pro.</speaker>
+                  <l>Come, follow: ſpeak not for him.</l>
+               </sp>
+               <stage type="exit">[Exeunt.</stage>
             </div>
          </div>
+          
+         <div type="act">
+            <head>Act II.</head>
+            <div type="scene">
+               <stage type="location">Scene, Another Part of the Iſland.</stage>
+               <stage type="entrance"><lb/>Enter Alonſo, Sebaſtian, Anthonio, Gonzolo, 
+                  <lb/>Adrian, Franciſco, and others.</stage>
+               
+               <sp who="#gon">
+                  <speaker>Gonzalo.</speaker>
+                  <lg>
+                     <l></l>
+                  </lg>
+               </sp>
+            </div>
+         </div> 
      
         </body>
     </text>
