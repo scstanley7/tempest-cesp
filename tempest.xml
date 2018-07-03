@@ -612,7 +612,7 @@
                      <l>Good wombs have bore bad ſons. <!-- Footnote 4 --></l>
                   </lg>
                </sp>
-               <!-- Footnotes 3&4 
+               <!-- Footnotes 3 &amp 4 
                <lb/>(3) ―I ſhould ſin,
                <lb/>To think not nobly of my Grandmother;} This is Mr. Pope's
                <lb/>reading; from no Authority, I preſume: All the Copies that
@@ -1674,8 +1674,573 @@
                <sp who="#gon">
                   <speaker>Gonzalo.</speaker>
                   <lg>
-                     <l></l>
+                     <l>Beseech you, Sir, be merry: you have cauſe</l>
+                     <l>(So have we all) of joy! for our eſcape</l>
+                     <l>Is much beyond our loſs; our hint of woe</l>
+                     <l>Is common; every day, ſome ſailor's wife,</l>
+                     <l>The maſters of ſome merchant, and the merchant,</l>
+                     <l>Have juſt our theam of woe: but for the miracle,</l>
+            <pb/>
+                     <l>(I mean our preſervation) few in millions</l>
+                     <l>Can ſpeak like us: then wiſely, good Sir, weigh</l>
+                     <l>Our ſorrow with our comfort.</l>
                   </lg>
+               </sp>
+               <sp who="#alo">
+                  <speaker>Alon.</speaker>
+                  <l>Pr'ythee, peace. <!-- (footnote 7) --></l>
+               </sp>
+               <sp who="#seb">
+                  <speaker>Seb.</speaker>
+                  <l>He receives comfort like cold porridge.</l>
+               </sp>
+               <sp who="#ant">
+                  <speaker>Ant.</speaker>
+                  <l>The viſitor will not give o'er ſo.</l>
+               </sp>
+               <sp who="#seb">
+                  <speaker>Seb.</speaker>
+                  <l>Look, he's winding up the watch of his wit, by and by it will ſtrike.</l>
+               </sp>
+               <sp who="#gon">
+                  <speaker>Gon.</speaker>
+                  <l>Sir,―</l>
+               </sp>
+               <sp who="#seb">
+                  <speaker>Seb.</speaker>
+                  <l>One:― Tell,―</l>
+               </sp>
+               <sp who="#gon">
+                  <speaker>Gon.</speaker>
+                  <l>When every grief is entertain'd, that's offer'd; comes to the entertainer―</l>
+               </sp>
+               <sp who="#seb">
+                  <speaker>Seb.</speaker>
+                  <l>A dollar.</l>
+               </sp>
+               <sp who="#gon">
+                  <speaker>Gon.</speaker>
+                  <l>Dolour comes to him, indeed; you have ſpoken truer than you propos'd.</l>
+               </sp>
+              
+               <!--  <p>
+                  <lb/>(7) Alon. Pr'ythee, peace.] All that follows from hence to 
+                  <lb/>this ſpeech of the King's,
+                  <lb/>You cram theſe Words into my Ears againſt
+                  <lb/>The Stomach of my Senſe.
+                  <lb/>ſeems to Mr. Pope to have been an Interpolation by the Play-
+                  <lb/>ers. For my part, tho' I allow the Matter of the Dialogue to
+                  <lb/>be very poor and trivial, (of which, I am ſorry to ſay, we
+                  <lb/>don't want other Inſtances in our Poet;) I cannot be of this 
+                  <lb/>Gentleman's Opinion, that it is interpolated. For ſhould we
+                  <lb/>take out this intermediate Part, what would become of theſe
+                  <lb/>Words of the King?
+               </p>
+               <p>
+                  <lb/>―Would I had never
+                  <lb/>Married my Daughter there!
+               </p>
+               <p>
+                  <lb/>What Daughter? and where married? For it is from this inter-
+                  <lb/>mediate Part of the Scene only, that we are tols, the King had
+                  <lb/>a Daughter nam'd Claribel, whom he ad married into Tunis.
+                  <lb/>'Tis true, in a ſubſequent Scene, betwixt Antonio and Sebaſtian,
+                  <lb/>we again hear her and Tunis mention'd: but in ſuch a manner,
+                  <lb/>that it would be quite obſcure and unintelligible without this
+                  <lb/>previous Information. Mr. Pope's Criticiſm therefore is inju-
+                  <lb/>dicious and unweigh'd. Beſides, poor and jejune as the Mat-
+                  <lb/>ter of the Dialogue is, it was certainly deſign'd to be of a ri-
+                  <lb/>diculous Stamp; to divert and unſettle the King's Thoughts
+                  <lb/>from reflecting too deeply on his Son's ſuppos'd Drowning.
+               </p> -->
+               
+            <pb/>
+               
+               <sp who="#seb">
+                 <speaker>Seb.</speaker>
+                 <p>You should have taken it wiſelier than I meant you
+                    <lb/>ſhould.</p>
+               </sp>
+               <sp who="#gon">
+                 <speaker>Gon.</speaker>
+                 <p>Therefore, my lord,―</p>
+               </sp>
+               <sp who="#ant">
+                 <speaker>Ant.</speaker>
+                 <p>Fie, what a Therefore, my lord,―pend-thrift is he of his tongue?</p>
+               </sp> 
+               <sp who="#alo">
+                 <speaker>Alon.</speaker>
+                 <p>I pr'ythee, ſpare.―</p>
+               </sp> 
+               <sp who="#gon">
+                  <speaker>Gon.</speaker>
+                  <p>Well, I have done: but yet―</p>
+               </sp>
+               <sp who="#seb">
+                  <speaker>Seb.</speaker>
+                  <p>He will be talking.</p>
+               </sp>
+               <sp who="#ant">
+                  <speaker>Ant.</speaker>
+                  <p>Which of them, he, or Adrian, for a good
+                     <lb/>wager, firſt begins to crow?</p>
+               </sp>
+               <sp who="#seb">
+                  <speaker>Seb.</speaker>
+                  <p>The old cock.</p>
+               </sp>
+               <sp who="#ant">
+                  <speaker>Ant.</speaker>
+                  <p>The cockrel.</p>
+               </sp>
+               <sp who="#seb">
+                  <speaker>Seb.</speaker>
+                  <p>Done: the wager?</p>
+               </sp>
+               <sp who="#ant">
+                  <speaker>Ant.</speaker>
+                  <p>A laughter.</p>
+               </sp>
+               <sp who="#seb">
+                  <speaker>Seb.</speaker>
+                  <p>A match.</p>
+               </sp>
+               <sp who="#adr">
+                  <speaker>Adr.</speaker>
+                  <p>Though this iſland ſeem to be deſart―</p>
+               </sp>
+               <sp who="#seb">
+                  <speaker>Seb.</speaker>
+                  <p>Ha, ha, ha,―So, you're paid.</p>
+               </sp>
+               <sp who="#adr">
+                  <speaker>Adr.</speaker>
+                  <p>Uninhabitable, and almoſt inacceſſible―</p>
+               </sp>
+               <sp who="#seb">
+                  <speaker>Seb.</speaker>
+                  <p>Yet,―</p>
+               </sp>
+               <sp who="#adr">
+                  <speaker>Adr.</speaker>
+                  <p>Yet―</p>
+               </sp>
+               <sp who="#ant">
+                  <speaker>Ant.</speaker>
+                  <p>He could not miſs't.</p>
+               </sp>
+               <sp who="#adr">
+                  <speaker>Adr.</speaker>
+                  <p>It muſt needs be of ſubtle, tender, and delicate
+                  <lb/>temperance.</p>
+               </sp>
+               <sp who="#ant">
+                  <speaker>Ant.</speaker>
+                  <p>Temperance was a delicate wench.</p>
+               </sp>
+               <sp who="#seb">
+                  <speaker>Seb.</speaker>
+                  <p>Ay, and a ſubtle, as he moſt learnedly deliver'd.</p>
+               </sp>
+               <sp who="#adr">
+                  <speaker>Adr.</speaker>
+                  <p>The air breathes upon us here moſt ſweetly.</p>
+               </sp>
+               <sp who="#seb">
+                  <speaker>Seb.</speaker>
+                  <p>As if it had lungs, and rotten ones.</p>
+               </sp>
+               <sp who="#ant">
+                  <speaker>Ant.</speaker>
+                  <p>Or, as 'twere perfum'd by a fen.</p>
+               </sp>
+               <sp who="#gon">
+                  <speaker>Gon.</speaker>
+                  <p>Here is every thing advantageous to life.</p>
+               </sp>
+               <sp who="#ant">
+                  <speaker>Ant.</speaker>
+                  <p>True, ſave means to live.</p>
+               </sp>
+               <sp who="#seb">
+                  <speaker>Seb.</speaker>
+                  <p>Of that there's none or little.</p>
+               </sp>
+               <sp who="#gon">
+                  <speaker>Gon.</speaker>
+                  <p>How luſh and luſty the graſs looks? how green?</p>
+               </sp>
+               <sp who="#ant">
+                  <speaker>Ant.</speaker>
+                  <p>The ground indeed is tawny.</p>
+               </sp>
+               <sp who="#seb">
+                  <speaker>Seb.</speaker>
+                  <p>With an eye of green in't.</p>
+               </sp>
+               <sp who="#ant">
+                  <speaker>Ant.</speaker>
+                  <p>He miſſes not much.</p>
+               </sp>
+               <sp who="#seb">
+                  <speaker>Seb.</speaker>
+                  <p>No: he does but miſtake the truth totally.</p>
+               </sp>
+               <sp who="#gon">
+                  <speaker>Gon.</speaker>
+                  <p>
+                     <lb/>But the rarity of it is, which is indeed almoſt
+                     <lb/>beyond credit―
+                  </p>
+               </sp>
+               <sp who="#seb">
+                  <speaker>Seb.</speaker>
+                  <p>As many voucht rarities are.</p>
+               </sp>
+               <sp who="#gon">
+                  <speaker>Gon.</speaker>
+                  <p>
+                     <lb/>That our garments being (as they were) drench'd
+                     <lb/>in the ſea, hold notwithſtanding their freſhneſs and
+                    
+           <pb/>         
+                     
+                     <lb/>gloſſes; being rather new dy'd, than ſtain'd with ſalt
+                     <lb/>water.
+                  </p>
+               </sp>
+               <sp who="#ant">
+                  <speaker>Ant.</speaker>
+                  <p>
+                     <lb/>If but one of his pockets could ſpeak, would it
+                     <lb/>not ſay, he lies?
+                  </p>
+               </sp>
+               <sp who="#seb">
+                  <speaker>Seb.</speaker>
+                  <p>Ay, or very falſely pocket up his report.</p>
+               </sp>
+               <sp who="#gon">
+                  <speaker>Gon.</speaker>
+                  <p>
+                     <lb/>Methinks, our garments are now as freſh as when
+                     <lb/>we put them on firſt in Africk, at the marriage of the
+                     <lb/>King's fair daughter Claribel to the King of Tunis.
+                  </p>
+               </sp>
+               <sp who="#seb">
+                  <p>
+                     <lb/>'Twas a ſweet marriage, and we proſper well in
+                     <lb/>our return.
+                  </p>
+               </sp>
+               <sp who="#adr">
+                  <speaker>Adr.</speaker>
+                  <p>
+                     <lb/>Tunis was never grac'd before with ſuch a para-
+                     <lb/>gon to their Queen.
+                  </p>
+               </sp>
+               <sp who="#gon">
+                  <speaker>Gon.</speaker>
+                  <p>Not ſince widow Dido's time.</p>
+               </sp>
+               <sp who="#ant">
+                  <speaker>Ant.</speaker>
+                  <p>
+                     <lb/>Widow, a pox o' that: how came that widow
+                     <lb/>in? widow Dido!
+                  </p>
+               </sp>
+               <sp who="#seb">
+                  <speaker>Seb.</speaker>
+                  <p>
+                     <lb/>What if he had ſaid, widower Aeneas too?
+                     <lb/>Good lord, how you take it!
+                  </p>
+               </sp>
+               <sp who="#adr">
+                  <speaker>Adr.</speaker>
+                  <p>
+                     <lb/>Widow Dido, ſaid you? you make me ſtudy of
+                     <lb/>that: ſhe was of Carthage, not of Tunis.
+                  </p>
+               </sp>
+               <sp who="#gon">
+                  <speaker>Gon.</speaker>
+                  <p>This Tunis, Sir, was Carthage.</p>
+               </sp>
+               <sp who="#adr">
+                  <speaker>Adr.</speaker>
+                  <p>Carthage?</p>
+               </sp>
+               <sp who="#gon">
+                  <speaker>Gon.</speaker>
+                  <p>I aſſure you, Carthage.</p>
+               </sp>
+               <sp who="#ant">
+                  <speaker>Ant.</speaker>
+                  <p>His word is more than the miraculous harp.</p>
+               </sp>
+               <sp who="#seb">
+                  <speaker>Seb.</speaker>
+                  <p>He hath rais'd the wall, and houſes too.</p>
+               </sp>
+               <sp who="#ant">
+                  <speaker>Ant.</speaker>
+                  <p>What impoſſible matter will he make eaſy next?</p>
+               </sp>
+               <sp who="#seb">
+                  <speaker>Seb.</speaker>
+                  <p>
+                     <lb/>I think, he will carry this iſland home in his
+                     <lb/>pocket, and give it his ſon an apple.
+                  </p>
+               </sp>
+               <sp who="#ant">
+                  <speaker>Ant.</speaker>
+                  <p>
+                     <lb/>And ſowing the kernels of it in the ſea, bring
+                     <lb/>forth more iſlands.
+                  </p>
+               </sp>
+               <sp who="#gon">
+                  <speaker>Gon.</speaker>
+                  <p>Ay.</p>
+               </sp>
+               <sp who="#ant">
+                  <speaker>Ant.</speaker>
+                  <p>Why, in good time.</p>
+               </sp>
+               <sp who="#gon">
+                  <speaker>Gon.</speaker>
+                  <p>
+                     <lb/>Sir, we were talking, that our garments ſeem
+                     <lb/>now as freſh, as when we were at Tunis at the marriage
+                     <lb/>of your daughter, who is now Queen.
+                  </p>
+               </sp>
+               <sp who="#ant">
+                  <speaker>Ant.</speaker>
+                  <p>And the rareſt that e'er came there.</p>
+               </sp>
+               <sp who="#seb">
+                  <speaker>Seb.</speaker>
+                  <p>Bate, I beſeech you, widow Dido.</p>
+               </sp>
+               <sp who="#ant">
+                  <speaker>Ant.</speaker>
+                  <p>O, widow Dido! ay, widow Dido!</p>
+               </sp>
+               <sp who="#gon">
+                  <speaker>Gon.</speaker>
+                  <p>
+                     <lb/>Is not my doublet, Sir, as freſh as the firſt day
+                     <lb/>I wore it? I mean, in a ſort.
+                  </p>
+               </sp>
+               <sp who="#ant">
+                  <speaker>Ant.</speaker>
+                  <p>That ſort was well fiſh'd for.</p>
+               </sp>
+               
+           <pb/>
+               
+               <sp who="#gon">
+                  <speaker>Gon.</speaker>
+                  <p>When I wore it at your daughter's marriage.</p>
+               </sp>
+               <sp who="#alo">
+                  <speaker>Alon.</speaker>
+                  <lg>
+                     <l>You cram theſe words into mine ears againſt</l>
+                     <l>The ſtomach of my ſenſe. Would I had never</l>
+                     <l>Married my daughter there! For, coming thence,</l>
+                     <l>My ſon is loſt; and, in my rate, ſhe too;</l>
+                     <l>Who is ſo far from Italy remov'd,</l>
+                     <l>I ne'er again ſhall ſee her: O thou mine heir</l>
+                     <l>Of Naples and of Milan, what ſtrange fiſh</l>
+                     <l>Hath made his meal on thee?</l>
+                  </lg>
+               </sp>
+               <sp who="#fran">
+                  <speaker>Fran.</speaker>
+                  <lg>
+                     <l>Sir, he may live.</l>
+                     <l>I ſaw him beat the ſurges under him,</l>
+                     <l>And ride upon their backs; he trod the water;</l>
+                     <l>Whoſe enmity he flung aſide, and breaſted</l>
+                     <l>The ſurge moſt ſwoln that met him: his bold head</l>
+                     <l>'Bove the contentious waves he kept, and oar'd</l>
+                     <l>Himſelf with his good arms in luſty ſtrokes</l>
+                     <l>To th' ſhore; that o'er his wave-worn baſis bow'd,</l>
+                     <l>As ſtooping to relieve him: I not doubt,</l>
+                     <l>He came alive to land.</l>
+                  </lg>
+               </sp>
+               <sp who="#alo">
+                  <speaker>Alon.</speaker>
+                  <p>No, no, he's gone.</p>
+               </sp>
+               <sp who="#seb">
+                  <speaker>Seb.</speaker>
+                  <lg>
+                     <l>Sir, you may thank youſelf for this great loſs.</l>
+                     <l>That would not bleſs our Europe with your daughter,</l>
+                     <l>But rather loſe her to an African;</l>
+                     <l>Where ſhe, at leaſt, is baniſh'd from your eye,</l>
+                     <l>Who hath cauſe to wet the grief on't.</l>
+                  </lg>
+               </sp>
+               <sp who="#alo">
+                  <speaker>Alon.</speaker>
+                  <p>Pr'ythee, peace.</p>
+               </sp>
+               <sp who="#seb">
+                  <speaker>Seb.</speaker>
+                  <lg>
+                     <l>You were kneel'd to, and importun'd otherwiſe</l>
+                     <l>By all of us; and the fair ſoul herſelf</l>
+                     <l>Weigh'd between lothneſs and obedience, at</l>
+                     <l>Which end the beam ſhould bow. We've loſt you ſon,</l>
+                     <l>O fear, for ever: Milan and Naples have</l>
+                     <l>More widows in them of this buſineſs' making,</l>
+                     <l>Than we bring men to comfort them:</l>
+                     <l>The fault's your own.</l>
+                  </lg>
+               </sp>
+               <sp who="#alo">
+                  <speaker>Alon.</speaker>
+                  <p>So is the deareſt o' th' loſs.</p>
+               </sp>
+               <sp who="#gon">
+                  <speaker>Gon.</speaker>
+                  <lg>
+                     <l>My lord Sebaſtian,</l>
+                     <l>The truth, you ſpeak, doth lack ſome gentleneſs,</l>
+                     <l>And time to ſpeak it in: you rub the ſore,</l>
+                     <l>When you ſhould bring the plaiſter.</l>
+                  </lg>
+               </sp>
+               <sp who="#seb">
+                  <speaker>Seb.</speaker>
+                  <p>Very well.</p>
+               </sp>
+               <sp who="#ant">
+                  <speaker>Ant.</speaker>
+                  <p>And moſt chirurgeonly.</p>
+               </sp>
+               <sp who="#gon">
+                  <speaker>Gon.</speaker>
+                  <p>
+                     <lb/>It is foul weather in us all, good Sir,
+                     <lb/>When you are cloudy.
+                  </p>
+               </sp>
+               <sp who="#seb">
+                  <speaker>Seb.</speaker>
+                  <p>Foul weather?</p>
+               </sp>
+               <sp who="#ant">
+                  <speaker>Ant.</speaker>
+                  <p>Very foul.</p>
+               </sp>
+               <sp who="#gon">
+                  <speaker>Gon.</speaker>
+                  <p>Had I the plantation of this iſle, my lord―</p>
+               </sp>
+               <sp who="#ant">
+                  <speaker>Ant.</speaker>
+                  <p>He'd ſow 't with nettle-ſeed.</p>
+               </sp>
+               <sp who="#seb">
+                  <speaker>Seb.</speaker>
+                  <p>Or docks, or mallows.</p>
+               </sp>
+               <sp who="#gon">
+                  <speaker>Gon.</speaker>
+                  <p>And were the King on't, what would I do?</p>
+               </sp>
+               <sp who="#seb">
+                  <speaker>Seb.</speaker>
+                  <p>Scape being drunk, for want of wine.</p>
+               </sp>
+               <sp who="#gon">
+                  <speaker>Gon.</speaker>
+                  <lg>
+                     <l>I' th' commonwealth, I would by contraries</l>
+                     <l>Execute all things: for no kind of traffick</l>
+                     <l>Would I admit; no name of magiſtrate;</l>
+                     <l>Letters ſhould not be known; wealth, poverty,</l>
+                     <l>And uſe of ſervice, none; contract, ſucceſſion</l>
+                     <l>Bourn, bound of land, tilth, vineyard, none;</l>
+                     <l>No uſe of metal, corn, or wine, or oyl;</l>
+                     <l>No occupation, all men idel, all,</l>
+                     <l>And women too; but innocent and pure:</l>
+                     <l>No Sov'reignty.</l>
+                  </lg>
+               </sp>
+               <sp who="#seb">
+                  <speaker>Seb.</speaker>
+                  <p>And yet he would be King on't.</p>
+               </sp>
+               <sp who="#ant">
+                  <speaker>Ant.</speaker>
+                  <p>The latter end of his commonwealth forgets the 
+                     <lb/>beginning.</p>
+               </sp>
+               <sp who="#gon">
+                  <speaker>Gon.</speaker>
+                  <lg>
+                     <l>All things in common nature ſhould produce,</l>
+                     <l>Without ſweat or endeavour. Treaſon, felony,</l>
+                     <l>Sword, pike, knife, gun, or need of any engine,</l>
+                     <l>Would I not have; but nature ſhould bring forth,</l>
+                     <l>Of its own kind, all foyzon, all abundance</l>
+                     <l>To feed my innocent people.</l>
+                  </lg>
+               </sp>
+               <sp who="#seb">
+                  <speaker>Seb.</speaker>
+                  <p>No marrying 'mong his ſubjects?</p>
+               </sp>
+               <sp who="#ant">
+                  <speaker>Ant.</speaker>
+                  <p>None, man; all idle; whores and knaves.</p>
+               </sp>
+               <sp who="#gon">
+                  <speaker>Gon.</speaker>
+                  <p>I would with ſuch perfection govern, Sir,
+                  <lb/>T' excel the golden age.</p>
+               </sp>
+               <sp who="#seb">
+                  <speaker>Seb.</speaker>
+                  <p>Save his Majeſty!</p>
+               </sp>
+               <sp who="#ant">
+                  <speaker>Ant.</speaker>
+                  <p>Long live Gonzalo!</p>
+               </sp>
+               <sp who="#gon">
+                  <speaker>Gon.</speaker>
+                  <p>And, do you mark me, Sir?</p>
+               </sp>
+               <sp who="#alo">
+                  <speaker>Alon.</speaker>
+                  <p>Pr'ythee, no more; thou doſt talk nothing to
+                  <lb/>me.</p>
+               </sp>
+               <sp who="#gon">
+                  <speaker>Gon.</speaker>
+                  <p>
+                     <lb/>I do well believe your Highneſs; and did it to
+                     <lb/>miniſter occaſion to theſe gentlemen, who are of ſuch
+                     
+            <pb/>
+                     <lb/>ſenſible and nimble lungs, that they always uſe to laugh
+                     <lb/>at nothing.
+                  </p>
                </sp>
             </div>
          </div> 
