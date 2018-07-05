@@ -2242,7 +2242,798 @@
                      <lb/>at nothing.
                   </p>
                </sp>
+               <sp who="#ant">
+                  <speaker>Ant.</speaker>
+                  <p>'Twas you we laugh'd at.</p>
+               </sp>
+               <sp who="#gon">
+                  <speaker>Gon.</speaker>
+                  <p>
+                     <lb/>Who, in this kind of merry fooling, am nothing
+                     <lb/>to you: ſo you may continue, and laugh at nothing
+                     <lb/>ſtill.
+                  </p>
+               </sp>
+               <sp who="#ant">
+                  <speaker>Ant.</speaker>
+                  <p>What a blow was there given?</p>
+               </sp>
+               <sp who="#seb">
+                  <speaker>Seb.</speaker>
+                  <p>An it had not fallen flat-long.</p>
+               </sp>
+               <sp who="#gon">
+                  <speaker>Gon.</speaker>
+                  <p>
+                     <lb/>You are gentlemen of brave metal; you would 
+                     <lb/>lift the moon out of her ſphere, if ſhe would continue in
+                     <lb/>it five weeks without changing.
+                  </p>
+               </sp>
+               <stage type="mixed">Enter Ariel, playing ſolemn Muſick.</stage>
+               <sp who="#seb">
+                  <speaker>Seb.</speaker>
+                  <p>We would ſo, and then go a bat-fowling.</p>
+               </sp>
+               <sp who="#ant">
+                  <speaker>Ant.</speaker>
+                  <p>Nay, my good lord, be not angry.</p>
+               </sp>
+               <sp who="#gon">
+                  <speaker>Gon.</speaker>
+                  <p>
+                     <lb/>No, I warrant you, I will not adventure my diſ-
+                     <lb/>cretion ſo weekly: will you laugh me aſleep, for I am
+                     <lb/>very heavy?
+                  </p>
+               </sp>
+               <sp who="#ant">
+                  <speaker>Ant.</speaker>
+                  <p>Go, ſleep, and hear us.</p>
+               </sp>
+            <!-- rest of page may or may not be verse lines; one character 
+               seems to complete the other's verse line?-->
+               <sp who="#alo">
+                  <speaker>Alon.</speaker>
+                  <lg>
+                     <l>What all ſo ſoon aſleep? I wiſh, mine eyes</l>
+                     <l>Would with themſelves ſhut up my thoughts: I find,</l>
+                     <l>They are inclin'd to do ſo.</l>
+                  </lg>
+               </sp>
+               <sp who="#seb">
+                  <speaker>Seb.</speaker>
+                  <lg>
+                     <l>Pleaſe you, Sir,</l>
+                     <l>Do not omit the eavy offer of it:</l>
+                     <l>It ſeldom viſits ſorrow; when it doth,</l>
+                     <l>It is a comforter.</l>
+                  </lg>
+               </sp>
+               <sp who="#ant">
+                  <speaker>Ant.</speaker>
+                  <lg>
+                     <l>We two, my lord,</l>
+                     <l>Will guard you perſon, while you take your reſt,</l>
+                     <l>And watch your ſafety.</l>
+                  </lg>
+               </sp>
+               <sp who="#alo">
+                  <speaker>Alon.</speaker>
+                  <l>Thank you: wond'rous heavy―</l>
+               </sp>
+               <stage type="business">[All ſleep but Seb. and Ant.</stage>
+               <sp who="#seb">
+                  <speaker>Seb.</speaker>
+                  <p>What a ſtrange drowſineſs poſſeſſes them?</p>
+               </sp>
+               <sp who="#ant">
+                  <speaker>Ant.</speaker>
+                  <p>It is the quality o' th' climate.</p>
+               </sp>
+               <sp who="#seb">
+                  <speaker>Seb.</speaker>
+                  <p>
+                     <lb/>Why
+                     <lb/>Doth it not then our eye-lids ſink? I find not
+                     <lb/>Myſelf diſpos'd to ſleep.
+                  </p>
+               </sp>
+               <sp who="#ant">
+                  <speaker>Ant.</speaker>
+                  <lg>
+                     <l>Nor I, my ſpirits are nimble:</l>
+                     <l>They fell together all as by conſent,</l>
+                     <l>They dropt as by a thunder-ſtroke. What might,</l>
+                     <l>Worthy Sebaſtian―O, what might―no more.</l>
+            
+            <pb/>
+                     <!-- Again, some lines appear to be verse while others are not -->
+                     <l>And yet, methinks, I ſee it in thy face,</l>
+                     <l>What thou ſhould'ſt be: th' occaſion ſpeaks thee, and</l>
+                     <l>My ſtrong imagination ſees a crown</l>
+                     <l>Dropping upon thy head.</l>
+                  </lg>
+               </sp>
+               <sp who="#seb">
+                  <speaker>Seb.</speaker>
+                  <l>What, art thou waking?</l>
+               </sp>
+               <sp who="#ant">
+                  <speaker>Ant.</speaker>
+                  <l>Do you not hear me ſpeak?</l>
+               </sp>
+               <sp who="#seb">
+                  <speaker>Seb.</speaker>
+                  <lg>
+                     <l>I do; and, surely,</l>
+                     <l>It is a ſleepy language; and thou ſpeak'ſt</l>
+                     <l>Out of thy ſleeo: what is it thou didſt ſay?</l>
+                     <l>This is a ſtrange repoſe, to be aſleep</l>
+                     <l>With eyes wide open: ſtanding, ſpeaking, moving;</l>
+                     <l>And yet ſo faſt aſleep.</l>
+                  </lg>
+               </sp>
+               <sp who="#ant">
+                  <speaker>Ant.</speaker>
+                  <lg>
+                     <l>Noble Sebaſtian,</l>
+                     <l>Thou let'ſt thy fortune ſleep: die rather: wink'ſt,</l>
+                     <l>Whilſt thou art waking.</l>
+                  </lg>
+               </sp>
+               <sp who="#seb">
+                  <speaker>Seb.</speaker>
+                  <p>
+                     <lb/>Thou doſt ſnore diſtinctly;
+                     <lb/>There's meaning in they ſnores.
+                  </p>
+               </sp>
+               <sp who="#ant">
+                  <speaker>Ant.</speaker>
+                  <lg>
+                     <l>I am more ſerious than my cuſtom. You</l>
+                     <l>Muſt be ſo too, if heed me; which to do,</l>
+                     <l>Trebles thee o'er. <!-- (8) footnote --></l>
+                  </lg>
+               </sp>
+               <sp who="#seb">
+                  <speaker>Seb.</speaker>
+                  <l>Well: I am ſtanding water.</l>
+               </sp>
+               <sp who="#ant">
+                  <speaker>Ant.</speaker>
+                  <l>I'll teach you how to flow.</l>
+               </sp>
+               <sp who="#seb">
+                  <speaker>Seb.</speaker>
+                  <lg>
+                     <l>Do ſo: to ebb</l>
+                     <l>Hereditary ſloth inſtructs me.</l>
+                  </lg>
+               </sp>
+               <sp who="#ant">
+                  <speaker>Ant.</speaker>
+                  <lg>
+                     <l>O!</l>
+                     <l>If you but knew, how you the purpoſe cheriſh,</l>
+                     <l>Whilſt thus you mock it: how, in ſtripping it,</l>
+                     <l>You more inveſt it, ebbing men, indeed,</l>
+                     <l>Moſt often do ſo near the bottom run,</l>
+                     <l>By their own fear or ſloth.</l>
+                  </lg>
+               </sp>
+               <sp who="#seb">
+                  <speaker>Seb.</speaker>
+                  <lg>
+                     <l>Prr'thee, ſay on;</l>
+                     <l>The ſetting of thine eye and cheek proclaim</l>
+            
+            <!-- <p> 
+               <lb/>(8) Trebles thee o'er.] i.e. makes thee thrice what thou now 
+               <lb/>art. Thus the two firſt Folio's, and all the other Impreſſions
+               <lb/>of any Authority, that I have ſeen, exhibit the Text: and the
+               <lb/>Phraſe is familiar both to our Poet, and other Stage-Writers
+               <lb/>of his Time.
+            </p>
+            <p>
+               <lb/>Troubles thee o'er―is a fooliſh Reading, which, I believe,
+               <lb/>firſt got Birth in Mr. Pope's two Editions of our Poet; and,
+               <lb/>I dare ſay, will lie buried there in a proper Obſcurity.
+            </p>  -->       
+           
+            <pb/>
+                     <l>A matter from thee; and a birth, indeed,</l>
+                     <l>Which throes thee much to yield.</l>
+                  </lg>
+               </sp>
+               <sp who="#ant">
+                  <speaker>Ant.</speaker>
+                  <lg>
+                     <l>Thus, Sir:</l>
+                     <l>Although this lord of weak remembrance, this,</l>
+                     <l>(Who ſhall be of as little memory,</l>
+                     <l>When he is earth'd;) hath here almoſt perſuaded</l>
+                     <l>(For he's a ſpirit of perſuaſion, only</l>
+                     <l>Profeſſes to perſuade) the King, his ſon's alive;</l>
+                     <l>'Tis as impoſſible that he's undrown'd,</l>
+                     <l>As he, that ſleeps here, ſwims.</l>
+                  </lg>
+               </sp>
+               <sp who="#seb">
+                  <speaker>Seb.</speaker>
+                  <lg>
+                     <l>I have no hope,</l>
+                     <l>That he's undrown'd.</l>
+                  </lg>
+               </sp>
+               <sp who="#ant">
+                  <speaker>Ant.</speaker>
+                  <lg>
+                     <l>O, out of that no hope,</l>
+                     <l>What great hope have you? no hope, that way, is</l>
+                     <l>Another way ſo high an hope, that even</l>
+                     <l>Ambition cannot pierce a wink beyond,</l>
+                     <l>But doubt diſcovery there. Will you grant, with me,</l>
+                     <l>That Ferdinand is drown'd?</l>
+                  </lg>
+               </sp>
+               <sp who="#seb">
+                  <speaker>Seb.</speaker>
+                  <l>He's gone.</l>
+               </sp>
+               <sp who="#ant">
+                  <speaker>Ant.</speaker>
+                  <lg>
+                     <l>Then tell me</l>
+                     <l>Who's the next heir of Naples?</l>
+                  </lg>
+               </sp>
+               <sp who="#seb">
+                  <speaker>Seb.</speaker>
+                  <l>Claribel.</l>
+               </sp>
+               <sp who="#ant">
+                  <speaker>Ant.</speaker>
+                  <lg>
+                     <l>She that is Queen of Tunis; ſhe that dwells</l>
+                     <l>Ten leagues beyond man's life; ſhe that from Naples</l>
+                     <l>Can have no note, unleſs the ſun were poſt,</l>
+                     <l>(The man i' the' moon's too ſlow) 'till new-born chins</l>
+                     <l>Be rough and razorable; ſhe, from whom</l>
+                     <l>We were ſea-ſwallowed; tho' ſome, caſt again,</l>
+                     <l>May by that deſtiny perform an act,</l>
+                     <l>Whereof, what's paſt is prologue; what to come,</l>
+                     <l>Is yours and my diſcharge―</l>
+                  </lg>
+               </sp>
+               <sp who="#seb">
+                  <speaker>Seb.</speaker>
+                  <lg>
+                     <l>What ſtuff is this? how ſay you?</l>
+                     <l>'Tis true, my brother's daughter's Queen of Tunis,</l>
+                     <l>So is ſhe heir of Naples; 'twixt which regions</l>
+                     <l>There is ſome ſpace.</l>
+                  </lg>
+               </sp>
+               <sp who="#ant">
+                  <speaker>Ant.</speaker>
+                  <lg>
+                     <l>A ſpace, whoſe ev'ry cubit</l>
+                     <l>Seems to cry out, how ſhall that Claribel</l>
+                     <l>Meaſure us back to Naples? Keep in Tunis,</l>
+                     <l>And let Sebaſtian wake. Say, this were death</l>
+                     <l>That now hath ſeiz'd them, why, they were no worſe</l>
+                     
+            <pb/>
+                     <l>Than now they are: there be, that can rule Naples,</l>
+                     <l>As well as he that ſleeps; lords that can prate</l>
+                     <l>As amply, an unneceſſarily,</l>
+                     <l>As this Gonzalo; I myſelf could make</l>
+                     <l>A chough of as deep chat. O, that you bore</l>
+                     <l>The mind that I do; what a ſleep was this</l>
+                     <l>For your advancement! do you underſtand me?</l>
+                  </lg>
+               </sp>
+               <sp who="#seb">
+                  <speaker>Seb.</speaker>
+                  <l>Methinks, I do.</l>
+               </sp>
+               <sp who="#ant">
+                  <speaker>Ant.</speaker>
+                  <lg>
+                     <l>And how does your content</l>
+                     <l>Tender your own good fortune?</l>
+                  </lg>
+               </sp>
+               <sp who="#seb">
+                  <speaker>Seb.</speaker>
+                  <lg>
+                     <l>I remember,</l>
+                     <l>You did ſupplant your brother Proſp'ro.</l>
+                  </lg>
+               </sp>
+               <sp who="#ant">
+                  <speaker>Ant.</speaker>
+                  <lg>
+                     <l>True:</l>
+                     <l>And, look, how well my garments ſit upon me;</l>
+                     <l>Much feater than before. My brother's ſervants</l>
+                     <l>Were then my fellows, now they are my men.</l>
+                  </lg>
+               </sp>
+               <sp who="#seb">
+                  <speaker>Seb.</speaker>
+                  <l>But, for your conſcience―</l>
+               </sp>
+               <sp who="#ant">
+                  <speaker>Ant.</speaker>
+                  <lg>
+                     <l>Ay, Sir: where lyes that?</l>
+                     <l>If 'twere a kybe, 'twould put me to my ſlipper:</l>
+                     <l>But I feel not this deity in my boſom.</l>
+                     <l>Ten conſciences, that ſtand 'twixt me and Milan,</l>
+                     <l>Candy'd be they, and melt, e'er they moleſt!</l>
+                     <l>Here lyes your brother―</l>
+                     <l>No better than the earth he lyes upon,</l>
+                     <l>If he were that which now he's like, that's dead;</l>
+                     <l>Whom I with this obedient ſteel, three inches of it,</l>
+                     <l>Can lay to bed for ever: you doing thus,</l>
+                     <l>To the perpetual wink for ay might put</l>
+                     <l>This ancient Morſel, this Sir Prudence, who</l>
+                     <l>Should not upbraid our courſe. For all the reſt,</l>
+                     <l>They'll take ſuggeſtion, as a cat laps milk:</l>
+                     <l>They'll tell the clock to any buſineſs, that,</l>
+                     <l>We ſay, befits the hour.</l>
+                  </lg>
+               </sp>
+               <sp who="#seb">
+                  <speaker>Seb.</speaker>
+                  <lg>
+                     <l>Thy caſe, dear friend,</l>
+                     <l>Shall be my precedent: as thou got'ſt Milan,</l>
+                     <l>I'll come by Naples. Draw thy ſword; one ſtroke</l>
+                     <l>Shall free thee from the tribute which thou pay'ſt;</l>
+                     <l>And I the King ſhall love thee.</l>
+                  </lg>
+               </sp>
+               <sp who="#ant">
+                  <speaker>Ant.</speaker>
+                  <lg>
+                     <l>Draw together:</l>
+                     <l>And when I rear my hand, do you the like</l>
+                     
+            <pb/>
+                     <l>To fall it on Gonzalo.</l>
+                  </lg>
+               </sp>
+               <sp who="#seb">
+                  <speaker>Seb.</speaker>
+                  <l>O, but one word―</l>
+               </sp>
+               
+               <stage type="entrance">Enter Ariel, with Muſick and Song.</stage>
+               <sp who="#ari">
+                  <speaker>Ari.</speaker>
+                  <lg>
+                     <l>My maſter through his art foreſees the danger,</l>
+                     <l>That you, his friend, are in; and ſends me forth</l>
+                     <l>(For elſe his project dies) to keep them living.</l>
+                  </lg>
+               <stage type="delivery">[Sings in Gonzalo's Ear.</stage>
+                  <lg type="song">
+                     <l>While you here do ſnoring lye,</l>
+                     <l>Open-ey'd conſpiracy</l>
+                     <l>His time doth take:</l>
+                     <l>If of life you keep a care,</l>
+                     <l>Shake off ſlumber and beware:</l>
+                     <l>Awake! Awake!</l>
+                  </lg>
+               </sp>
+               <sp who="#ant">
+                  <speaker>Ant.</speaker>
+                  <p>Then let ue both be ſudden.</p>
+               </sp>
+               <sp who="#gon">
+                  <speaker>Gon.</speaker>
+                  <p>Now, good angles preſerve the King!</p>
+               </sp>
+               <stage type="business">[They wake.</stage>
+               <sp who="#alo">
+                  <speaker>Alon.</speaker>
+                  <lg>
+                     <l>Why, how now, ho? awake? why are you 
+                     <lb/>drawn</l>
+                     <l>Wherefore this ghastly looking?</l>
+                  </lg>
+               </sp>
+               <sp who="#gon">
+                  <speaker>Gon.</speaker>
+                  <l>What's the matter?</l>
+               </sp>
+               <sp who="#seb">
+                  <speaker>Seb.</speaker>
+                  <lg>
+                     <l>While we ſtood here ſecuring your repoſe,</l>
+                     <l>Ev'n now we heard a hollow burſt of bellowing</l>
+                     <l>Like bulls, or rather lions; did't not wake you?</l>
+                     <l>It ſtrook mine ear moſt terribly.</l>
+                  </lg>
+               </sp>
+               <sp who="#alo">
+                  <speaker>Alon.</speaker>
+                  <l>I heard nothing.</l>
+               </sp>
+               <sp who="#ant">
+                  <speaker>Ant.</speaker>
+                  <lg>
+                     <l>O, 'twas a din to fright a monſter's ear;</l>
+                     <l>To make an earthquake: ſure, it was the roar</l>
+                     <l>Of a whole herd of lions.</l>
+                  </lg>
+               </sp>
+               <sp who="#alo">
+                  <speaker>Alon.</speaker>
+                  <l>Heard you this?</l>
+               </sp>
+               <sp who="#gon">
+                  <speaker>Gon.</speaker>
+                  <lg>
+                     <l>Upon my honour, Sir, I heard a humming,</l>
+                     <l>And that a ſtrange one too, which did awake me.</l>
+                     <l>I ſhak'd you, Sir, and cry'd; as mine eyes open'd,</l>
+                     <l>That's verity. 'Tis beſt we ſtand on guard;</l>
+                     <l>Or that we quit this place: let's draw our weapons.</l>
+                  </lg>
+               </sp>
+               <sp who="#alo">
+                  <speaker>Alon.</speaker>
+                  <lg>
+                     <l>Lead off this ground, and let's make further 
+                     <lb/>search</l>
+                     <l>For my poor ſon.</l>
+                  </lg>
+               </sp>
+               <sp who="#gon">
+                  <speaker>Gon.</speaker>
+                  <lg>
+                     <l>Heav'ns keep him from theſe beaſts!</l>
+                     <l>For he is, ſure, i' th' iſland.</l>
+                  </lg>
+               </sp>
+            
+            <pb/>
+               <sp who="#alo">
+                  <speaker>Alon.</speaker>
+                  <l>Lead away.</l>
+               </sp>
+               <sp who="#ari">
+                  <speaker>Ari.</speaker>
+                  <lg>
+                     <l>Proſpero my lord ſhall know what I have done.</l>
+                     <l>So, King, go ſafely on to ſeek thy ſon.</l>
+                  </lg>
+               </sp>
+               <stage type="exit">[Exeunt.</stage>
             </div>
+          
+            <div type="scene">
+               <stage type="location">Scene changes to another part of the Iſland.</stage>
+               <stage type="mixed">Enter Caliban with a burden of wood; a noiſe of thunder
+               <lb/>heard.</stage>
+               
+               <sp who="#cal">
+                  <speaker>Cal.</speaker>
+                  <lg>
+                     <l>All the infections, that the ſun ſucks up</l>
+                     <l>From bogs, fens, flats, on Proſper fall, and
+                     <lb/>make him</l>
+                     <l>By inch-meal a diſeasſe! his ſpirits hear me,</l>
+                     <l>And yet I needs muſt curſe. But they'll not pinch,</l>
+                     <l>Fright me with urchin ſhews, pitch me i' th' mire,</l>
+                     <l>Nor lead me, like a fire-brand, in the dark</l>
+                     <l>Out of my way, unleſs he bid 'em; but</l>
+                     <l>For every trifle are they ſet upon me.</l>
+                     <l>Sometimes like apes, that moe and chatter at me,</l>
+                     <l>And after bite me; then like hedge-hogs, which</l>
+                     <l>Lye tumbling in my bare-foot way, and mount</l>
+                     <l>Their pricks at my foot-fall; ſometime am I</l>
+                     <l>All wound with adders, who with cloven tongues</l>
+                     <l>Do hiſs me into madneſs. Lo! now! lo!</l>
+                     
+                  <stage type="entrance">Enter Trinculo.</stage>   
+                     <l>Here comes a ſpi'rit of his, and to torment me</l>
+                     <l>For bringing wood in ſlowly. I'll fall flat;</l>
+                     <l>Perchance, he will not mind me.</l>
+                  </lg>
+               </sp>
+               <sp who="#tri">
+                  <speaker>Trin.</speaker>
+                  <p>
+                     <lb/>Here's neither buſh nor ſhrub to bear off any
+                     <lb/>weather at all, and another ſtorm brewing; I hear it
+                     <lb/>ſing i' th' wind: yond ſame black cloud, yond huge
+                     <lb/>one,<!-- (9) -->looks like a foul bumbard that would ſhed his
+                     
+                     <!--<p>
+                     <lb/>(9) Looks like a foul Bumbard.] This Term again occurs in
+                     <lb/>the firſt Part of Henr IV.―that ſwoln Parcel of Dropſies,
+                     <lb/>that huge Bumbard of Sack―and again in Henr. VIII. And
+                     <lb/>here you lie baiting of Bumbards, when Ye ſhould do Service. By
+                     <lb/>theſe ſeveral Paſſages, 'tis plain, the Word meant in thoſe
+                     <lb/>Days a large Veſſel for holding Drink, as well as the Piece of
+                     <lb/>Ordnance ſo call'd
+                  </p> -->
+            <pb/>  
+                     <lb/>liquor. If it ſhould thunder as it did before, I know
+                     <lb/>not where to hide my head: yond ſame cloud cannot
+                     <lb/>chuſe but fall by pailfuls―What have we here, a
+                     <lb/>man or a fiſh? dead or alive? a fiſh; he ſmells like a
+                     <lb/>fiſh: a very ancient and fiſh-like ſmell. A kind of,
+                     <lb/>not of the neweſt, Poor John: a ſtrange fiſh! Were I
+                     <lb/>in England now, as once I was, and had but this fiſh
+                     <lb/>painted, not an holiday-fool there but would give a piece
+                     <lb/>of ſilver. There would this monſter make a man; any
+                     <lb/>ſtrange beaſt there makes a man; when they will not
+                     <lb/>give a doit to relieve a lame beggar, they will lay out
+                     <lb/>ten to ſee a dead Indian. Legg'd like a man! and his
+                     <lb/>fins like arms! warm, o'my troth! I do now let looſe
+                     <lb/>my opinion, hold it no longer, this is no fiſh, but an
+                     <lb/>Iſlander that hath lately ſuffer'd by a thunder-bolt. Alas!
+                     <lb/>the ſtorm is come again. My belt way is to creep un-
+                     <lb/>der his baberdine: there is no other ſhelter hereabout;
+                     <lb/>miſery acquaints a man with ſtrange bed-fellows: I will
+                     <lb/>here ſhrowd, 'till the dregs of the ſtorm be paſt.
+                  </p>
+               </sp>
+               
+               <stage type="mixed">Enter Stephano, ſinging.</stage>
+               
+               <sp who="#ste">
+                  <speaker>Ste.</speaker>
+                  <p>
+                     <lb/>I ſhall no more to ſea, to ſea, here ſhall I die a-ſhore.
+                     <lb/>This is a very ſcurvy tune to ſing at a man's funeral;
+                     <lb/>well, here's my comfort.
+                  </p>
+                  <stage type="business">[Drinks.</stage>
+                  <stage type="delivery">Sings.</stage>
+                  <lg type="song">
+                     <l>The maſter, the ſwabber, the boatſwain and I,</l>
+                     <l>The gunner, and his mate,</l>
+                     <l>Lov'd Mall, Meg, and Marrian, and Margery,</l>
+                     <l>But none of us car'd for Kate;</l>
+                     <l>For ſhe had a tongue with a tang,</l>
+                     <l>Would cry to a ſailor, go hang:</l>
+                     <l>She lov'd not the favour of tar nor of pitch,</l>
+                     <l>Yet a taylor might ſcratch her, where'e'er ſhe did itch.</l>
+                     <l>Then to ſea, boys, and let her go hang.</l>
+                  </lg>
+                  <p>This is a ſcurvy tune too; but here's my comfort.</p>
+               </sp>
+               <stage type="business">[Drinks.</stage>
+               <sp who="#cal">
+                  <speaker>Cal.</speaker>
+                  <p>Do not torment me, oh!</p>
+               </sp>
+               <sp who="#ste">
+                  <speaker>Ste.</speaker>
+                  <p>
+                     <lb/>What's the matter? have we devils here? do you
+                     <lb/>put tricks upon's with ſalvages, and men of Inde? ha?
+                     <lb/>I have not ſcap'd drowning, to be afraid now of your
+                     <lb/>four legs; for it hath been ſaid, As proper a man, as
+                     
+            <pb/>
+                     <lb/>ever went upon four legs, cannot make him give ground;
+                     <lb/>and it ſhall be ſaid ſo again, while Stephano breathes
+                     <lb/>at his noſtrils.
+                  </p>
+               </sp>
+               <sp who="#cal">
+                  <speaker>Cal.</speaker>
+                  <p>The ſpirit torments me: oh!</p>
+               </sp>
+               <sp who="#ste">
+                  <speaker>Ste.</speaker>
+                  <p>
+                     <lb/>This is ſome monſter of the iſle with four legs,
+                     <lb/>who has got, as I take it, an ague: where the devil
+                     <lb/>ſhould he learn our language? I will give him ſome re-
+                     <lb break="no"/>lief, if it be but for that: if I can recover him, and
+                     <lb/>keep him tame, and get to Naples with him, he's a
+                     <lb/>preſent for any Emperor that ever trod on neats-leather.
+                  </p>
+               </sp>
+               <sp who="#cal">
+                  <speaker>Cal.</speaker>
+                  <p>
+                     <lb/>Do not torment me, p'rythee; I'll bring my
+                     <lb/>wood home faſter.
+                  </p>
+               </sp>
+               <sp who="#ste">
+                  <speaker>Ste.</speaker>
+                  <p>
+                     <lb/>He's in his fit now; and does not talk after the
+                     <lb/>wiſeſt: he ſhall taſte of my bottle. If he never drunk
+                     <lb/>wine afore, it will go near to remove his fit; if I can
+                     <lb/>recover him, and keep him tame, I will not take too 
+                     <lb/>much for him: he ſhall pay for him, that hath him,
+                     <lb/>and that ſoundly.
+                  </p>
+               </sp>
+               <sp who="#cal">
+                  <speaker>Cal.</speaker>
+                  <p>
+                     <lb/>Thou doſt me yet but little hurt; thou wilt
+                     <lb/>anon, I know it, by thy trembling: now Proſper works
+                     <lb/>upon thee.
+                  </p>
+               </sp>
+               <sp who="#ste">
+                  <speaker>Ste.</speaker>
+                  <p>
+                     <lb/>Come on your ways; open your mouth; here is
+                     <lb/>that which will give language to you, Cat; open your
+                     <lb/>mouth: this will ſhake your ſhaking, I can tell you, 
+                     <lb/>and that ſoundly: you cannot tell who's your friend;
+                     <lb/>open your chaps again.
+                  </p>
+               </sp>
+               <sp who="#tri">
+                  <speaker>Trin.</speaker>
+                  <p>
+                     <lb/>I ſhould know that voice: it ſhould be―
+                     <lb/>but he is drown'd; and theſe  are devils; O! defend
+                     <lb/>me―
+                  </p>
+               </sp>
+               <sp who="#ste">
+                  <speaker>Ste.</speaker>
+                  <p>
+                     <lb/>Four legs and two voices; a moſt delicate mon-
+                     <lb break="no"/>ſter! his forwad voice now is to ſpeak well of his friend;
+                     <lb/>his backward voice now is to ſpatter foul ſpeeches, and to de-
+                     <lb/>tract. If all the wine in my bottle will recover him,
+                     <lb/>I will help his ague: come: Amen! I will pour ſome
+                     <lb/>in thy other mouth.
+                  </p>
+               </sp>
+               <sp who="#tri">
+                  <speaker>Trin.</speaker>
+                  <p>Stephano,――</p>
+               </sp>
+               <sp who="#ste">
+                  <speaker>Ste.</speaker>
+                  <p>
+                     <lb/>Doth thy other mouth call me? mercy! mercy!
+                     <lb/>this is a devil, and no monſter: I will leave him; I 
+                     <lb/>have no long ſpoon.
+                  </p>
+               </sp>
+               <sp who="#tri">
+                  <speaker>Trin.</speaker>
+                  <p>
+                     <lb/>Stephano! if thou beeſt Stephano, touch me, and
+                     
+            <pb/>
+                     <lb/>ſpeak to me; for I am Trinculo; be not afraid, thy good
+                     <lb/>friend Tinculo.
+                  </p>
+               </sp>
+               <sp who="#ste">
+                  <speaker>Ste.</speaker>
+                  <p>
+                     <lb/>If thou beeſt Trinculo, come forth, I'll pull thee
+                     <lb/>by the leſſer legs: if any be Trinculo's legs, theſe are
+                     <lb/>they. Thou art very Trinculo, indeed: how cam'st thou
+                     <lb/>to be the ſiege of this moon-calf? can he vent Trinculo's!
+                  </p>
+               </sp>
+               <sp who="#tri">
+                  <speaker>Trin.</speaker>
+                  <p>
+                     <lb/>I took him to be kill'd with a thunder-ſtroke:
+                     <lb/>but art thou not drown'd, Stephano? I hope now, thou
+                     <lb/>art not drown'd: is the ſtorm over-blown? I hid me un-
+                     <lb/>der the dead moon-calf's gaberdine for fear of the ſtorm:
+                     <lb/>and art thou living, Stephano? O Stephano, two Neapo-
+                     <lb break="no"/>litans ſcap'd!
+                  </p>
+               </sp>
+               <sp who="#ste">
+                  <speaker>Ste.</speaker>
+                  <p>
+                     <lb/>Pr'ythee, do not turn me about, my ſtomach is
+                     <lb/>not conſtant.
+                  </p>
+               </sp>
+               <sp who="#cal">
+                  <speaker>Cal.</speaker>
+                  <p>
+                     <lb/>Theſe be fine things, an if they be not ſprights:
+                     <lb/>that's a brave god, and bears celeſtial liquor: I will
+                     <lb/>kneel to him.
+                  </p>
+               </sp>
+               <sp who="#ste">
+                  <speaker>Ste.</speaker>
+                  <p>
+                     <lb/>How didſt thou ſcape? how can'ſt thou hither?
+                     <lb/>ſwear, by this bottle, how thou cam'ſt hither: I eſcap'd
+                     <lb/>upon a butt of ſack, which the ſailors heav'd over-board,
+                     <lb/>by this bottle! which I made of the bark of a tree,
+                     <lb/>with mine own hands, ſince I was caſt a-ſhore.
+                  </p>
+               </sp>
+               <sp who="#cal">
+                  <speaker>Cal.</speaker>
+                  <p>
+                     <lb/>I'll ſwear upon that bottle, to be thy true ſub-
+                     <lb break="no"/>ject; for the liquor is not earthly.
+                  </p>
+               </sp>
+               <sp who="#ste">
+                  <speaker>Ste.</speaker>
+                  <p>Here: ſwear then, how eſcap'dſt thou?</p>
+               </sp>
+               <sp who="#tri">
+                  <speaker>Trin.</speaker>
+                  <p>
+                     <lb/>Swom a-ſhore, man, like a duck; I can ſwim
+                     <lb/>like a duck, I'll be ſworn.
+                  </p>
+               </sp>
+               <sp who="#ste">
+                  <speaker>Ste.</speaker>
+                  <p>
+                     <lb/>Here, kiſs the book. Though thou can'ſt ſwim
+                     <lb/>like a duck, thou art made like a gooſe.
+                  </p>
+               </sp>
+               <sp who="#tri">
+                  <speaker>Trin.</speaker>
+                  <p>O Stephano haſt any more of this?</p>
+               </sp>
+               <sp who="#ste">
+                  <speaker>Ste.</speaker>
+                  <p>
+                     <lb/>The whole butt, man: my cellar is in a rock by
+                     <lb/>th' ſea-ſide, where my wine is hid. How now, moon-
+                     <lb break="no"/>calf, how does thine ague?
+                  </p>
+               </sp>
+               <sp who="#cal">
+                  <speaker>Cal.</speaker>
+                  <p>Haſt thou not dropt from heav'n?</p>
+               </sp>
+               <sp who="#ste">
+                  <speaker>Ste.</speaker>
+                  <p>
+                     <lb/>Out o'th' moon, I do aſſure thee. I was the
+                     <lb/>man in th' moon, when time was.
+                  </p>
+               </sp>
+               <sp who="#cal">
+                  <speaker>Cal.</speaker>
+                  <p>
+                     <lb/>I have ſeen thee in her; and I do adore thee:
+                     <lb/>my miſtreſs ſhew'd me thee, and thy dog and thy buſh.
+                  </p>
+               </sp>
+               <sp who="#ste">
+                  <speaker>Ste.</speaker>
+                  <p>
+                     <lb/>Come, ſwear to that; kiſs the book: I will fur-
+                     <lb break="no"/>niſh it anon with new contents: ſwear.
+                  </p>
+               </sp>
+               
+            <pb/>
+               
+            </div>
+        
          </div> 
      
         </body>
