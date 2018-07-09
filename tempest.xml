@@ -3032,9 +3032,776 @@
                
             <pb/>
                
+               <sp who="#tri">
+                  <speaker>Trin.</speaker>
+                  <p>
+                     <lb/>By this good light, this is a very ſhallow mon-
+                     <lb break="no"/>ſter: I afraid of him? a very ſhallow monſter: the
+                     <lb/>man i'th' moon?―a moſt poor credulous monſter:
+                     <lb/>well drawn, monſter, in good ſooth.
+                  </p>
+               </sp>
+               <sp who="#cal">
+                  <speaker>Cal.</speaker>
+                  <p>
+                     <lb/>I'll ſhew thee every fertile inch o'th' Iſle, and
+                     <lb/>I will kiſs thy foot: I pr'ythee, be my god.                        
+                  </p>
+               </sp>
+               <sp who="#tri">
+                  <speaker>Trin.</speaker>
+                  <p>
+                     <lb/>By this light, a moſt perſidious and drunken
+                     <lb/>monſter; when his god's aſleep, he'll rob his bottle.
+                  </p>
+               </sp>
+               <sp who="#cal">
+                  <speaker>Cal.</speaker>
+                  <p>I'll kiſs thy foot. I'll ſwear my ſelf thy ſubject.</p>
+               </sp>
+               <sp who="#ste">
+                  <speaker>Ste.</speaker>
+                  <p>Come on then; down, and ſwear.</p>
+               </sp>
+               <sp who="#tri">
+                  <speaker>Trin.</speaker>
+                  <p>
+                     <lb/>I ſhall laugh my ſelf to death at this puppy-
+                     <lb/>headed monſter: a moſt ſcurvy monſter! I could find in
+                     <lb/>my heart to beat him―
+                  </p>
+               </sp>
+               <sp who="#ste">
+                  <speaker>Ste.</speaker>
+                  <p>Come, kiſs.</p>
+               </sp>
+               <sp who="#tri">
+                  <speaker>Trin.</speaker>
+                  <p>
+                     <lb/>―But that the poor monſter's in drink: an a-
+                     <lb break="no"/>bominable monſter!
+                  </p>
+               </sp>
+               <sp who="#cal">
+                  <speaker>Cal.</speaker>
+                  <lg>
+                     <l>I'll ſhew thee the beſt ſprings; I'll pluck thee
+                     <lb/>berries,</l>
+                     <l>I'll fiſh for thee, and get thee wood enough.</l>
+                     <l>A plague upon the tyrant that I ſerve!</l>
+                     <l>I'll bear him no more ſticks, but follow thee,</l>
+                     <l>Thou wond'rous man.</l>
+                  </lg>
+               </sp>
+               <sp who="#tri">
+                  <speaker>Trin.</speaker>
+                  <p>
+                     <lb/>A moſt ridiculous monſter, to make a wonder
+                     <lb/>of a poor drunkard.
+                  </p>
+               </sp>
+               <sp who="#cal">
+                  <speaker>Cal.</speaker>
+                  <lg>
+                     <l>I pr'ythee, let me bring thee where crabs grow;</l>
+                     <l>And I with my long nails will dig thee pig-nuts;</l>
+                     <l>Shew thee a jay's neſt, and inſtruct thee how</l>
+                     <l>To ſnare the nimble marmazet; I'll bring thee</l>
+                     <l>To cluſt'ring filberds, and ſometimes I'll get thee</l>
+                     <l><!-- (10) -->Young Shamois from the rock. Wilt thou go with me?</l>
+                  </lg>
+               </sp>
+               
+              <!-- <p>
+                  <lb/>(10) Young Scamels from the Rock.] I can no where elſe meet
+                  <lb/>with ſuch a Word as Scamel, which has poſſeſs'd all the Edi
+                  <lb break="no"/>tions. Shakespeare muſt certainly either have wrote Shamois
+                  <lb/>i.e. young kids: or Sea-malls. The Sea-mall, or Sea-mell, or
+                  <lb/>Sea-mew (according to Willoughby,) is that Bird, which is call'd
+                  <lb/>Larus cinereus minor; it feeds upon Fiſh, and frequents the
+                  <lb/>Banks of Lakes. It is not impoſſible, but our Poet might here
+                  <lb/>intend this Bird. Or, again, (and which comes near to Scamel,
+                  <lb/>in the Traces of the Letters.) Ray tells us of another Bird, call'd
+               </p> -->
+               
+            <pb/>
+               <sp who="#ste">
+                  <speaker>Ste.</speaker>
+                  <p>
+                     <lb/>I pr'ythee now, lead the way without any more
+                     <lb/>talking. Trinculo, the King and all our company elſe
+                     <lb/>being drown'd, we will inherit here. Here, bear my
+                     <lb/>bottle; fellow Trinculo, we'll fill him by and by again.
+                  </p>
+               </sp>
+               <sp who="#cal">
+                  <speaker>Cal.</speaker>
+                  <stage type="delivery">[Sings drunkenly.]</stage>
+                  <l>Farewel, maſter; farewel,
+                  <lb/>farewel.</l>
+               </sp>
+               <sp who="#tri">
+                  <speaker>Trin.</speaker>
+                  <p>A howling monſter; a drunken monſster.</p>
+               </sp>
+               <sp who="#cal">
+                  <speaker>Cal.</speaker>
+                  <lg>
+                     <l>No more dams I'll make for fiſh,</l>
+                     <l>Nor fetch in firing at requiring,</l>
+                     <l>Nor ſcrape trencher, nor waſh diſh,</l>
+                     <l>Ban' Ban', Cacalyban</l>
+                     <l>Has a new maſter, get a new man.</l>
+                  </lg>
+                  <l>Freedom, hey-day! hey-day, freedom! freedom, hey-
+                  <lb/>day, freedom!</l>
+               </sp>
+               <sp who="#ste">
+                  <speaker>Ste.</speaker>
+                  <p>O brave monſter, lead the way.</p>
+               </sp>
+               <stage type="exit">[Exeunt.</stage>
+               
+               <!--<p>
+                  <lb/>the Stannel, of the Hawk Species. It is no Matter which of
+                  <lb/>the three Readings we embrace, ſo we take a Word ſignifying
+                  <lb/>the Name of ſomething in Nature.
+               </p> -->
             </div>
-        
-         </div> 
+        </div>
+          
+        <div type="act">
+           <head>Act III.</head>
+           <div type="scene">
+              <stage type="location">Scene, before Proſpero's Cell.</stage>
+              <stage type="mixed">Enter Ferdinand, bearing a log.</stage>
+              
+              <sp who="#fer">
+                 <speaker>Ferdinand.</speaker>
+                 <lg>
+                    <l>There be ſome ſports are painful, but their
+                    <lb/>labour</l>
+                    <l>Delight in them ſets off: ſome kinds of baſeneſs</l>
+                    <l>Are nobly undergone, and moſt poor matters</l>
+                    <l>Point to rich ends. This my mean task wou'd be</l>
+                    <l>As heavy to me, as 'tis odious: but</l>
+                    <l>The miſtreſs, which I ſerve, quickens what's dead,</l>
+                    <l>And makes my labours pleaſures: O, ſhe is</l>
+                    <l>Ten times more gentle, than her father's crabbed;</l>
+                    <l>And he's compos'd of harſhneſs. I muſt move</l>
+                    <l>Some thouſands of theſe logs, and pile them up,</l>
+                    <l>Upon a ſore Injunction. My ſweet miſtreſs</l>
+                
+           <pb/>
+                    <l>Weeps when ſhe ſees me work, and ſays, ſuch baſeneſs</l>
+                    <l>Had ne'er like executer; I forget;</l>
+                    <l>But theſe ſweet thoughts do ev'n refreſh my labour,</l>
+                    <l>Moſt buſie-;leſs, when I do it. <!-- (11) --></l>
+                 </lg>
+              </sp>
+              
+              <stage type="entrance">Enter Miranda; and Proſpero, at a diſtance unſeen.</stage>
+              
+              <sp who="#mira">
+                 <speaker>Mira.</speaker>
+                 <lg>
+                    <l>Alas, now, pray you,</l>
+                    <l>Work not ſo hard; I would the lightning had</l>
+                    <l>Burnt up thoſe logs, that thou'rt enjoin'd to pile:</l>
+                    <l>Pray, ſet it down and reſt you; when this burns,</l>
+                    <l>'Twill weep for having wearied you: my father</l>
+                    <l>Is hard at ſtudy; pray now, reſt your ſelf;</l>
+                    <l>He's ſafe for theſe three hours.</l>
+                 </lg>
+              </sp>
+              <sp who="#fer">
+                 <speaker>Fer.</speaker>
+                 <lg>
+                    <l>O moſt dear miſtreſs,</l>
+                    <l>The fun will ſet before I ſhall diſcharge</l>
+                    <l>What I muſt ſtrive to do.</l>
+                 </lg>
+              </sp>
+              <sp who="#mira">
+                 <speaker>Mira.</speaker>
+                 <lg>
+                    <l>If you'll ſit down,</l>
+                    <l>I'll bear your logs the while. Pray, give me that;</l>
+                    <l>I'll carry't to the pile.</l>
+                 </lg>
+              </sp>
+              <sp who="#fer">
+                 <speaker>Fer.</speaker>
+                 <lg>
+                    <l>No, precious creature,</l>
+                    <l>I'ad rather crack my ſinews, break my back,</l>
+                    <l>Than you ſhould ſuch diſhonour undergo,</l>
+                    <l>While I ſit lazy by.</l>
+                 </lg>
+              </sp>
+              <sp who="#mira">
+                 <speaker>Mira.</speaker>
+                 <lg>
+                    <l>It would become me,</l>
+                    <l>As well as it does you; and I ſhould do it</l>
+                    <l>With much more eaſe; for my good will is to it,</l>
+                    <l>And yours it is againſt.</l>
+                 </lg>
+              </sp>
+              <sp who="#pro">
+                 <speaker>Pro.</speaker>
+                 <lg>
+                    <l>Poor worm! thou art infected;</l>
+                    <l>This viſitation ſhews it.</l>
+                 </lg>
+              </sp>
+              <sp who="#mira">
+                 <speaker>Mira.</speaker>
+                 <l>You look wearily.</l>
+              </sp>
+              <sp who="#fer">
+                 <speaker>Fer.</speaker>
+                 <lg>
+                    <l>No, noble miſtreſs; 'tis freſh morning with me,</l>
+                    <l>When you are by at night. I do beſeech you,</l>
+                    <!--
+              <p>
+                 <lb/>(11) Leaſt buſie when I do it.] This Reading, I preſume, to
+                 <lb/>be Mr. Pope's; for I do not find it authoriz'd by the Copies:
+                 <lb/>The two firſt Folio's read:
+                 <lb/>Moſt buſy leaſt, when I do it.
+                 <lb/>'Tis true, this Reading is corrupt; but the Corruption is ſo very
+                 <lb/>little remov'd from the Truth of the Text, that I can't afford
+                 <lb/>to think well of my own Sagacity for having diſcover'd it.
+              </p> -->
+           <pb/>   
+                    <l>(Chiefly that I might ſet it in my prayers)</l>
+                    <l>What is your name?</l>
+                 </lg>
+              </sp>
+              <sp who="#mira">
+                 <speaker>Mira.</speaker>
+                 <lg>
+                    <l>Miranda. O my father,</l>
+                    <l>I've broke your heſt to ſay ſo.</l>
+                 </lg>
+              </sp>
+              <sp who="#fer">
+                 <speaker>Fer.</speaker>
+                 <lg>
+                    <l>Admir'd Miranda!</l>
+                    <l>Indeed, the top of admiration; worth</l>
+                    <l>What's deareſt to the world! full many a lady</l>
+                    <l>I've ey'd with beſt regard, and many a time</l>
+                    <l>Th' harmony of their tongues hath into bondage</l>
+                    <l>Brought my too diligent ear; for ſeveral virtues</l>
+                    <l>Have I lik'd ſeveral women, never any</l>
+                    <l>With ſo full ſoul, but ſome defect in her</l>
+                    <l>Did quarrel with the nobleſt grace ſhe ow'd,</l>
+                    <l>And put it to the foil. But you, O you,</l>
+                    <l>So perfect, and ſo peerleſs, are created</l>
+                    <l>Of every creature's beſt.</l>
+                 </lg>
+              </sp>
+              <sp who="#mira">
+                 <speaker>Mira.</speaker>
+                 <lg>
+                    <l>I do not know</l>
+                    <l>One of my ſex; no woman's face remember,</l>
+                    <l>Save from my glaſs mine own; nor have I ſeen</l>
+                    <l>More that I may call men, than you, good friend,</l>
+                    <l>And my dear father; how features are abroad,</l>
+                    <l>I'm skilleſs of; but, by my modeſty,</l>
+                    <l>(The jewel in my dower) I would not wiſh</l>
+                    <l>Any companion in the world but you;</l>
+                    <l>Nor can imagination form a ſhape,</l>
+                    <l>Beſides you ſelf, to like of. But I prattle</l>
+                    <l>Something too wildly, and my father's precepts</l>
+                    <l>I therein do forget.</l>
+                 </lg>
+              </sp>
+              <sp who="#fer">
+                 <speaker>Fer.</speaker>
+                 <lg>
+                    <l>I am, in my condition,</l>
+                    <l>A Prince, Miranda; I do think, a King;</l>
+                    <l>(I would, not ſo!) and would no more endure</l>
+                    <l>This wooden ſlavery, than I would ſuffer</l>
+                    <l>The flevh-flie blow my mouth. Hear my ſoul ſpeak;</l>
+                    <l>The very inſtant that I ſaw you, did</l>
+                    <l>My heart fly to your ſervice, there reſides</l>
+                    <l>To make me ſlave to it, and for your ſake</l>
+                    <l>Am I this patient log-man.</l>
+                 </lg>
+              </sp>
+              <sp who="#mira">
+                 <p>Do you love me?</p>
+              </sp>
+              <sp who="#fer">
+                 <speaker>Fer.</speaker>
+                 <lg>
+                    <l>O heav'n, O earth, bear witneſs to this ſound,</l>
+                    <l>And crown what I profeſs with kind event,</l>
+                    
+           <pb/>
+                    <l>If I ſpeak true nollowly, invert</l>
+                    <l>What beſt is boa me, to miſchief! I,</l>
+                    <l>Beyond all limit of what elſe i'th' world,</l>
+                    <l>Do love, prize, honour you.</l>
+                 </lg>
+              </sp>
+              <sp who="#mira">
+                 <speaker>Mira.</speaker>
+                 <lg>
+                    <l>I am a fool,</l>
+                    <l>To weep at what I'm glad of.</l>
+                 </lg>
+              </sp>
+              <sp who="#pro">
+                 <speaker>Pro.</speaker>
+                 <lg>
+                    <l>Fair encounter</l>
+                    <l>Of two moſt rare affections! heav'ns rain grace,</l>
+                    <l>On that which breeds between 'em!</l>
+                 </lg>
+              </sp>
+              <sp who="#fer">
+                 <speaker>Fer.</speaker>
+                 <l>Wherefore weep you?</l>
+              </sp>
+              <sp who="#mira">
+                 <speaker>Mira.</speaker>
+                 <lg>
+                    <l>At mine unworthineſs, that dare not offer,</l>
+                    <l>What I deſire to give; and much leſs take,</l>
+                    <l>What I ſhall die to want: but this is trifling;</l>
+                    <l>And all the more it ſeeks to hide it ſelf,</l>
+                    <l>The bigger bulk it ſhews. Hence, baſhful cunning;</l>
+                    <l>And prompt me, plain and holy innocence.</l>
+                    <l>I am your wife, if you will marry me;</l>
+                    <l>If not, I'll die your maid: to be your fellow</l>
+                    <l>You may deny me; but I'll be your ſervant,</l>
+                    <l>Whether you will or no.</l>
+                 </lg>
+              </sp>
+              <sp who="#fer">
+                 <speaker>Fer.</speaker>
+                 <lg>
+                    <l>My miſtreſs, dearesſt,</l>
+                    <l>And I thus humble ever.</l>
+                 </lg>
+              </sp>
+              <sp who="#mira">
+                 <speaker>Mira.</speaker>
+                 <l>My husband then?</l>
+              </sp>
+              <sp who="#fer">
+                 <speaker>Fer.</speaker>
+                 <lg>
+                    <l>Ay, with a heart as willing</l>
+                    <l>As bondage e'er of freedom; here's my hand.</l>
+                 </lg>
+              </sp>
+              <sp who="#mira">
+                 <speaker>Mira.</speaker>
+                 <lg>
+                    <l>And mine, with my heart in't; and now farewel,</l>
+                    <l>Till half an hour hence.</l>
+                 </lg>
+              </sp>
+              <sp who="#fer">
+                 <speaker>Fer.</speaker>
+                 <l>A thouſand, thouſand.</l>
+              </sp>
+              <stage type="exit">[Exuent.</stage>
+              <sp who="#pro">
+                 <speaker>Pro.</speaker>
+                 <lg>
+                    <l>So glad of this as they, I cannot be,</l>
+                    <l>Who are ſurpriz'd withal; but my rejoicing</l>
+                    <l>At nothing can be more. I'll to my book;</l>
+                    <l>For yet, ere ſupper-time, muſt I perform</l>
+                    <l>Much buſineſs appertaining.</l>
+                 </lg>
+              </sp>
+              <stage type="exit">[Exit.</stage>
+            
+           </div>
+           
+           <div type="scene">
+              <stage type="location">Scene changes to another part of the Iſland.</stage>
+              <stage type="entrance">Enter Caliban, Stephano and Trinculo.</stage>
+              
+              <sp who="#ste">
+                 <speaker>Ste.</speaker>
+                 <p>
+                    <lb/>Tell not me; when the butt is out, we will
+                    <lb/>drink water, not a drop before; therefore bear
+                    <lb/>up, and board 'em, ſervant-monſter; drink to me.
+                 </p>
+              </sp>
+              
+           <pb/>
+              
+              <sp who="#tri">
+                 <speaker>Trin.</speaker>
+                 <p>
+                    <lb/>Servant-monſter! the folly of this iſland! they
+                    <lb/>ſay, there's but five upon this iſle; we are three of them,
+                    <lb/>if the other two be brain'd like us, the ſtate totters.
+                 </p>
+              </sp>
+              <sp who="#ste">
+                 <speaker>Ste.</speaker>
+                 <p>
+                    <lb/>Drink, ſervant-monſter, when I bid thee; thy
+                    <lb/>eyes are almoſt ſet in they head.
+                 </p>
+              </sp>
+              <sp who="#tri">
+                 <speaker>Trin.</speaker>
+                 <p>
+                    <lb/>Where ſhould the be ſet elſe? he were a brave
+                    <lb/>monſter indeed, if they were ſet in his tail.
+                 </p>
+              </sp>
+              <sp who="#ste">
+                 <speaker>Ste.</speaker>
+                 <p>
+                    <lb/>My man-monſter hath drown'd his tongue in 
+                    <lb/>ſack: for my part, the ſea cannot drown me. I ſwam,
+                    <lb/>ere I could recover the ſhore, five and thirty leagues, off
+                    <lb/>and on; by this light, thou ſhalt be my lieutenant, mon-
+                    <lb break="no"/>ſter, or my ſtandard.
+                 </p>
+              </sp>
+              <sp who="#tri">
+                 <speaker>Trin.</speaker>
+                 <p>Your lieutenant, if you liſt; he's no ſtandard.</p>
+              </sp>
+              <sp who="#ste">
+                 <speaker>Ste.</speaker>
+                 <p>We'll not run, monſieur monſter.</p>
+              </sp>
+              <sp who="#tri">
+                 <speaker>Trin.</speaker>
+                 <p>
+                    <lb/>Nor go neither: but you'll lie like dogs, and
+                    <lb/>yet ſay nothing neither.
+                 </p>
+              </sp>
+              <sp who="#ste">
+                 <speaker>Ste.</speaker>
+                 <p>
+                    <lb/>Moon-calf, ſpeak once in thy life, if thou beeſt
+                    <lb/>a good moon-calf.
+                 </p>
+              </sp>
+              <sp who="#cal">
+                 <speaker>Cal.</speaker>
+                 <lg>
+                    <l>How does thy honour? let me lick thy ſhoe;</l>
+                    <l>I'll not ſerve him, he is not valiant.</l>
+                 </lg>
+              </sp>
+              <sp who="#tri">
+                 <speaker>Trin.</speaker>
+                 <p>
+                    <lb/>Thou lieſt, moſt ignorant monſter, I am in caſe
+                    <lb/>to juſtle a conſtable; why, thou deboſh'd fiſh thou, was
+                    <lb/>there ever a man a coward that hath drunk ſo much
+                    <lb/>ſack as I to-day? wilt thou tell a monſtrous lie, being
+                    <lb/>but half a fiſh, and half a monſter?
+                 </p>
+              </sp>
+              <sp who="#cal">
+                 <speaker>Cal.</speaker>
+                 <p>
+                    <lb/>Lo, how he mocks me: wilt thou let him, my
+                    <lb/>lord?
+                 </p>
+              </sp>
+              <sp who="#tri">
+                 <speaker>Trin.</speaker>
+                 <p>
+                    <lb/>Lord, qhoth he! that a monſter ſhould be ſuch
+                    <lb/>a natural!
+                 </p>
+              </sp>
+              <sp who="#cal">
+                 <speaker>Cal.</speaker>
+                 <p>Lo, lo, again; bite him to death, I pr'ythee.</p>
+              </sp>
+              <sp who="#ste">
+                 <speaker>Ste.</speaker>
+                 <p>
+                    <lb/>Trinculo, keep a good tongue in your head; if
+                    <lb/>you prove a mutineer, the next tree―the poor
+                    <lb/>monſter's my ſubject, and he ſhall not ſuſſer indignity.
+                 </p>
+              </sp>
+              <sp who="#cal">
+                 <speaker>Cal.</speaker>
+                 <p>
+                    <lb/>I thank my noble lord. Wilt thou be pleas'd to 
+                    <lb/>hearken once again to the ſuit I made to thee?
+                 </p>
+              </sp>
+              <sp who="#ste">
+                 <speaker>Ste.</speaker>
+                 <p>
+                    <lb/>Marry, will I; kneel and repeat it; I will ſtand
+                    <lb/>and ſo ſhall Trinculo.
+                 </p>
+              </sp>
+              
+              <stage type="mixed">Enter Ariel inviſible.</stage>
+              
+              <sp who="cal">
+                 <speaker>Cal.</speaker>
+                 <p>
+                    <lb/>As I told thee before, I am ſubject to a tyrant,
+           <pb/> 
+                    <lb/>a ſorcerer, that by his cunning hath cheated me of the 
+                    <lb/>Iſland.
+                 </p>
+              </sp>
+              <sp who="#ari">
+                 <speaker>Ari.</speaker>
+                 <p>Thou lieſt.</p>
+              </sp>
+              <sp who="#cal">
+                 <speaker>Cal.</speaker>
+                 <p>
+                    <lb/>Thou lieſt, thou jeſting monkey, thou;
+                    <lb/>I would, my valiant maſter would deſtroy thee:
+                    <lb/>I do not lie.
+                 </p>
+              </sp>
+              <sp who="#ste">
+                 <speaker>Ste.</speaker>
+                 <p>
+                    <lb/>Trinculo, if you trouble him any more in's tale,
+                    <lb/>by this hand, I will ſupplant ſome of your teeth.
+                 </p>
+              </sp>
+              <sp who="#tri">
+                 <speaker>Trin.</speaker>
+                 <p>Why, I ſaid nothing.</p>
+              </sp>
+              <sp who="#ste">
+                 <speaker>Ste.</speaker>
+                 <p>Mum then, and no more; proceed.</p>
+              </sp>
+              <sp who="#cal">
+                 <speaker>Cal.</speaker>
+                 <p>
+                    <lb/>I ſay, by forcery he got this iſle;
+                    <lb/>From me he got it. If thy greatneſs will
+                    <lb/>Revenge it on him, (for, I know, thou dar'ſt,
+                    <lb/>But this thing dares not.―)
+                 </p>
+              </sp>
+              <sp who="#ste">
+                 <speaker>Ste.</speaker>
+                 <p>That's moſt certain.</p>
+              </sp>
+              <sp who="#cal">
+                 <speaker>Cal.</speaker>
+                 <p>Thou ſhalt be lord of it, and I'll ſerve thee.</p>
+              </sp>
+              <sp who="#ste">
+                 <speaker>Ste.</speaker>
+                 <p>
+                    <lb/>How now ſhall this be compaſt? canſt thou bring
+                    <lb/>me to the party?
+                 </p>
+              </sp>
+              <sp who="#cal">
+                 <speaker>Cal.</speaker>
+                 <p>
+                    <lb/>Yea, yea, my lord, I'll yield him thee aſleep,
+                    <lb/>Where thou may'st knock a nail into his head.
+                 </p>
+              </sp>
+              <sp who="#ari">
+                 <speaker>Ari.</speaker>
+                 <p>Thou lieſt, thou canſt not.</p>
+              </sp>
+              <sp who="#cal">
+                 <speaker>Cal.</speaker>
+                 <lg>
+                    <l>What a py'd ninny's this? thou ſcurvy patch!</l>
+                    <l>I do beſeech thy greatneſs, give him blows,</l>
+                    <l>And take his bottle from him; when that's gone,</l>
+                    <l>He ſhall drink nought but brine, for I'll not ſhew him</l>
+                    <l>Where the quick freſhes are.</l>
+                 </lg>
+              </sp>
+              <sp who="#ste">
+                 <speaker>Ste.</speaker>
+                 <p>
+                    <lb/>Trinculo, run into no further danger: interrupt
+                    <lb/>the monſter one word further. and, by this hand, I'll
+                    <lb/>turn my mercy out of doors, and make a ſtock-fiſh of
+                    <lb/>thee.
+                 </p>
+              </sp>
+              <sp who="#tri">
+                 <speaker>Trin.</speaker>
+                 <p>
+                    <lb/>Why, what did I? I did nothing; I'll go fur-
+                    <lb break="no"/>ther off.
+                 </p>
+              </sp>
+              <sp who="#ste">
+                 <speaker>Ste.</speaker>
+                 <p>Didſt thou not ſay, he ly'd?</p>
+              </sp>
+              <sp who="#ari">
+                 <speaker>Ari.</speaker>
+                 <p>Thou lieſt.</p>
+              </sp>
+              <sp who="#ste">
+                 <speaker>Ste.</speaker>
+                 <p>Do I ſo? take you that.</p>
+                 <stage type="business">[Beats him.</stage>
+                 <p>As you like this, give me the lie another time.</p>
+              </sp>
+              <sp who="#tri">
+                 <speaker>Trin.</speaker>
+                 <p>
+                    <lb/>I did not give thee the lie; out o' your wits,
+                    <lb/>and hearing too? A pox o' your bottle! this can ſack
+                    <lb/>and drinking do. A murrain on your monſter, and the
+                    <lb/>devil take your fingers!
+                 </p>
+              </sp>
+              
+           <pb/>
+              
+              <sp who="#cal">
+                 <speaker>Cal.</speaker>
+                 <p>Ha, ha, ha.</p>
+              </sp>
+              <sp who="#ste">
+                 <speaker>Ste.</speaker>
+                 <p>
+                    <lb/>Now, forward with your tale; pr'ythee, ſtand
+                    <lb/>further off.
+                 </p>
+              </sp>
+              <sp who="#cal">
+                 <speaker>Cal.</speaker>
+                 <p>
+                    <lb/>Beat him enough; after a little time
+                    <lb/>I'll beat him too.
+                 </p>
+              </sp>
+              <sp who="#ste">
+                 <speaker>Ste.</speaker>
+                 <p>Stand further. Come, proceed.</p>
+              </sp>
+              <sp who="#cal">
+                 <speaker>Cal.</speaker>
+                 <lg>
+                    <l>Why, as I told thee, 'tis a custom with him</l>
+                    <l>I'th' afternoon to ſleep; there thou may'ſt brain him</l>
+                    <l>Having firſt ſeiz'd his books: or a with a log</l>
+                    <l>Batter his skull, or paunch him with a ſtake,</l>
+                    <l>Or cut his wezand with thy knife. Remember,</l>
+                    <l>Firſt to poſſeſs his books; for without them</l>
+                    <l>He's but a ſot, as I am; not hath not</l>
+                    <l>One ſpirit to command. They all do hate him,</l>
+                    <l>As rootedly as I. Burn but his books;</l>
+                    <l>He has brave utenſils, (for ſo he calls them,)</l>
+                    <l>Which when he has an houſe, he'll deck withal.</l>
+                    <l>And that moſt deeply to conſider, is</l>
+                    <l>The beauty of his daughter; he himſelf</l>
+                    <l>Calls her a non-parail: I ne'er ſaw woman,</l>
+                    <l>But only Sycorax my dam, and ſhe:</l>
+                    <l>But ſhe as far ſurpaſſeſs Sycorax,</l>
+                    <l>As greateſt does the leaſt.</l>
+                 </lg>
+              </sp>
+              <sp who="#ste">
+                 <speaker>Ste.</speaker>
+                 <p>Is it ſo brave a Laſs?</p>
+              </sp>
+              <sp who="#cal"> <!-- Caliban's lines are capitalized, but meter is irregular. 
+                 verse vs. prose dialogue is unlcear to me on rest of page -->
+                 <speaker>Cal.</speaker>
+                 <p>
+                    <lb/>Ay, lord; ſhe will become thy bed, I warrant,
+                    <lb/>And bring thee forth brave brood.
+                 </p>
+              </sp>
+              <sp who="#ste">
+                 <speaker>Ste.</speaker>
+                 <p>
+                    <lb/>Monſter, I will kill this man: his daughter and
+                    <lb/>I will be King and Queen, ſave our Graces: and Trinculo
+                    <lb/>and thy ſelf ſhall be Vice-Roys. Doſt thou like the plot,
+                    <lb/>Trinculo?
+                 </p>
+              </sp>
+              <sp who="#tri">
+                 <speaker>Trin.</speaker>
+                 <p>Excellent.</p>
+              </sp>
+              <sp who="#ste">
+                 <speaker>Ste.</speaker>
+                 <p>
+                    <lb/>Give me thy hand; I am ſorry, I beat thee: but,
+                    <lb/>while thou liv'ſt, keep a good tongue in thy head.
+                 </p>
+              </sp>
+              <sp who="#cal">
+                 <speaker>Cal.</speaker>
+                 <lg>
+                    <l>Within this half hour will he be aſleep;</l>
+                    <l>Wilt thou deſtroy him then?</l>
+                 </lg>
+              </sp>
+              <sp who="#ste">
+                 <speaker>Ste.</speaker>
+                 <p>Ay, on my honour.</p>
+              </sp>
+              <sp who="#ari">
+                 <speaker>Ari.</speaker>
+                 <p>This will I tell my maſter.</p>
+              </sp>
+              <sp who="#cal">
+                 <speaker>Cal.</speaker>
+                 <p>
+                    <lb/>Thou mak'st me merry; I am full of pleaſure;
+                    <lb/>Let us be jocund. Will you troul the catch,
+                    <lb/>You taught me but while-ere?
+                 </p>
+              </sp>
+              
+           <pb/>
+              
+              <sp who="#ste">
+                 <speaker>Ste.</speaker>
+                 <p>
+                    <lb/>At thy requeſt, monſter, I will do reaſon, any
+                    <lb/>reaſon: come on, Trinculo, let us ſing.
+                 </p>
+                 <stage type="delivery">[Sings.</stage>
+                 <p>
+                    <lb/>Flout 'em, and skout 'em; and skout 'em, and flout 'em;
+                    <lb/>thought is free.
+                 </p>
+              </sp>
+              <sp who="#cal">
+                 <speaker>Cal.</speaker>
+                 <p>That's not the tune.</p>
+              </sp>
+              <stage type="business">[Ariel plays the Tune on a Tabor and Pipe.</stage>
+              <!-- p45 -->
+           </div>
+        </div>  
      
         </body>
     </text>
