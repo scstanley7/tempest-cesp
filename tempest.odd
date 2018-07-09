@@ -26,7 +26,8 @@
                 <moduleRef key="figure"/>
                 <moduleRef key="gaiji" except="charProp glyphName localName mapping unicodeName"/>
                 <moduleRef key="linking" include="ab anchor seg"/>
-                <moduleRef key="tagdocs" include="gi val code"/>
+                <moduleRef key="namesdates" include="persName placeName"></moduleRef>
+                <moduleRef key="tagdocs" include="att gi val code"/>
                 <moduleRef key="transcr" include=""/>
                 
                 <elementSpec ident="div" mode="change">

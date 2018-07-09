@@ -9,7 +9,7 @@ namespace teix = "http://www.tei-c.org/ns/Examples"
 namespace xi = "http://www.w3.org/2001/XInclude"
 namespace xlink = "http://www.w3.org/1999/xlink"
 
-# Schema generated from ODD source 2018-06-28T16:57:45Z. .
+# Schema generated from ODD source 2018-07-09T19:25:49Z. .
 # TEI Edition: Version 3.3.0. Last updated on
 #	31st January 2018, revision f4d8439
 # TEI Edition Location: http://www.tei-c.org/Vault/P5/Version 3.3.0/
@@ -312,6 +312,8 @@ sch:pattern [
 ]
 att.datable.attributes =
   att.datable.w3c.attributes,
+  att.datable.iso.attributes,
+  att.datable.custom.attributes,
   att.datable.attribute.calendar,
   att.datable.attribute.period
 att.datable.attribute.calendar =
@@ -1124,12 +1126,12 @@ att.citing.attribute.to =
   attribute to {
     xsd:token { pattern = "(\p{L}|\p{N}|\p{P}|\p{S})+" }
   }?
-model.nameLike.agent = name
-model.nameLike.agent_alternation = name
-model.nameLike.agent_sequence = name
-model.nameLike.agent_sequenceOptional = name?
-model.nameLike.agent_sequenceOptionalRepeatable = name*
-model.nameLike.agent_sequenceRepeatable = name+
+model.nameLike.agent = name | persName
+model.nameLike.agent_alternation = name | persName
+model.nameLike.agent_sequence = name, persName
+model.nameLike.agent_sequenceOptional = name?, persName?
+model.nameLike.agent_sequenceOptionalRepeatable = name*, persName*
+model.nameLike.agent_sequenceRepeatable = name+, persName+
 model.segLike = s | seg
 model.hiLike = hi
 model.hiLike_alternation = hi
@@ -1247,7 +1249,7 @@ model.oddDecl_sequence = empty
 model.oddDecl_sequenceOptional = empty
 model.oddDecl_sequenceOptionalRepeatable = empty
 model.oddDecl_sequenceRepeatable = notAllowed
-model.phrase.xml = gi | val
+model.phrase.xml = att | gi | val
 model.specDescLike = notAllowed
 model.biblLike = bibl | biblStruct | listBibl | biblFull
 model.biblLike_alternation = bibl | biblStruct | listBibl | biblFull
@@ -1298,12 +1300,12 @@ model.stageLike_sequenceRepeatable = stage+
 model.entryPart = notAllowed
 model.global.edit = gap
 model.divPart = model.lLike | model.pLike | lg | sp | spGrp
-model.placeNamePart = notAllowed
-model.placeNamePart_alternation = notAllowed
-model.placeNamePart_sequence = empty
-model.placeNamePart_sequenceOptional = empty
-model.placeNamePart_sequenceOptionalRepeatable = empty
-model.placeNamePart_sequenceRepeatable = notAllowed
+model.placeNamePart = placeName
+model.placeNamePart_alternation = placeName
+model.placeNamePart_sequence = placeName
+model.placeNamePart_sequenceOptional = placeName?
+model.placeNamePart_sequenceOptionalRepeatable = placeName*
+model.placeNamePart_sequenceRepeatable = placeName+
 model.placeStateLike = model.placeNamePart
 model.placeStateLike_alternation = model.placeNamePart_alternation
 model.placeStateLike_sequence = model.placeNamePart_sequence
@@ -1385,36 +1387,42 @@ model.nameLike =
   | model.placeStateLike
   | rs
   | idno
+  | model.persNamePart
 model.nameLike_alternation =
   model.nameLike.agent_alternation
   | model.offsetLike_alternation
   | model.placeStateLike_alternation
   | rs
   | idno
+  | model.persNamePart_alternation
 model.nameLike_sequence =
   model.nameLike.agent_sequence,
   model.offsetLike_sequence,
   model.placeStateLike_sequence,
   rs,
-  idno
+  idno,
+  model.persNamePart_sequence
 model.nameLike_sequenceOptional =
   model.nameLike.agent_sequenceOptional?,
   model.offsetLike_sequenceOptional?,
   model.placeStateLike_sequenceOptional?,
   rs?,
-  idno?
+  idno?,
+  model.persNamePart_sequenceOptional?
 model.nameLike_sequenceOptionalRepeatable =
   model.nameLike.agent_sequenceOptionalRepeatable*,
   model.offsetLike_sequenceOptionalRepeatable*,
   model.placeStateLike_sequenceOptionalRepeatable*,
   rs*,
-  idno*
+  idno*,
+  model.persNamePart_sequenceOptionalRepeatable*
 model.nameLike_sequenceRepeatable =
   model.nameLike.agent_sequenceRepeatable+,
   model.offsetLike_sequenceRepeatable+,
   model.placeStateLike_sequenceRepeatable+,
   rs+,
-  idno+
+  idno+,
+  model.persNamePart_sequenceRepeatable+
 model.global =
   model.global.meta
   | model.milestoneLike
@@ -4475,6 +4483,183 @@ seg =
     att.typed.attributes,
     att.written.attributes,
     att.notated.attributes,
+    empty
+  }
+att.datable.custom.attributes =
+  att.datable.custom.attribute.when-custom,
+  att.datable.custom.attribute.notBefore-custom,
+  att.datable.custom.attribute.notAfter-custom,
+  att.datable.custom.attribute.from-custom,
+  att.datable.custom.attribute.to-custom,
+  att.datable.custom.attribute.datingPoint,
+  att.datable.custom.attribute.datingMethod
+att.datable.custom.attribute.when-custom =
+  
+  ## supplies the value of a date or time in some custom standard form.
+  attribute when-custom {
+    list {
+      xsd:token { pattern = "(\p{L}|\p{N}|\p{P}|\p{S})+" }+
+    }
+  }?
+att.datable.custom.attribute.notBefore-custom =
+  
+  ## specifies the earliest possible date for the event in some custom standard form.
+  attribute notBefore-custom {
+    list {
+      xsd:token { pattern = "(\p{L}|\p{N}|\p{P}|\p{S})+" }+
+    }
+  }?
+att.datable.custom.attribute.notAfter-custom =
+  
+  ## specifies the latest possible date for the event in some custom standard form.
+  attribute notAfter-custom {
+    list {
+      xsd:token { pattern = "(\p{L}|\p{N}|\p{P}|\p{S})+" }+
+    }
+  }?
+att.datable.custom.attribute.from-custom =
+  
+  ## indicates the starting point of the period in some custom standard form.
+  attribute from-custom {
+    list {
+      xsd:token { pattern = "(\p{L}|\p{N}|\p{P}|\p{S})+" }+
+    }
+  }?
+att.datable.custom.attribute.to-custom =
+  
+  ## indicates the ending point of the period in some custom standard form.
+  attribute to-custom {
+    list {
+      xsd:token { pattern = "(\p{L}|\p{N}|\p{P}|\p{S})+" }+
+    }
+  }?
+att.datable.custom.attribute.datingPoint =
+  
+  ## supplies a pointer to some location defining a named point in time with reference to which the datable item is understood to have occurred
+  attribute datingPoint { xsd:anyURI }?
+att.datable.custom.attribute.datingMethod =
+  
+  ## supplies a pointer to a calendar element or other means of interpreting the values of the custom dating attributes.
+  attribute datingMethod { xsd:anyURI }?
+model.persNamePart = notAllowed
+model.persNamePart_alternation = notAllowed
+model.persNamePart_sequence = empty
+model.persNamePart_sequenceOptional = empty
+model.persNamePart_sequenceOptionalRepeatable = empty
+model.persNamePart_sequenceRepeatable = notAllowed
+att.datable.iso.attributes =
+  att.datable.iso.attribute.when-iso,
+  att.datable.iso.attribute.notBefore-iso,
+  att.datable.iso.attribute.notAfter-iso,
+  att.datable.iso.attribute.from-iso,
+  att.datable.iso.attribute.to-iso
+att.datable.iso.attribute.when-iso =
+  
+  ## supplies the value of a date or time in a standard form.
+  attribute when-iso {
+    xsd:date
+    | xsd:gYear
+    | xsd:gMonth
+    | xsd:gDay
+    | xsd:gYearMonth
+    | xsd:gMonthDay
+    | xsd:time
+    | xsd:dateTime
+    | xsd:token { pattern = "[0-9.,DHMPRSTWYZ/:+\-]+" }
+  }?
+att.datable.iso.attribute.notBefore-iso =
+  
+  ## specifies the earliest possible date for the event in standard form, e.g. yyyy-mm-dd.
+  attribute notBefore-iso {
+    xsd:date
+    | xsd:gYear
+    | xsd:gMonth
+    | xsd:gDay
+    | xsd:gYearMonth
+    | xsd:gMonthDay
+    | xsd:time
+    | xsd:dateTime
+    | xsd:token { pattern = "[0-9.,DHMPRSTWYZ/:+\-]+" }
+  }?
+att.datable.iso.attribute.notAfter-iso =
+  
+  ## specifies the latest possible date for the event in standard form, e.g. yyyy-mm-dd.
+  attribute notAfter-iso {
+    xsd:date
+    | xsd:gYear
+    | xsd:gMonth
+    | xsd:gDay
+    | xsd:gYearMonth
+    | xsd:gMonthDay
+    | xsd:time
+    | xsd:dateTime
+    | xsd:token { pattern = "[0-9.,DHMPRSTWYZ/:+\-]+" }
+  }?
+att.datable.iso.attribute.from-iso =
+  
+  ## indicates the starting point of the period in standard form.
+  attribute from-iso {
+    xsd:date
+    | xsd:gYear
+    | xsd:gMonth
+    | xsd:gDay
+    | xsd:gYearMonth
+    | xsd:gMonthDay
+    | xsd:time
+    | xsd:dateTime
+    | xsd:token { pattern = "[0-9.,DHMPRSTWYZ/:+\-]+" }
+  }?
+att.datable.iso.attribute.to-iso =
+  
+  ## indicates the ending point of the period in standard form.
+  attribute to-iso {
+    xsd:date
+    | xsd:gYear
+    | xsd:gMonth
+    | xsd:gDay
+    | xsd:gYearMonth
+    | xsd:gMonthDay
+    | xsd:time
+    | xsd:dateTime
+    | xsd:token { pattern = "[0-9.,DHMPRSTWYZ/:+\-]+" }
+  }?
+persName =
+  
+  ## (personal name) contains a proper noun or proper-noun phrase referring to a person, possibly including one or more of the person's forenames, surnames, honorifics, added names, etc. [13.2.1. Personal Names]
+  element persName {
+    macro.phraseSeq,
+    att.global.attributes,
+    att.datable.attributes,
+    att.editLike.attributes,
+    att.personal.attributes,
+    att.typed.attributes,
+    empty
+  }
+placeName =
+  
+  ## contains an absolute or relative place name. [13.2.3. Place Names]
+  element placeName {
+    macro.phraseSeq,
+    att.datable.attributes,
+    att.editLike.attributes,
+    att.global.attributes,
+    att.personal.attributes,
+    att.typed.attributes,
+    empty
+  }
+att =
+  
+  ## (attribute) contains the name of an attribute appearing within running text. [22. Documentation Elements]
+  element att {
+    xsd:Name,
+    att.global.attributes,
+    
+    ## supplies an identifier for the scheme in which this name is defined.
+    ## Sample values include: 1] TEI (text encoding initiative) ; 2] DBK (docbook) ; 3] XX (unknown) ; 4] imaginary; 5] XHTML; 6] XML; 7] XI
+    [ a:defaultValue = "TEI" ]
+    attribute scheme {
+      xsd:token { pattern = "(\p{L}|\p{N}|\p{P}|\p{S})+" }
+    }?,
     empty
   }
 code =

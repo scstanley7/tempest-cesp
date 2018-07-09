@@ -1,19 +1,125 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="out/tempest.rnc" type="application/relax-ng-compact-syntax"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Title</title>
-            </titleStmt>
-            <publicationStmt>
-                <p>Publication Information</p>
-            </publicationStmt>
-            <sourceDesc>
-                <p>Information about the source</p>
-            </sourceDesc>
-        </fileDesc>
-    </teiHeader>
+   <teiHeader>
+      <!--
+ Bibliographic description of this digital file, including
+    information about its source 
+-->
+      <fileDesc>
+         <titleStmt>
+            <title>The Tempest @ FSU</title>
+            <author>
+               <persName>William Shakespeare</persName>
+            </author>
+            <principal>
+               <persName>Sarah Stanley</persName>
+            </principal>
+            <respStmt>
+               <resp>Encoder</resp>
+               <persName>Laura Miller</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Florida State University Libraries</publisher>
+            <address>
+               <addrLine>116 Honors Way</addrLine>
+               <addrLine>Tallahassee, FL 32306</addrLine>
+            </address>
+            <availability>
+               <p>
+                  <!--Description of copyright terms, restrictions on use, how to get the text-->
+               </p>
+            </availability>
+            <!--  Date of publication, e.g. for citation purposes. Fill on pub date  -->
+            <date when="0000-00-00"/>
+         </publicationStmt>
+         <notesStmt>
+            <note>
+               <p>Notes on the text, including extra information on sources, anomalies, etc.</p>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <biblStruct>
+               <analytic>
+                  <!--  For article-level information  -->
+                  <author>Author of source</author>
+                  <title>Title of source</title>
+               </analytic>
+               <monogr>
+                  <!--  For monograph-level information  -->
+                  <author>Author of source</author>
+                  <title>Title of source</title>
+                  <imprint>
+                     <pubPlace>Place of publication of source</pubPlace>
+                     <publisher>Name of publisher of source</publisher>
+                     <!--  Date of publication of source  -->
+                     <date when="2004-02-28"/>
+                  </imprint>
+               </monogr>
+               <citedRange from="30" to="50" unit="pp"/>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <!--  Information about the encoding of the text  -->
+      <encodingDesc>
+         <projectDesc>
+            <p>
+               Information about the project itself (goals, organization, activities)
+            </p>
+         </projectDesc>
+         <samplingDecl>
+            <p>
+               Information about how the texts in a collection were chosen or excerpted
+            </p>
+         </samplingDecl>
+         <editorialDecl>
+            <correction status="unknown">
+               <p>
+                  Information about treatment of errors in the source (silently corrected, etc.)
+               </p>
+            </correction>
+            <normalization method="markup">
+               <p>
+                  Information about normalization practices (e.g. treatment of roman numerals, spelling, etc.)
+               </p>
+            </normalization>
+            <quotation>
+               <p>
+                  Information about treatment of quotations (preservation of original quotation marks, etc.)
+               </p>
+            </quotation>
+            <hyphenation eol="hard">
+               <p>Treatment of the hyphenation of the source</p>
+            </hyphenation>
+            <segmentation>
+               <p>
+                  Information about whether and how the text has been segmented (mostly for linguistic purposes)
+               </p>
+            </segmentation>
+            <interpretation>
+               <p>
+                  Information about any interpretive information added to the text
+               </p>
+            </interpretation>
+         </editorialDecl>
+         <tagsDecl>
+            <rendition xml:id="rend.head" selector="head">font-size: 120%; text-align: center;</rendition>
+            <namespace name="http://www.tei-c.org/ns/1.0">
+               <tagUsage gi="head">Description of how the tag is used</tagUsage>
+            </namespace>
+         </tagsDecl>
+         </encodingDesc>
+      
+      
+      <xenoData>
+         <!--  Dublin Core, EAD, MARCXML, MODS, OAI, whatever  -->
+      </xenoData>
+      
+      <revisionDesc>
+         <change when="2018-06-09" who="participants.xml#sstanley">Sarah Stanley added TEI header template <emph>(Needs to be updated!!)</emph></change>
+      </revisionDesc>
+   </teiHeader>
     <text>
        <front>
           <div type="castList">
