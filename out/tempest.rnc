@@ -9,7 +9,7 @@ namespace teix = "http://www.tei-c.org/ns/Examples"
 namespace xi = "http://www.w3.org/2001/XInclude"
 namespace xlink = "http://www.w3.org/1999/xlink"
 
-# Schema generated from ODD source 2018-07-09T19:25:49Z. .
+# Schema generated from ODD source 2018-07-10T15:31:43Z. .
 # TEI Edition: Version 3.3.0. Last updated on
 #	31st January 2018, revision f4d8439
 # TEI Edition Location: http://www.tei-c.org/Vault/P5/Version 3.3.0/
@@ -1241,7 +1241,7 @@ model.pPart.edit = model.pPart.editorial | model.pPart.transcriptional
 model.ptrLike = ptr | ref
 model.lPart = notAllowed
 model.global.meta = index | span
-model.milestoneLike = milestone | gb | pb | lb | cb | anchor
+model.milestoneLike = milestone | gb | pb | lb | cb | anchor | fw
 model.gLike = g
 model.oddDecl = notAllowed
 model.oddDecl_alternation = notAllowed
@@ -4708,4 +4708,20 @@ att.global.change.attribute.change =
   attribute change {
     list { xsd:anyURI+ }
   }?
+fw =
+  
+  ## (forme work) contains a running head (e.g. a header, footer), catchword, or similar material appearing on the current page. [11.6. Headers, Footers, and Similar Matter]
+  element fw {
+    macro.phraseSeq,
+    att.global.attributes,
+    att.placement.attributes,
+    att.written.attributes,
+    
+    ## classifies the material encoded according to some useful typology.
+    ## Sample values include: 1] header; 2] footer; 3] pageNum (page number) ; 4] lineNum (line number) ; 5] sig (signature) ; 6] catch (catchword) 
+    attribute type {
+      xsd:token { pattern = "(\p{L}|\p{N}|\p{P}|\p{S})+" }
+    }?,
+    empty
+  }
 start = TEI

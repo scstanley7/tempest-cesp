@@ -28,7 +28,7 @@
                 <moduleRef key="linking" include="ab anchor seg"/>
                 <moduleRef key="namesdates" include="persName placeName"></moduleRef>
                 <moduleRef key="tagdocs" include="att gi val code"/>
-                <moduleRef key="transcr" include=""/>
+                <moduleRef key="transcr" include="fw"/>
                 
                 <elementSpec ident="div" mode="change">
                     <attList>
