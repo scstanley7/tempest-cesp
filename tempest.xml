@@ -122,86 +122,108 @@
    </teiHeader>
     <text>
        <front>
-          <div type="castList">
+          
+          <milestone unit="signature" n="B1v"/>
+          <pb n=""/>
+          
+          <div type="castList" rend="pre(#ornament)post(#ornament)">
+             <head>Dramatis Perſonæ</head>
              <castList>
                 <castItem>
-                   <role xml:id="alo">Alonso</role>
-                   <roleDesc>King of Naples</roleDesc>
+                   <role xml:id="alo" rend="case(allcaps)">Alonso</role>
+                   <roleDesc rend="slant(italic)">King of <placeName rend="slant(upright)">Naples</placeName></roleDesc>
                 </castItem>
                 <castItem>
                    <role xml:id="seb">Sebaſtian</role>
-                   <roleDesc>his Brother</roleDesc>
+                   <roleDesc rend="slant(italic)">his Brother</roleDesc>
                 </castItem>
                 <castItem>
                    <role xml:id="pro">Proſpero</role>
-                   <roleDesc>the rightfull Duke of Milan.</roleDesc>
+                   <roleDesc rend="slant(italic)">the rightfull Duke of <placeName rend="slant(upright)">Milan</placeName>.</roleDesc>
                 </castItem>
                 <castItem>
                    <role xml:id="ant">Anthonio</role>
-                   <roleDesc>his Brother, the uſurping Duke of Milan</roleDesc>
+                   <roleDesc rend="slant(italic)">his Brother, the uſurping Duke of <placeName rend="slant(upright)">Milan</placeName></roleDesc>
                 </castItem>
                 <castItem>
                    <role xml:id="fer">Ferdinand</role>
-                   <roleDesc>Son to the King of Naples.</roleDesc>
+                   <roleDesc rend="slant(italic)">Son to the King of <placeName rend="slant(upright)">Naples</placeName>.</roleDesc>
                 </castItem>
                 <castItem>
                    <role xml:id="gon">Gonzalo</role>
-                   <roleDesc>an honeſt old Counſellor of Naples.</roleDesc>
+                   <roleDesc rend="slant(italic)">an honeſt old Counſellor of <placeName rend="slant(upright)">Naples</placeName>.</roleDesc>
                 </castItem>
-                <castItem>
-                   <role xml:id="adr">Adrian</role>
-                   <roleDesc>Lords</roleDesc>
-                </castItem>
-                <castItem>
-                   <role xml:id="fran">Franciſco</role>
-                   <roleDesc>Lords</roleDesc>
-                </castItem>
+                <castGroup rend="braced(#label)">
+                   <castItem>
+                      <role xml:id="adr">Adrian</role>
+                   </castItem>
+                   <castItem>
+                      <role xml:id="fran">Franciſco</role>
+                   </castItem>
+                   <roleDesc xml:id="label">Lords.</roleDesc>
+                </castGroup>
                 <castItem>
                    <role xml:id="cal">Caliban</role>
-                   <roleDesc>a Savage, and deformed Slave,</roleDesc>
+                   <roleDesc rend="slant(italic)">a Savage, and deformed Slave,</roleDesc>
                 </castItem>
                 <castItem>
                    <role xml:id="tri">Trinculo</role>
-                   <roleDesc>a Jeſter.</roleDesc>
+                   <roleDesc rend="slant(italic)">a Jeſter.</roleDesc>
                 </castItem>
                 <castItem>
                    <role xml:id="ste">Stephano</role>
-                   <roleDesc>a drunken Butler.</roleDesc>
+                   <roleDesc rend="slant(italic)">a drunken Butler.</roleDesc>
                 </castItem>
-                <castItem>
-                   <role xml:id="mas">Maſter of a Ship</role>
-                   <role xml:id="boat">Boatſwain</role>
-                   <role xml:id="mar">Mariners</role>
-                </castItem>
+                <castGroup>
+                   <castItem><role xml:id="mas">Maſter of a Ship,</role></castItem> <castItem rend="break(no)"><role xml:id="boat">Boatſwain</role>, and</castItem> <castItem rend="break(no)"><role xml:id="mar">Mariners</role></castItem>
+                </castGroup>
                 <castItem>
                    <role xml:id="mira">Miranda</role>
-                   <roleDesc>Daughter to Proſpero</roleDesc>
+                   <roleDesc rend="slant(italic)">Daughter to <persName rend="slant(upright)">Proſpero</persName></roleDesc>
                 </castItem>
                 <castItem>
                    <role xml:id="ari">Ariel</role>
-                   <roleDesc>an aiery Spirit</roleDesc>
+                   <roleDesc rend="slant(italic)">an aiery Spirit</roleDesc>
                 </castItem>
+                <castGroup rend="braced(#label2)">
+                   <castItem>
+                      <role xml:id="iris">Iris</role>
+                   </castItem>
+                   <castItem>
+                      <role xml:id="ceres">Ceres</role>
+                   </castItem>
+                   <castItem>
+                      <role xml:id="juno">Juno</role>
+                   </castItem>
+                   <castItem>
+                      <role xml:id="nym" rend="slant(italic)">Nymphs</role>
+                   </castItem>
+                   <castItem>
+                      <role xml:id="reap" rend="slant(italic)">Reapers</role>
+                   </castItem>
+                   <roleDesc xml:id="label2" rend="slant(italic)">Sprits, employ'd in the Maſque</roleDesc>
+                </castGroup>
                 <castItem>
-                   <role>Iris</role>
-                   <role>Ceres</role>
-                   <role>Juno</role>
-                   <role>Nymphs</role>
-                   <role>Reapers</role>
-                   <roleDesc> Sprits, employ'd in the Maſque</roleDesc>
-                </castItem>
-                <castItem>
-                   <role>Other Spirits, attending on Proſpero</role>
+                   <role rend="slant(italic)align(center)">Other Spirits, attending on <persName rend="slant(upright)">Proſpero</persName>.</role>
                 </castItem>
              </castList>
+             <stage type="setting" rend="align(center)"><hi rend="case(allcaps)">Scene</hi>, <hi rend="slant(italic)">An uninhabited Iſland.</hi></stage>
           </div>
+          
+          <fw type="catch" rend="align(right)case(allcaps)">The</fw>
          
        </front> 
+       
+       <milestone unit="signature" n="B2r"/>
+       <pb n=""/>
+       
        <body>
               
          <div type="act">
            <div type="scene">
-           <head>The Tempest.</head>
-            <head type="act">Act. I.</head>
+           <head rend="case(allcaps)">The 
+              <lb/>Tempest.</head>
+            <head type="act" rend="case(allcaps)">Act. I.</head>
             <stage type="setting">Scene, On a Ship at Sea.</stage>
             <stage type="setting">A tempeſtuous noiſe of thunder and lightning heard:
                Enter a Ship-maſter, and a Boatſwain.</stage>
