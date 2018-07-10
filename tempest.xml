@@ -3927,7 +3927,369 @@
                  <p>That's not the tune.</p>
               </sp>
               <stage type="business">[Ariel plays the Tune on a Tabor and Pipe.</stage>
-              <!-- p45 -->
+              <sp who="#ste">
+                 <speaker>Ste.</speaker>
+                 <p>What is this ſame?</p>
+              </sp>
+              <sp who="#tri">
+                 <speaker>Trin.</speaker>
+                 <p>
+                    <lb/>This is the tune of our catch, plaid by the pic-
+                    <lb break="no"/>ture of no-body.
+                 </p>
+              </sp>
+              <sp who="#ste">
+                 <speaker>Ste.</speaker>
+                 <p>
+                    <lb/>If thou be'ſt a man, ſhew thy ſelf in the likeneſs;
+                    <lb/>if thou be'ſt a devil, take't as thou lift.
+                 </p>
+              </sp>
+              <sp who="#tri">
+                 <speaker>Trin.</speaker>
+                 <p>O, forgive me my ſins!</p>
+              </sp>
+              <sp who="#ste">
+                 <speaker>Ste.</speaker>
+                 <p>
+                    <lb/>He that dies, pays all debts: I defie the. Mercy
+                    <lb/>upon us!
+                 </p>
+              </sp>
+              <sp who="#cal">
+                 <speaker>Cal.</speaker>
+                 <p>Art thou afraid?</p>
+              </sp>
+              <sp who="#ste">
+                 <speaker>Ste.</speaker>
+                 <p>No, monſter, not I.</p>
+              </sp>
+              <sp who="#cal">
+                 <speaker>Cal.</speaker>
+                 <lg>
+                    <l>Be not afraid; the iſle is full of noiſes,</l>
+                    <l>Sounds, and ſweet airs, that give delight, and hurt not.</l>
+                    <l>Sometimes a thouſand twanging inſtruments</l>
+                    <l>Will hum about mine ears, and ſometimes voices;</l>
+                    <l>The clouds, methought, would open, and ſhew riches</l>
+                    <l>Ready to drop upon me; then when I wak'd,</l>
+                    <l>I cry'd to dream again.</l>
+                 </lg>
+              </sp>
+              <sp who="#ste">
+                 <speaker>Ste.</speaker>
+                 <p>
+                    <lb/>This will prove a brave kingdom to me, where 
+                    <lb/>I ſhall have my muſick for nothing. 
+                 </p>
+              </sp>
+              <sp who="#cal">
+                 <speaker>Cal.</speaker>
+                 <p>When Proſpero is destroy'd.</p>
+              </sp>
+              <sp who="#ste">
+                 <speaker>Ste.</speaker>
+                 <p>That ſhall be by and by: I remember the ſtory.</p>
+              </sp>
+              <sp who="#tri">
+                 <speaker>Trin.</speaker>
+                 <p>
+                    <lb/>The found is going away; let's follow it, and
+                    <lb/>after do our work.
+                 </p>
+              </sp>
+              <sp who="#ste">
+                 <speaker>Ste.</speaker>
+                 <p>
+                    <lb/>Lead, monſter; we'll follow. I would I could
+                    <lb/>ſee this taborer. He lays it on.
+                 </p>
+              </sp>
+              <sp who="#tri">
+                 <speaker>Trin.</speaker>
+                 <p>Wilt come? I'll follow Stephano.</p>
+              </sp>
+              <stage type="exit">[Exeunt.</stage>
+              <fw type="catch" rend="align(right)case(allcaps)">Scene</fw>
+           </div>
+     
+           <pb n="46"/>
+           <div type="scene">
+              <stage type="location">Scene changes to another Part of the Iſland.</stage>
+              <stage type="entrance">Enter Alonſo, Sebaſtian, Anthonio, Gonzalo, Adrian,
+                 <lb/>Franciſco, &amp;c.</stage>
+             <!-- I think this page is verse? mixed meter/syllables --> 
+              <sp who="#gon">
+                 <speaker>Gon.</speaker>
+                 <lg>
+                    <l>By'r lakin, I can go no further, Sir,</l>
+                    <l>My old bones ake: here's a maze trod, indeed,</l>
+                    <l>Through forth-rights and meanders! by your patience,</l>
+                    <l>I needs muſt reſt me.</l>
+                 </lg>
+              </sp>
+              <sp who="#alo">
+                 <speaker>Alon.</speaker>
+                 <lg>
+                    <l>Old lord, I cannot blame thee,</l>
+                    <l>Who am my ſelf attach'd with wearineſs,</l>
+                    <l>To th' dulling of my ſpirits: ſit down and reſt.</l>
+                    <l>Ev'n here I will put off my hope, and keep it</l>
+                    <l>No longer for my flatterer: he is drown'd,</l>
+                    <l>Whom thus we ſtray to find, and the ſea mocks</l>
+                    <l>Our fruſtrate ſearch on land. Well, let him go.</l>
+                 </lg>
+              </sp>
+              <sp who="#ant">
+                 <speaker>Ant.</speaker>
+                 <lg>
+                    <l>I am right glad that he's ſo out of hope.</l>
+                    <l>Do not, for one repulſe, forego the purpoſe</l>
+                    <l>That you reſolv'd t'effect.</l>
+                 </lg>
+              </sp>
+              <sp who="#seb">
+                 <speaker>Seb.</speaker>
+                 <lg>
+                    <l>The next advantage</l>
+                    <l>Will we take throughly.</l>
+                 </lg>
+              </sp>
+              <sp who="#ant">
+                 <speaker>Ant.</speaker>
+                 <lg>
+                    <l>Let it be to night;</l>
+                    <l>For, now they are oppreſs'd with travel, they</l>
+                    <l>Will not, nor cannot, uſe ſuch vigilance,</l>
+                    <l>As when they're freſh.</l>
+                 </lg>
+              </sp>
+              <sp who="#seb">
+                 <speaker>Seb.</speaker>
+                 <l>I ſay, to night: no more.</l>
+              </sp>
+              
+              <stage type="mixed">
+                 <p><lb/>Solemn and ſtrange muſick; and Prospero on the top, invi-
+                    <lb break="no"/>ſible. Enter ſeveral ſtrange ſhapes, bringing in a ban-
+                    <lb break="no"/>quet; and dance about it with a gentle actions of ſalutation;
+                    <lb/>and, inviting the King, &amp;c. to eat, they depart.
+                 </p>
+              </stage>
+              <sp who="#alo">
+                 <speaker>Alon.</speaker>
+                 <l>What harmony is this? my good friends, hark!</l>
+              </sp>
+              <sp who="#gon">
+                 <speaker>Gon.</speaker>
+                 <p>Marvellous ſweet muſick!</p>
+              </sp>
+              <sp who="#alo">
+                 <speaker>Alon.</speaker>
+                 <l>Give us kind keepers, heaven! what were theſe?</l>
+              </sp>
+              <sp who="#seb">
+                 <speaker>Seb.</speaker>
+                 <lg>
+                    <l>A living drollery. Now I will believe,</l>
+                    <l>That there are unicorns; that, in Arabia</l>
+                    <l>There is one tree, the phoenix' throne; one phoenix</l>
+                    <l>At this hour reigning there.</l>
+                 </lg>
+              </sp>
+              <sp who="#ant">
+                 <speaker>Ant.</speaker>
+                 <lg>
+                    <l>I'll believe both:</l>
+                    <l>And what does elſe want credit, come to me,</l>
+           <fw type="catch" rend="align(right)">And</fw>         
+           
+           <pb n="47"/>
+                    <l>And I'll be ſworn 'tis true. Travellers ne'er did lie,</l>
+                    <l>Though fools at home condemn 'em.</l>
+                 </lg>
+              </sp>
+              <sp who="#gon">
+                 <speaker>Gon.</speaker>
+                 <lg>
+                    <l>If in Naples</l>
+                    <l>If I ſhould ſay, I ſaw ſuch iſlanders:</l>
+                    <l>(For, certes, theſe are people of the iſland)</l>
+                    <l>Who tho' they are of monſtrous ſhape, yet, note,</l>
+                    <l>Their manners are more gentle-kind, than of</l>
+                    <l>Our human generation you ſhall find</l>
+                    <l>Many; nay, almoſt any.</l>
+                 </lg>
+              </sp>
+              <sp who="#pro">
+                 <speaker>Pro.</speaker>
+                 <lg>
+                    <l>Honeſt lord,</l>
+                    <l>Thou haſt ſaid well; for ſome of you there preſent</l>
+                    <l>Are worſe than devils.</l>
+                 </lg>
+              </sp>
+              <sp who="#alo">
+                 <speaker>Alon.</speaker>
+                 <lg>
+                    <l>I cannot too much muſe,</l>
+                    <l>Such ſhapes, ſuch gesture, and ſuch ſound, expreſſing</l>
+                    <l>(Although they want the uſe of tongue) a kind</l>
+                    <l>Of excellent dumb diſcourſe.</l>
+                 </lg>
+              </sp>
+              <sp who="#pro">
+                 <speaker>Pro.</speaker>
+                 <l>Praiſe, in departing.―</l>
+              </sp>
+              <sp who="#fran">
+                 <speaker>Fran.</speaker>
+                 <l>They vaniſh'd ſtrangely.</l>
+              </sp>
+              <sp who="#seb">
+                 <speaker>Seb.</speaker>
+                 <lg>
+                    <l>No matter, ſince</l>
+                    <l>They've left their viands behind; for we have ſtomachs.</l>
+                    <l>Will't pleaſe you taſte of what is here?</l>
+                 </lg>
+              </sp>
+              <sp who="#alo">
+                 <speaker>Alon.</speaker>
+                 <l>Not I.</l>
+              </sp>
+              <sp who="#gon">
+                 <speaker>Gon.</speaker>
+                 <lg>
+                    <l>Faith, Sir, you need not fear. When we were boys,</l>
+                    <l>Who would believe, that there were mountaineers,</l>
+                    <l>Dew-lapt like bulls, whoſe throats had hanging at 'em</l>
+                    <l>Wallets of fleſh, or that there were ſuch men,</l>
+                    <l>Whoſe heads ſtood in their breaſts? which now we find,</l>
+                    <l>Each putter out on five for one will bring us <!-- (12) --></l>
+                    <l>Good warrant of.</l>
+                 </lg>
+              </sp>
+              <fw type="catch" rend="align(right) italic">Alon.</fw>
+              
+              <!-- <p>
+                 <lb/>(12) Each Putter out of Five for One.―] By Variation
+                 <lb/>of a ſingle Letter, I think, I have ſet the Text right; and will
+                 <lb/>therefore now proceed to explain it. I freely confeſs, that I 
+                 <lb/>once underſtood this Paſſage thus; that every five Travellers (or
+                 <lb/>Putters out) did bring authentick Confirmation of theſe Stories,
+                 <lb/>for one that pretended to diſpite the Truth of them: But com-
+                 <lb break="no"/>municating my Senſe of the Place to Two ingenious Friends, I
+                 <lb/>found, I was not at the Bottom of the Meaning. Mr. Warburton
+                 <lb/>obſerv'd to me, that this was a fine Piece of conceal'd Satire on 
+              </p> 
+              <fw type="catch" rend="align(right)">the</fw>-->
+              
+           <pb n="48"/>   
+              <sp who="#alo">
+                 <speaker>Alon.</speaker>
+                 <lg>
+                    <l>I will ſtand to, and feed,</l>
+                    <l>Although my laſt; no matter, ſince I feel</l>
+                    <l>The beſt is paſt. Brother, my lord the Duke,</l>
+                    <l>Stand to, and do as we.</l>
+                 </lg>
+              </sp>
+              
+              <stage type="mixed">
+                 <lb/>Thunder and lighting. Enter Ariel like a harpy, claps
+                 <lb/>his wings upon the table, and with a queint device the
+                 <lb/>banquet vaniſhes.</stage>
+              
+              <sp who="#ari">
+                 <speaker>Ari.</speaker>
+                 <lg>
+                    <l>You are three men of ſin, whom deſtiny</l>
+                    <l>(That hath to inſtrument this lower world,</l>
+                    <l>And what is in't) the never-ſurfeited ſea</l>
+                    <l>Hath cauſed to belch up; and on this Iſland</l>
+                    <l>Where man doth not inhabit, you 'mongſt men</l>
+                    <l>Being moſt unfit to live. I have made you mad;</l>
+                    <l>And ev'n with ſuch like valour men hang and drown</l>
+                    <l>Their proper ſelves. You fools! I and my fellows</l>
+                    <l>Are miniſters of fate; the elements,</l>
+                    <l>Of whom your ſwords are temper'd, may as well</l>
+                    <l>Wound the loud winds, or with bemockt-at ſtabs</l>
+                    <l>Kill the ſtill-cloſing waters, as diminiſh</l>
+                    <l>One down that's in my plume: my fellow-miniſters</l>
+                    <l>Are like invulnerable. If you could hurt,</l>
+                    <l>Your ſwords are now too maſſie for your ſtrengths,</l>
+                    <l>And will not be up-lifted. But remember,</l>
+                    <l>(For that's my buſineſs to you) that you three</l>
+                    <l>From Milan did ſupplant good Proſpero:</l>
+                    <l>Expos'd unto the ſea (which hath requit it)</l>
+                    <l>Him, and his innocent child: for which foul deed</l>
+                    <l>The powers delaying, not forgetting, have</l>
+                    <l>Incens'd the ſeas and ſhores, yea, all the creatures,</l>
+                 
+              <!-- <p>
+                 <lb/>the Voyagers of that Time, who had juſt diſcover'd a new
+                 <lb/>World; and, as was very natural, grew moſt extravagent in
+                 <lb/>diſplaying the Wonders of it. That, particularly, by Each Putter
+                 <lb/>out of Five for One, was meant the Adventurers in the Discovery
+                 <lb/>of the Weſt-Indies, who had for the Money they advanc'd and
+                 <lb/>contributed, 20 per Cent.Dr. Thirbly did not a little aſſiſt
+                 <lb/>this Explanation by his Concurrence, and by instructing me,
+                 <lb/>that it was uſual in thoſe Times for Travellers to put out Money,
+                 <lb/>to receive a greater Sum if they liv'd to return; and, for Proof,
+                 <lb/>he referr'd me to Moriſon's Itinerary, Part I. p. 198, &amp;c.
+              </p> -->
+              
+              <fw type="catch" rend="align(right)">Against</fw>
+              
+              <pb n="49"/>
+                    <l>Againſt your peace: thee of thy ſon, Alonſo,</l>
+                    <l>They have bereſt; and do pronounce by me,</l>
+                    <l>Ling'ring perdition, worſe than any death</l>
+                    <l>Can be at once, ſhall ſtep be ſtep attend</l>
+                    <l>You and your ways; whoſe wrath to guard you from,</l>
+                    <l>(Which here in this moſt deſolate Iſle elſe falls</l>
+                    <l>Upon your heads,) is nothing but heart's ſorrow,</l>
+                    <l>And a clear life enſuing.</l>
+                 </lg>
+              </sp>
+                    
+              <stage type="mixed">
+                 <p>
+                    <lb/>He vaniſhes in thunder: then, to ſoft muſick, Enter the
+                    <lb/>ſhapes again, and dance with mopps and mowes, and
+                    <lb/>carrying out the table.
+                 </p>
+              </stage>
+              
+              <sp who="#pro">
+                 <speaker>Pro.</speaker>
+                 <lg>
+                    <l>Bravely the figure of this harpy haſt thou</l>
+                    <l>Perform'd, my Ariel; a grace it had, devouring:</l>
+                    <l>Of my inſtruction haſt thou nothing 'bated,</l>
+                    <l>In what thou hadſt to ſay: ſo with good life,</l>
+                    <l>And obſervation ſtrange, my meaner miniſters</l>
+                    <l>Their ſeveral kinds have done; my high charms work,</l>
+                    <l>And theſe, mine enemies, are all knit up</l>
+                    <l>In their diſtractions: they are in my power;</l>
+                    <l>And in theſe fits I leave them, whilſt I viſit</l>
+                    <l>Young Ferdinand, (whom they ſuppose is drown'd,)</l>
+                    <l>And his and my lov'd darling.</l>
+                 </lg>
+              </sp>
+              <stage type="exit">[Exit Proſpero from above.</stage>
+              <sp who="#gon">
+                 <speaker>Gon.</speaker>
+                 <lg>
+                    <l>I' th' name of ſomething holy, Sir, why ſtand <lb/>you</l>
+                    <l>In this ſtrange ſtare?</l>
+                 </lg>
+              </sp>
+              <sp who="#alo">
+                 <speaker>Alon.</speaker>
+                 <l></l>
+              </sp>
            </div>
         </div>  
      
