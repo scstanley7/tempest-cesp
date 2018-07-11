@@ -104,10 +104,11 @@
             </interpretation>
          </editorialDecl>
          <tagsDecl>
-            <rendition xml:id="rend.head" selector="head">font-size: 120%; text-align: center;</rendition>
-            <namespace name="http://www.tei-c.org/ns/1.0">
-               <tagUsage gi="head">Description of how the tag is used</tagUsage>
-            </namespace>
+            <rendition xml:id="rend.head" selector="head">align(center)break(yes)</rendition>
+            <rendition xml:id="rend.sp" selector="speaker">first-indent(1)break(yes)</rendition>
+            <rendition xml:id="rend.speaker" selector="speaker">slant(italic)</rendition>
+            <rendition xml:id="rend.stage" selector="stage">slant(italic)bestow((slant(upright))(persName))</rendition>
+            <rendition xml:id="break.yes" selector="fw"></rendition>
          </tagsDecl>
          </encodingDesc>
       
@@ -224,12 +225,12 @@
            <head rend="case(allcaps)">The 
               <lb/>Tempest.</head>
             <head type="act" rend="case(allcaps)">Act. I.</head>
-            <stage type="setting">Scene, On a Ship at Sea.</stage>
-            <stage type="setting">A tempeſtuous noiſe of thunder and lightning heard:
-               Enter a Ship-maſter, and a Boatſwain.</stage>
+            <stage type="setting" rend="align(center)"><hi rend="case(allcaps)slant(upright)">Scene</hi>, On a Ship at Sea.</stage>
+              <stage type="setting" rend="align(center)">A tempeſtuous noiſe of thunder and lightning heard:
+               <lb/>Enter a Ship-maſter, and a Boatſwain.</stage>
                <sp who="#mas">
-                  <speaker>Master.</speaker>
-                  <p>Boatſwain,―</p>
+                  <speaker rend="case(smallcaps)slant(upright)">Master.</speaker>
+                  <p><hi rend="class(#DIC)">B</hi><hi rend="case(allcaps)">o</hi>atſwain,―</p>
                </sp>
                <sp who="#boat">
                   <speaker>Boatſ.</speaker>
@@ -237,28 +238,26 @@
                </sp>
                <sp who="#mas">
                   <speaker>Masſ.</speaker>
-                  <p>
-                     <lb/>Good, ſpeak to th' mariners: fall
+                  <p>Good, ſpeak to th' mariners: fall
                      <lb/>to't yarely, or we run our ſelves a-ground;
                      <lb/>beſtir, beſtir.
                   </p>
                </sp>
-            <stage type="exit">[Exit.</stage>
-            <stage type="entrance">Enter Mariners</stage>
+            <stage type="exit" rend="pre([)align(right)">Exit.</stage>
+            <stage type="entrance" rend="align(center)">Enter Mariners</stage>
                <sp who="#boat">
                   <speaker>Boatſ.</speaker>
-                  <p>
-                     <lb/>Hey, my hearts; cheerly, my hearts; yare,
+                  <p>Hey, my hearts; cheerly, my hearts; yare,
                      <lb/>yare; take in the top ſail; tend to th' maſter's whiſtle;
                      <lb/>blow, 'til thou burſt thy wind, if room enough.
                   </p>
                </sp>
-            <stage type="entrance">Enter Alonſo, Sebaſtian, Anthonio, Ferdinand, Gonzalo, and others.</stage>
+              <stage type="entrance" rend="slant(italic)">Enter <persName>Alonſo</persName>, <persName>Sebaſtian</persName>, <persName>Anthonio</persName>, <persName>Ferdinand</persName>, <persName>Gonzalo</persName>, and others.</stage>
                <sp who="#alon">
                   <speaker>Alon.</speaker>
                   <p>
                      <lb/>Good Boatſwain, have care: where's the ma-
-                     <lb/>ſter? play the men.
+                     <lb break="no"/>ſter? play the men.
                   </p>
                </sp>
                <sp who="#boat">
@@ -266,7 +265,13 @@
                   <p>I pray now, keep below.</p>
                </sp>
               
-           <pb/>
+              <fw type="sig" rend="align(center)">B2</fw>
+              <fw type="catch" rend="break(no)slant(italic)"></fw>
+              
+              <milestone unit="sig" n="B2v"/>
+              <pb/>
+              
+              <fw type="pageNum">4</fw>
               
               <sp who='#ant'>
                  <speaker>Ant.</speaker>
@@ -274,8 +279,7 @@
               </sp>
               <sp who="#boat">
                  <speaker>Boatſ.</speaker>
-                 <p>
-                    <lb/>Do you not hear him? you mar our labour;
+                 <p>Do you not hear him? you mar our labour;
                     <lb/>keep your cabins; you do aſſiſt the ſtorm.
                  </p>
               </sp>
@@ -285,8 +289,7 @@
               </sp>
               <sp who="#boat">
                  <speaker>Boatſ.</speaker>
-                 <p>
-                    <lb/>When the ſea is. Hence―what care theſe
+                 <p>When the ſea is. Hence―what care theſe
                     <lb/>Roarers for the name of King? to cabin; ſilence; trou-
                     <lb/>ble us not.
                  </p>
@@ -297,8 +300,7 @@
               </sp>
               <sp who="#boat">
                  <speaker>Boatſ.</speaker>
-                 <p>
-                    <lb/>None, that I more love than my ſelf. You
+                 <p>None, that I more love than my ſelf. You
                     <lb/>are a counſellor; if you can command theſe elements to
                     <lb/>ſilence, and work the peace o'the preſent, we will not
                     <lb/>hand a rope more; uſe your authority. If you can-
@@ -308,11 +310,10 @@
                     <lb/>way, I ſay.
                  </p>
               </sp>
-              <stage type="exit">[Exit.</stage>
+              <stage type="exit" rend="pre([)align(right)">Exit.</stage>
               <sp who="#gon">
                  <speaker>Gonz.</speaker>
-                 <p>
-                    <lb/>I have great comfort from this fellow; me-
+                 <p>I have great comfort from this fellow; me-
                     <lb/>thinks, he hath no drowning mark upon him; his com-
                     <lb/>plexion is perfect gallows. Stand faſt, good fate, to his
                     <lb/>hanging; make the rope of his deſtiny our cable, for
@@ -320,17 +321,14 @@
                     <lb/>hang'd, our caſe is miſerable.
                  </p>
               </sp>
-              <stage type="exit">[Exeunt.</stage>
-              <stage type="entrance">Re-enter Boatſwain.</stage>
+              <stage type="exit" rend="pre([)align(right)">Exeunt.</stage>
+              <stage type="entrance" rend="break(yes)align(center)">Re-enter Boatſwain.</stage>
               <sp who="#boat">
                  <speaker>Boatſ.</speaker>
-                 <p>
-                    <lb/>Down with the top-maſt: yare, lower, lower;
+                 <p>Down with the top-maſt: yare, lower, lower;
                     <lb/>bring her to try with main-courſe. A plague upon this
                     <lb/>howling!―
-                 </p>
-              <stage type="mixed">A cry within. Re-enter Sebaſtian, Anthonio, and Gonzalo.</stage>
-                 <p>
+              <stage type="mixed" rend="break(yes)align(center)">A cry within. Re-enter <persName>Sebaſtian</persName>, <persName>Anthonio</persName>, and <persName>Gonzalo</persName>.</stage>
                     <lb/>they are louder than the weather, or our office. Yet
                     <lb/>again? what do you here? ſhall we give o'er, and drown?
                     <lb/>have you a mind to ſink?
@@ -338,8 +336,7 @@
               </sp>
               <sp who="seb">
                  <speaker>Sebaſ.</speaker>
-                 <p>
-                    <lb/>A pox o' your throat, you bawling, blaſphe-
+                 <p>A pox o' your throat, you bawling, blaſphe-
                     <lb/>mous, uncharitable dog.
                  </p>
               </sp>
@@ -349,20 +346,21 @@
               </sp>
               <sp who="#ant">
                  <speaker>Ant.</speaker>
-                 <p>
-                    <lb/>Hang, cur, hang; you whoreſon, inſolent, noiſe-
+                 <p>Hang, cur, hang; you whoreſon, inſolent, noiſe-
                     <lb/>maker; we are leſs afraid to be drown'd, than thou art.
                  </p>
               </sp>
               <sp who="#gon">
                  <speaker>Gonz.</speaker>
-                 <p>
-                    <lb/>I'll warrant him from drowning, tho' the ſhip
+                 <p>I'll warrant him from drowning, tho' the ſhip
                     <lb/>were no ſtronger than a nut-ſhell, and as leaky as an un-
                     <lb/>ſtanch'd wench.
                  </p>
               </sp>
               
+              <fw type="catch" rend="slant(italic)align(right)">Boatſ.</fw>
+             
+            <milestone unit="sig" n="B3r"/>
             <pb/>
               
               <sp who="#boat">
