@@ -4286,10 +4286,434 @@
               </sp>
               <sp who="#alo">
                  <speaker>Alon.</speaker>
-                 <l></l>
+                 <lg>
+                    <l>O, it is monſtrous! monſtrous!</l>
+                    <l>Methoughts, the billows ſpoke, and told me of it;</l>
+                    <l>The winds did ſing it to me; and the thunder,</l>
+                    <l>That deep anddreadful organ-pipe, pronounc'd</l>
+                    <l>The Name of Proſper: it did baſe my treſpaſs.</l>
+                    <l>Therefore, my ſon i' th' ooze is bedded; and</l>
+                    <l>I'll ſeek him deeper than e'er plummet ſounded,</l>
+                    <l>And with him there lye mudded.</l>
+                 </lg>
+              </sp>
+              <stage type="exit" rend="pre([)align(right)slant(italic)">Exit.</stage>
+              <sp who="#seb">
+                 <speaker>Seb.</speaker>
+                 <lg>
+                    <l>But one fiend at a time,</l>
+                    <l>I'll fight their legions o'er.</l>
+                 </lg>
+              </sp>
+              <sp who="#ant">
+                 <speaker>Ant.</speaker>
+                 <l>I'll be thy ſecond.</l>
+              </sp>
+              <stage type="exit" rend="pre([)align(right)slant(italic)">Exeunt.</stage>
+              <sp who="#gon">
+                 <speaker>Gon.</speaker>
+                 <lg>
+                    <l>All three of them are deſperate; their great guilt,</l>
+                    <l>Like poiſon giv'n to work a great time after,</l>
+                    
+                    <fw type="catch" rend="align(right)">Now</fw>
+                    
+           <pb n="50"/>
+                    
+                    <l>Now 'gins to bite the ſpirits. I do beſeech you,</l>
+                    <l>That are of ſuppler joints, follow them ſwiftly;</l>
+                    <l>And hinder them from what this ecſstaſie</l>
+                    <l>May now provoke them to.</l>
+                 </lg>
+              </sp>
+              <sp who="#adr">
+                 <speaker rend="slant(italic)">Adri.</speaker>
+                 <l>Follow, I pray you.</l>
+              </sp>
+              <stage type="exit" rend="pre([)align(right)slant(italic)">Exeunt.</stage>
+         
+              <!-- Ornament -->
+           
+           </div>
+        </div>
+        
+        <div type="act" n="4">
+           <head rend="case(allcaps)">Act IV.</head>
+           <div type="scene">
+              <stage type="location"><hi rend="case(allcaps)">Scene,</hi> Proſpero's <hi rend="case(allcaps)">Cell</hi>.</stage>
+              <stage type="entrance"><hi rend="slant(italic)">Enter</hi> <persName>Proſpero</persName>, <persName>Ferdinand</persName>,
+               <hi rend="slant(italic)">and</hi> <persName>Miranda</persName>.</stage>
+           
+           <sp who="#pro">
+              <speaker rend="align(center)case(smallcaps)">Prospero.</speaker>
+              <lg>
+                 <l>If I have too auſterely puniſh'd you,</l>
+                 <l>Your compenſation makes amends; for I</l>
+                 <l>Have giv'n you here a thread of mine own life; <!-- (13) --></l>
+                 <l>Or that which I live; whom once again</l>
+                 <l>I tender to thy hand: all thy vexations</l>
+                 <l>Were but my tryals of thy love, and thou</l>
+                 <l>Haſt ſtrangely ſtood the teſt. Here, aſore heaven,</l>
+                 <l>I ratify this my rich gift: O <persName rend="slant(italic)">Ferdinand</persName>,</l>
+                 <l>Do not ſmile at me, that I boaſt her off;</l>
+                 <l>For thou ſhalt find, ſhe will outſtrip all praiſe,</l>
+                 <l>And make it halt behind her.</l>
+              </lg>
+           </sp>
+              <!-- <p>
+                 <lb/>(13)―for I
+                 <lb/>Have giv'n you here a third of my own life,] Thus all the
+                 <lb/>Impreſſions in generl; but why is She only a Third of his own
+                 <lb/>Life? He had no Wife living, nor any other Child, to rob her
+                 <lb/>of a Share in his Affection: So that we may reckon her at leaſt
+                 <lb/>half of himſelf. Nor could he intend, that he lov'd himſelf
+                 <lb/>twice as much as he did her; for he immediately ſubjoins, that
+                 <lb/>it was She for whom he liv'd. In Othello, when Iago alarms the
+                 <lb/>Senator with the loſs of his Daughter, he tells him,
+                 <lb/>Your Heart is burſt, you have loſt half your Soul.
+                 <lb/>And Dimidium anim&amp; me&amp; was the current Language with the
+                 <lb/>Latines on ſuch Occaſions.
+              </p> -->
+              <fw type="catch" rend="align(right)slant(italic)">Fer.</fw>
+              
+           <pb n="51"/>
+              <sp who="#fer">
+                 <speaker rend="slant(italic)">Fer.</speaker>
+                 <lg>
+                    <l>I believe it,</l>
+                    <l>Againſt an oracle.</l>
+                 </lg>
+              </sp>
+              <sp who="#pro">
+                 <speaker rend="slant(italic)">Pro.</speaker>
+                 <lg>
+                    <l>Then as my gift, and thine own aquiſition</l>
+                    <l>Worthily purchas'd, take my Daughter. But</l>
+                    <l>If thou doſt break her virgin-know, before</l>
+                    <l>All ſanctimonious ceremonies may</l>
+                    <l>With full and holy Rite be miniſter'd,</l>
+                    <l>No ſweet aſperſions ſhall the heav'ns let fall</l>
+                    <l>To make this contract grow: but barren hate,</l>
+                    <l>Sour-ey'd diſdain, and diſcord ſhall beſtrew</l>
+                    <l>The union of your bed with weeds ſo loathly,</l>
+                    <l>That you ſhall hate it both: therefore take heed,</l>
+                    <l>As <persName rend="slant(italic)">Hymen</persName>'s lamps ſhall light you.</l>
+                 </lg>
+              </sp>
+              <sp who="#fer">
+                 <speaker rend="slant(italic)">Fer.</speaker>
+                 <lg>
+                    <l>As I hope</l>
+                    <l>For quiet days, fair iſſue, and long life,</l>
+                    <l>With ſuch a love as 'tis now; the murkieſt den,</l>
+                    <l>The moſt opportune place, the ſtrong'ſt ſuggeſtion</l>
+                    <l>Our worſer <persName rend="slant(italic)">Genius</persName> can, ſhall never melt</l>
+                    <l>Mine honour into luſt; to take away</l>
+                    <l>The edge of that day's celebration,</l>
+                    <l>When I ſhall think or <persName rend="slant(italic)">Phoebus'</persName> ſteeds are founder'd,</l>
+                    <l>Or night kept chain'd below.</l>
+                 </lg>
+              </sp>
+              <sp who="#pro">
+                 <speaker rend="slant(italic)">Pro.</speaker>
+                 <lg>
+                    <l>Fairly ſpoke.</l>
+                    <l>Sit then, and talk with her, ſhe is thine own.</l>
+                    <l>What, <persName rend="slant(italic)">Ariel</persName>; my induſtrious ſervant, <persName rend="slant(italic)">Ariel</persName>―</l>
+                 </lg>   
+              </sp>     
+                 
+              <stage type="entrance">Enter Ariel.</stage>
+                 
+              <sp who="#ari">
+                 <speaker rend="slant(italic)">Ari.</speaker>
+                 <l>What would my potent maſter? here I am.</l>
+              </sp>
+              <sp who="#pro">
+                 <speaker rend="slant(italic)">Pro.</speaker>
+                 <lg>
+                    <l>Thou and thy meaner fellows your laſt ſervice</l>
+                    <l>Did worthily perform; and I muſt uſe you</l>
+                    <l>In ſuch another trick; go, bring the rabble,</l>
+                    <l>O'er whom I give thee power, here to this place:</l>
+                    <l>Incite them to quick motion, for I muſt</l>
+                    <l>Beſtow upon the eyes of this young couple</l>
+                    <l>Some vanity of mine art; it is my promiſe,</l>
+                    <l>And they expect it from me.</l>
+                 </lg>
+              </sp>
+              <sp who="#ari">
+                 <speaker rend="slant(italic)">Ari.</speaker>
+                 <l>Preſently?</l>
+              </sp>
+              <sp who="#pro">
+                 <speaker rend="slant(italic)">Pro.</speaker>
+                 <l>Ay, with a twink.</l>
+              </sp>
+              <sp who="#ari">
+                 <speaker rend="slant(italic)">Ari.</speaker>
+                 <lg>
+                    <l>Before you can ſay, Come, and go,</l>
+                    <l>And breathe twice; and cry, ſo, ſo;</l>
+                    
+                    <fw type="catch" rend="align(right)">Each</fw>
+                    
+           <pb n="52"/>      
+                    <l>Each one, tripping on his toe,</l>
+                    <l>Will be here with mop and mow</l>
+                    <l>Do you love me, maſter? no?</l>
+                 </lg>
+              </sp>
+              <sp who="#pro">
+                 <speaker>Pro.</speaker>
+                 <lg>
+                    <l>Dearly, my delicate <persName rend="slant(italic)">Ariel</persName>
+                       ; do not approach,</l>
+                    <l>'Till thou doſt hear me call.</l>
+                 </lg>
+              </sp>
+              <sp who="#ari">
+                 <speaker>Ari.</speaker>
+                 <l>Well, I conceive.</l>
+              </sp>
+              <stage type="exit" rend="pre([)align(right)slant(italic)">Exit.</stage>
+              <sp who="#pro">
+                 <speaker>Pro.</speaker>
+                 <lg>
+                    <l>Look, thou be true; do not give dalliance</l>
+                    <l>Too much the rein; the ſtrongeſt oaths are ſtraw</l>
+                    <l>To th' fire i'th' blood: be more abſtemious,</l>
+                    <l>Or elſe, good-night, your vow!―</l>
+                 </lg>
+              </sp>
+              <sp who="#fer">
+                 <speaker>Fer.</speaker>
+                 <lg>
+                    <l>I warrant you, Sir;</l>
+                    <l>The white, cold, virgin-ſnow upon my heart</l>
+                    <l>Abates the ardour of my liver.</l>
+                 </lg>
+              </sp>
+              <sp who="#pro">
+                 <speaker>Pro.</speaker>
+                 <lg>
+                    <l>Well.</l>
+                    <l>Now come, my <persName rend="slant(italic)">Ariel</persName>; bring a corollary,</l>
+                    <l>Rather than want a ſpirit; appear, and pertly―</l>
+                    <l>No tongue; all eyes; be ſilent.</l>
+                 </lg>
+              </sp>
+              <stage type="delivery" rend="pre([)align(right)">To <persName>Ferdinand</persName>.</stage>
+              <stage type="setting" rend="pre([)align(right)">Soft Muſick.</stage>
+           </div>
+           <!-- below may or may not be a new scene; heading style may imply new 
+              scene hence the new div-->
+           <div type="scene">
+              <head rend="case(allcaps)">A Masque.</head>
+              <stage type="entrance">Enter <persName>Iris</persName></stage>
+              
+              <sp who="#iris">
+                 <speaker>Iris.</speaker>
+                 <lg>
+                    <l><persName rend="slant(italic)">Ceres</persName>, most bounteous
+                    lady, thy rich leas</l>
+                    <l>Of wheat, rye, barley, fetches, oats, and peaſe;</l>
+                    <l>Thy turfy mountains, where live nibling ſheep,</l>
+                    <l>And flat meads thatch'd with ſtover, them to keep;</l>
+                    <l>Thy banks with pionied, and tulip'd brims,</l>
+                    <l>Which ſpungy <persName rend="slant(italic)">April</persName> at thy heſt betrims,</l>
+                    <l>To make cold nymphs chaſe crowns; and thy broom-
+                    <lb/>groves,</l>
+                    <l>Whoſe ſhadow the diſmiſſed batchelor loves,</l>
+                    <l>Being laſs-lorn; thy pole-clipt vineyard,</l>
+                    <l>And thy ſea-marge ſteril, and rocky hard,</l>
+                    <l>Where thou thy ſelf do'ſt air; the Queen o'th' sky,</l>
+                    <l>Whoſe wat'try arch and meſſenger am I,</l>
+                    <l>Bids thee leave theſe; and with her Sov'reign Grace,</l>
+                    <l>Here on this graſs-plot, in this very place,</l>
+                    <l>To come and ſport; her peacocks fly amain:</l>
+                    <l>Approach, rich <persName rend="slant(italic)">Ceres</persName>, her to entertain.</l>
+                 </lg>
+              </sp>
+              <fw type="catch" rend="align(right)slant(italic)">Enter</fw>
+              
+              <pb n="53"/>
+              <stage type="entrance" rend="align(center)">Enter <persName>Ceres</persName>.</stage>
+           
+              <sp who="#ceres">
+                 <speaker>Cer.</speaker>
+                 <lg>
+                    <l>Hail, many-colour'd meſſenger, that ne'er</l>
+                    <l>Do'ſt diſobey the wife of <persName rend="slant(italic)">Jupiter</persName>:</l>
+                    <l>Who, with thy ſaffron wings, upon my flowers</l>
+                    <l>Diffuſeſt honey drops, refreſhing ſhowers;</l>
+                    <l>And with each end of thy blue bow do'ſt crown</l>
+                    <l>My bosky acres, and my unſhrub'd down,</l>
+                    <l>Rich ſcarf to my proud earth; why hath thy Queen</l>
+                    <l>Summon'd me hither, to this ſhort-graſs green?</l>
+                 </lg>
+              </sp>
+              <sp who="#iris">
+                 <speaker>Iris.</speaker>
+                 <lg>
+                    <l>A contract of true love to celebrate,</l>
+                    <l>And ſome donation freely to eſtate</l>
+                    <l>On the bleſs'd lovers.</l>
+                 </lg>
+              </sp>
+              <sp who="#ceres">
+                 <speaker>Cer.</speaker>
+                 <lg>
+                    <l>Tell me, heav'nly bow,</l>
+                    <l>If <persName rend="slant(italic)">Venus</persName> or her ſon, as thou do'st know,</l>
+                    <l>Do now attend the Queen: ſince they did plot</l>
+                    <l>The means, that dusky <persName rend="slant(italic)">Dis</persName> my daughter got,</l>
+                    <!-- right aligned brace begins here -->
+                    <l>Her and her blind boy's ſcandal'd company</l>
+                    <l>I have forſworn.</l>
+                 </lg>
+              </sp>
+              <sp who="#iris">
+                 <speaker>Iris.</speaker>
+                 <lg>
+                    <l>Of her ſociety</l>
+                    <l>Be not afraid; I met her deity</l>
+                    <!-- end brace -->
+                    <l>Cutting the clouds towards <persName rend="slant(italic)">Paphos</persName>, and her ſon</l>
+                    <l>Dove-drawn with her; here thought they to have done</l>
+                    <l>Some wanton charm upon this man and maid,</l>
+                    <l>Whoſe vows are, that no bed-right ſhall be paid</l>
+                    <l>'Till <persName rend="slant(italic)">Hymen</persName>'s torch be lighted; but in vain</l>
+                    <l><persName rend="slant(italic)">Mars</persName>'s hot minion is return'd again;</l>
+                    <l>Her waſpiſh-headed ſon has broke his arrows;</l>
+                    <l>Swears, he will ſhoot no more, but play with ſparrows,</l>
+                    <l>And be a boy right-out.</l>
+                 </lg>
+              </sp>
+              <sp who="#ceres">
+                 <speaker>Cer.</speaker>
+                 <lg>
+                    <l>High Queen of ſtate,</l>
+                    <l>Great <persName rend="slant(italic)">Juno</persName>, comes; I know her by her gate.</l>
+                 </lg>
+              </sp>
+              <stage type="entrance" rend="pre([)align(right)"><persName>Juno</persName> deſcends, and enters.</stage>
+              <sp who="#juno">
+                 <speaker>Jun.</speaker>
+                 <lg>
+                    <l>How does my bounteous ſiſter? go with me</l>
+                    <l>To bleſs this twain, that they may proſp'rous be,</l>
+                    <l>And honour'd in their iſſue.</l>
+                 </lg>
+              </sp>
+              <sp who="#juno" rend="slant(italic)">
+                 <speaker>Jun.</speaker>
+                 <lg>
+                    <l>Honour, riches, marriage-bleſſing,</l>
+                    <l>Long continuance and encreaſing,</l>
+                    <l>Hourly joys be ſtill upon you!</l>
+                    <l><persName rend="slant(upright)">Juno</persName> ſings her bleſſings on you:</l>
+                 </lg>
+              </sp>
+              <fw type="catch" rend="align(right)">Cer.</fw>
+              
+           <pb n="54"/>
+              <sp who="#ceres" rend="slant(italic)">
+                 <speaker>Cer.</speaker>
+                 <lg>
+                    <l>Earth's increaſe, and foyſon-plenty, <!-- (14) --></l>
+                    <l>Barns and garners never empty,</l>
+                    <l>Vines, with cluſtring bunches growing,</l>
+                    <l>Plants, with goodly burthen bowing,</l>
+                    <l>Spring come to you, at the fartheſt,</l>
+                    <l>In the very end of harveſt!</l>
+                    <l>Scarcity and want ſhall ſhun you;</l>
+                    <l><persName rend="slant(upright)">Cere</persName>'s bleſſing ſo is on you.</l>
+                 </lg>
+              </sp>   
+              <sp who="#fer">
+                 <speaker>Fer.</speaker>
+                 <lg>
+                    <l>This is a moſt majeſtick viſion, and</l>
+                    <l>Harmonious charmingly: may I be bold</l>
+                    <l>To think theſe ſpirits?</l>
+                 </lg>
+              </sp>
+              <sp who="#pro">
+                 <speaker>Pro.</speaker>
+                 <lg>
+                    <l>Spirits, which by mine art</l>
+                    <l>I have from their confines call's to enact</l>
+                    <l>My preſent fancies.</l>
+                 </lg>
+              </sp>
+              <sp who="#fer">
+                 <speaker>Fer.</speaker>
+                 <lg>
+                    <l>Let me live here ever;</l>
+                    <l>So rare a wonder'd father, and a wife,</l>
+                    <l>Make this place paradiſe.</l>
+                 </lg>
+              </sp>
+              <sp who="#pro">
+                 <speaker>Pro.</speaker>
+                 <lg>
+                    <l>Sweet now, ſilence:</l>
+                    <l><persName rend="slant(italic)">Juno</persName> and 
+                       <persName rend="slant(italic)">Ceres</persName> whisper ſeriously;</l>
+                    <l>There's ſomething elſe to do; huſh, and be mute,</l>
+                    <l>Or elſe our ſpell is marr'd.</l>
+                 </lg>
+              </sp>
+              <stage type="business" rend="align(center)"><persName>Juno</persName> and <persName>Ceres</persName> 
+                 whiſper, and ſend <persName>Iris</persName> on imployment.</stage>
+              <sp who="#iris">
+                 <speaker>Iris.</speaker>
+                 <lg>
+                    <l>You nymphys, call'd <name rend="slant(italic)">Nayads</name>, 
+                    of the winding <lb/>brooks,</l>
+                    <l>With your ſedg'd crowns, and ever-harmleſs looks,</l>
+                    <l>Leave your criſp channels, and on this green land</l>
+                    <l>Anſwer your ſummons, <persName rend="slant(italic)">Juno</persName> does command:</l>
+                    <l>Come, temperate nymphs, and help to celebrate</l>
+                    <l>A contract of true love; be not too late.</l>
+                    
+                    <stage type="entrance" rend="align(center)">Enter certain <name>Nymphs</name>.</stage>
+                    
+                    <l>You ſun-burn'd ſicklemen, of <persName rend="slant(italic)">August</persName> weary,</l>
+                    <l>Come hither from the furrow, and be merry;</l>
+                 
+                    <!--<p>
+                    <lb/>(14) Earth's Increase.] All the Editions, that I have ever ſeen,
+                    <lb/>concur in placing this whole Sonnet to Juno: but very abſurdly,
+                    <lb/>in my Opinion. I believe, every accurate Reader, who is ac-
+                    <lb break="no"/>quainted with poetical Hiſtory, and the diſtinct Offices of theſe
+                    <lb/>two Goddeſſes, and who then ſeriously reads over our Author's
+                    <lb/>Lines, will agree with Me, that Ceres's Name ought to have
+                    <lb/>been placed where I have now prefix'd it.
+                 </p> -->
+                    <fw type="catch" rend="align(right)">Make</fw>
+                    
+           <pb n="55"/>
+                    <l>Make holy-day; your rye-ſtraw hats put on,</l>
+                    <l>And theſe freſh nymphs encounter every one</l>
+                    <l>In ountry footing.</l>
+                 </lg>
+              </sp>
+              
+              <stage type="mixed"><lb/>Enter certain reapers, properly habited; they join with the
+                 <lb/>nymphs in a graceful dance; towards the end whereof,
+                 <lb/><persName>Proſpero</persName> ſtarts ſuddenly, and ſpeaks; after which, to a
+                 <lb/>ſtrange, hollow and confuſed noiſe, they vaniſh heavily.</stage>
+              
+              <sp who="#pro">
+                 <speaker>Pro.</speaker>
+                 <lg>
+                    <l>I had forgot that foul conſpiracy</l>
+                 </lg>
               </sp>
            </div>
-        </div>  
+        </div>
      
         </body>
     </text>
