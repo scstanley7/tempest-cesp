@@ -583,7 +583,7 @@
                   <speaker>Pro.</speaker>
                   <lg>
                      <l>'Tis twelve years ſince, Miranda; twelve years ſince,</l>
-                     <l>Thy father was the Duke of Milan, and</l>
+                     <l>Thy father was the Duke of <placeName rend="slant(italic)">Milan</placeName>, and</l>
                      <l>A Prince of Pow'r.</l>
                   </lg>
                </sp>
@@ -709,13 +709,13 @@
                   <lg>
                      <l>To have no ſcreen between this part he plaid,</l>
                      <l>And him he plaid it for, he needs will be</l>
-                     <l>Abſsolute Milan. Me, poor man!―my library</l>
+                     <l>Abſsolute <placeName rend="slant(italic)">Milan</placeName>. Me, poor man!―my library</l>
                      <l>Was Dukedom large enough; of temporal royalties</l>
                      <l>He thinks me now incapable: confederates</l>
                      <l>(So dry he was for ſway) wi'th' King of Naples</l>
                      <l>To give him annual tribute, do him homage;</l>
                      <l>Subject his coronet to his crown; and bend</l>
-                     <l>The Dukedom, yet unbow'd, (alas, poor Milan!)</l>
+                     <l>The Dukedom, yet unbow'd, (alas, poor <placeName rend="slant(italic)">Milan</placeName>!)</l>
                      <l>To moſt ignoble ſtooping.</l>
                   </lg>
                </sp>
@@ -1585,7 +1585,7 @@
                <sp who="#fer">
                   <speaker>Fer.</speaker>
                   <lg>
-                     <l>Yes, faith, and all his lords: the Duke of Milan,</l>
+                     <l>Yes, faith, and all his lords: the Duke of <placeName rend="slant(italic)">Milan</placeName>,</l>
                      <l>And his brave ſon, being twain. <!-- (6) footnote --></l>
                   </lg>
                </sp>
@@ -2186,7 +2186,7 @@
                      <l>My ſon is loſt; and, in my rate, ſhe too;</l>
                      <l>Who is ſo far from Italy remov'd,</l>
                      <l>I ne'er again ſhall ſee her: O thou mine heir</l>
-                     <l>Of Naples and of Milan, what ſtrange fiſh</l>
+                     <l>Of Naples and of <placeName rend="slant(italic)">Milan</placeName>, what ſtrange fiſh</l>
                      <l>Hath made his meal on thee?</l>
                   </lg>
                </sp>
@@ -2230,7 +2230,7 @@
                      <l>By all of us; and the fair ſoul herſelf</l>
                      <l>Weigh'd between lothneſs and obedience, at</l>
                      <l>Which end the beam ſhould bow. We've loſt you ſon,</l>
-                     <l>O fear, for ever: Milan and Naples have</l>
+                     <l>O fear, for ever: <placeName rend="slant(italic)">Milan</placeName> and Naples have</l>
                      <l>More widows in them of this buſineſs' making,</l>
                      <l>Than we bring men to comfort them:</l>
                      <l>The fault's your own.</l>
@@ -2698,7 +2698,7 @@
                      <l>Ay, Sir: where lyes that?</l>
                      <l>If 'twere a kybe, 'twould put me to my ſlipper:</l>
                      <l>But I feel not this deity in my boſom.</l>
-                     <l>Ten conſciences, that ſtand 'twixt me and Milan,</l>
+                     <l>Ten conſciences, that ſtand 'twixt me and <placeName rend="slant(italic)">Milan</placeName>,</l>
                      <l>Candy'd be they, and melt, e'er they moleſt!</l>
                      <l>Here lyes your brother―</l>
                      <l>No better than the earth he lyes upon,</l>
@@ -2717,7 +2717,7 @@
                   <speaker>Seb.</speaker>
                   <lg>
                      <l>Thy caſe, dear friend,</l>
-                     <l>Shall be my precedent: as thou got'ſt Milan,</l>
+                     <l>Shall be my precedent: as thou got'ſt <placeName rend="slant(italic)">Milan</placeName>,</l>
                      <l>I'll come by Naples. Draw thy ſword; one ſtroke</l>
                      <l>Shall free thee from the tribute which thou pay'ſt;</l>
                      <l>And I the King ſhall love thee.</l>
@@ -4219,7 +4219,7 @@
                     <l>Your ſwords are now too maſſie for your ſtrengths,</l>
                     <l>And will not be up-lifted. But remember,</l>
                     <l>(For that's my buſineſs to you) that you three</l>
-                    <l>From Milan did ſupplant good Proſpero:</l>
+                    <l>From <placeName rend="slant(italic)">Milan</placeName> did ſupplant good Proſpero:</l>
                     <l>Expos'd unto the ſea (which hath requit it)</l>
                     <l>Him, and his innocent child: for which foul deed</l>
                     <l>The powers delaying, not forgetting, have</l>
@@ -4710,10 +4710,634 @@
                  <speaker>Pro.</speaker>
                  <lg>
                     <l>I had forgot that foul conſpiracy</l>
+                    <l>Of the beaſt <persName rend="slant(italic)">Caliban</persName>, and his confed'rates,</l>
+                    <l>Againſt my life; the minute of their plot</l>
+                    <l>Is almoſt come. Well done, avoid; no more.</l>
+                 </lg>
+              </sp>
+              <sp who="#fer">
+                 <speaker>Fer.</speaker>
+                 <lg>
+                    <l>This is moſt ſtrange; your father's in ſome paſſion</l>
+                    <l>That works him ſtrongly.</l>
+                 </lg>
+              </sp>
+              <sp who="#mira">
+                 <speaker>Mir.</speaker>
+                 <lg>
+                    <l>Never 'till this day</l>
+                    <l>Saw I him touch'd with anger ſo diſtemper'd.</l>
+                 </lg>
+              </sp>
+              <sp who="#pro">
+                 <speaker>Pro.</speaker>
+                 <lg>
+                    <l>You look, my ſon, in a mov'd ſort,</l>
+                    <l>As if you were diſmay'd; be chearful, Sir:</l>
+                    <l>Our revels now are ended: theſe our actors,</l>
+                    <l>As I foretold you, were all ſpirits, and</l>
+                    <l>Are melted into air, into thin air;</l>
+                    <l>And, like the baſeleſs fabrick of this viſion,</l>
+                    <l>The cloud-capt towers, the gorgeous palaces,</l>
+                    <l>The ſolemn temples, the great globe it ſelf,</l>
+                    <l>Yea, all, which it inherit, ſhall diſſolve;</l>
+                    <l>And, like this inſubstantial pageant faded,</l>
+                    <l>Leave not a rack behind! we are ſuch ſtuff</l>
+                    <l>As dreams are made on, and our little life</l>
+                    <l>Is rounded with a ſleep.―Sir, I am vext;</l>
+                    <l>Bear with my weakness, my old brain is troubled:</l>
+                    <l>Be not diſturb'd with my infirmity;</l>
+                    <l>If thou be pleas'd, retire into my cell,</l>
+                    <l>And there repoſe: a turn or two I'll walk,</l>
+                    <l>To ſtill my beating mind.</l>
+                 </lg>
+              </sp>
+              <sp who="#fer #mira">
+                 <speaker>Fer. Mira.</speaker>
+                 <l>We wiſh your peace.</l>
+              </sp>
+              <stage type="exit" rend="pre([)">Exe. <persName>Fer.</persName> and <persName>Mir.</persName></stage>
+              <sp who="#pro">
+                 <speaker>Pro.</speaker>
+                 <l>Come with a thought;―I thank you:―
+                 <lb/><persName rend="slant(italic)">Ariel</persName>, come.</l>
+              </sp>
+              <stage type="mixed" rend="slant(italic)"><persName>Proſpero</persName> comes forward from the Cell; enter <persName>Ariel</persName> to him.</stage>
+              <sp who="#ari">
+                 <speaker>Ari.</speaker>
+                 <l>Thy thoughts I cleave to; what's thy pleaſure?</l>
+              </sp>
+              <fw type="catch" rend="align(right)slant(italic)">Pro.</fw>
+              
+           <pb n="56"/>  
+              
+              <sp who="#pro">
+                 <speaker>Pro.</speaker>
+                 <lg>
+                    <l>Spirit,</l>
+                    <l>We muſt prepare to meet with <persName rend="slant(italic)">Caliban</persName>.</l>
+                 </lg>
+              </sp>
+              <sp who="#ari">
+                 <speaker>Ari.</speaker>
+                 <lg>
+                    <l>Ay, my commander; when I preſented <persName rend="slant(italic)">Ceres</persName>,</l>
+                    <l>I though to have told thee of it; but I fear'd,</l>
+                    <l>Left I might anger thee.</l>
+                 </lg>
+              </sp>
+              <sp who="#pro">
+                 <speaker>Pro.</speaker>
+                 <l>Say again, where didſt thou leave theſe varlets?</l>
+              </sp>
+              <sp who="#ari">
+                 <speaker>Ari.</speaker>
+                 <lg>
+                    <l>I told you, Sir, they were red hot with drinking;</l>
+                    <l>So full of valour, that they ſmote the air</l>
+                    <l>For breathing in their faces; beat the ground</l>
+                    <l>For kiſſing in their feet; yet always bending</l>
+                    <l>At which, like unbackt colt, they priſckt their ears,</l>
+                    <l>Advanc'd their eye-lids, lifted up their noſes,</l>
+                    <l>As they ſmelt muſick; ſo I charm'd their ears,</l>
+                    <l>That, calf-like, they my lowing follow'd through</l>
+                    <l>Tooth'd briars, ſharp furzes, pricking goſs and thorns,</l>
+                    <l>Which enter'd their frail ſhins: at laſt I left them</l>
+                    <l>I'th' filthy mantled pool beyond your cell,</l>
+                    <l>There dancing up to th' chins, that the foul lake</l>
+                    <l>O'er ſtunk their feet.</l>
+                 </lg>
+              </sp>
+              <sp who="#pro">
+                 <speaker>Pro.</speaker>
+                 <lg>
+                    <l>This was well done, my bird;</l>
+                    <l>Thy ſhape inviſible retain thou ſtill;</l>
+                    <l>The trumpery in my houſe, go bring it hither,</l>
+                    <l>For ſtale to catch theſe thieves.</l>
+                 </lg>
+              </sp>
+              <sp who="#ari">
+                 <speaker>Ari.</speaker>
+                 <l>I go, I go.</l>
+              </sp>
+              <stage type="#exit" rend="pre([)align(right)slant(italic)">Exit.</stage>
+              <sp who="#pro">
+                 <speaker>Pro.</speaker>
+                 <lg>
+                    <l>A devil, a born devil, on whoſe nature</l>
+                    <l>Nurture can never ſtick; on whom my pains,</l>
+                    <l>Humanely taken, all, all loſt, quite loſt;</l>
+                    <l>And, as with age, his body uglier grows,</l>
+                    <l>So his mind cankers; I will plague them all,</l>
+                    <l>Even to roaring: come, hang them on this line.</l>
+                 </lg>
+              </sp>
+              <stage type="modifier" rend="pre([)align(right)slant(italic)">
+                 <persName>Proſpero</persName> remains inviſible.</stage>
+              
+              <stage type="mixed" rend="align(center)slant(italic)">Enter <persName>Ariel</persName> loaden with gliſtering apparel, &amp;c. Enter
+              <lb/><persName>Caliban</persName>, <persName>Stephano</persName>, and <persName>Trinculo</persName>, all wet.</stage>
+              
+              <sp who="#cal">
+                 <speaker>Cal.</speaker>
+                 <lg>
+                    <l>Pray you, tread ſoftly, that the blind mole may
+                    <lb/>not</l>
+                    <l>Hear a foot fall; we now are near his cell.</l>
+                 </lg>
+              </sp>
+              <sp who="#ste">
+                 <speaker>Ste.</speaker>
+                 <p> <!-- not sure how to encode "Fairy" to reference Ariel;
+                 also check the word "Jack"; not sure if I read that capital correctly-->
+                    <lb/>Monſter, your Fairy, which you ſay is a harmleſs
+                    <lb/>Fairy, has done little better than plaid the Jack with us.
+                 </p>
+              </sp>
+              <fw type="catch" rend="align(right)slant(italic)">Trin.</fw>
+              
+              <pb n="57"/>
+              
+              <sp who="#tri">
+                 <speaker>Trin.</speaker>
+                 <p>
+                    <lb/>Monſter, I do ſmell all horſe-piſs, at which my
+                    <lb/>noſe is in great indignation.
+                 </p>
+              </sp>
+              <sp who="#ste">
+                 <p>
+                    <lb/>So is mine: do you hear, monſter? if I ſhould
+                    <lb/>take a diſpleaſure againſt you; look you―
+                 </p>
+              </sp>
+              <sp who="#tri">
+                 <speaker>Trin.</speaker>
+                 <p>Thou wer't but a loſt monſter.</p>
+              </sp>
+              <sp who="#cal">
+                 <speaker>Cal.</speaker>
+                 <lg>
+                    <l>Good my lord, give me thy favour ſtill:</l>
+                    <l>Be patient, for the prize, I'll bring thee to,</l>
+                    <l>Shall hood-wink this miſchance; therefore, ſpeak ſoftly:</l>
+                    <l>All's huſht as midnight yet.</l>
+                 </lg>
+              </sp>
+              <sp who="#tri">
+                 <speaker>Trin.</speaker>
+                 <p>Ay, but to loſe our bottles in the pool,―</p>
+              </sp>
+              <sp who="#ste">
+                 <speaker>Ste.</speaker>
+                 <p>
+                    <lb/>There is not only diſgrace and diſhonour in that,
+                    <lb/>monſter, but an infinite loſs.
+                 </p>
+              </sp>
+              <sp who="#tri">
+                 <speaker>Trin.</speaker>
+                 <p>
+                    <lb/>That's more to me than my wetting: yet this is
+                    <lb/>your harmleſs Fairy, monſter.
+                 </p>
+              </sp>
+              <sp who="#ste">
+                 <speaker>Ste.</speaker>
+                 <p>
+                    <lb/>I will fetch off my bottle, though I be o'er ears
+                    <lb/>for my labour.
+                 </p>
+              </sp>
+              <sp who="#cal">
+                 <speaker>Cal.</speaker>
+                 <lg>
+                    <l>Pr'ythee, my King, be quiet: ſeeſt thou here,</l>
+                    <l>This is the mouth o'th' cell; no noiſe, and enter;</l>
+                    <l>Do that good miſchief, which may make this Iſland</l>
+                    <l>Thine own for ever; and I, thy <persName rend="slant(italic)">Caliban</persName>,</l>
+                    <l>For ay thy foot-licker.</l>
+                 </lg>
+              </sp>
+              <sp who="#ste">
+                 <speaker>Ste.</speaker>
+                 <p>
+                    <lb/>Give me thy hand: I do begin to have bloody
+                    <lb/>thoughts.
+                 </p>
+              </sp>
+              <sp who="#tri">
+                 <speaker>Trin.</speaker>
+                 <p>
+                    <lb/>O King <persName rend="slant(italic)">Stephano</persName>! O Peer! O worthy <persName rend="slant(italic)">Stephano</persName>!
+                    <lb/>Look, what a wardrobe here is for thee!
+                 </p>
+              </sp>
+              <sp who="#cal">
+                 <speaker>Cal.</speaker>
+                 <l>Let it alone, thou fool, it is but traſh.</l>
+              </sp>
+              <sp who="#tri">
+                 <speaker>Trin.</speaker>
+                 <p>
+                    <lb/>Oh, oh, monſter; we know what belongs to a
+                    <lb/>frippery;―O, King <persName rend="slant(italic)">Stephano</persName>!
+                 </p>
+              </sp>
+              <sp who="#ste">
+                 <speaker>Ste.</speaker>
+                 <p>
+                    <lb/>Put off that gown, <persName rend="slant(italic)">Trinculo</persName>; by this hand, I'll
+                    <lb/>have that gown.
+                 </p>
+              </sp>
+              <sp who="#tri">
+                 <speaker>Trin.</speaker>
+                 <p>Thy grace ſhall have it.</p>
+              </sp>
+              <sp who="#cal">
+                 <speaker>Cal.</speaker>
+                 <lg>
+                    <l>The dropſie drown this fool! what do you mean,</l>
+                    <l>To doat thus on ſuch luggage? let's along,</l>
+                    <l>And do the murder firſt: if he awake,</l>
+                    <l>From toe to crown he'll fill our skins with pinches;</l>
+                    <l>Make us ſtrange ſtuff.</l>
+                 </lg>
+              </sp>
+              <sp who="#ste">
+                 <speaker>Ste.</speaker>
+                 <p>
+                    <lb/>Be you quiet, monſter. Miſtreſs line, is not
+                    <lb/>this my jerkin? now is the jerkin under the line: now,
+                    <lb/>jerkin, you are like to loſe your hair, and prove a bald
+                    <lb/>jerkin.
+                 </p>
+              </sp>
+              <fw type="catch" rend="align(right)slant(italic)">Trin.</fw>
+              
+           <pb n="58"/>
+              
+              <sp who="#tri">
+                 <speaker>Trin.</speaker>
+                 <p>
+                    <lb/>Do, do; we ſteal by line and level, and't like
+                    <lb/>your Grace.
+                 </p>
+              </sp>
+              <sp who="#ste">
+                 <speaker>Ste.</speaker>
+                 <p>
+                    <lb/>I thank thee for that jeſt, here's a garment for't:
+                    <lb/>wit ſhall not go unrewarded, while I am King of this
+                    <lb/>country: ſteal by line and level, is an excellent paſs of
+                    <lb/>pate; there's another garment for't.
+                 </p>
+              </sp>
+              <sp who="#tri">
+                 <speaker>Tri.</speaker>
+                 <p>
+                    <lb/>Monſter, come, put ſome lime upon your fin-
+                    <lb break="no"/>gers, and away with the reſt.
+                 </p>
+              </sp>
+              <sp who="#cal">
+                 <speaker>Cal.</speaker>
+                 <lg>
+                    <l>I will have none on't; we ſhall loſe our time,</l>
+                    <l>And all be turn'd to barnacles, or apes</l>
+                    <l>With foreheads villanous low.</l>
+                 </lg>
+              </sp>
+              <sp who="#ste">
+                 <speaker>Ste.</speaker>
+                 <p>
+                    <lb/>Monſter, lay to your fingers; help to bear this
+                    <lb/>away, where my hogſhead of wine is, or I'll turn you out
+                    <lb/>of my kingdom; go to, carry this.
+                 </p>
+              </sp>
+              <sp who="#tri">
+                 <speaker>Trin.</speaker>
+                 <p>And this.</p>
+              </sp>
+              <sp who="#ste">
+                 <speaker>Ste.</speaker>
+                 <p>Ay, and this.</p>
+              </sp>
+              
+              <stage type="mixed" rend="slant(italic)">
+                 <lb/>A noiſe of hunters heard. Enter divers ſpirits in ſhape of
+                 <lb/>hounds, hunting them about; <persName>Proſpero</persName> and <persName>Ariel</persName> ſetting
+                 <lb/>them on. <persName>Calib.</persName> <persName>Steph.</persName> and <persName>Trinc.</persName> driven out, roaring.
+              </stage>
+              
+              <sp who="#pro">
+                 <speaker>Pro.</speaker>
+                 <l>Hey, <hi rend="slant(italic)">Mountain</hi>, hey.</l>
+              </sp>
+              <sp who="#ari">
+                 <speaker>Ari.</speaker>
+                 <l><hi rend="slant(italic)">Silver</hi>; there it goes, <hi rend="slant(italic)">Silver</hi>.</l>
+              </sp>
+              <sp who="#pro">
+                 <speaker>Pro.</speaker>
+                 <lg>
+                    <l><hi rend="slant(italic)">Fury</hi>, <hi rend="slant(italic)">Fury</hi>; there, <hi rend="slant(italic)">Tyrant</hi>, there; hark, hark;</l>
+                    <l>Go, charge my goblins that they grind their joints</l>
+                    <l>With dry convulſions; ſhorten up their ſinews</l>
+                    <l>With aged cramps; and more pinch-ſpotted make them,</l>
+                    <l>Than pard, or cat o' mountain.</l>
+                 </lg>
+              </sp>
+              <sp who="#ari">
+                 <speaker>Ari.</speaker>
+                 <l>Hark, they roar.</l>
+              </sp>
+              <sp who="#pro">
+                 <speaker>Pro.</speaker>
+                 <lg>
+                    <l>Let them be hunted ſoundly. At this hour</l>
+                    <l>Lye at my mercy all mine enemies:</l>
+                    <l>Shortly ſhall all my labours end, and thou</l>
+                    <l>Shalt have the air at freedom; for a little,</l>
+                    <l>Follow, and do me ſervice.</l>
+                 </lg>
+              </sp>
+              <stage type="exit" rend="pre([)align(right)slant(italic)">Exeunt.</stage>
+              
+              <!-- ornament -->
+              <fw type="catch" rend="align(right)case(allcaps)">Act</fw>
+           </div>
+        </div>
+          
+        <pb n="59"/>
+        <div type="act" n="5">
+           <head rend="align(center)case(allcaps)">Act V.</head>
+           <div type="scene">
+              <stage type="location" rend="align(center)">Scene, before the Cell.</stage>
+              <stage type="entrance" rend="align(center)slant(italic)">Enter <persName>Proſpero</persName> in his magick Robes, and <persName>Ariel</persName>.</stage>
+
+               <sp who="#pro">
+                  <speaker rend="align(center)case(smallcaps)">Prospero.</speaker>
+                  <lg>
+                     <l>Now does my project gather to a head;</l>
+                     <l>My charms crack not; my ſpirits obey, and
+                     <lb/>time</l>
+                     <l>Goes upright with his carriage: how's the day?</l>
+                  </lg>
+               </sp>
+              <sp who="#ari">
+                 <speaker>Ari.</speaker>
+                 <lg>
+                    <l>On the fixth hour, at which time, my lord,</l>
+                    <l>You ſaid, our work ſhould ceaſe.</l>
+                 </lg>
+              </sp>
+              <sp who="#pro">
+                 <speaker>Pro.</speaker>
+                 <lg>
+                    <l>I did ſay ſo,</l>
+                    <l>When firſt I rais'd the tempeſt; ſay, my ſpirit,</l>
+                    <l>How fares the King and's followers?</l>
+                 </lg>
+              </sp>
+              <sp who="#ari">
+                 <speaker>Ari.</speaker>
+                 <lg>
+                    <l>Confin'd</l>
+                    <l>In the ſame faſhion as you gave in charge;</l>
+                    <l>Juſt as you left them, all your priſoners, Sir,</l>
+                    <l>In the <placeName rend="slant(italic)">Lime-Grove</placeName> which weather-fends your cell.</l>
+                    <l>They cannot budge, 'till your releaſe. The King</l>
+                    <l>His brother, and yours, abide all three diſtracted;</l>
+                    <l>And the remainder mourning over them,</l>
+                    <l>Brim-full of ſorrow and diſmay; but, chiefly,</l>
+                    <l>Him that you term'd the good old lord <persName rend="slant(italic)">Gonzalo</persName>.</l>
+                    <l>His tears run down his beard, like winter drops</l>
+                    <l>From eaves of reeds; your charm ſo ſtrongly works 'em,</l>
+                    <l>That if you now beheld them, your afections</l>
+                    <l>Would become tender.</l>
+                 </lg>
+              </sp>
+              <sp who="#pro">
+                 <speaker>Pro.</speaker>
+                 <l>Do'ſt thou think ſo, ſpirit?</l>
+              </sp>
+              <sp who="#ari">
+                 <speaker>Ari.</speaker>
+                 <l>Mine would, sir, were I human.</l>
+              </sp>
+              <sp who="#pro">
+                 <speaker>Pro.</speaker>
+                 <lg>
+                    <l>And mine ſhall.</l>
+                    <l>Haſt thou, which art but air, a touch, a feeling</l>
+                    <l>Of their afflictions, and ſhall not myself,</l>
+                    <l>One of their kind, that reliſh all as ſharply,</l>
+                    <l>Paſſion as they, be kindlier mov'd than thou art?</l>
+                    
+                 <fw type="catch" rend="align(right)">Tho'</fw>
+                    
+           <pb n="60"/>
+                    
+                    <l>Tho' with their high wrongs I am ſtruck to th' quick,</l>
+                    <l>Yet, with my nobler reaſon, 'gainſt my fury</l>
+                    <l>Do I take part; the rarer action is</l>
+                    <l>In virtue than in vengeance; they being penitent,</l>
+                    <l>The ſole drift of my purpoſe doth extend</l>
+                    <l>Not a frown further; go, releaſe them, <persName rend="slant(italic)">Ariel</persName>;</l>
+                    <l>My charms I'll break, their ſenſes I'll reſtore,</l>
+                    <l>And they ſhall be themſelves.</l>
+                 </lg>
+              </sp>
+              <sp who="#ari">
+                 <speaker>Ari.</speaker>
+                 <l>I'll fetch them, Sir.</l>
+              </sp>
+              <stage type="exit" rend="pre([)align(right)slant(italic)">Exit.</stage>
+              <sp who="#pro">
+                 <speaker>Pro.</speaker>
+                 <lg>
+                    <l>Ye elves of hills, brooks, ſtanding lakes and <lb/> groves,</l>
+                    <l>And ye, that on the ſands with printleſs foot</l>
+                    <l>Do chaſe the ebbing <hi rend="slant(italic)">Neptune</hi>; and do fly him,</l>
+                    <l>When he comes back; you demy-puppets, that</l>
+                    <l>By moon-ſhine do the green ſour ringlets make,</l>
+                    <l>Whereof the ewe not bites; and you, whoſe paſtime</l>
+                    <l>Is to make midnight muſhrooms, that rejoice</l>
+                    <l>To hear the ſolemn curfew; by whoſe aid</l>
+                    <l>(Weak maſters tho' ye be) I have be-dimm'd</l>
+                    <l>The noon-tide ſun, call'd forth the mutinous winds,</l>
+                    <l>And 'twixt the green ſea and the azur'd vault</l>
+                    <l>Set roaring war; to the dread ratling thunder</l>
+                    <l>Have I giv'n fire, and rifted <persName rend="slant(italic)">Jove</persName>'s ſtout oak</l>
+                    <l>With his own bolt: the ſtrong-bas'd promontory</l>
+                    <l>Have I made ſhake, and by the ſpurs pluckt up</l>
+                    <l>The pine and cedar: graves at my command <!-- (15) --></l>
+                    <l>Have wak'd their ſleepers; op'd, and let them forth</l>
+                    <l>By my ſo potent art. But this rough magick</l>
+                    <l>I here abjure; and when I have requir'd</l>
+                    <l>Some heavenly muſick, which ev'n now I do,</l>
+                    <l>(To work mine end upon their ſenſes, that</l>
+                    <l>This airy charm is for;) I'll break my ſtaff;</l>
+                    <l>Bury it certain fandoms in the earth;</l>
+                    <l>And, deeper than did ever plummet ſound,</l>
+                    <l>I'll drown my book.</l>
+                               
+              <stage type="business" rend="pre([)align(right)slant(italic)">Solemn muſick.</stage>
+              
+              <!-- <p>
+                 <lb/>(15)―Graves at my Commans
+                 <lb/>Have wak'd their Sleepers;] As odd, as this Expreſſion
+                 <lb/>is, of Grave waking their Dead, inſtead of, the Dead waking 
+                 <lb/>in theor Grave, I believe, it may be juſstified by the Uſage of
+                 <lb/>Poets.
+              </p> -->
+              <fw type="catch" rend="align(right)slant(italic)">Here</fw>
+              
+           <pb n="61"/>
+              <stage type="mixed" rend="slant(italic)">
+                 <lb/>Here enters <persName>Ariel</persName> before; then <persName>Alonſo</persName> with a frantick
+                 <lb/>geſture, attended by <persName>Gonzalo</persName>. <persName>Sebaſtian</persName> and <persName>Anthonio</persName>
+                 <lb/>in like manner, attended by <persName>Adrian</persName> and <persName>Franciſco</persName>.
+                 <lb/>They all enter the circle which <persName>Proſpero</persName> had made, and
+                 <lb/>there ſtand charm'd; which <persName>Proſpero</persName> obſerving, ſpeaks.
+              </stage>
+                 
+                 <l>A ſolemn air, and the beſt comforter</l>
+                 <l>To an unſettled fancy, cure thy brains</l>
+                 <l>Now uſeleſs, boil'd within thy skull! There ſtand,</l>
+                 <l>For you are ſpell-ſtopt.―</l>
+                 <l>Holy <persName rend="slant(italic)">Gonzalo</persName>, honourable man,</l>
+                 <l>Mine eyes, ev'n fociable to th' ſhew of thine,</l>
+                 <l>Fall fellow-drops.―The charm diſſolves apace;</l>
+                 <l>And as the morning ſteals upon the night,</l>
+                 <l>Melting the darkneſs; ſo their riſing ſenſes</l>
+                 <l>Begin to chaſe the ign'rant fumes, that mantle</l>
+                 <l>Their clearer reaſon. O my good <persName rend="slant(italic)">Gonzalo</persName>,</l>
+                 <l>My true preſerver, and a loyal Sir</l>
+                 <l>To him thou follow'ſt; I will pay thy graces</l>
+                 <l>Home both in word and deed.―Moſt cruelly</l>
+                 <l>Didſt thou, <persName rend="slant(italic)">Alonſo</persName>, uſe me and my daughter:</l>
+                 <l>Thy brother was a furtherer in the act;</l>
+                 <l>Thou'rt pinch'd for't now, <persName rend="slant(italic)">Sebaſtian</persName>, fleſh and blood. <!-- (16) --></l>
+                 <l>You brother mine, that entertain'd ambition,</l>
+                 <l>Expell'd remorſe and nature; who with <persName rend="slant(italic)">Sebastian</persName></l>
+                 <l>(Whoſe inward pinches therefore are moſt ſtrong)</l>
+                 <l>Would here have kill'd your King; I do forgive thee,</l>
+                 <l>Unnat'ral though thou art. Their underſtanding</l>
+                 <l>Begins to ſwell, and the approaching tide</l>
+                 <l>Will ſhortly fill the reaſonable ſhore,</l>
+                 <l>That now lies foul and muddy. Not one of them,</l>
+                 <l>That yet looks on me, or would know me.―<persName rend="slant(italic)">Ariel</persName>,</l>
+                 <l>Fetch me the hat and rapier in my cell;</l>
+                 <l>I will diſ-caſe me, and myſelf preſent,</l>
+                    
+                 <stage type="mixed" rend="pre([)align(right)slant(italic)">Exit <persName>Ariel</persName>, and returns immediately.</stage>
+                 
+                <!-- <p>
+                    <lb/>(16) Thou'rt pinch'd for't now, Sebastian. Fleſh and Blood,]
+                    <lb/>I by no means think, this was our Author's Pointing: or that
+                    <lb/>it gives us his Meaning. He would ſay, that Sebaſtian now was
+                    <lb/>pinch'd thro' and thro' for his Treſpaſs; felt the Puniſhment
+                    <lb/>of it all over his Body.
+                 </p> -->
+                    <fw type="catch" rend="align(right)">As</fw>
+                  
+           <pb n="62"/>         
+                    <l>As I was ſometime <placeName rend="slant(italic)">Milan</placeName>: quickly, Spirit;</l>
+                    <l>Thou ſhalt e'er long be free.</l>
+                 </lg>
+              </sp>
+              <stage type="business" rend="align(center)slant(italic)"><persName>Ariel</persName> ſings, and helps to attire him.</stage>
+              <sp who="#ari">
+                 <lg>
+                    <l>Where the bee ſucks, there lurk I; <!-- (17) --></l>
+                    <l>In a cowſlip's bell I lie:</l>
+                    <l>There I couch, when owls do cry.</l>
+                    <l>On the bat's back I do fly,</l>
+                    <l>After ſunſet, merrily. <!-- (18) --></l>
+                    <l>Merrily, merrily, ſhall I live now,</l>
+                    <l>Under the bloſſom, that hangs on the bough.</l>
+                 </lg>
+              </sp>
+              <sp who="#pro">
+                 <speaker>Pro.</speaker>
+                 <lg>
+                    <l>Why, that's my dainty <persName rend="slant(italic)">Ariel</persName>; I ſhall miſs thee;</l>
+                    <l>But yet thou ſhalt have freedom. So, ſo, ſo,</l>
+                    <l>To the King's ſhip, inviſible as thou art;</l>
+                    <l>There ſhalt thou find the mariners aſleep</l>
+                    <l>Under the hatches; the maſter and the boatſwain,</l>
+                    <l>Being awake, enforce them to this place;</l>
+                    <l>And preſently, I pr'ythee.</l>
+                 </lg>
+              </sp>
+              <sp who="#ari">
+                 <speaker>Ari.</speaker>
+                 <lg>
+                    <l>I drink the air before me, and return</l>
+                    <l>Or e'er your pulſe twice beat.</l>
+                 </lg>
+              </sp>
+              <stage type="exit" rend="pre([)align(right)slant(italic)">Exit.</stage>
+              <sp who="#gon">
+                 <speaker>Gon.</speaker>
+                 <lg>
+                    <l>All torment, trouble, wonder, and amazement</l>
+                    <l>Inhabitants here; ſome heav'nly power guide us</l>
+                    <l>Out of this fearful country!</l>
+                 </lg>
+              </sp>
+              <sp who="#pro">
+                 <speaker>Pro.</speaker>
+                 <lg>
+                    <l>Behold, Sir King,</l>
+                    <l>The wronged Duke of <placeName rend="slant(italic)">Milan</placeName>, <persName rend="slant(italic)">Proſpero</persName>:</l>
+                    <l>For more aſſurance that a living Prince</l>
+                    <l>Does now ſpeak to thee, I embrace thy body;</l>
+                    <l>And to thee and thy company I bid</l>
+                    <l>A hearty welcome.</l>
+                 </lg>
+              </sp>
+              
+              <!-- <p>
+                 <lb/>Where the Bee ſucks, there ſuck I;] I have ventur'd to
+                 <lb/>vary from the printed Copies here. Could Ariel, a Spirit of
+                 <lb/>a refin'd aetherial Eſſence, be intended to want Food? Beſides
+                 <lb/>the frequent Lines rather countenance lurk.
+              </p>
+              <p>
+                 <lb/>(18)After Summer merrily] Why, after Summer? Unleſs we
+                 <lb/>muſt ſuppoſe, our Author alluded to that miſtaken Notion of
+                 <lb/>Bats, Swallows, &amp;c. croſſing the Seas in puſuit of hot Wea-
+                 <lb break="no"/>ther. I conjuectur', in my Shakespeare reſtor'd, that Sunſet was
+                 <lb/>our Author's Word: And this Conjecture Mr. Pope, in his laſt
+                 <lb/>Edition, thinks probably ſhould be eſpouſed. My Reaſons for
+                 <lb/>the Change were from the known Nature of the Bat.
+              </p> -->
+              <fw type="catch" rend="align(right)slant(italic)">Alon.</fw>
+              
+           <pb n="63"/>   
+              <sp who="#alo">
+                 <speaker>Alon.</speaker>
+                 <lg>
+                    <l>Be'st thou he or no,</l>
+                    <l>Or ſome inchanted trifle to abuſe me,</l>
+                    <l>As late I have been, I not know; thy pulſe</l>
+                    <l>Beats, as of fleſh and blood; and ſince I ſaw thee,</l>
+                    <l>Th' affliction of my mind amends, with which,</l>
+                    <l>I fear, a madneſs held me; this muſt crave</l>
+                    <l>(And if this be at all) a moſt ſtrange ſtory:</l>
+                    <l>Thy Dukedom I reſign, and do intreat,</l>
+                    <l>Thou pardon me my wrings; but how ſhould <persName rend="slant(italic)">Proſpero</persName></l>
+                    <l>Be living, and be here?</l>
                  </lg>
               </sp>
            </div>
-        </div>
+        </div>  
      
         </body>
     </text>
