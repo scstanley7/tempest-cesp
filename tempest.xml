@@ -105,10 +105,10 @@
          </editorialDecl>
          <tagsDecl>
             <rendition xml:id="rend.head" selector="head">align(center)break(yes)</rendition>
-            <rendition xml:id="rend.sp" selector="speaker">first-indent(1)break(yes)</rendition>
+            <rendition xml:id="rend.sp" selector="sp">first-indent(1)break(yes)</rendition>
             <rendition xml:id="rend.speaker" selector="speaker">slant(italic)</rendition>
             <rendition xml:id="rend.stage" selector="stage">slant(italic)bestow((slant(upright))(persName))</rendition>
-            <rendition xml:id="break.yes" selector="fw"></rendition>
+            <rendition xml:id="break.yes" selector="fw">break(yes)</rendition>
          </tagsDecl>
          </encodingDesc>
       
@@ -1221,7 +1221,7 @@
                      <l>Be ſubject to no fight but mine: inviſible</l>
                      <l>To every eye-ball elſe. Go take this ſhape,</l>
                      <l>And hither come in it: go hence with diligence.</l>
-               <stage type="exit">[Exit Ariel.</stage>
+               <stage type="exit" rend="pre([)">Exit <persName>Ariel</persName>.</stage>
                      <l>Awake, dear heart, awake! thou haſt ſlept well;</l>
                      <l>Awake―</l>
                   </lg>
