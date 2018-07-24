@@ -165,7 +165,7 @@
                 </castGroup>
                 <castItem>
                    <role xml:id="cal">Caliban</role>
-                   <roleDesc rend="slant(italic)">a Savage, and deformed Slave,</roleDesc>
+                   <roleDesc rend="slant(italic)">a Salvage, and deformed Slave,</roleDesc>
                 </castItem>
                 <castItem>
                    <role xml:id="tri">Trinculo</role>
@@ -249,7 +249,7 @@
                   <speaker>Boatſ.</speaker>
                   <p>Hey, my hearts; cheerly, my hearts; yare,
                      <lb/>yare; take in the top ſail; tend to th' maſter's whiſtle;
-                     <lb/>blow, 'til thou burſt thy wind, if room enough.
+                     <lb/>blow, 'till thou burſt thy wind, if room enough.
                   </p>
                </sp>
               <stage type="entrance" rend="align(center)">Enter <persName>Alonſo</persName>, <persName>Sebaſtian</persName>, <persName>Anthonio</persName>, <persName>Ferdinand</persName>, 
@@ -374,10 +374,10 @@
               </sp>              
               <stage type="mixed" rend="align(center)">Enter Mariners wet.</stage>
               <sp who="#mar">
-                 <speaker>Mariners</speaker>
+                 <speaker>Mar.</speaker>
                  <p>All loſt! to prayers, to prayers! all loſt!</p>
               </sp>
-              <stage type="exit" rend="pre([)align(right)">Exe.</stage>
+              <stage type="exit" rend="break(no)pre([)align(right)">Exe.</stage>
               <sp who="#boat">
                  <speaker>Boatſ.</speaker>
                  <p>What, muſt our mouths be cold?</p>
@@ -385,7 +385,7 @@
               <sp who="#gon">
                  <speaker>Gonz.</speaker>
                  <p>
-                    <lb/>The King and Prince at pray-rs! let us aſſiſt
+                    <lb/>The King and Prince at pray'rs! let us aſſiſt
                     <lb/>'em.
                     <lb/>For our caſe is as theirs.
                  </p>
@@ -419,12 +419,12 @@
                  <speaker>Ant.</speaker>
                  <p>Let's all ſink with the King.</p>
               </sp>
-             <stage type="exit" rend="break(no)pre([)">Exit.</stage>
+             <stage type="exit" rend="break(no)pre([)align(right)">Exit.</stage>
               <sp who="#seb">
                  <speaker>Seb.</speaker>
                  <p>Let's take leave of him.</p>
               </sp>
-             <stage type="exit" rend="break(no)pre([)">Exit.</stage>
+             <stage type="exit" rend="break(no)pre([)align(right)">Exit.</stage>
               <sp who="#gon">
                  <speaker>Gonz.</speaker>
                  <p>
@@ -434,7 +434,7 @@
                     <lb/>die a dry death!
                  </p>
               </sp>
-             <stage type="exit" rend="break(no)pre([)">Exit.</stage>
+             <stage type="exit" rend="break(no)pre([)align(right)">Exit.</stage>
             </div>
             
             <div type="scene" n="2">
@@ -455,12 +455,13 @@
                      <fw type="sig" rend="align(center)">B3</fw>
                      <fw type="catch" rend="break(no)align(right)">Againſt</fw>         
             
+            <milestone unit="sig" n="B3v"/>
             <pb n="6"/>
             <fw type="pageNum">6</fw>
                      
                      <l>Againſt my very heart: poor ſouls, they periſh'd!</l>
                      <l>Had I been any God of Pow'r, I would</l>
-                     <l>Have ſunk the ſea within the earth: or ere</l>
+                     <l>Have ſunk the ſea within the earth; or ere</l>
                      <l>It ſhould the good ſhip ſo have ſwallow'd, and</l>
                      <l>The fraighting ſouls within her.</l>
                   </lg>
@@ -482,7 +483,7 @@
                   <lg>
                      <l>No harm.</l>
                      <l>I have done nothing but in care of thee,</l>
-                     <l>(Of thee my deer one, thee my daughter) who</l>
+                     <l>(Of thee my dear one, thee my daughter) who</l>
                      <l>Art ignorant of what thou art, nought knowing</l>
                      <l>Of whence I am; nor that I am more better</l>
                      <l>Than <persName rend="slant(italic)">Proſpero</persName>, maſter of a full-poor cell,</l>
@@ -512,7 +513,7 @@
                      <l>So ſafely order'd, that there is no foyle,   <!-- Note (I)  --></l>
                      <l>No, not ſo much perdition as an hair,</l>
                      <l>Betid to any creature in the veſſel</l>
-                     <l>Which thou heard'ſt cry, which thou ſaw'ſt ſink: ſit down;</l>
+                     <l>Which thou heard'ſt cry, which thou ſaw'ſt ſink: ſit <lb/>down;</l>
                      <l>For thou muſt now know farther.</l>
                   </lg>
                </sp>
@@ -531,7 +532,8 @@
                      <lb/>Perdition in the next Line.
                      -->
                 <fw type="catch" rend="align(right)">Begun</fw>     
-                     
+            
+            <milestone unit="sig" n="B4r"/>
             <pb n="7"/>
             <fw type="pageNum">7</fw>         
                      <l>Begun to tell me what I am, but ſtopt,</l>
@@ -627,6 +629,7 @@
                   <fw type="sig" rend="align(center)">B4</fw>
                   <fw type="catch" rend="break(no)align(right)">By</fw>   
             
+            <milestone unit="sig" n="B4v"/>
             <pb n="8"/>
             <fw type="pageNum">8</fw>         
                      <l>By foul play (as thou ſay'ſt) were we heav'd thence;</l>
@@ -698,6 +701,7 @@
                    
                    <fw type="catch" rend="align(right)">But</fw>
             
+            <milestone unit="sig" n="B5r"/>
             <pb n="9"/>
             <fw type="pageNum">9</fw>         
                      <l>But what my power might elſe exact; like one,</l>
@@ -769,6 +773,8 @@
                <lb/>but her Father and Caliban, with any Propriety be furniſh'd
                <fw type="catch" rend="align(right)">to</fw>
                -->
+            
+            <milestone unit="sig" n="B5v"/>
             <pb n="10"/>
             <fw type="pageNum">10</fw>   
                <sp who="#pro">
@@ -818,13 +824,13 @@
                   <speaker>Pro.</speaker>
                   <lg>
                      <l>Well demanded, wench;</l>
-                     <l>My tale provokes that question. Dear, they durſt not</l>
-                     <l>(So dear the love my people bor me;) ſet</l>
+                     <l>My tale provokes that queſtion. Dear, they durſt not</l>
+                     <l>(So dear the love my people bore me;) ſet</l>
                      <l>A mark ſo bloody on the buſineſs; but</l>
                      <l>With colours fairer painted their foul ends.</l>
                      <l>In few, they hurry'd us aboard a bark;</l>
                      <l>Bore us ſome leagues to Sea; where they prepar'd</l>
-                     <l>A rotten carcaſs of a boat, not rigg'd;</l>
+                     <l>A rotten carcaſs of a boat, not rigg'd,</l>
                      <l>Nor tackle, ſail, nor maſt; the very rats</l>
                      <l>Inſtinctively had quit it: there they hoiſt us</l>
                      <l>To cry to th' ſea, that roar'd to us; to ſigh</l>
@@ -837,6 +843,8 @@
                      <lb/>:her Anceſtor; for that it was common in Life, for good
                      <lb/>People to have bad Children."-->
                      <fw type="catch" rend="align(right)">To</fw>
+                     
+             <milestone unit="sig" n="B5v"/>        
              <pb n="11"/>
              <fw type="pageNum">11</fw>        
                      <l>To th' winds, whoſe pity, ſighing back again,</l>
@@ -870,7 +878,7 @@
                   <speaker>Pro.</speaker>
                   <lg>
                      <l>By providence divine.</l>
-                     <l>Some food we had, and ſome water, that</l>
+                     <l>Some food we had, and ſome freſh water, that</l>
                      <l>A noble <hi rend="slant(italic)">Neapolitan</hi>, <persName rend="slant(italic)">Gonzalo</persName>,</l>
                      <l>Out of his charity (being then appointed</l>
                      <l>Maſter of this deſign) did give us, with</l>
@@ -896,7 +904,7 @@
                      <l>Here in this iſland we arriv'd, and here</l>
                      <l>Have I, thy ſchool-maſter, made thee more profit</l>
                      <l>Than other Princes can, that have more time</l>
-                     <l>For vainer hours, and tutors nor ſo careful.</l>
+                     <l>For vainer hours, and tutors not ſo careful.</l>
                   </lg>
                </sp>
                <sp who="#mira">
@@ -917,7 +925,8 @@
                      <l>I find, my <hi rend="slant(italic)">Zenith</hi> doth depend upon</l>
                      <l>A moſt auſpicious ſtar; whoſe Influence</l>
                    <fw type="catch" rend="align(right)">If</fw> 
-                     
+                    
+            <milestone unit="sig" n="###"/>        
             <pb n="12"/>
             <fw type="pageNum">12</fw>         
                      <l>If now I court not, but omit, my fortunes</l>
@@ -955,8 +964,8 @@
                      <l>Now in the waſte, the deck, in every cabin,</l>
                      <l>I flam'd amazement. Sometimes, I'd divide,</l>
                      <l>And burn in many places: on the top-maſt,</l>
-                     <l>The yard, and bolt-ſprit, would I flame diſtinctly;</l>
-                     <l>The meet and join. <persName rend="slant(italic)">Jove</persName>'s lightnings, the precuſers</l>
+                     <l>The yards, and bolt-ſprit, would I flame diſtinctly;</l>
+                     <l>Then meet and join. <persName rend="slant(italic)">Jove</persName>'s lightnings, the precuſers</l>
                      <l>Of dreadful thunder-claps, more momentary</l>
                      <l>And fight out-running were not; the fire and cracks</l>
                      <l>Of ſulphurous roaring the moſt mighty <persName rend="slant(italic)">Neptune</persName></l>
@@ -988,12 +997,13 @@
                <sp who="#pro">
                   <speaker>Pro.</speaker>
                   <lg>
-                     <l>Why that's my Spirit!</l>
+                     <l>Why, that's my Spirit!</l>
                      <l>But was not this nigh ſhore?</l>
                   </lg>
                </sp>
                <fw type="catch" rend="align(right)slant(italic)">Ari.</fw>
         
+        <milestone unit="sig" n=""/>
         <pb n="13"/>   
         <fw type="pageNum">13</fw>       
                <sp who="#ari">
@@ -1089,7 +1099,8 @@
                      <l>I pr'ythee,</l>
                      <l>Remember, I have done thee worthy ſervice;</l>
                   <fw type="catch" rend="align(right)">Told</fw>   
-                     
+            
+            <milestone unit="sig" n=""/>
             <pb n="14"/>
             <fw type="pageNum">14</fw>         
                      <l>Told thee no lies, made no miſtakings, ſerv'd</l>
@@ -1147,7 +1158,7 @@
                   <lg>
                      <l>Oh, was ſhe ſo? I muſt</l>
                      <l>Once in a month recount what thou haſt been,</l>
-                     <l>Which thou forget'ſt. This damn'd witch Sycorax,</l>
+                     <l>Which thou forget'ſt. This damn'd witch <persName rend="slant(italic)">Sycorax</persName>,</l>
                      <l>For miſchiefs manifold and forceries terrible</l>
                      <l>To enter human hearing, from <placeName rend="slant(italic)">Argier</placeName>,</l>
                      <l>Thou know'ſt, was baniſh'd: for one thing ſhe did,</l>
@@ -1166,18 +1177,19 @@
                      <l>As thou report'ſt thy ſelf, waſt then her fervant.</l>
                      <l>And, for thou waſt a ſpirit too delicate</l>
                      <l>To act her earthy and abhorr'd commands,</l>
-                     <l>Refuſing her grand heſts ſhe did confine thee,</l>
+                     <l>Refuſing her grand heſts, ſhe did confine thee,</l>
                      <l>By help of her more potent miniſters,</l>
                      <l>And in her moſt unmitigable rage,</l>
                      <l>Into a cloven pine; within which rift</l>
-                     <l>Impriſon'd, thou didſt painfuly remain</l>
-                     <l>A dozen years, within which ſpace the dy'd,</l>
+                     <l>Impriſon'd, thou didſt painfully remain</l>
+                     <l>A dozen years, within which ſpace ſhe dy'd,</l>
                      <l>And left thee there: where thou didvt vent thy groans,</l>
                      <l>As faſt as mill-wheels ſtrike. Then was this Iſland</l>
                      <l>(Save for the ſon that ſhe did litter here,</l>
                    
                    <fw type="catch" rend="align(right)">A</fw>
-                     
+                   
+            <milestone unit="sig" n=""/>       
             <pb n="15"/>
             <fw type="pageNum">15</fw>         
                      <l>A freckled whelp, hag-born) not honour'd with</l>
@@ -1240,10 +1252,10 @@
                   <speaker>Pro.</speaker>
                   <lg>
                      <l>Go make thy ſelf like to a nymph o'th' ſea.</l>
-                     <l>Be ſubject to no fight but mine: inviſible</l>
+                     <l>Be ſubject to no ſight but mine: inviſible</l>
                      <l>To every eye-ball elſe. Go take this ſhape,</l>
                      <l>And hither come in it: go hence with diligence.</l>
-               <stage type="exit" rend="break(yes)pre([)align(right)">Exit <persName>Ariel</persName>.</stage>
+               <stage type="exit" rend="pre([)align(right)">Exit <persName>Ariel</persName>.</stage>
                      <l>Awake, dear heart, awake! thou haſt ſlept well;</l>
                      <l>Awake―</l>
                   </lg>
@@ -1277,7 +1289,8 @@
                      <l>We cannot miſs him: he does make our fire,</l>
                      <l>Fetch in our wood, and ſerves in offices</l>
                    <fw type="catch" rend="align(right)">That</fw>  
-                     
+               
+            <milestone unit="sig" n=""/>   
             <pb n="16"/>
             <fw type="pageNum">16</fw>         
                      <l>That profit us. What ho! ſlave! <persName rend="slant(italic)">Caliban</persName>!</l>
@@ -1341,7 +1354,7 @@
                      <l>I muſt eat my dinner.</l>
                      <l>This Iſland's mine by <persName rend="slant(italic)">Sycorax</persName> my mother,</l>
                      <l>Which thou tak'ſt from me. When thou cameſt firſt,</l>
-                     <l>Thou ſtroak'dst me, and mad'ſt much of me; and <lb/>would'ſt give me</l>
+                     <l>Thou ſtroak'dſt me, and mad'ſt much of me; and <lb/>would'ſt give me</l>
                      <l>Water with berries in't; and teach me how</l>
                      <l>To name the bigger light, and how the leſs,</l>
                      <l>That burn by day and night: and then I lov'd thee,</l>
@@ -1357,6 +1370,7 @@
                </sp>
                <fw type="catch" rend="align(right)slant(italic)">Pro.</fw>
             
+            <milestone unit="sig" n=""/>
             <pb n="17"/>
             <fw type="pageNum">17</fw>   
                <sp who="#pro">
@@ -1425,7 +1439,8 @@
                      <lb/>clap'd this Speech to her Part.
                      -->
                   <fw type="catch" rend="align(right)">If</fw>
-                     
+            
+            <milestone unit="sig" n=""/>
             <pb n="18"/>
             <fw type="pageNum">18</fw>         
                      <l>If thou neglect'ſt, or doſt unwillingly</l>
@@ -1496,7 +1511,8 @@
                   <l>Of his bones are coral made:</l>
                  
                   <fw type="catch" rend="align(right)slant(italic)">Thoſe</fw>  
-                  
+           
+           <milestone unit="sig" n=""/>
            <pb n="19"/>
            <fw type="pageNum">19</fw>       
                   <l>Thoſe are pearls, that were his eyes;</l>
@@ -1534,7 +1550,7 @@
                <sp who="#pro">
                   <speaker>Pro.</speaker>
                   <lg>
-                     <l>No, wench, it eats, and ſleeps, and hath ſuch ſenses</l>
+                     <l>No, wench, it eats, and ſleeps, and hath ſuch ſenſes</l>
                      <l>As we have, ſuch. This gallant, which thou ſeeſt,</l>
                      <l>Was in the wreck: and, but he's ſomething ſtain'd</l>
                      <l>With grief, (that's beauty's canker) thou might'ſt call <lb/>him</l>
@@ -1588,6 +1604,7 @@
                </sp>
                <fw type="catch" rend="align(right)slant(italic)">Pro.</fw>
             
+            <milestone unit="sig" n=""/>
             <pb n="20"/>
             <fw type="pageNum">20</fw>   
                <sp who="#pro">
@@ -1622,7 +1639,7 @@
                   <speaker>Pro.</speaker>
                   <lg>
                      <l>The Duke of <placeName rend="slant(italic)">Milan</placeName>,</l>
-                     <l>And his more braver daughter, could contruol thee,</l>
+                     <l>And his more braver daughter, could controul thee,</l>
                      <l>If now 'twere fit to do't:―At the firſt ſight,</l>
                      <l>They have chang'd eyes: (delicate <persName rend="slant(italic)">Ariel</persName>,</l>
                      <l>I'll ſet thee free for this.) A word, good Sir,</l>
@@ -1672,7 +1689,8 @@
                   <lb/>but, on ſecond Thought, found it unneceſſary.
                </p> -->
                <fw type="catch" rend="align(right)slant(italic)">Mira.</fw>
-               
+            
+            <milestone unit="sig" n=""/>
             <pb n="21"/>
             <fw type="pageNum">21</fw>   
                <sp who="#mira">
@@ -1744,7 +1762,7 @@
                      <l>Shall make me chide thee, if not hate thee. What,</l>
                      <l>An advocate for an impoſtor? huſh!</l>
                      <l>Thou think'ſt, there are no more ſuch ſhapes as he,</l>
-                     <l>Hanving ſeen but him and <persName rend="slant(italic)">Caliban</persName>; fooliſh wench!</l>
+                     <l>Having ſeen but him and <persName rend="slant(italic)">Caliban</persName>; fooliſh wench!</l>
                      <l>To th' moſt of men this is a <persName rend="slant(italic)">Caliban</persName>,</l>
                      <l>And they to him are angels.</l>
                   </lg>
@@ -1767,6 +1785,7 @@
                </sp>
                <fw type="catch" rend="align(right)slant(italic)">Fer.</fw>
             
+            <milestone unit="sig" n=""/>
             <pb n="22"/>
             <fw type="pageNum">22</fw>   
                <sp who="#fer">
@@ -1838,7 +1857,8 @@
                      <l>The maſters of ſome merchant, and the merchant,</l>
                      <l>Have juſt our theam of woe: but for the miracle,</l>
                      <fw type="catch" rend="align(right)pre(()">I mean</fw>
-                     
+            
+            <milestone unit="sig" n=""/>
             <pb n="23"/>
             <fw type="pageNum">23</fw>         
                      <l>(I mean our preſervation) few in millions</l>
@@ -1923,7 +1943,8 @@
                   <lb/>from reflecting too deeply on his Son's ſuppos'd Drowning.
                </p> -->
                <fw type="catch" rend="align(right)slant(italic)">Seb.</fw>
-               
+            
+            <milestone unit="sig" n=""/>
             <pb n="24"/>
             <fw type="pageNum">24</fw>   
                <sp who="#seb">
@@ -2075,7 +2096,8 @@
                      <lb/>in the ſea, hold notwithſtanding their freſhneſs and
                    <pb/>  
                      <fw type="catch" rend="align(right)">gloſſes;</fw>
-                     
+          
+          <milestone unit="sig" n="C1r"/>
           <pb n="25"/>           
           <fw type="pageNum">25</fw>           
                      <lb/>gloſſes; being rather new dy'd, than ſtain'd with ſalt
@@ -2128,7 +2150,7 @@
                <sp who="#seb">
                   <speaker>Seb.</speaker>
                   <p>
-                     <lb/>What if he had ſaid, widower <persName rend="slant(italic)">Aeneas</persName> too?
+                     <lb/>What if he had ſaid, widower <persName rend="slant(italic)">Ӕneas</persName> too?
                      <lb/>Good lord, how you take it!
                   </p>
                </sp>
@@ -2218,7 +2240,8 @@
                </sp>
                <fw type="sig" rend="align(center)">C</fw>
                <fw type="catch" rend="align(right)slant(italic)">Gon.</fw>
-               
+           
+           <milestone unit="sig" n="C1v"/>
            <pb n="26"/>
            <fw type="pageNum">26</fw>    
                <sp who="#gon">
@@ -2277,8 +2300,8 @@
                      <l>You were kneel'd to, and importun'd otherwiſe</l>
                      <l>By all of us; and the fair ſoul herſelf</l>
                      <l>Weigh'd between lothneſs and obedience, at</l>
-                     <l>Which end the beam ſhould bow. We've loſt you ſon,</l>
-                     <l>O fear, for ever: <placeName rend="slant(italic)">Milan</placeName> and <placeName rend="slant(italic)">Naples</placeName> have</l>
+                     <l>Which end the beam ſhould bow. We've loſt your ſon,</l>
+                     <l>I fear, for ever: <placeName rend="slant(italic)">Milan</placeName> and <placeName rend="slant(italic)">Naples</placeName> have</l>
                      <l>More widows in them of this buſineſs' making,</l>
                      <l>Than we bring men to comfort them:</l>
                      <l>The fault's your own.</l>
@@ -2302,7 +2325,8 @@
                   <p>Very well.</p>
                </sp>
                <fw type="catch" rend="align(right)slant(italic)">Ant.</fw>
-               
+          
+          <milestone unit="sig" n="C2r"/>
           <pb n="27"/> 
           <fw type="pageNum">27</fw>     
                <sp who="#ant">
@@ -2354,7 +2378,7 @@
                      <l>And uſe of ſervice, none; contract, ſucceſſion</l>
                      <l>Bourn, bound of land, tilth, vineyard, none;</l>
                      <l>No uſe of metal, corn, or wine, or oyl;</l>
-                     <l>No occupation, all men idel, all,</l>
+                     <l>No occupation, all men idle, all,</l>
                      <l>And women too; but innocent and pure:</l>
                      <l>No Sov'reignty.</l>
                   </lg>
@@ -2416,7 +2440,8 @@
                      <lb/>miniſter occaſion to theſe gentlemen, who are of ſuch
                      <fw type="sig" rend="align(center)">C2</fw>
                      <fw type="catch" rend="break(no)align(right)">ſenſible</fw>
-                     
+            
+            <milestone unit="sig" n="C2v"/>
             <pb n="28"/>
             <fw type="pageNum">28</fw>         
                      <lb/>ſenſible and nimble lungs, that they always uſe to laugh
@@ -2484,7 +2509,7 @@
                   <speaker>Seb.</speaker>
                   <lg>
                      <l>Pleaſe you, Sir,</l>
-                     <l>Do not omit the eavy offer of it:</l>
+                     <l>Do not omit the heavy offer of it:</l>
                      <l>It ſeldom viſits ſorrow; when it doth,</l>
                      <l>It is a comforter.</l>
                   </lg>
@@ -2527,6 +2552,7 @@
                      <l>Worthy <persName rend="slant(italic)">Sebaſtian</persName>―O, what might―no more.</l>
                      <fw type="catch" rend="align(right)">And</fw>
             
+            <milestone unit="sig" n="C3r"/>
             <pb n="29"/>
             <fw type="pageNum">29</fw>
                      <l>And yet, methinks, I ſee it in thy face,</l>
@@ -2623,7 +2649,8 @@
             </p>  -->       
             <fw type="sig" rend="align(center)">C3</fw>
             <fw type="catch" rend="break(no)align(right)">A</fw>
-                     
+            
+            <milestone unit="sig" n="C3v"/>
             <pb n="30"/>
             <fw type="pageNum">30</fw>         
                      <l>A matter from thee; and a birth, indeed,</l>
@@ -2708,7 +2735,8 @@
                      <l>And let <persName rend="slant(italic)">Sebaſtian</persName> wake. Say, this were death</l>
                      <l>That now hath ſeiz'd them, why, they were no worſe</l>
                      <fw type="catch" rend="align(right)">Than</fw>
-                     
+            
+            <milestone unit="sig" n="C4r"/>     
             <pb n="31"/>
             <fw type="pageNum">31</fw>         
                      <l>Than now they are: there be, that can rule <placeName rend="slant(italic)">Naples</placeName>,</l>
@@ -2789,7 +2817,8 @@
                      <l>And when I rear my hand, do you the like</l>
                    <fw type="sig" rend="align(center)">C4</fw>
                      <fw type="catch" rend="break(no)align(right)">To</fw>
-                     
+            
+            <milestone unit="sig" n="C4v"/>
             <pb n="32"/>
             <fw type="pageNum">32</fw>         
                      <l>To fall it on <persName rend="slant(italic)">Gonzalo</persName>.</l>
@@ -2810,7 +2839,7 @@
                   </lg>
                <stage type="delivery" rend="align(right)pre([)">Sings in <persName>Gonzalo</persName>'s Ear.</stage>
                   <lg rend="slant(italic)">
-                     <l>While you here do ſnoring lye,</l>
+                     <l>While you here do ſnoaring lye,</l>
                      <l>Open-ey'd conſpiracy</l>
                      <l>His time doth take:</l>
                      <l>If of life you keep a care,</l>
@@ -2831,7 +2860,7 @@
                   <speaker>Alon.</speaker>
                   <lg>
                      <l>Why, how now, ho? awake? why are you 
-                     <lb/>drawn</l>
+                     <lb/>drawn?</l>
                      <l>Wherefore this ghastly looking?</l>
                   </lg>
                </sp>
@@ -2870,6 +2899,7 @@
                      <l>Upon my honour, Sir, I heard a humming,</l>
                      <l>And that a ſtrange one too, which did awake me.</l>
                      <l>I ſhak'd you, Sir, and cry'd; as mine eyes open'd,</l>
+                     <l>I ſaw their weapons drawn: there was a noiſe,</l>
                      <l>That's verity. 'Tis beſt we ſtand on guard;</l>
                      <l>Or that we quit this place: let's draw our weapons.</l>
                   </lg>
@@ -2878,7 +2908,7 @@
                   <speaker>Alon.</speaker>
                   <lg>
                      <l>Lead off this ground, and let's make further 
-                     <lb/>search</l>
+                        <lb/>ſearch</l>
                      <l>For my poor ſon.</l>
                   </lg>
                </sp>
@@ -2891,6 +2921,7 @@
                </sp>
                <fw type="catch" rend="align(right)slant(italic)">Alon.</fw>
             
+            <milestone unit="sig" n="C5r"/>
             <pb n="33"/>
             <fw type="pageNum">33</fw>
                <sp who="#alo">
@@ -2956,7 +2987,8 @@
                   </p> -->
                      <fw type="sig" rend="align(center)">C5</fw>
                      <fw type="catch" rend="break(no)align(right)">liquor.</fw>
-                     
+            
+            <milestone unit="sig" n="C5v"/>
             <pb n="34"/> 
             <fw type="pageNum">34</fw>         
                      <lb/>liquor. If it ſhould thunder as it did before, I know
@@ -3018,7 +3050,8 @@
                      <lb/>I have not ſcap'd drowning, to be afraid now of your
                      <lb/>four legs; for it hath been ſaid, As proper a man, as
                      <fw type="catch" rend="align(right)">ever</fw>
-                     
+             
+            <milestone unit="sig" n=""/> 
             <pb n="35"/>
             <fw type="pageNum">35</fw>         
                      <lb/>ever went upon four legs, cannot make him give ground;
@@ -3113,7 +3146,8 @@
                   <p>
                      <lb/><persName rend="slant(italic)">Stephano</persName>! if thou beeſt <persName rend="slant(italic)">Stephano</persName>, touch me, and
                      <fw type="catch" rend="align(right)">ſpeak</fw>
-                     
+            
+            <milestone unit="sig" n=""/>
             <pb n="36"/>
             <fw type="pageNum">36</fw>         
                      <lb/>ſpeak to me; for I am <persName rend="slant(italic)">Trinculo</persName>; be not afraid, thy good
@@ -3228,7 +3262,8 @@
                   </p>
                </sp>
                <fw type="catch" rend="align(right)slant(italic)">Trin.</fw>
-               
+            
+            <milestone unit="sig" n=""/>
             <pb n="37"/>
             <fw type="pageNum">37</fw>   
                <sp who="#tri">
@@ -3324,7 +3359,8 @@
                   <lb/>in the Traces of the Letters.) Ray tells us of another Bird, call'd
                </p> 
               <fw type="catch" rend="align(right)">the</fw> -->
-               
+            
+            <milestone unit="sig" n=""/>
             <pb n="38"/>
             <fw type="pageNum">38</fw>   
                <sp who="#ste">
@@ -3394,7 +3430,8 @@
                     <l>Some thouſands of theſe logs, and pile them up,</l>
                     <l>Upon a ſore Injunction. My ſweet miſtreſs</l>
                     <fw type="catch" rend="align(right)">Weeps</fw>
-                
+           
+           <milestone unit="sig" n=""/>
            <pb n="39"/>
            <fw type="pageNum">39</fw>         
                     <l>Weeps when ſhe ſees me work, and ſays, ſuch baſeneſs</l>
@@ -3479,7 +3516,8 @@
                  <lb/>to think well of my own Sagacity for having diſcover'd it.
               </p> -->
                     <fw type="catch" rend="align(right)">(Chiefly</fw>
-                    
+           
+           <milestone unit="sig" n=""/>
            <pb n="40"/>
            <fw type="pageNum">40</fw>         
                     <l>(Chiefly that I might ſet it in my prayers)</l>
@@ -3550,7 +3588,8 @@
                     <l>O heav'n, O earth, bear witneſs to this ſound,</l>
                     <l>And crown what I profeſs with kind event,</l>
                     <fw type="catch" rend="align(right)">If</fw>
-                    
+           
+           <milestone unit="sig" n=""/>
            <pb n="41"/>
            <fw type="pageNum">41</fw>         
                     <l>If I ſpeak true nollowly, invert</l>
@@ -3651,6 +3690,7 @@
               </sp>
               <fw type="catch" rend="align(right)slant(italic)">Trin.</fw>
               
+           <milestone unit="sig" n=""/>              
            <pb n="42"/>
            <fw type="pageNum">42</fw>   
               <sp who="#tri">
@@ -3772,7 +3812,8 @@
                  <p>
                     <lb/>As I told thee before, I am ſubject to a tyrant,
                     <fw type="catch" rend="align(right)">a</fw>
-                    
+           
+           <milestone unit="sig" n=""/>
            <pb n="43"/> 
            <fw type="pageNum">43</fw>         
                     <lb/>a ſorcerer, that by his cunning hath cheated me of the 
@@ -3891,7 +3932,8 @@
                  </p>
               </sp>
               <fw type="catch" rend="align(right)slant(italic)">Cal.</fw>
-              
+             
+           <milestone unit="sig" n=""/>   
            <pb n="44"/>
            <fw type="pageNum">44</fw>   
               <sp who="#cal">
@@ -3994,7 +4036,8 @@
                  </p>
               </sp>
               <fw type="catch" rend="align(right)slant(italic)">Ste.</fw>
-              
+           
+           <milestone unit="sig" n=""/>
            <pb n="45"/>
            <fw type="pageNum">45</fw>   
               <sp who="#ste">
@@ -4102,6 +4145,7 @@
               <fw type="catch" rend="align(right)case(allcaps)">Scene</fw>
            </div>
      
+           <milestone unit="sig" n=""/>
            <pb n="46"/>
            <fw type="pageNum">46</fw>
            <div type="scene" n="3">
@@ -4194,6 +4238,7 @@
                     <l>And what does elſe want credit, come to me,</l>
            <fw type="catch" rend="align(right)">And</fw>         
            
+           <milestone unit="sig" n=""/>
            <pb n="47"/>
            <fw type="pageNum">47</fw>         
                     <l>And I'll be ſworn 'tis true. Travellers ne'er did lie,</l>
@@ -4275,7 +4320,8 @@
                  <lb/>obſerv'd to me, that this was a fine Piece of conceal'd Satire on 
               </p> 
               <fw type="catch" rend="align(right)">the</fw>-->
-              
+           
+           <milestone unit="sig" n=""/>
            <pb n="48"/>  
            <fw type="pageNum">48</fw>   
               <sp who="#alo">
@@ -4333,7 +4379,8 @@
               </p> -->
               
               <fw type="catch" rend="align(right)">Against</fw>
-              
+            
+            <milestone unit="sig" n="D1r"/>
             <pb n="49"/>
             <fw type="pageNum">49</fw>
                     <l>Againſt your peace: thee of thy ſon, <persName rend="slant(italic)">Alonſo</persName>,</l>
@@ -4412,7 +4459,8 @@
                     <l>Like poiſon giv'n to work a great time after,</l>
                     <fw type="sig" rend="align(center)">D</fw>
                     <fw type="catch" rend="break(no)align(right)">Now</fw>
-                    
+           
+           <milestone unit="sig" n="D1v"/>
            <pb n="50"/>
            <fw type="pageNum">50</fw>         
                     <l>Now 'gins to bite the ſpirits. I do beſeech you,</l>
@@ -4469,7 +4517,8 @@
                  <lb/>Latines on ſuch Occaſions.
               </p> -->
               <fw type="catch" rend="align(right)slant(italic)">Fer.</fw>
-              
+           
+           <milestone unit="sig" n="D2r"/>
            <pb n="51"/>
            <fw type="pageNum">51</fw>   
               <sp who="#fer">
@@ -4553,6 +4602,7 @@
                     <fw type="sig" rend="align(center)">D2</fw>
                     <fw type="catch" rend="break(no)align(right)">Each</fw>
                     
+           <milestone unit="sig" n="D2v"/>            
            <pb n="52"/>  
            <fw type="pageNum">52</fw>         
                     <l>Each one, tripping on his toe,</l>
@@ -4632,7 +4682,8 @@
                  </lg>
               </sp>
               <fw type="catch" rend="align(right)slant(italic)">Enter</fw>
-              
+           
+           <milestone unit="sig" n="D3r"/>
            <pb n="53"/>
            <fw type="pageNum">53</fw>   
               <stage type="entrance" rend="align(center)">Enter <persName>Ceres</persName>.</stage>
@@ -4714,7 +4765,8 @@
               </sp>
               <fw type="sig" rend="align(center)">D3</fw>
               <fw type="catch" rend="break(no)align(right)">Cer.</fw>
-              
+           
+           <milestone unit="sig" n="D3v"/>
            <pb n="54"/>
            <fw type="pageNum">54</fw>   
               <sp who="#ceres" rend="slant(italic)">
@@ -4792,7 +4844,8 @@
                     <lb/>been placed where I have now prefix'd it.
                  </p> -->
                     <fw type="catch" rend="align(right)">Make</fw>
-                    
+           
+           <milestone unit="sig" n="D4r"/>
            <pb n="55"/>
            <fw type="pageNum">55</fw>         
                     <l>Make holy-day; your rye-ſtraw hats put on,</l>
@@ -4870,6 +4923,7 @@
               <fw type="sig" rend="align(center)">D4</fw>
               <fw type="catch" rend="break(no)align(right)slant(italic)">Pro.</fw>
               
+           <milestone unit="sig" n="D4v"/>
            <pb n="56"/>  
            <fw type="pageNum">56</fw>   
               <sp who="#pro">
@@ -4955,7 +5009,8 @@
                  </p>
               </sp>
               <fw type="catch" rend="align(right)slant(italic)">Trin.</fw>
-              
+            
+           <milestone unit="sig" n="D5r"/>
            <pb n="57"/>
            <fw type="pageNum">57</fw>   
               <sp who="#tri">
@@ -5076,7 +5131,8 @@
               </sp>
               <fw type="sig" rend="align(center)">D5</fw>
               <fw type="catch" rend="break(no)align(right)slant(italic)">Trin.</fw>
-              
+           
+           <milestone unit="sig" n="D5v"/>
            <pb n="58"/>
            <fw type="pageNum">58</fw>   
               <sp who="#tri">
@@ -5171,7 +5227,8 @@
               <fw type="catch" rend="align(right)case(allcaps)">Act</fw>
            </div>
         </div>
-          
+        
+        <milestone unit="sig" n=""/>
         <pb n="59"/>
         <fw type="pageNum">59</fw>  
         <div type="act" n="5">
@@ -5240,7 +5297,8 @@
                     <l>Paſſion as they, be kindlier mov'd than thou art?</l>
                     
                  <fw type="catch" rend="align(right)">Tho'</fw>
-                    
+           
+           <milestone unit="sig" n=""/>
            <pb n="60"/>
            <fw type="pageNum">60</fw>         
                     <l>Tho' with their high wrongs I am ſtruck to th' quick,</l>
@@ -5297,7 +5355,8 @@
                  <lb/>Poets.
               </p> -->
               <fw type="catch" rend="align(right)slant(italic)">Here</fw>
-              
+           
+           <milestone unit="sig" n=""/>
            <pb n="61"/>
            <fw type="pageNum">61</fw>         
               <stage type="mixed" rend="slant(italic)">
@@ -5347,7 +5406,8 @@
                     <lb/>of it all over his Body.
                  </p> -->
                     <fw type="catch" rend="align(right)">As</fw>
-                  
+                    
+           <milestone unit="sig" n=""/>       
            <pb n="62"/> 
            <fw type="pageNum">62</fw>         
                     <l>As I was ſometime <placeName rend="slant(italic)">Milan</placeName>: quickly, Spirit;</l>
@@ -5422,7 +5482,8 @@
                  <lb/>the Change were from the known Nature of the Bat.
               </p> -->
               <fw type="catch" rend="align(right)slant(italic)">Alon.</fw>
-              
+           
+           <milestone unit="sig" n=""/>
            <pb n="63"/>   
            <fw type="pageNum">63</fw>   
               <sp who="#alo">
@@ -5512,6 +5573,7 @@
                     
                  <fw type="catch" rend="align(right)">For</fw>
            
+           <milestone unit="sig" n=""/>
            <pb n="64"/>
            <fw type="pageNum">64</fw>         
                     <l>For the like loſs, I have her ſov'reign aid,</l>
@@ -5583,7 +5645,8 @@
               </lg>
            </sp>
               <fw type="catch" rend="align(right)slant(italic)">Mira.</fw>
-              
+          
+           <milestone unit="sig" n=""/>
            <pb n="65"/>
            <fw type="pageNum">65</fw>   
               <sp who="#mira">
@@ -5684,7 +5747,8 @@
                  </lg>
               </sp>
               <fw type="catch" rend="align(right)slant(italic)">Alon.</fw>
-              
+            
+           <milestone unit="sig" n=""/> 
            <pb n="66"/>
            <fw type="pageNum">66</fw>   
               <sp who="#alo">
@@ -5767,6 +5831,7 @@
                     <l>We were awak'd; ſtraightway at liberty:</l>
                  <fw type="catch" rend="align(right)">Where</fw>
            
+           <milestone unit="sig" n=""/>
            <pb n="67"/>
            <fw type="pageNum">67</fw>         
                     <l>Where we, in all her trim, freſhly beheld <!-- (19) --></l>
@@ -5847,6 +5912,7 @@
               </p> -->
               <fw type="catch" rend="align(right)slant(italic)">Seb.</fw>
            
+           <milestone unit="sig" n=""/>
            <pb n="68"/>
            <fw type="pageNum">68</fw>   
               <sp who="#seb">
@@ -5945,7 +6011,8 @@
                  <lb/>tabile: hence, 'tis probable, Shakeſpeare ſays, gilded.
               </p> -->
               <fw type="catch" rend="align(right)slant(italic)">Cal.</fw>
-              
+           
+           <milestone unit="sig" n=""/>
            <pb n="69"/>
            <fw type="pageNum">69</fw>   
               <sp who="#cal">
@@ -6011,6 +6078,7 @@
            </div>
         </div>
         
+        <milestone unit="sig" n=""/>
         <pb n="70"/>
         <fw type="pageNum">70</fw>  
         <div type="epilogue">
