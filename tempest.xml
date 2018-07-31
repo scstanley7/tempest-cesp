@@ -5680,7 +5680,7 @@
                  <lg>
                     <l>Now all the bleſſings</l>
                     <stage type="business" rend="break(no)pre([)align(right)"><persName>Ferd</persName>. kneels.</stage>
-                    <l>Of a glad Father compſs thee about!</l>
+                    <l>Of a glad Father compaſs thee about!</l>
                     <l>Arive, and ſay how thou cam'ſt here.</l>
                  </lg>
               </sp>
@@ -5810,7 +5810,7 @@
               </sp>
               <sp who="#pro">
                  <speaker>Pro.</speaker>
-                 <l>My trickſy ſprit!</l>
+                 <l>My trickſey ſprit!</l>
               </sp>
               <sp who="#alo">
                  <speaker>Alon.</speaker>
@@ -5862,7 +5862,7 @@
                  <speaker>Pro.</speaker>
                  <lg>
                     <l>Sir, my Liege,</l>
-                    <l>Do not indect your mind with beating on</l>
+                    <l>Do not infeſt your mind with beating on</l>
                     <l>The ſtrangeneſs of this buſineſs; at pickt leiſure</l>
                     <l>(Which ſhall be ſhortly) ſingle I'll reſolve you,</l>
                     <l>Which to you ſhall ſeem probable, of every</l>
@@ -5875,7 +5875,7 @@
                  </lg>
               </sp>
               
-              <stage type="entrance" rend="align(center)">Enter <persName>Ariel</persName>, driving in <persName>Caliban</persName>, <persName>Stephano</persName>, and <persName>Trinculo</persName>,
+              <stage type="mixed" rend="align(center)">Enter <persName>Ariel</persName>, driving in <persName>Caliban</persName>, <persName>Stephano</persName>, and <persName>Trinculo</persName>,
                  <lb/>in their ſtolen Apparel.</stage>
               
               <sp who="#ste">
@@ -5903,7 +5903,7 @@
               </sp>
               
               <!-- <p>
-                 <lb/>[19] Where we in all our Trim, freſbly beheld
+                 <lb/>[19] Where we in all our Trim, freſhly beheld
                  <lb/>Our royal, good and gallant Ship;―] What was their
                  <lb/>Trim, would the Editors have us conceive? The Fright that
                  <lb/>they had been put into, by the Diverſity of Noiſes? But, as
@@ -5919,7 +5919,7 @@
                  <speaker>Seb.</speaker>
                  <lg>
                     <l>Ha, ha;</l>
-                    <l>What things are theſe, my lord <persName rend="slant(italic)">Anthonio</persName>!</l>
+                    <l>What things are theſe, my lord <persName rend="slant(italic)">Anthonio</persName><hi rend="slant(italic)">!</hi></l>
                     <l>Will money buy 'em?</l>
                  </lg>
               </sp>
@@ -5934,7 +5934,7 @@
                  <speaker>Pro.</speaker>
                  <lg>
                     <l>Mark but the badges of theſe men, my lords,</l>
-                    <l>Then ſay, if tey be true: this miſ-ſhap'd knave,</l>
+                    <l>Then ſay, if they be true: this miſ-ſhap'd knave,</l>
                     <l>His mother was a witch, and one ſo ſtrong</l>
                     <l>That could controul the moon, make flows and ebbs,</l>
                     <l>And deal in her command without her power.</l>
@@ -6018,7 +6018,7 @@
               <sp who="#cal">
                  <speaker>Cal.</speaker>
                  <lg>
-                    <l>Ay, that I will; and I'll be wife hereafter,</l>
+                    <l>Ay, that I will; and I'll be wiſe hereafter,</l>
                     <l>And ſeek for grace. What a thrice-double aſs</l>
                     <l>Was I, to take this drunkard for a God?</l>
                     <l>And worſhip this dull fool?</l>
@@ -6030,7 +6030,7 @@
               </sp>
               <sp who="#alo">
                  <speaker>Alon.</speaker>
-                 <p>Hence, and beſtow your luggage where you <lb/> found it.</p>
+                 <p>Hence, and beſtow your luggage where you <lb/>found it.</p>
               </sp>
               <sp who="#seb">
                  <speaker>Seb.</speaker>
@@ -6042,7 +6042,7 @@
                     <l>Sir, I invite your highneſs, and your train,</l>
                     <l>To my poor cell; where you ſhall take your reſt</l>
                     <l>For this one night, which (part of it) I'll waſte</l>
-                    <l>With ſuch diſcourse, as, I not doubt, ſhall make it</l>
+                    <l>With ſuch diſcourſe, as, I not doubt, ſhall make it</l>
                     <l>Go quick away; the ſtory of my life,</l>
                     <l>And the particular accidents gone by,</l>
                     <l>Since I came to this iſle: and in the morn</l>
