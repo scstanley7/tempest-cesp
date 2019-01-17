@@ -276,19 +276,19 @@
       </front>
 
       <body>
-         <pb n="4"/>
+         <pb n="5"/>
          <div type="act" n="1">
             <div type="scene" n="1">
                <figure>
                   <figDesc><!--i really don't know enough about the Tempest to describe these man--></figDesc>
                </figure>
                <head type="act" rend="case(allcaps)">Act I.</head>
-               <stage n="19" type="setting" rend="align(center)"><hi rend="case(allcaps)">Scene</hi>.-- <hi
-                     rend="slant(italics)">On a Ship at Sea. A tempestuous noise of thunder and
-                     lightning heard.</hi></stage>
+               <stage n="19" type="setting" rend="align(center)"><hi rend="case(allcaps)"
+                  >Scene</hi>.-- <hi rend="slant(italics)">On a Ship at Sea. A tempestuous noise of
+                     thunder and lightning heard.</hi></stage>
                <cb n="1"/>
-               <stage n="20" type="entrance" rend="slant(italics)">Enter a Ship-master and a Boatswain
-                  severally.</stage>
+               <stage n="20" type="entrance" rend="slant(italics)">Enter a Ship-master and a
+                  Boatswain severally.</stage>
                <sp who="#mas">
                   <speaker rend="case(smallcaps)">Master.</speaker>
                   <p n="21">Boatswain!</p>
@@ -307,8 +307,22 @@
                <!--there is a line here above a footnote-->
                <!--also how do i do footnotes-->
                <ab>a Yarely,--] Briskly, nimbly, actively.</ab>
-
-
+               <pb n="6"/>
+               <fw>
+                  <header rend="align(left)case(allcaps)">Act I.]</header>
+                  <header rend="align(center)case(allcaps)">The Tempest</header>
+                  <header rend="align(right)case(allcaps)">[Scene II.</header>
+               </fw>
+               <cb n="1"/>
+               <stage type="entrance" n="25"><hi rend="slant(italics)">Enter</hi> Mariners</stage>
+               <sp who="#boat">
+                  <speaker>Boats.</speaker>
+                  <p><s n="26">Heigh, y hearts!</s> <s n="27">cheerly, cheerly, my hearts!</s> <s n="28">yare, yare! </s><s n="29">Take in the topsail!</s>
+                     <s n="30">Tend to teh master's wistle!</s>
+                     <stage type="exit" n="31"><hi rend="slant(italics)">Exeunt</hi> Mariners</stage>
+                     <s n="32">Blow, till thou burst thy wind, if room enough!</s></p>
+               </sp>
+               <stage type="entrance">Enter Alonso, Ferdinand, Sebastian, Antonio, Gonzalo, and others.</stage>
 
 
 
