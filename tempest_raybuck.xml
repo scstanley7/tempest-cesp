@@ -180,8 +180,8 @@
                parents, the rival princes. The title of "The Tempest" is supposed by some
                commentators to have been determined by the shipwreck of Sir George Sommers and Sir
                Thomas Gates on the coast of the Bermudas in 1609;</p>
-            <fw><pageNum rend="align(left)">3</pageNum><pageNum rend="align(right)"
-               >B4</pageNum></fw>
+            <fw type="pageNum" rend="align(left)">3</fw>
+            <fw type="sig" rend="align(right)">B4</fw>
             <!--need way to indicate difference between pagination and foliation in form work-->
             <pb n="4"/>
             <fw><header>The Tempest.</header></fw>
