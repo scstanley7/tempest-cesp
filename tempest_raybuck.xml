@@ -4,7 +4,7 @@
    <teiHeader>
       <!--
  Bibliographic description of this digital file, including
-    information about its source 
+    information about its source
 -->
       <fileDesc>
          <titleStmt>
@@ -267,9 +267,8 @@
                      <role>Other Spirits attending on Prospero.</role>
                   </castItem>
                </castList>
-               <!--not entirely sure what this is-->
-               <ab n="18">Scene -- On board a <hi rend="case(smallcaps)">Ship</hi> at <hi
-                     rend="case(smallcaps)">Sea</hi>; afterwards on an Island.</ab>
+               <stage type="setting" n="18">Scene -- On board a <hi rend="case(smallcaps)">Ship</hi> at <hi
+                     rend="case(smallcaps)">Sea</hi>; afterwards on an Island.</stage>
             </div>
             <fw><pageNum rend="align(left)">4</pageNum></fw>
          </div>
@@ -725,7 +724,7 @@
                   <lg>
                      <l n="126">You have often</l>
 
-                     <!-- Footnote I 
+                     <!-- Footnote I
                         <lb/>(1) is no Foyle,] i.e. no Damage, Loſs, Detriment. The
                      <lb/>old Folio's read,-is no Soul: which will not agree in
                      <lb/>Grammar with the following Part of the Sentence. Mr. Rowe
@@ -829,7 +828,7 @@
                   <lg>
                      <l n="161">Both, both, my girl:</l>
 
-                     <!-- Footnote (2) 
+                     <!-- Footnote (2)
                      <lb/>out three years old.] The is is the old Reading: 'tis true,
                      <lb/>the Expreſſion is obſolete, but it ſupply'd the Senſe of, full
                      <lb/>out, out-right, or right-out.
@@ -971,7 +970,7 @@
                <fw type="sig" rend="align(center)">B5</fw>
                <fw type="catch" rend="break(no)align(right)slant(italic)">Pro</fw>
 
-               <!-- Footnotes 3 &amp 4 
+               <!-- Footnotes 3 &amp 4
                <lb/>(3) ―I ſhould ſin,
                <lb/>To think not nobly of my Grandmother;} This is Mr. Pope's
                <lb/>reading; from no Authority, I preſume: All the Copies that
@@ -2181,14 +2180,14 @@
                </sp>
 
                <!--  <p>
-                  <lb/>(7) Alon. Pr'ythee, peace.] All that follows from hence to 
+                  <lb/>(7) Alon. Pr'ythee, peace.] All that follows from hence to
                   <lb/>this ſpeech of the King's,
                   <lb/>You cram theſe Words into my Ears againſt
                   <lb/>The Stomach of my Senſe.
                   <lb/>ſeems to Mr. Pope to have been an Interpolation by the Play-
                   <lb/>ers. For my part, tho' I allow the Matter of the Dialogue to
                   <lb/>be very poor and trivial, (of which, I am ſorry to ſay, we
-                  <lb/>don't want other Inſtances in our Poet;) I cannot be of this 
+                  <lb/>don't want other Inſtances in our Poet;) I cannot be of this
                   <lb/>Gentleman's Opinion, that it is interpolated. For ſhould we
                   <lb/>take out this intermediate Part, what would become of theſe
                   <lb/>Words of the King?
@@ -2897,8 +2896,8 @@
                      <l n="902">Pry'thee, ſay on;</l>
                      <l n="903">The ſetting of thine eye and cheek proclaim</l>
 
-                     <!-- <p> 
-               <lb/>(8) Trebles thee o'er.] i.e. makes thee thrice what thou now 
+                     <!-- <p>
+               <lb/>(8) Trebles thee o'er.] i.e. makes thee thrice what thou now
                <lb/>art. Thus the two firſt Folio's, and all the other Impreſſions
                <lb/>of any Authority, that I have ſeen, exhibit the Text: and the
                <lb/>Phraſe is familiar both to our Poet, and other Stage-Writers
@@ -3621,7 +3620,7 @@
                   <lb/>Banks of Lakes. It is not impoſſible, but our Poet might here
                   <lb/>intend this Bird. Or, again, (and which comes near to Scamel,
                   <lb/>in the Traces of the Letters.) Ray tells us of another Bird, call'd
-               </p> 
+               </p>
               <fw type="catch" rend="align(right)">the</fw> -->
 
                <milestone unit="sig" n=""/>
@@ -4242,7 +4241,7 @@
                   <p><s n="1371">Is it ſo brave a Laſs?</s></p>
                </sp>
                <sp who="#cal">
-                  <!-- Caliban's lines are capitalized, but meter is irregular. 
+                  <!-- Caliban's lines are capitalized, but meter is irregular.
                  verse vs. prose dialogue is unlcear to me on rest of page -->
                   <speaker>Cal.</speaker>
                   <p>
@@ -4568,14 +4567,14 @@
                <!-- <p>
                  <lb/>(12) Each Putter out of Five for One.―] By Variation
                  <lb/>of a ſingle Letter, I think, I have ſet the Text right; and will
-                 <lb/>therefore now proceed to explain it. I freely confeſs, that I 
+                 <lb/>therefore now proceed to explain it. I freely confeſs, that I
                  <lb/>once underſtood this Paſſage thus; that every five Travellers (or
                  <lb/>Putters out) did bring authentick Confirmation of theſe Stories,
                  <lb/>for one that pretended to diſpite the Truth of them: But com-
                  <lb break="no"/>municating my Senſe of the Place to Two ingenious Friends, I
                  <lb/>found, I was not at the Bottom of the Meaning. Mr. Warburton
-                 <lb/>obſerv'd to me, that this was a fine Piece of conceal'd Satire on 
-              </p> 
+                 <lb/>obſerv'd to me, that this was a fine Piece of conceal'd Satire on
+              </p>
               <fw type="catch" rend="align(right)">the</fw>-->
 
                <milestone unit="sig" n=""/>
@@ -4925,7 +4924,7 @@
                      <persName>Ferdinand</persName>.</stage>
                <stage type="setting" rend="pre([)align(right)">Soft Muſick.</stage>
             </div>
-            <!-- below may or may not be a new scene; heading style may imply new 
+            <!-- below may or may not be a new scene; heading style may imply new
               scene hence the new div-->
             <div type="scene" n="2">
                <head rend="align(center)case(allcaps)slant(italic)">A Masque.</head>
@@ -5637,7 +5636,7 @@
                      <!-- <p>
                  <lb/>(15)―Graves at my Command
                  <lb/>Have wak'd their Sleepers;] As odd, as this Expreſſion
-                 <lb/>is, of Grave waking their Dead, inſtead of, the Dead waking 
+                 <lb/>is, of Grave waking their Dead, inſtead of, the Dead waking
                  <lb/>in theor Grave, I believe, it may be juſstified by the Uſage of
                  <lb/>Poets.
               </p> -->
