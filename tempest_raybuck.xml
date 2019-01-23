@@ -100,9 +100,9 @@
          <tagsDecl>
             <rendition xml:id="rend.head" selector="head">align(center)break(yes)</rendition>
             <rendition xml:id="rend.sp" selector="sp">first-indent(1)break(yes)</rendition>
-            <rendition xml:id="rend.speaker" selector="speaker">slant(italic)</rendition>
+            <rendition xml:id="rend.speaker" selector="speaker">case(smallcaps)</rendition>
             <rendition xml:id="rend.stage" selector="stage"
-               >slant(italic)bestow((slant(upright))(persName))</rendition>
+               >slant(italic)bestow((slant(upright))(persName))bestow((case(smallcaps))(persName))</rendition>
             <rendition xml:id="break.yes" selector="fw">break(yes)</rendition>
          </tagsDecl>
       </encodingDesc>
@@ -118,6 +118,13 @@
       </revisionDesc>
    </teiHeader>
    <text>
+      <hyperDiv>
+         <notes>
+            <note xml:id="n001" target="#a001" rend="pre(ᵃ)">
+               <p><label rend="post(—])">Yarely,</label> <hi rend="rend(italic)">briskly, nimbly, actively.</hi></p>
+            </note>
+         </notes>
+      </hyperDiv>
       <front>
          <pb n="1"/>
          <figure>
@@ -127,7 +134,6 @@
             </figDesc>
          </figure>
          <pb n="2"/>
-         <!--this page is empty but I don't know how to indicate that-->
          <pb n="3"/>
          <head>The Tempest.</head>
          <div type="prefatory">
@@ -135,9 +141,8 @@
                date of its production we have no clue, but the following memorandum from the
                "Accounts of the Revels at Court," is almost positive testimony that it was written
                before 1611:--</p>
-            <!--HOW DO I FORMAT THIS-->
-            <p> By the King's Hallomas nyght was presented att Whithall Players. ye Kinges Matle. a
-               play called the Tempest</p>
+            <p> <hi rend="align(left)indent(1)">By the King's Players.</hi><hi rend="align(right)"> Hallomas nyght was presented att Whithall ye Kinges Matle, a
+               play called the Tempest</hi></p>
 
             <p>And the speech of Gonzalo, Act II. Sc. 1,--</p>
             <lg>
@@ -180,14 +185,11 @@
                parents, the rival princes. The title of "The Tempest" is supposed by some
                commentators to have been determined by the shipwreck of Sir George Sommers and Sir
                Thomas Gates on the coast of the Bermudas in 1609;</p>
-            <fw><pageNum rend="align(left)">3</pageNum><pageNum rend="align(right)"
-               >B4</pageNum></fw>
-            <!--need way to indicate difference between pagination and foliation in form work-->
+            <fw type="pageNum" rend="align(left)">3</fw>
+            <fw type="sig" rend="align(right)">B4</fw>
             <pb n="4"/>
-            <fw><header>The Tempest.</header></fw>
-            <!--header element needs to be in schema-->
             <p>of which an account was published by Silvester Jourdan,one of the crew, in the
-               following year:-- <hi rend="slant(italics)">A Discovery of the Barmudas ; otherwise
+               following year:-- <hi rend="slant(italic)">A Discovery of the Barmudas ; otherwise
                   called the Isle of Divels ; by Sir Thomas Gates, Sir George Sommers, and Captayne
                   Newport, with divers others.</hi> It is highly probable, too, that Jourdan's and
                other accounts of the Bermudas, by some of which they are said to be enchanted and
@@ -234,7 +236,7 @@
                   <castItem n="7">
                      <role xml:id="gon">Gonzalo,</role><roleDesc>an honest old
                         Counsellor.</roleDesc></castItem>
-                  <!--how do i represent the text here, it made one description for both roles?-->
+                  <!--how do i represent the text here, it made one description for both roles? line 158, 194-->
                   <castItem n="8">
                      <role xml:id="adr">Adrian,</role><roleDesc>Lords.</roleDesc></castItem>
                   <castItem n="9">
@@ -256,7 +258,6 @@
                      Prospero.</roleDesc></castItem>
                   <castItem n="15">
                      <role xml:id="ari">Ariel,</role><roleDesc>an airy Spirit.</roleDesc></castItem>
-                  <!--same issue with one roleDesc for multiple roles, should I just put all this in one castItem?-->
                   <castItem n="16">
                      <role xml:id="juno">Juno, </role><role xml:id="ceres">Ceres, </role><role
                         xml:id="iris">Iris, </role><role xml:id="nym">Nymphs, </role>
@@ -283,10 +284,10 @@
                </figure>
                <head type="act" rend="case(allcaps)">Act I.</head>
                <stage n="19" type="setting" rend="align(center)"><hi rend="case(allcaps)"
-                  >Scene</hi>.-- <hi rend="slant(italics)">On a Ship at Sea. A tempestuous noise of
+                  >Scene</hi>.-- <hi rend="slant(italic)">On a Ship at Sea. A tempestuous noise of
                      thunder and lightning heard.</hi></stage>
                <cb n="1"/>
-               <stage n="20" type="entrance" rend="slant(italics)">Enter a Ship-master and a
+               <stage n="20" type="entrance" rend="slant(italic)">Enter a Ship-master and a
                   Boatswain severally.</stage>
                <sp who="#mas">
                   <speaker rend="case(smallcaps)">Master.</speaker>
@@ -299,21 +300,16 @@
                <cb n="2"/>
                <sp who="#mas">
                   <speaker rend="case(smallcaps)">Master.</speaker>
-                  <p><s n="23">Good, speak to the mariners: fall to't yarely,a<!--footnote--> or we
+                  <p><s n="23">Good, speak to the mariners: fall to't yarely,<anchor rend="pre(ᵃ)" xml:id="a001" corresp="#n001"/> or we
                         run ourselves aground: bestir, bestir.</s></p>
                </sp>
-               <stage n="24" type="exit" rend="slant(italics)">[Exit.</stage>
+               <stage n="24" type="exit" rend="slant(italic)">[Exit.</stage>
                <!--there is a line here above a footnote-->
                <!--also how do i do footnotes-->
                <ab>a Yarely,--] Briskly, nimbly, actively.</ab>
                <pb n="6"/>
-               <fw>
-                  <header rend="align(left)case(allcaps)">Act I.]</header>
-                  <header rend="align(center)case(allcaps)">The Tempest</header>
-                  <header rend="align(right)case(allcaps)">[Scene II.</header>
-               </fw>
                <cb n="1"/>
-               <stage type="entrance" n="25"><hi rend="slant(italics)align(center)">Enter</hi>
+               <stage type="entrance" n="25"><hi rend="slant(italic)align(center)">Enter</hi>
                   Mariners</stage>
                <sp who="#boat">
                   <speaker>Boats.</speaker>
@@ -321,7 +317,7 @@
                      <s n="27">cheerly, cheerly, my hearts!</s>
                      <s n="28">yare, yare! </s><s n="29">Take in the topsail!</s>
                      <s n="30">Tend to teh master's wistle!</s>
-                     <stage type="exit" n="31"><hi rend="slant(italics)align(right)">[Exeunt</hi>
+                     <stage type="exit" n="31"><hi rend="slant(italic)align(right)">[Exeunt</hi><!--sarah what does "exeunt" mean is it just a fancy exit-->
                         Mariners]</stage>
                      <s n="32">Blow, till thou burst thy wind, if room enough!</s></p>
                </sp>
@@ -370,7 +366,7 @@
                         hap.</s><s n="49">-- Cheerly, good hearts!</s><s n="50">-- Out of our way, I
                         say.</s></p>
                </sp>
-               <stage type="exit" rend="slant(italics)align(right)" n="51">[Exit.</stage>
+               <stage type="exit" rend="slant(italic)align(right)" n="51">[Exit.</stage>
                <sp who="#gon">
                   <speaker>Gon.</speaker>
                   <p><s n="52">I have great comfort from this fellow; methinks he hath no drowning
@@ -380,13 +376,13 @@
                         advantage!</s><s n="55"> If he be not born to be hanged, our case is
                         miserable.</s></p>
                </sp>
-               <stage type="exit" rend="slant(italics)align(right)" n="56">[Exeunt.</stage>
-               <stage type="entrance" rend="align(center)"><hi rend="slant(italics)">Re-enter</hi>
+               <stage type="exit" rend="slant(italic)align(right)" n="56">[Exeunt.</stage>
+               <stage type="entrance" rend="align(center)"><hi rend="slant(italic)">Re-enter</hi>
                   Boatswain.</stage>
                <sp who="#boat">
                   <speaker>Boats.</speaker>
-                  <p>Down with the topmast! yare; lower, lower! Bring her to try with main-course!a <!--footnote-->
-                     <stage type="novelistic" rend="slant(italics)">A cry within.</stage> A plague
+                  <p>Down with the topmast! yare; lower, lower! Bring her to try with main-course!a <!--footnote-->  
+                     <stage type="novelistic" rend="slant(italic)">A cry within.</stage> A plague
                      upon this howling! they are louder than the weather or our office.-- <stage
                         type="entrance"><hi rend="slant(italic)">Re-enter</hi> Sebastian, Antonio,
                         and Gonzalo.</stage> Yet again! what do you here? shall we give o'er and
@@ -396,8 +392,8 @@
                <ab>a Bring her to try with main-course] It has been proposed to read, "Bring her to;
                   try with the main-course;" but see a passage from Hakluyt's Voyages, 1598 quoted
                   by Malone:-- "and when tehe barke had way, we cut the hawser and so gate the sea
-                  to our friend, and <hi rend="slant(italics)">tryed out</hi> al that day with our
-                     <hi rend="slant(italics)">maine corse</hi>."</ab>
+                  to our friend, and <hi rend="slant(italic)">tryed out</hi> al that day with our
+                     <hi rend="slant(italic)">maine corse</hi>."</ab>
                <cb n="2"/>
                <sp who="#seb">
                   <speaker>Seb.</speaker>
@@ -416,6 +412,49 @@
                   <speaker>Gon.</speaker>
                   <p>I'll warrant him for drowning thouh the ship were no stronger than a nutshell,
                      and as leaky as an unstanched wench.</p>
+               </sp>
+               <sp who="#boat">
+                  <speaker>Boats.</speaker>
+                  <p>Lay her a-hold, a-hold! set her two courses! off to sea again; lay her off!</p>
+               </sp>
+               <stage type="entrance"><hi rend="slant(italic)">Re-enter</hi> Mariners, <hi rend="slant(italic)">wet.</hi></stage>
+               <sp who="#mar">
+                  <speaker>Mar.</speaker>
+                  <p>All lost! to prayers, to prayers! all lost!</p>
+               </sp>
+               <stage type="exit" rend="align(right)slant(italic)">[Exeunt.</stage>
+               <sp who="#boat">
+                  <speaker>Boats.</speaker>
+                  <p>What, must our mouths be cold?</p>
+               </sp>
+               <sp who="#gon">
+                  <speaker>Gon.</speaker>
+                  <lg>
+                     <l>The king and prince at prayers! let's assist them,</l>
+                     <l>For our case is as theirs</l>
+                  </lg>
+               </sp>
+               <sp who="#seb">
+                  <speaker>Seb.</speaker>
+                  <lg>
+                     <l>I'm out of patience.</l><!--do the i m f thing when sarah puts it in the documentation-->
+                  </lg>
+               </sp>
+               <sp who="#ant">
+                  <speaker>Ant.</speaker>
+                  <lg>
+                     <l>We are merely cheated of our lives by drunkards:--</l>
+                     <l>This wide-chapp'd rascal,-- would thou mightst lie drowning,</l>
+                     <l>The washing of ten tides!</l>
+                  </lg>
+               </sp> 
+               <sp who="#gon">
+                  <speaker>Gon.</speaker>
+                  <lg>
+                     <l>He'll be hang'd yet,</l>
+                     <l>Though every drop of water swear against it,</l>
+                     <l>And gape at wid'st to glut him.</l>
+                  </lg>
                </sp>
 
 
@@ -518,7 +557,7 @@
                         to be <lb/>hang'd, our caſe is miſerable.</s>
                   </p>
                </sp>
-               <stage type="exit" rend="break(no)pre([)align(right)">Exeunt.</stage>
+               <stage type="exit" rend="break(no)pre([)align(right)">Exeunt.</stage> 
                <stage type="entrance" rend="align(center)">Re-enter Boatſwain.</stage>
                <sp who="#boat">
                   <speaker>Boatſ.</speaker>
