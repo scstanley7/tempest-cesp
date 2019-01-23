@@ -100,9 +100,9 @@
          <tagsDecl>
             <rendition xml:id="rend.head" selector="head">align(center)break(yes)</rendition>
             <rendition xml:id="rend.sp" selector="sp">first-indent(1)break(yes)</rendition>
-            <rendition xml:id="rend.speaker" selector="speaker">slant(italic)</rendition>
+            <rendition xml:id="rend.speaker" selector="speaker">case(smallcaps)</rendition>
             <rendition xml:id="rend.stage" selector="stage"
-               >slant(italic)bestow((slant(upright))(persName))</rendition>
+               >slant(italic)bestow((slant(upright))(persName))bestow((case(smallcaps))(persName))</rendition>
             <rendition xml:id="break.yes" selector="fw">break(yes)</rendition>
          </tagsDecl>
       </encodingDesc>
@@ -118,6 +118,13 @@
       </revisionDesc>
    </teiHeader>
    <text>
+      <hyperDiv>
+         <notes>
+            <note xml:id="n001" target="#a001" rend="pre(ᵃ)">
+               <p><label rend="post(—])">Yarely,</label> <hi rend="rend(italic)">briskly, nimbly, actively.</hi></p>
+            </note>
+         </notes>
+      </hyperDiv>
       <front>
          <pb n="1"/>
          <figure>
@@ -294,7 +301,7 @@
                <cb n="2"/>
                <sp who="#mas">
                   <speaker rend="case(smallcaps)">Master.</speaker>
-                  <p><s n="23">Good, speak to the mariners: fall to't yarely,a<!--footnote--> or we
+                  <p><s n="23">Good, speak to the mariners: fall to't yarely,<anchor rend="pre(ᵃ)" xml:id="a001" corresp="#n001"/> or we
                         run ourselves aground: bestir, bestir.</s></p>
                </sp>
                <stage n="24" type="exit" rend="slant(italic)">[Exit.</stage>
