@@ -145,12 +145,50 @@
                   </lg>
                </p>
             </note>
-            <note xml:id="n004" target="#a003" rend="pre(ᵃ)"/>
+            <note xml:id="n004" target="#a003" rend="pre(ᵃ)">
+               <p><label rend="pre(ᵃ --)post(--])"><hi rend="slant(italic)">mounting to the welkin's
+                     </hi>cheek</label> Although we have in "Richard II." Act III. Sc. 2, -- "the
+                  cloudy cheeks of heaven," and elsewhere, "welkin's face," and "heaven's face," it
+                  may well be questioned whether "cheeck," in this place is not a misprint. Mr.
+                  Collier's annotator subsittutes <hi rend="slant(italic)">heat</hi>, a change
+                  characterised by Mr. Dyce as "equally tasteless and absurd." A more appropriate
+                  and expressive word, one too, sanctioned in some measure by its occurrence in
+                  Ariel's description of the same elemental conflict, is probably, crack, or
+                  cracks,--</p>
+               <lg>
+                  <l rend="indent(2)">"--- the fire, and <hi rend="slant(italic)">cracks</hi></l>
+                  <l>Of sulphurous roaring, the most mighty Neptune</l>
+                  <l>Seem to besiege," &amp;c.</l>
+               </lg>
+               <p>In Miranda's picture of the tempest, the sea is seen to storm and overhwlem the
+                  tremendous artillery of heaven; in that of Ariel, the sky's ordnance, "the fire
+                  and cracks," assault the "mighty Neptune." <hi rend="slant(italic)">Crack</hi>, in
+                  the emphatic sense it formerly bore of <hi rend="slant(italic)">crash,
+                     discharge,</hi> or <hi rend="slant(italic)">explosion,</hi> is very common in
+                  our writers thus, in Marlowe's "Tamburlaine the Great," Part I. Aact IV Sc. 2,
+                  --</p>
+               <lg>
+                  <l>"As when a fiery exhalation,</l>
+                  <l>Wrapt in the bowels of a freezing cloud</l>
+                  <l>Fighting for passage, makes the <hi rend="slant(italic)">welkin cracke</hi></l>
+               </lg>
+               <p>Again, in some verses prefixed to Coryat's "Crudities,"--</p>
+               <lg>
+                  <l>"A skewed engine mathematicall</l>
+                  <l>To draw up words that make the <hi rend="slant(italic)">welkin circle</hi></l>
+               </lg>
+               <p>And in Taylor's <hi rend="slant(italic)">Superbi&#230; Flagellum,</hi> 1630,--</p>
+               <lg>
+                  <l>"Yet every Reall heav'nly <hi rend="slant(italic)">Thundercracke,</hi></l>
+                  <l>This Caitife in such feare and terror strake" &amp;c.</l>
+               </lg>
+            </note>
             <note xml:id="n005" target="#star001" rend="pre(*)">
                <p>
                   <label rend="pre(()post())">*</label> Old text, <hi rend="slant(italics)"
                      >creature.</hi></p>
             </note>
+
          </notes>
       </hyperDiv>
       <front>
@@ -413,18 +451,24 @@
                   Boatswain.</stage>
                <sp who="#boat">
                   <speaker>Boats.</speaker>
-                  <p><s n="60">Down with the topmast!</s> <s n="61">yare; lower, lower!</s> <s n="62">Bring her to try with
-                        main-course!</s><anchor rend="pre(ᵃ)" xml:id="a002" corresp="#n002"/>
-                     <stage type="location" rend="slant(italic)" n="63">A cry within.</stage> <s n="64">A plague
-                     upon this howling! they are louder than the weather or our office.</s>-- <stage
-                        type="entrance" n="65"><hi rend="slant(italic)">Re-enter</hi> Sebastian, Antonio,
-                        and Gonzalo.</stage> <s n="66">Yet again!</s> <s n="67">what do you here?</s> <s n="68">shall we give o'er and
-                     drown?</s> <s n="69">have you a mind to sink?</s></p>
+                  <p><s n="60">Down with the topmast!</s>
+                     <s n="61">yare; lower, lower!</s>
+                     <s n="62">Bring her to try with main-course!</s><anchor rend="pre(ᵃ)"
+                        xml:id="a002" corresp="#n002"/>
+                     <stage type="location" rend="slant(italic)" n="63">A cry within.</stage>
+                     <s n="64">A plague upon this howling! they are louder than the weather or our
+                        office.</s>-- <stage type="entrance" n="65"><hi rend="slant(italic)"
+                           >Re-enter</hi> Sebastian, Antonio, and Gonzalo.</stage>
+                     <s n="66">Yet again!</s>
+                     <s n="67">what do you here?</s>
+                     <s n="68">shall we give o'er and drown?</s>
+                     <s n="69">have you a mind to sink?</s></p>
                </sp>
                <cb n="2"/>
                <sp who="#seb">
                   <speaker>Seb.</speaker>
-                  <p><s n="70">A pox o' your throat, you bawling, blaspehmous, incharitable dog!</s></p>
+                  <p><s n="70">A pox o' your throat, you bawling, blaspehmous, incharitable
+                     dog!</s></p>
                </sp>
                <sp who="#boat">
                   <speaker>Boats.</speaker>
@@ -432,23 +476,27 @@
                </sp>
                <sp who="#ant">
                   <speaker>Ant.</speaker>
-                  <p><s n="72">Hang, cur, hang!</s> <s n="73">you whoreson, insolent noise-maker, we are less afraid to be
-                     drowned than thou art.</s></p>
+                  <p><s n="72">Hang, cur, hang!</s>
+                     <s n="73">you whoreson, insolent noise-maker, we are less afraid to be drowned
+                        than thou art.</s></p>
                </sp>
                <sp who="#gon">
                   <speaker>Gon.</speaker>
-                  <p><s n="74">I'll warrant him for drowning thouh the ship were no stronger than a nutshell,
-                     and as leaky as an unstanched wench.</s></p>
+                  <p><s n="74">I'll warrant him for drowning thouh the ship were no stronger than a
+                        nutshell, and as leaky as an unstanched wench.</s></p>
                </sp>
                <sp who="#boat">
                   <speaker>Boats.</speaker>
-                  <p><s n="75">Lay her a-hold, a-hold! </s><s n="76">set her two courses!</s> <s n="77">off to sea again; lay her off!</s></p>
+                  <p><s n="75">Lay her a-hold, a-hold! </s><s n="76">set her two courses!</s>
+                     <s n="77">off to sea again; lay her off!</s></p>
                </sp>
                <stage type="entrance" n="78"><hi rend="slant(italic)">Re-enter</hi> Mariners, <hi
                      rend="slant(italic)">wet.</hi></stage>
                <sp who="#mar">
                   <speaker>Mar.</speaker>
-                  <p><s n="79">All lost!</s> <s n="80">to prayers, to prayers!</s> <s n="81">all lost!</s></p>
+                  <p><s n="79">All lost!</s>
+                     <s n="80">to prayers, to prayers!</s>
+                     <s n="81">all lost!</s></p>
                </sp>
                <stage type="exit" rend="align(right)slant(italic)" n="82">[Exeunt.</stage>
                <sp who="#boat">
@@ -486,7 +534,8 @@
                   </lg>
                </sp>
                <stage type="mixed" n="93">[A confused noise within.]<lg>
-                     <l n="94">-- Mercy on us!-- We split, we split!-- Farewell, my wife and children!</l>
+                     <l n="94">-- Mercy on us!-- We split, we split!-- Farewell, my wife and
+                        children!</l>
                      <l n="95">Farewell, brother! We split, we split, we split!--(1)</l>
                   </lg></stage>
                <stage type="exit" rend="pre([)" n="96">Exit <persName>Boatswain</persName>.</stage>
@@ -502,9 +551,10 @@
                <stage type="exit" rend="pre([)" n="99">Exit</stage>
                <sp who="#gon">
                   <speaker>Gon.</speaker>
-                  <p><s n="100">Now would I give a thousand furlongs of sea for an acre of barren ground,--
-                     long heath, brown furze, anything.</s><s n="101"> The wills above be done!</s> <s n="102">but I would fain
-                     die a dry death.</s></p>
+                  <p><s n="100">Now would I give a thousand furlongs of sea for an acre of barren
+                        ground,-- long heath, brown furze, anything.</s><s n="101"> The wills above
+                        be done!</s>
+                     <s n="102">but I would fain die a dry death.</s></p>
                </sp>
                <stage type="exit" rend="pre([)" n="103">Exit</stage>
             </div>
@@ -525,8 +575,8 @@
                         <figDesc><!--bruh--></figDesc>
                      </figure>
                      <cb n="1"/>
-                     <l n="108">But that the sea, mounting to the welkin's cheek,<anchor rend="pre(ᵃ)"
-                           xml:id="a003" corresp="#n004"/></l>
+                     <l n="108">But that the sea, mounting to the welkin's cheek,<anchor
+                           rend="pre(ᵃ)" xml:id="a003" corresp="#n004"/></l>
                      <l n="109">Dashes the fire out. O, I have suffer'd</l>
                      <l n="110">With those that I saw suffer! a brave vessel,</l>
                      <l n="111">Who had, no doubt, some noble creatures<anchor rend="pre(*)"
@@ -563,6 +613,8 @@
                      <l n="123">I have done nothing but in care of thee,--</l>
                   </lg>
                </sp>
+               <fw type="pageNum">7</fw>
+               <pb n="8"></pb>
             </div>
             <!--scene 2 div-->
          </div>
