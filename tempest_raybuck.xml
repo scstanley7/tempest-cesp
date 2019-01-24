@@ -188,7 +188,9 @@
                   <label rend="pre(()post())">*</label> Old text, <hi rend="slant(italics)"
                      >creature.</hi></p>
             </note>
-
+            <note xml:id="n006" target="#a004" rend="pre(ᵃ)">
+               <!--add note here later-->
+            </note>
          </notes>
       </hyperDiv>
       <front>
@@ -612,9 +614,42 @@
                      <l n="122">No harm.</l>
                      <l n="123">I have done nothing but in care of thee,--</l>
                   </lg>
-               </sp>
+               
                <fw type="pageNum">7</fw>
                <pb n="8"></pb>
+               <lg>
+                  <l>Of thee, my dear one! thee, my daughter, --who</l>
+                  <l>Art ignorant of what thou art, nought knowing</l>
+                  <l>Of whence I am; nor that I am more better</l>
+                  <l>Than Prospero, master of a full-poor cell,</l>
+                  <l>And they no greater father.</l>
+               </lg>
+               </sp>
+               <sp who="#mira">
+                  <speaker>Mira.</speaker>
+                  <lg>
+                     <l>More to know</l>
+                     <l>Did never meddle with my thoughts.</l>
+                  </lg>
+               </sp>
+               <sp who="#pro">
+                  <speaker>Pro.</speaker>
+                  <lg>
+                     <l>'Tis timer</l>
+                     <l>I should inform thee further. Lend thy hand,</l>
+                     <l>And pluck my magic garment from me.-- So;</l>
+                     <stage type="business" rend="pre([)slant(italic)">Lays down his robe.</stage>
+                     <l>Lie there, my art.-- Whioe thou thine eyes; have comfort</l>
+                     <l>The direful spectacle of the wreck, which touch'd</l>
+                     <l>The very virtue of compassion in thee,</l>
+                     <l>I have with such provision in mine art</l>
+                     <l>So safely order'd , that there is no soul--<anchor rend="pre(ᵃ)" xml:id="a004" corresp="#n006"/></l>
+                     <l>No, not so much perdition as an hair,</l>
+                     <l>Betid to any creature in the vessel</l>
+                     <l>Which thou heard'st cry, which thou saw'st sink. Sit down;</l>
+                     <l>For thou must now know further.</l>
+                  </lg>
+               </sp>
             </div>
             <!--scene 2 div-->
          </div>
