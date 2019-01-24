@@ -413,154 +413,154 @@
                   Boatswain.</stage>
                <sp who="#boat">
                   <speaker>Boats.</speaker>
-                  <p>Down with the topmast! yare; lower, lower! Bring her to try with
-                        main-course!<anchor rend="pre(ᵃ)" xml:id="a002" corresp="#n002"/>
-                     <stage type="novelistic" rend="slant(italic)">A cry within.</stage> A plague
-                     upon this howling! they are louder than the weather or our office.-- <stage
-                        type="entrance"><hi rend="slant(italic)">Re-enter</hi> Sebastian, Antonio,
-                        and Gonzalo.</stage> Yet again! what do you here? shall we give o'er and
-                     drown? have you a mind to sink?</p>
+                  <p><s n="60">Down with the topmast!</s> <s n="61">yare; lower, lower!</s> <s n="62">Bring her to try with
+                        main-course!</s><anchor rend="pre(ᵃ)" xml:id="a002" corresp="#n002"/>
+                     <stage type="location" rend="slant(italic)" n="63">A cry within.</stage> <s n="64">A plague
+                     upon this howling! they are louder than the weather or our office.</s>-- <stage
+                        type="entrance" n="65"><hi rend="slant(italic)">Re-enter</hi> Sebastian, Antonio,
+                        and Gonzalo.</stage> <s n="66">Yet again!</s> <s n="67">what do you here?</s> <s n="68">shall we give o'er and
+                     drown?</s> <s n="69">have you a mind to sink?</s></p>
                </sp>
                <cb n="2"/>
                <sp who="#seb">
                   <speaker>Seb.</speaker>
-                  <p>A pox o' your throat, you bawling, blaspehmous, incharitable dog!</p>
+                  <p><s n="70">A pox o' your throat, you bawling, blaspehmous, incharitable dog!</s></p>
                </sp>
                <sp who="#boat">
                   <speaker>Boats.</speaker>
-                  <p>Work you, then.</p>
+                  <p><s n="71">Work you, then.</s></p>
                </sp>
                <sp who="#ant">
                   <speaker>Ant.</speaker>
-                  <p>Hang, cur, hang! you whoreson, insolent noise-maker, we are less afraid to be
-                     drowned than thou art.</p>
+                  <p><s n="72">Hang, cur, hang!</s> <s n="73">you whoreson, insolent noise-maker, we are less afraid to be
+                     drowned than thou art.</s></p>
                </sp>
                <sp who="#gon">
                   <speaker>Gon.</speaker>
-                  <p>I'll warrant him for drowning thouh the ship were no stronger than a nutshell,
-                     and as leaky as an unstanched wench.</p>
+                  <p><s n="74">I'll warrant him for drowning thouh the ship were no stronger than a nutshell,
+                     and as leaky as an unstanched wench.</s></p>
                </sp>
                <sp who="#boat">
                   <speaker>Boats.</speaker>
-                  <p>Lay her a-hold, a-hold! set her two courses! off to sea again; lay her off!</p>
+                  <p><s n="75">Lay her a-hold, a-hold! </s><s n="76">set her two courses!</s> <s n="77">off to sea again; lay her off!</s></p>
                </sp>
-               <stage type="entrance"><hi rend="slant(italic)">Re-enter</hi> Mariners, <hi
+               <stage type="entrance" n="78"><hi rend="slant(italic)">Re-enter</hi> Mariners, <hi
                      rend="slant(italic)">wet.</hi></stage>
                <sp who="#mar">
                   <speaker>Mar.</speaker>
-                  <p>All lost! to prayers, to prayers! all lost!</p>
+                  <p><s n="79">All lost!</s> <s n="80">to prayers, to prayers!</s> <s n="81">all lost!</s></p>
                </sp>
-               <stage type="exit" rend="align(right)slant(italic)">[Exeunt.</stage>
+               <stage type="exit" rend="align(right)slant(italic)" n="82">[Exeunt.</stage>
                <sp who="#boat">
                   <speaker>Boats.</speaker>
-                  <p>What, must our mouths be cold?</p>
+                  <p><s n="83">What, must our mouths be cold?</s></p>
                </sp>
                <sp who="#gon">
                   <speaker>Gon.</speaker>
                   <lg>
-                     <l>The king and prince at prayers! let's assist them,</l>
-                     <l>For our case is as theirs</l>
+                     <l n="84">The king and prince at prayers! let's assist them,</l>
+                     <l n="85">For our case is as theirs</l>
                   </lg>
                </sp>
                <sp who="#seb">
                   <speaker>Seb.</speaker>
                   <lg>
-                     <l>I'm out of patience.</l>
+                     <l n="86">I'm out of patience.</l>
                      <!--do the i m f thing when sarah puts it in the documentation-->
                   </lg>
                </sp>
                <sp who="#ant">
                   <speaker>Ant.</speaker>
                   <lg>
-                     <l>We are merely cheated of our lives by drunkards:--</l>
-                     <l>This wide-chapp'd rascal,-- would thou mightst lie drowning,</l>
-                     <l>The washing of ten tides!</l>
+                     <l n="87">We are merely cheated of our lives by drunkards:--</l>
+                     <l n="88">This wide-chapp'd rascal,-- would thou mightst lie drowning,</l>
+                     <l n="89">The washing of ten tides!</l>
                   </lg>
                </sp>
                <sp who="#gon">
                   <speaker>Gon.</speaker>
                   <lg>
-                     <l>He'll be hang'd yet,</l>
-                     <l>Though every drop of water swear against it,</l>
-                     <l>And gape at wid'st to glut him.</l>
+                     <l n="90">He'll be hang'd yet,</l>
+                     <l n="91">Though every drop of water swear against it,</l>
+                     <l n="92">And gape at wid'st to glut him.</l>
                   </lg>
                </sp>
-               <stage type="mixed">[A confused noise within.]<lg>
-                     <l>-- Mercy on us!-- We split, we split!-- Farewell, my wife and children!</l>
-                     <l>Farewell, brother! We split, we split, we split!--(1)</l>
+               <stage type="mixed" n="93">[A confused noise within.]<lg>
+                     <l n="94">-- Mercy on us!-- We split, we split!-- Farewell, my wife and children!</l>
+                     <l n="95">Farewell, brother! We split, we split, we split!--(1)</l>
                   </lg></stage>
-               <stage type="exit" rend="pre([)">Exit <persName>Boatswain</persName>.</stage>
+               <stage type="exit" rend="pre([)" n="96">Exit <persName>Boatswain</persName>.</stage>
                <sp who="#ant">
                   <speaker>Ant.</speaker>
-                  <p>Let's all sink with the king.</p>
+                  <p n="97">Let's all sink with the king.</p>
                </sp>
                <stage type="exit" rend="pre([)">Exit</stage>
                <sp who="#seb">
                   <speaker>Seb.</speaker>
-                  <p>Let's take leave of him.</p>
+                  <p n="98">Let's take leave of him.</p>
                </sp>
-               <stage type="exit" rend="pre([)">Exit</stage>
+               <stage type="exit" rend="pre([)" n="99">Exit</stage>
                <sp who="#gon">
                   <speaker>Gon.</speaker>
-                  <p>Now would I give a thousand furlongs of sea for an acre of barren ground,--
-                     long heath, brown furze, anything. The wills above be done! but I would fain
-                     die a dry death.</p>
+                  <p><s n="100">Now would I give a thousand furlongs of sea for an acre of barren ground,--
+                     long heath, brown furze, anything.</s><s n="101"> The wills above be done!</s> <s n="102">but I would fain
+                     die a dry death.</s></p>
                </sp>
-               <stage type="exit" rend="pre([)">Exit</stage>
+               <stage type="exit" rend="pre([)" n="103">Exit</stage>
             </div>
             <div type="scene" n="2">
                <head>Scene II.--The Island: before the Cell of Prospero.</head>
-               <stage type="entrance">Enter <persName>Prospero</persName> and
+               <stage type="entrance" n="104">Enter <persName>Prospero</persName> and
                      <persName>Miranda</persName>.</stage>
                <sp who="#mira">
                   <speaker>Mira.</speaker>
                   <lg>
-                     <l>If by your art, my dearest father, you have</l>
-                     <l>Put the wild waters in this roar, allay them.<anchor rend="pre(ᵇ)"
+                     <l n="105">If by your art, my dearest father, you have</l>
+                     <l n="106">Put the wild waters in this roar, allay them.<anchor rend="pre(ᵇ)"
                            xml:id="b001" corresp="#n003"/></l>
-                     <l>The sky, it seems, would pour down like stinking pitch,</l>
+                     <l n="107">The sky, it seems, would pour down like stinking pitch,</l>
                      <fw type="pageNum" rend="align(left)">6</fw>
                      <pb n="7"/>
                      <figure>
                         <figDesc><!--bruh--></figDesc>
                      </figure>
                      <cb n="1"/>
-                     <l>But that the sea, mounting to the welkin's cheek,<anchor rend="pre(ᵃ)"
+                     <l n="108">But that the sea, mounting to the welkin's cheek,<anchor rend="pre(ᵃ)"
                            xml:id="a003" corresp="#n004"/></l>
-                     <l>Dashes the fire out. O, I have suffer'd</l>
-                     <l>With those that I saw suffer! a brave vessel,</l>
-                     <l>Who had, no doubt, some noble creatures<anchor rend="pre(*)"
+                     <l n="109">Dashes the fire out. O, I have suffer'd</l>
+                     <l n="110">With those that I saw suffer! a brave vessel,</l>
+                     <l n="111">Who had, no doubt, some noble creatures<anchor rend="pre(*)"
                            xml:id="star001" corresp="#n005"/> in her,</l>
-                     <l>Dash'd al to pieces. O, the cry did knock</l>
-                     <l>Against my very heart! Poor souls, they perish'd!</l>
-                     <l>Had I been any god of pwoer, I would</l>
-                     <l>Have sunk the sea within the earth, or e'er</l>
+                     <l n="112">Dash'd al to pieces. O, the cry did knock</l>
+                     <l n="113">Against my very heart! Poor souls, they perish'd!</l>
+                     <l n="114">Had I been any god of pwoer, I would</l>
+                     <l n="115">Have sunk the sea within the earth, or e'er</l>
                      <cb n="2"/>
-                     <l>It should the good ship so have swallow'd, and</l>
-                     <l>The fraughting souls within her.</l>
+                     <l n="116">It should the good ship so have swallow'd, and</l>
+                     <l n="117">The fraughting souls within her.</l>
                   </lg>
                </sp>
                <sp who="#pro">
                   <speaker>Pro.</speaker>
                   <lg>
-                     <l>Be collected;</l>
+                     <l n="118">Be collected;</l>
                      <!--i m f thing-->
-                     <l>No more amazement: tell your piteous heart</l>
-                     <l>There's no harm done.</l>
+                     <l n="119">No more amazement: tell your piteous heart</l>
+                     <l n="120">There's no harm done.</l>
                   </lg>
 
                </sp>
                <sp who="#mira">
                   <speaker>Mir.</speaker>
                   <lg>
-                     <l>O, woe the day!</l>
+                     <l n="121">O, woe the day!</l>
                   </lg>
                </sp>
                <sp who="#pro">
                   <speaker>Pro.</speaker>
                   <lg>
-                     <l>No harm.</l>
-                     <l>I have done nothing but in care of thee,--</l>
+                     <l n="122">No harm.</l>
+                     <l n="123">I have done nothing but in care of thee,--</l>
                   </lg>
                </sp>
             </div>
