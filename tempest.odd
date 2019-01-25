@@ -23,12 +23,88 @@
                 <moduleRef key="textstructure" except="div1 div2 div3 div4 div5 div6 div7"/>
                 <moduleRef key="analysis" include="s span"/>
                 <moduleRef key="drama" except="actor camera caption move performance set sound tech view"/>
-                <moduleRef key="figure"/>
+                <moduleRef key="figures"/>
                 <moduleRef key="gaiji" except="charProp glyphName localName mapping unicodeName"/>
                 <moduleRef key="linking" include="ab anchor seg"/>
                 <moduleRef key="namesdates" include="persName placeName"></moduleRef>
                 <moduleRef key="tagdocs" include="att gi val code"/>
                 <moduleRef key="transcr" include="fw"/>
+                
+                <elementSpec ident="text" mode="change">
+                    <content>
+                        <sequence>
+                            <classRef key="model.global"
+                                minOccurs="0" maxOccurs="unbounded"/>
+                            <sequence minOccurs="0">
+                                <elementRef key="hyperDiv"/>
+                                <classRef key="model.global"
+                                    minOccurs="0" maxOccurs="unbounded"/>
+                            </sequence>
+                            <classRef key="model.global"
+                                minOccurs="0" maxOccurs="unbounded"/>
+                            <sequence minOccurs="0">
+                                <elementRef key="front"/>
+                                <classRef key="model.global"
+                                    minOccurs="0" maxOccurs="unbounded"/>
+                            </sequence>
+                            <alternate>
+                                <elementRef key="body"/>
+                                <elementRef key="group"/>
+                            </alternate>
+                            <classRef key="model.global"
+                                minOccurs="0" maxOccurs="unbounded"/>
+                            <sequence minOccurs="0">
+                                <elementRef key="back"/>
+                                <classRef key="model.global"
+                                    minOccurs="0" maxOccurs="unbounded"/>
+                            </sequence>
+                        </sequence>
+                    </content>
+                </elementSpec>
+                
+                <elementSpec ident="hyperDiv" mode="add">
+                   <content>
+                       <sequence>
+                           <alternate minOccurs="0"
+                               maxOccurs="unbounded">
+                               <classRef key="model.frontPart"/>
+                               <classRef key="model.pLike"/>
+                               <classRef key="model.pLike.front"/>
+                               <classRef key="model.global"/>
+                           </alternate>
+                           <sequence minOccurs="0">
+                               <alternate>
+                                   <sequence>
+                                       <classRef key="model.div1Like"/>
+                                       <alternate minOccurs="0"
+                                           maxOccurs="unbounded">
+                                           <classRef key="model.div1Like"/>
+                                           <classRef key="model.frontPart"/>
+                                           <classRef key="model.global"/>
+                                       </alternate>
+                                   </sequence>
+                                   <sequence>
+                                       <classRef key="model.divLike"/>
+                                       <alternate minOccurs="0"
+                                           maxOccurs="unbounded">
+                                           <classRef key="model.divLike"/>
+                                           <classRef key="model.frontPart"/>
+                                           <classRef key="model.global"/>
+                                       </alternate>
+                                   </sequence>
+                               </alternate>
+                               <sequence minOccurs="0">
+                                   <classRef key="model.divBottom"/>
+                                   <alternate minOccurs="0"
+                                       maxOccurs="unbounded">
+                                       <classRef key="model.divBottom"/>
+                                       <classRef key="model.global"/>
+                                   </alternate>
+                               </sequence>
+                           </sequence>
+                       </sequence>
+                   </content> 
+                </elementSpec>
                 
                 <elementSpec ident="div" mode="change">
                     <attList>
@@ -44,11 +120,24 @@
                                 <valItem ident="castList"/>
                                 <valItem ident="prologue"/>
                                 <valItem ident="epilogue"/>
+                                <valItem ident="notes"/>
                             </valList>
                         </attDef>
                     </attList>
                 </elementSpec>
                 
+                <elementSpec ident="fw" mode="change">
+                    <attList>
+                        <attDef ident="type" mode="change" usage="req">
+                            <valList mode="replace" type="closed">
+                                <valItem ident="lineNum"/>
+                                <valItem ident="pageNum"/>
+                                <valItem ident="signature"/>
+                                <valItem ident="pressFig"/>
+                            </valList>
+                        </attDef>
+                    </attList>
+                </elementSpec>
                 
                 <elementSpec ident="sp" mode="change">
                     <attList>
@@ -59,6 +148,19 @@
                 <elementSpec ident="stage" mode="change">
                     <attList>
                         <attDef ident="type" mode="change" usage="req">
+                            <valList mode="replace" type="closed">
+                                <valItem ident="business"/>
+                                <valItem ident="delivery"/>
+                                <valItem ident="entrance"/>
+                                <valItem ident="exit"/>
+                                <valItem ident="location"/>
+                                <valItem ident="modifier"/>
+                                <valItem ident="present"/>
+                                <valItem ident="prop"/>
+                                <valItem ident="remains"/>
+                                <valItem ident="setting"/>
+                                <valItem ident="mixed"/>
+                            </valList>
                         </attDef>
                     </attList>
                 </elementSpec> 

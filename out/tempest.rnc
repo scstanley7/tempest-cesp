@@ -9,7 +9,7 @@ namespace teix = "http://www.tei-c.org/ns/Examples"
 namespace xi = "http://www.w3.org/2001/XInclude"
 namespace xlink = "http://www.w3.org/1999/xlink"
 
-# Schema generated from ODD source 2018-07-10T15:31:43Z. .
+# Schema generated from ODD source 2019-01-25T15:26:37Z. .
 # TEI Edition: Version 3.3.0. Last updated on
 #	31st January 2018, revision f4d8439
 # TEI Edition Location: http://www.tei-c.org/Vault/P5/Version 3.3.0/
@@ -1031,6 +1031,32 @@ sch:pattern [
   "\x{a}" ~
   "   "
 ]
+att.tableDecoration.attributes =
+  att.tableDecoration.attribute.role,
+  att.tableDecoration.attribute.rows,
+  att.tableDecoration.attribute.cols
+att.tableDecoration.attribute.role =
+  
+  ## indicates the kind of information held in this cell or in each cell of this row.
+  ## Suggested values include: 1] label; 2] data
+  [ a:defaultValue = "data" ]
+  attribute role {
+    
+    ## labelling or descriptive information only.
+    "label"
+    | 
+      ## data values.
+      "data"
+    | xsd:token { pattern = "(\p{L}|\p{N}|\p{P}|\p{S})+" }
+  }?
+att.tableDecoration.attribute.rows =
+  
+  ## indicates the number of rows occupied by this cell or row.
+  [ a:defaultValue = "1" ] attribute rows { xsd:nonNegativeInteger }?
+att.tableDecoration.attribute.cols =
+  
+  ## (columns) indicates the number of columns occupied by this cell or row.
+  [ a:defaultValue = "1" ] attribute cols { xsd:nonNegativeInteger }?
 att.timed.attributes =
   att.timed.attribute.start, att.timed.attribute.end
 att.timed.attribute.start =
@@ -1210,7 +1236,7 @@ model.egLike_sequence = empty
 model.egLike_sequenceOptional = empty
 model.egLike_sequenceOptionalRepeatable = empty
 model.egLike_sequenceRepeatable = notAllowed
-model.graphicLike = graphic
+model.graphicLike = graphic | formula
 model.offsetLike = notAllowed
 model.offsetLike_alternation = notAllowed
 model.offsetLike_sequence = empty
@@ -1272,12 +1298,12 @@ model.labelLike_sequence = desc, label
 model.labelLike_sequenceOptional = desc?, label?
 model.labelLike_sequenceOptionalRepeatable = desc*, label*
 model.labelLike_sequenceRepeatable = desc+, label+
-model.listLike = \list
-model.listLike_alternation = \list
-model.listLike_sequence = \list
-model.listLike_sequenceOptional = \list?
-model.listLike_sequenceOptionalRepeatable = \list*
-model.listLike_sequenceRepeatable = \list+
+model.listLike = \list | table
+model.listLike_alternation = \list | table
+model.listLike_sequence = \list, table
+model.listLike_sequenceOptional = \list?, table?
+model.listLike_sequenceOptionalRepeatable = \list*, table*
+model.listLike_sequenceRepeatable = \list+, table+
 model.noteLike = note
 model.lLike = l
 model.lLike_alternation = l
@@ -1428,6 +1454,8 @@ model.global =
   | model.milestoneLike
   | model.noteLike
   | model.global.edit
+  | notatedMusic
+  | figure
 model.biblPart =
   model.respLike
   | model.imprintPart
@@ -2759,37 +2787,41 @@ stage =
     att.placement.attributes,
     
     ## indicates the kind of stage direction.
-    ## Suggested values include: 1] setting; 2] entrance; 3] exit; 4] business; 5] novelistic; 6] delivery; 7] modifier; 8] location; 9] mixed
     attribute type {
       list {
         (
-         ## describes a setting.
-         "setting"
+         ##
+         "business"
          | 
-           ## describes an entrance.
-           "entrance"
-         | 
-           ## describes an exit.
-           "exit"
-         | 
-           ## describes stage business.
-           "business"
-         | 
-           ## is a narrative, motivating stage direction.
-           "novelistic"
-         | 
-           ## describes how a character speaks.
+           ##
            "delivery"
          | 
-           ## gives some detail about a character.
-           "modifier"
+           ##
+           "entrance"
          | 
-           ## describes a location.
+           ##
+           "exit"
+         | 
+           ##
            "location"
          | 
-           ## more than one of the above
-           "mixed"
-         | xsd:token { pattern = "(\p{L}|\p{N}|\p{P}|\p{S})+" })*
+           ##
+           "modifier"
+         | 
+           ##
+           "present"
+         | 
+           ##
+           "prop"
+         | 
+           ##
+           "remains"
+         | 
+           ##
+           "setting"
+         | 
+           ##
+           "mixed")*
       }
     },
     empty
@@ -3714,6 +3746,8 @@ TEI =
   ## contains a single text of any kind, whether unitary or composite, for example a poem or drama, a collection of essays, a novel, a dictionary, or a corpus sample. [4. Default Text Structure 15.1. Varieties of Composite Text]
   element text {
     (model.global*,
+     (hyperDiv, model.global*)?,
+     model.global*,
      (front, model.global*)?,
      (body | group),
      model.global*,
@@ -3848,6 +3882,9 @@ floatingText =
       | 
         ##
         "epilogue"
+      | 
+        ##
+        "notes"
     },
     empty
   }
@@ -4324,6 +4361,76 @@ spGrp =
     att.ascribed.attributes,
     empty
   }
+table =
+  
+  ## contains text displayed in tabular form, in rows and columns. [14.1.1. TEI Tables]
+  element table {
+    ((model.headLike | model.global)*,
+     ((row, model.global*)+ | (model.graphicLike, model.global*)+),
+     (model.divBottom, model.global*)*),
+    att.global.attributes,
+    att.typed.attributes,
+    
+    ## indicates the number of rows in the table.
+    attribute rows { xsd:nonNegativeInteger }?,
+    
+    ## (columns) indicates the number of columns in each row of the table.
+    attribute cols { xsd:nonNegativeInteger }?,
+    empty
+  }
+row =
+  
+  ## contains one row of a table. [14.1.1. TEI Tables]
+  element row {
+    cell+, att.global.attributes, att.tableDecoration.attributes, empty
+  }
+cell =
+  
+  ## contains one cell of a table. [14.1.1. TEI Tables]
+  element cell {
+    macro.specialPara,
+    att.global.attributes,
+    att.tableDecoration.attributes,
+    empty
+  }
+formula =
+  
+  ## contains a mathematical or other formula. [14.2. Formulæ and Mathematical Expressions]
+  element formula {
+    (text | model.graphicLike | model.hiLike)*,
+    att.global.attributes,
+    att.notated.attributes,
+    empty
+  }
+notatedMusic =
+  
+  ## encodes the presence of music notation in a text [14.3. Notated Music in Written Text]
+  element notatedMusic {
+    (model.labelLike | model.ptrLike | graphic | seg)*,
+    att.global.attributes,
+    att.placement.attributes,
+    att.typed.attributes,
+    empty
+  }
+figure =
+  
+  ## groups elements representing or containing graphic information such as an illustration, formula, or figure. [14.4. Specific Elements for Graphic Images]
+  element figure {
+    (model.headLike
+     | model.common
+     | figDesc
+     | model.graphicLike
+     | model.global
+     | model.divBottom)*,
+    att.global.attributes,
+    att.placement.attributes,
+    att.typed.attributes,
+    empty
+  }
+figDesc =
+  
+  ## (description of figure) contains a brief prose description of the appearance or content of a graphic figure, for use when documenting an image without displaying it. [14.4. Specific Elements for Graphic Images]
+  element figDesc { macro.limitedContent, att.global.attributes, empty }
 g =
   
   ## (character or glyph) represents a glyph, or a non-standard character. [5. Characters, Glyphs, and Writing Modes]
@@ -4340,7 +4447,11 @@ char =
   
   ## (character) provides descriptive information about a character. [5.2. Markup Constructs for Representation of Characters and Glyphs]
   element char {
-    (charName?, model.descLike*, model.graphicLike*, model.noteLike*),
+    (charName?,
+     model.descLike*,
+     figure*,
+     model.graphicLike*,
+     model.noteLike*),
     att.global.attributes,
     empty
   }
@@ -4360,7 +4471,7 @@ glyph =
   
   ## (character glyph) provides descriptive information about a character glyph. [5.2. Markup Constructs for Representation of Characters and Glyphs]
   element glyph {
-    (model.descLike*, model.graphicLike*, model.noteLike*),
+    (model.descLike*, figure*, model.graphicLike*, model.noteLike*),
     att.global.attributes,
     empty
   }
@@ -4718,10 +4829,31 @@ fw =
     att.written.attributes,
     
     ## classifies the material encoded according to some useful typology.
-    ## Sample values include: 1] header; 2] footer; 3] pageNum (page number) ; 4] lineNum (line number) ; 5] sig (signature) ; 6] catch (catchword) 
     attribute type {
-      xsd:token { pattern = "(\p{L}|\p{N}|\p{P}|\p{S})+" }
-    }?,
+      
+      ##
+      "lineNum"
+      | 
+        ##
+        "pageNum"
+      | 
+        ##
+        "signature"
+      | 
+        ##
+        "pressFig"
+    },
     empty
+  }
+hyperDiv =
+  
+  ##
+  element hyperDiv {
+    (model.frontPart | model.pLike | model.pLike.front | model.global)*,
+    (((model.div1Like,
+       (model.div1Like | model.frontPart | model.global)*)
+      | (model.divLike,
+         (model.divLike | model.frontPart | model.global)*)),
+     (model.divBottom, (model.divBottom | model.global)*)?)?
   }
 start = TEI

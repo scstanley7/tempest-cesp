@@ -119,7 +119,10 @@
    </teiHeader>
    <text>
       <hyperDiv>
-         <notes>
+         <castList>
+            <castItem><!-- put any stray cast members without a reference in the Dramatis Personae here! --></castItem>
+         </castList>
+         <div type="notes">
             <note xml:id="n001" target="#a001" rend="pre(ᵃ)">
                <p><label rend="post(—])">Yarely,</label>
                   <hi rend="rend(italic)">briskly, nimbly, actively.</hi></p>
@@ -135,10 +138,10 @@
             </note>
             <note xml:id="n003" target="#b001" rend="pre(ᵇ)">
                <p>
-                  <label rend="post(])"><lg>
+                  <lg rend="post(])">
                         <l>If by your art, my dearest father, you have</l>
                         <l>Put the wild waters in this roar, allay them.</l>
-                     </lg></label> These lines are not metrical, and sound but gratingly on the ear.
+                     </lg> These lines are not metrical, and sound but gratingly on the ear.
                   It would be an improvement perhaps if we read them thus,-- <lg>
                      <l>"If by your art, my dearest father, you</l>
                      <l>Have put the wild waters in this roar, allay them.</l>
@@ -191,7 +194,7 @@
             <note xml:id="n006" target="#a004" rend="pre(ᵃ)">
                <!--add note here later-->
             </note>
-         </notes>
+         </div>
       </hyperDiv>
       <front>
          <pb n="1"/>
@@ -256,7 +259,7 @@
                commentators to have been determined by the shipwreck of Sir George Sommers and Sir
                Thomas Gates on the coast of the Bermudas in 1609;</p>
             <fw type="pageNum" rend="align(left)">3</fw>
-            <fw type="sig" rend="align(right)">B4</fw>
+            <fw type="signature" rend="align(right)">B4</fw>
             <pb n="4"/>
             <p>of which an account was published by Silvester Jourdan,one of the crew, in the
                following year:-- <hi rend="slant(italic)">A Discovery of the Barmudas ; otherwise
