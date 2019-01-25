@@ -139,10 +139,10 @@
             <note xml:id="n003" target="#b001" rend="pre(ᵇ)">
                <p>
                   <lg rend="post(])">
-                        <l>If by your art, my dearest father, you have</l>
-                        <l>Put the wild waters in this roar, allay them.</l>
-                     </lg> These lines are not metrical, and sound but gratingly on the ear.
-                  It would be an improvement perhaps if we read them thus,-- <lg>
+                     <l>If by your art, my dearest father, you have</l>
+                     <l>Put the wild waters in this roar, allay them.</l>
+                  </lg> These lines are not metrical, and sound but gratingly on the ear. It would
+                  be an improvement perhaps if we read them thus,-- <lg>
                      <l>"If by your art, my dearest father, you</l>
                      <l>Have put the wild waters in this roar, allay them.</l>
                   </lg>
@@ -192,7 +192,28 @@
                      >creature.</hi></p>
             </note>
             <note xml:id="n006" target="#a004" rend="pre(ᵃ)">
-               <!--add note here later-->
+               <label rend="pre(ᵃ--)post(--])"><hi rend="slant(italic)">that there is no</hi>
+                  soul</label>
+               <p>Rowe Prints,-- <lg>
+                     <l>"-- that there is no soul <hi rend="slant(italic)">lost</hi>;</l>
+                  </lg> Theobald, "that there is no <hi rend="slant(italic)">foyle</hi>;"and
+                  Johnson, "that there is no <hi rend="slant(italic)">soil</hi>." We believe,
+                  notwithstanding Steevens' remark that "such interruptions are not uncommon to
+                  Shakespeare," that "soul" is a typographical error, and that the author wrote, as
+                  Capell reads, -- <lg>
+                     <l rend="indent(1)">"-- that tere is no <hi rend="slant(italic)">loss</hi>,</l>
+                     <l>No, not so much perdition as an hair</l>
+                     <l>Betid to any creature," &amp;c.</l>
+                  </lg>
+               </p>
+            </note>
+            <note xml:id="n007" target="#b002" rend="pre(ᵇ)">
+               <label rend="pre(ᵇ)post(])"><hi rend="slant(italic)">You have often,</hi> &amp;c.</label>
+               <p>Query, "You have <hi rend="slant(italic)">oft</hi>," &amp;c.</p>
+            </note>
+            <note xml:id="n008" target="#c001" rend="pre(ᶜ)">
+               <label rend="pre(ᶜ)post(])">Out <hi rend="slant(italic)">three years old</hi>.</label>
+               <p>That is, <hi rend="slant(italic)">past</hi>, or <hi rend="slant(italic)">more than</hi>, three years old.</p>
             </note>
          </div>
       </hyperDiv>
@@ -617,16 +638,16 @@
                      <l n="122">No harm.</l>
                      <l n="123">I have done nothing but in care of thee,--</l>
                   </lg>
-               
-               <fw type="pageNum">7</fw>
-               <pb n="8"></pb>
-               <lg>
-                  <l>Of thee, my dear one! thee, my daughter, --who</l>
-                  <l>Art ignorant of what thou art, nought knowing</l>
-                  <l>Of whence I am; nor that I am more better</l>
-                  <l>Than Prospero, master of a full-poor cell,</l>
-                  <l>And they no greater father.</l>
-               </lg>
+
+                  <fw type="pageNum">7</fw>
+                  <pb n="8"/>
+                  <lg>
+                     <l>Of thee, my dear one! thee, my daughter, --who</l>
+                     <l>Art ignorant of what thou art, nought knowing</l>
+                     <l>Of whence I am; nor that I am more better</l>
+                     <l>Than Prospero, master of a full-poor cell,</l>
+                     <l>And they no greater father.</l>
+                  </lg>
                </sp>
                <sp who="#mira">
                   <speaker>Mira.</speaker>
@@ -646,11 +667,55 @@
                      <l>The direful spectacle of the wreck, which touch'd</l>
                      <l>The very virtue of compassion in thee,</l>
                      <l>I have with such provision in mine art</l>
-                     <l>So safely order'd , that there is no soul--<anchor rend="pre(ᵃ)" xml:id="a004" corresp="#n006"/></l>
+                     <l>So safely order'd , that there is no soul--<anchor rend="pre(ᵃ)"
+                           xml:id="a004" corresp="#n006"/></l>
                      <l>No, not so much perdition as an hair,</l>
                      <l>Betid to any creature in the vessel</l>
                      <l>Which thou heard'st cry, which thou saw'st sink. Sit down;</l>
                      <l>For thou must now know further.</l>
+                  </lg>
+               </sp>
+               <sp who="#mira">
+                  <speaker>Mira.</speaker>
+                  <lg>
+                     <l>You have often <anchor rend="pre(ᵇ)" xml:id="b002" corresp="#n007"></anchor></l>
+                     <l>Begun to tell me what I am; but stopp'd,</l>
+                     <l>And left me to a bootless inquisition,</l>
+                     <l>Concluding, <hi rend="slant(italic)">Stay, not yet.</hi>--</l>
+                  </lg>
+               </sp>
+               <sp who="#pro">
+                  <speaker>Pro.</speaker>
+                  <lg>
+                     <l>The hour's now come;</l>
+                     <l>The very minute bids thee ope thine ear;</l>
+                     <l>Obey, and be attentive. Canst thou remember</l>
+                     <l>A time before we came unto this cell?</l>
+                     <l>I do not think thou canst, for then thou wast not</l>
+                     <l>Out three years old.<anchor rend="pre(ᶜ)" xml:id="c001" corresp="#n008"></anchor></l>
+                  </lg>
+               </sp>
+               <sp who="#mira">
+                  <speaker>Mira.</speaker>
+                  <lg>
+                     <l>Certainly, sir, I can.</l>
+                  </lg>
+               </sp>
+               <sp who="#pro">
+                  <speaker>Pro.</speaker>
+                  <lg>
+                     <l>By what? by any other house or person?</l>
+                     <l>Of anything the image, tell me, that</l>
+                     <l>Hath kept with thy rememberance.</l>
+                  </lg>
+               </sp>
+               <sp who="#mira">
+                  <speaker>Mira.</speaker>
+                  <lg>
+                     <l>'Tis far off,</l>
+                     <l>And rather like a dream that an assurance</l>
+                     <l>That my remembrance warrants.Had I not</l>
+                     <l>Four or five women once that tended me?</l>
                   </lg>
                </sp>
             </div>
