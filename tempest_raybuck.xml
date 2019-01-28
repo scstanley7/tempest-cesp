@@ -208,12 +208,15 @@
                </p>
             </note>
             <note xml:id="n007" target="#b002" rend="pre(ᵇ)">
-               <label rend="pre(ᵇ)post(])"><hi rend="slant(italic)">You have often,</hi> &amp;c.</label>
+               <label rend="pre(ᵇ)post(])"><hi rend="slant(italic)">You have often,</hi>
+                  &amp;c.</label>
                <p>Query, "You have <hi rend="slant(italic)">oft</hi>," &amp;c.</p>
             </note>
             <note xml:id="n008" target="#c001" rend="pre(ᶜ)">
-               <label rend="pre(ᶜ)post(])">Out <hi rend="slant(italic)">three years old</hi>.</label>
-               <p>That is, <hi rend="slant(italic)">past</hi>, or <hi rend="slant(italic)">more than</hi>, three years old.</p>
+               <label rend="pre(ᶜ)post(])">Out <hi rend="slant(italic)">three years
+                  old</hi>.</label>
+               <p>That is, <hi rend="slant(italic)">past</hi>, or <hi rend="slant(italic)">more
+                     than</hi>, three years old.</p>
             </note>
          </div>
       </hyperDiv>
@@ -678,7 +681,7 @@
                <sp who="#mira">
                   <speaker>Mira.</speaker>
                   <lg>
-                     <l>You have often <anchor rend="pre(ᵇ)" xml:id="b002" corresp="#n007"></anchor></l>
+                     <l>You have often <anchor rend="pre(ᵇ)" xml:id="b002" corresp="#n007"/></l>
                      <l>Begun to tell me what I am; but stopp'd,</l>
                      <l>And left me to a bootless inquisition,</l>
                      <l>Concluding, <hi rend="slant(italic)">Stay, not yet.</hi>--</l>
@@ -692,7 +695,8 @@
                      <l>Obey, and be attentive. Canst thou remember</l>
                      <l>A time before we came unto this cell?</l>
                      <l>I do not think thou canst, for then thou wast not</l>
-                     <l>Out three years old.<anchor rend="pre(ᶜ)" xml:id="c001" corresp="#n008"></anchor></l>
+                     <l>Out three years old.<anchor rend="pre(ᶜ)" xml:id="c001" corresp="#n008"
+                        /></l>
                   </lg>
                </sp>
                <sp who="#mira">
