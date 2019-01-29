@@ -128,7 +128,6 @@
                   <hi rend="rend(italic)">briskly, nimbly, actively.</hi></p>
             </note>
             <note xml:id="n002" target="#a002" rend="pre(ᵃ)">
-               <!--line for footnote-->
                <p>
                   <label rend="post(—])">Bring her to try with main-course!</label> It has been
                   proposed to read, "Bring her to; try with the main-course;" but see a passage from
@@ -218,12 +217,16 @@
                <p>That is, <hi rend="slant(italic)">past</hi>, or <hi rend="slant(italic)">more
                      than</hi>, three years old.</p>
             </note>
+            <note xml:id="n009" target="#d001" rend="pre(ᵈ)">
+               <label rend="post(--])">A<hi rend="slant(italic)">princess</hi></label>
+               <p>In the old text, <hi rend="slant(italic)">"And Princesse."</hi> The correction is
+                  due to Pope.</p>
+            </note>
          </div>
       </hyperDiv>
       <front>
          <pb n="1"/>
          <figure>
-            <!--figure needs to be included in the schema-->
             <figDesc>
                <!--I have no clue whats going on in this illustration, it looks like a caveman is yelling at Jesus-->
             </figDesc>
@@ -333,7 +336,6 @@
                   <castItem n="7">
                      <role xml:id="gon">Gonzalo,</role><roleDesc>an honest old
                         Counsellor.</roleDesc></castItem>
-                  <!--how do i represent the text here, it made one description for both roles? line 158, 194-->
                   <castGroup rend="braced(#label)">
                      <castItem><role xml:id="adr">Adrian,</role></castItem>
                      <castItem><role xml:id="fran">Francisco,</role></castItem>
@@ -536,13 +538,13 @@
                   <speaker>Gon.</speaker>
                   <lg>
                      <l n="84">The king and prince at prayers! let's assist them,</l>
-                     <l n="85">For our case is as theirs</l>
+                     <l n="85" part="I">For our case is as theirs</l>
                   </lg>
                </sp>
                <sp who="#seb">
                   <speaker>Seb.</speaker>
                   <lg>
-                     <l n="86">I'm out of patience.</l>
+                     <l n="86" part="F">I'm out of patience.</l>
                      <!--do the i m f thing when sarah puts it in the documentation-->
                   </lg>
                </sp>
@@ -551,13 +553,13 @@
                   <lg>
                      <l n="87">We are merely cheated of our lives by drunkards:--</l>
                      <l n="88">This wide-chapp'd rascal,-- would thou mightst lie drowning,</l>
-                     <l n="89">The washing of ten tides!</l>
+                     <l n="89" part="I">The washing of ten tides!</l>
                   </lg>
                </sp>
                <sp who="#gon">
                   <speaker>Gon.</speaker>
                   <lg>
-                     <l n="90">He'll be hang'd yet,</l>
+                     <l n="90" part="F">He'll be hang'd yet,</l>
                      <l n="91">Though every drop of water swear against it,</l>
                      <l n="92">And gape at wid'st to glut him.</l>
                   </lg>
@@ -616,110 +618,202 @@
                      <l n="115">Have sunk the sea within the earth, or e'er</l>
                      <cb n="2"/>
                      <l n="116">It should the good ship so have swallow'd, and</l>
-                     <l n="117">The fraughting souls within her.</l>
+                     <l n="117" part="I">The fraughting souls within her.</l>
                   </lg>
                </sp>
                <sp who="#pro">
                   <speaker>Pro.</speaker>
                   <lg>
-                     <l n="118">Be collected;</l>
+                     <l n="118" part="F">Be collected;</l>
                      <!--i m f thing-->
                      <l n="119">No more amazement: tell your piteous heart</l>
-                     <l n="120">There's no harm done.</l>
+                     <l n="120" part="I">There's no harm done.</l>
                   </lg>
 
                </sp>
                <sp who="#mira">
                   <speaker>Mir.</speaker>
                   <lg>
-                     <l n="121">O, woe the day!</l>
+                     <l n="121" part="M">O, woe the day!</l>
                   </lg>
                </sp>
                <sp who="#pro">
                   <speaker>Pro.</speaker>
                   <lg>
-                     <l n="122">No harm.</l>
+                     <l n="122" part="F">No harm.</l>
                      <l n="123">I have done nothing but in care of thee,--</l>
                   </lg>
 
                   <fw type="pageNum">7</fw>
                   <pb n="8"/>
+                  <cb n="1"/>
                   <lg>
-                     <l>Of thee, my dear one! thee, my daughter, --who</l>
-                     <l>Art ignorant of what thou art, nought knowing</l>
-                     <l>Of whence I am; nor that I am more better</l>
-                     <l>Than Prospero, master of a full-poor cell,</l>
-                     <l>And they no greater father.</l>
+                     <l n="124">Of thee, my dear one! thee, my daughter, --who</l>
+                     <l n="125">Art ignorant of what thou art, nought knowing</l>
+                     <l n="126">Of whence I am; nor that I am more better</l>
+                     <l n="127">Than Prospero, master of a full-poor cell,</l>
+                     <l n="128" part="I">And they no greater father.</l>
                   </lg>
                </sp>
                <sp who="#mira">
                   <speaker>Mira.</speaker>
                   <lg>
-                     <l>More to know</l>
-                     <l>Did never meddle with my thoughts.</l>
+                     <l n="129" part="F">More to know</l>
+                     <l n="130" part="I">Did never meddle with my thoughts.</l>
                   </lg>
                </sp>
                <sp who="#pro">
                   <speaker>Pro.</speaker>
                   <lg>
-                     <l>'Tis timer</l>
-                     <l>I should inform thee further. Lend thy hand,</l>
-                     <l>And pluck my magic garment from me.-- So;</l>
-                     <stage type="business" rend="pre([)slant(italic)">Lays down his robe.</stage>
-                     <l>Lie there, my art.-- Whioe thou thine eyes; have comfort</l>
-                     <l>The direful spectacle of the wreck, which touch'd</l>
-                     <l>The very virtue of compassion in thee,</l>
-                     <l>I have with such provision in mine art</l>
-                     <l>So safely order'd , that there is no soul--<anchor rend="pre(ᵃ)"
+                     <l n="131" part="F">'Tis time</l>
+                     <l n="132">I should inform thee further. Lend thy hand,</l>
+                     <l n="133">And pluck my magic garment from me.-- So;</l>
+                     <stage n="134" type="business" rend="pre([)slant(italic)">Lays down his
+                        robe.</stage>
+                     <l n="135">Lie there, my art.-- Whioe thou thine eyes; have comfort</l>
+                     <l n="136">The direful spectacle of the wreck, which touch'd</l>
+                     <l n="137">The very virtue of compassion in thee,</l>
+                     <l n="138">I have with such provision in mine art</l>
+                     <l n="139">So safely order'd , that there is no soul--<anchor rend="pre(ᵃ)"
                            xml:id="a004" corresp="#n006"/></l>
-                     <l>No, not so much perdition as an hair,</l>
-                     <l>Betid to any creature in the vessel</l>
-                     <l>Which thou heard'st cry, which thou saw'st sink. Sit down;</l>
-                     <l>For thou must now know further.</l>
+                     <l n="140">No, not so much perdition as an hair,</l>
+                     <l n="141">Betid to any creature in the vessel</l>
+                     <l n="142">Which thou heard'st cry, which thou saw'st sink. Sit down;</l>
+                     <l n="143" part="I">For thou must now know further.</l>
                   </lg>
                </sp>
                <sp who="#mira">
                   <speaker>Mira.</speaker>
                   <lg>
-                     <l>You have often <anchor rend="pre(ᵇ)" xml:id="b002" corresp="#n007"/></l>
-                     <l>Begun to tell me what I am; but stopp'd,</l>
-                     <l>And left me to a bootless inquisition,</l>
-                     <l>Concluding, <hi rend="slant(italic)">Stay, not yet.</hi>--</l>
+                     <l n="144" part="F">You have often <anchor rend="pre(ᵇ)" xml:id="b002"
+                           corresp="#n007"/></l>
+                     <l n="145">Begun to tell me what I am; but stopp'd,</l>
+                     <l n="146">And left me to a bootless inquisition,</l>
+                     <l n="147" part="I">Concluding, <hi rend="slant(italic)">Stay, not
+                        yet.</hi>--</l>
                   </lg>
                </sp>
                <sp who="#pro">
                   <speaker>Pro.</speaker>
                   <lg>
-                     <l>The hour's now come;</l>
-                     <l>The very minute bids thee ope thine ear;</l>
-                     <l>Obey, and be attentive. Canst thou remember</l>
-                     <l>A time before we came unto this cell?</l>
-                     <l>I do not think thou canst, for then thou wast not</l>
-                     <l>Out three years old.<anchor rend="pre(ᶜ)" xml:id="c001" corresp="#n008"
-                        /></l>
+                     <l n="148" part="F">The hour's now come;</l>
+                     <l n="149">The very minute bids thee ope thine ear;</l>
+                     <l n="150">Obey, and be attentive. Canst thou remember</l>
+                     <l n="151">A time before we came unto this cell?</l>
+                     <l n="152">I do not think thou canst, for then thou wast not</l>
+                     <l n="153" part="I">Out three years old.<anchor rend="pre(ᶜ)" xml:id="c001"
+                           corresp="#n008"/></l>
                   </lg>
                </sp>
                <sp who="#mira">
                   <speaker>Mira.</speaker>
                   <lg>
-                     <l>Certainly, sir, I can.</l>
+                     <l n="154" part="F">Certainly, sir, I can.</l>
                   </lg>
                </sp>
                <sp who="#pro">
                   <speaker>Pro.</speaker>
                   <lg>
-                     <l>By what? by any other house or person?</l>
-                     <l>Of anything the image, tell me, that</l>
-                     <l>Hath kept with thy rememberance.</l>
+                     <l n="155">By what? by any other house or person?</l>
+                     <l n="156">Of anything the image, tell me, that</l>
+                     <l n="157" part="I">Hath kept with thy rememberance.</l>
                   </lg>
                </sp>
                <sp who="#mira">
                   <speaker>Mira.</speaker>
                   <lg>
-                     <l>'Tis far off,</l>
-                     <l>And rather like a dream that an assurance</l>
-                     <l>That my remembrance warrants.Had I not</l>
-                     <l>Four or five women once that tended me?</l>
+                     <l n="158" part="F">'Tis far off,</l>
+                     <l n="159">And rather like a dream that an assurance</l>
+                     <l n="160">That my remembrance warrants.Had I not</l>
+                     <l n="161">Four or five women once that tended me?</l>
+                  </lg>
+               </sp>
+               <sp who="#pro">
+                  <speaker>Pro. </speaker>
+                  <lg>
+                     <l n="162">Thou hadst, and more, Miranda. But how is it</l>
+                     <l n="163">That this lives in thy mind? What see'st thou else</l>
+                     <l n="164">In the dark backward and abysm of time?</l>
+                     <l n="165" part="I">How thou cam'st here thou mayst.</l>
+                  </lg>
+               </sp>
+               <sp who="#mira">
+                  <speaker>Mira.</speaker>
+                  <lg>
+                     <l n="166" part="F">But that I do not.</l>
+                  </lg>
+               </sp>
+               <sp who="#pro">
+                  <speaker>Pro.</speaker>
+                  <lg>
+                     <l n="167">Twelve years since, Miranda, twelve year since,</l>
+                     <cb n="2"/>
+                     <l n="168">Thy father was the duke of Milan, and</l>
+                     <l n="169" part="I">A prince of power.</l>
+                  </lg>
+               </sp>
+               <sp who="#mira">
+                  <speaker>Mira.</speaker>
+                  <lg>
+                     <l n="170" part="F">Sir, are not you my father?</l>
+                  </lg>
+               </sp>
+               <sp who="#pro">
+                  <speaker>Pro.</speaker>
+                  <lg>
+                     <l n="171">Thy mother was a piece of virtue, and</l>
+                     <l n="172">She said thou wast my dauther; and thy father</l>
+                     <l n="173">Was duke of Milan; and his only heir</l>
+                     <l n="174" part="I">A princess<anchor rend="pre(ᵈ)" xml:id="d001"
+                           corresp="#n009"/>, no worse issued.</l>
+                  </lg>
+               </sp>
+               <sp who="#mira">
+                  <speaker>Mira.</speaker>
+                  <lg>
+                     <l n="175" part="F">O, the heavens!</l>
+                     <l>What foul play had we, that we came from thence?</l>
+                     <l part="I">Or blessed was't we did?</l>
+                  </lg>
+               </sp>
+               <sp who="#pro">
+                  <speaker>Pro.</speaker>
+                  <lg>
+                     <l part="F">Both, both, my girl:</l>
+                     <l>By foul play, as thou say'st, were we heav'd thence;</l>
+                     <l part="I">But blessedly holp hither.</l>
+                  </lg>
+               </sp>
+               <sp who="#mira">
+                  <speaker> Mira. </speaker>
+                  <lg>
+                     <l part="F">O, my heart bleeds</l>
+                     <l>To think o' the teen that I have turn'd you to,</l>
+                     <l>Which is from my remembrance! Please you, further.</l>
+                  </lg>
+               </sp>
+               <sp who="#pro">
+                  <speaker>Pro.</speaker>
+                  <lg>
+                     <l>My brother, any thu uncle, call'd Antonio,--</l>
+                     <l>I pray thee, mark me,-- that a brother should</l>
+                     <l>Be so perfidious!-- he whom, next thyself,</l>
+                     <l>Of all the world I lov'd, and to him put</l>
+                     <l>The manage of my state; as, at that time,</l>
+                     <l>Through all the signiories it was the first,--</l>
+                     <l>And Prospero the prime duke;-- being so reputed</l>
+                     <l>In dignity, and for the liberal arts</l>
+                     <l>Without a parallel: those being all my study,</l>
+                     <l>The government I cast upon my brother,</l>
+                     <l>And to my state grew stranger, being transported</l>
+                     <l>And rapt in secret studies. Thy false uncle--</l>
+                     <l part="I">Dost thou attend me?</l>
+                  </lg>
+               </sp>
+               <sp who="#mira">
+                  <speaker>Mira.</speaker>
+                  <lg>
+                     <l part="F">Sir, most heedfully.</l>
                   </lg>
                </sp>
             </div>
