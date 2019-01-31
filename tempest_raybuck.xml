@@ -222,6 +222,20 @@
                <p>In the old text, <hi rend="slant(italic)">"And Princesse."</hi> The correction is
                   due to Pope.</p>
             </note>
+            <note xml:id="n010" target="#e001" rend="pre(ᵉ)">
+               <label rend="post(--])">Teen</label>
+               <p><hi rend="slant(italic)">Sorrow, vexation.</hi></p>
+            </note>
+            <note xml:id="n011" target="#f001" rend="pre(ᶠ)">
+               <label rend="post(--])"><hi rend="slant(italic)">To</hi> trash <hi
+                     rend="slant(italic)">for over-toping,</hi></label>
+               <p>To clog or impede, lest they should run too fast. The expression <hi
+                     rend="slant(italic)">to trash</hi> is a hunting technical. In the present day
+                  sportsmen check the speed of very fleet hounds by tying a rope, called a <hi
+                     rend="slant(italic)">dog-trash</hi>, round their necks, and letting them trail
+                  it after them: formerly they effected the object by attaching them to a weight,
+                  sometimes called in jest a <hi rend="slant(italic)">clogdogo</hi></p>
+            </note>
          </div>
       </hyperDiv>
       <front>
@@ -788,7 +802,8 @@
                   <speaker> Mira. </speaker>
                   <lg>
                      <l part="F">O, my heart bleeds</l>
-                     <l>To think o' the teen that I have turn'd you to,</l>
+                     <l>To think o' the teen<anchor rend="pre(ᵉ)" corresp="#n010" xml:id="e001"/>
+                        that I have turn'd you to,</l>
                      <l>Which is from my remembrance! Please you, further.</l>
                   </lg>
                </sp>
@@ -814,6 +829,40 @@
                   <speaker>Mira.</speaker>
                   <lg>
                      <l part="F">Sir, most heedfully.</l>
+                  </lg>
+               </sp>
+               <sp who="#pro">
+                  <speaker>Pro.</speaker>
+                  <lg>
+                     <l>Being once perfected how to grant suits,</l>
+                     <l>How to deny them, who to advance, and who</l>
+                     <l>To trash<anchor rend="pre(ᶠ)" corresp="#n011" xml:id="f001"/> for
+                        over-topping,-- new created</l>
+                     <l>The creatures that were mine, I say, or chang'd 'em,</l>
+                     <l>Or else new form'd 'em; having both the key</l>
+                     <l>Of officer and office, set all hearts i' the state</l>
+                     <l>To what tune pleas'd his ear; that now he was</l>
+                     <l>The ivy which had hid my princely trunk,</l>
+                     <l>And suck'd my verdue out on't.-- Thou attend'st not.</l>
+                  </lg>
+               </sp>
+               <sp who="#mira">
+                  <speaker>Mira.</speaker>
+                  <lg>
+                     <l part="I">O good sir, I do.</l>
+                  </lg>
+               </sp>
+               <sp who="#pro">
+                  <speaker>Pro.</speaker>
+                  <lg>
+                     <l part="F">I pray thee, mark me.</l>
+                     <l>I thus neglecting wordly ends, all dedicated</l>
+                     <l>To closeness, and the bettering of my mind</l>
+                     <l>With that, which, but by being so retir'd</l>
+                     <l>O'er-priz'd all popular rate, in my false brother</l>
+                     <l>Awak'd an evil nature; and my trust,</l>
+                     <fw type="pageNum">8</fw>
+                     <pb n="9"/>
                   </lg>
                </sp>
             </div>
