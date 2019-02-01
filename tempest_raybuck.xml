@@ -236,6 +236,37 @@
                   it after them: formerly they effected the object by attaching them to a weight,
                   sometimes called in jest a <hi rend="slant(italic)">clogdogo</hi></p>
             </note>
+            <note xml:id="n012" target="#a005" rend="pre(ᵃ)">
+               <lg rend="post(])">
+                  <l rend="indent(2)">--like one</l>
+                  <l>Who having unto truth, by telling of it,</l>
+                  <l>Made such a sinner of his memory,</l>
+                  <l>To credit his own lie,--</l>
+               </lg>
+               <p>The folios have, "<hi rend="slant(italic)">into</hi> truth," whihc WArburton
+                  amended; but this we suspect is not the only correction needed, the passage as it
+                  stands, though intelligible, being very hazily expressed. Mr. Collier's annotator
+                  would read,-- <lg>
+                     <l rend="indent(2)">"--like one</l>
+                     <l>Who having <hi rend="slant(italic)">to untruth</hi>, by telling of it,"
+                        &amp;c.</l>
+                  </lg> And this emednation is entitled to more respect than it has received.</p>
+            </note>
+            <note xml:id="n013" target="#star002" rend="pre((*))">
+               <p>old text omits, <hi rend="slant(italic)">the</hi>.</p>
+            </note>
+            <note xml:id="n014" target="#b003" rend="pre(ᵇ)">
+               <label rend="post(--])">In lieu</label>
+               <p><hi rend="slant(italic)">In lieu</hi> means here, in <hi rend="slant(italic)"
+                     >geurdon</hi>, or <hi rend="slant(italic)">consideration</hi>; not as it
+                  usually signifies, <hi rend="slant(italic)">instead</hi>, or <hi
+                     rend="slant(italic)">in place</hi>.</p>
+            </note>
+            <note xml:id="n015" target="#c002" rend="pre(ᶜ)">
+               <label rend="post(--])"><hi rend="slant(italic)">Fated to the</hi> purpose.</label>
+               <p>Mr. Collier's annotator reads,-- "Fated to the practice;" and as "purpose" is
+                  repeated two lines below, the substitution is an improvement.</p>
+            </note>
          </div>
       </hyperDiv>
       <front>
@@ -863,6 +894,90 @@
                      <l>Awak'd an evil nature; and my trust,</l>
                      <fw type="pageNum">8</fw>
                      <pb n="9"/>
+                     <cb n="1"/>
+                     <l>Like a good parent, did beget of him</l>
+                     <l>A falsehood, in its contrary as great</l>
+                     <l>As my trust was; which had indeed no limit,</l>
+                     <l>A confidence sans bound. He being thus lorded,</l>
+                     <l>Not only with what my revenue yielded,</l>
+                     <l>But what my power might else exact,-- like one</l>
+                     <l>Who having unto truth, by telling of it</l>
+                     <l>Made such a sinner of his memory,</l>
+                     <l>To credit his own lie,<anchor rend="pre(ᵃ)" xml:id="a005" corresp="#n012"
+                        />-- he did believe</l>
+                     <l>He was indeed the duke; out o' the substitution,</l>
+                     <l>And executing the outward face of royalty,</l>
+                     <l>With all prerogative:-- hence his ambition growing,--</l>
+                     <l part="I">Dost thou hear?</l>
+                  </lg>
+               </sp>
+               <sp who="#mira">
+                  <speaker>Mira.</speaker>
+                  <lg>
+                     <l part="F">Your tale, sir, would cure deafness.</l>
+                  </lg>
+               </sp>
+               <sp who="#pro">
+                  <speaker>Pro.</speaker>
+                  <lg>
+                     <l>To have no screen between this part he play'd</l>
+                     <l>And him he play'd it for, he needs will be</l>
+                     <l>Absolute Milan. Me, poor man! my library</l>
+                     <l>Was dukedom large enough; of temporal royalties</l>
+                     <l>He thinks me now incapable; confederates</l>
+                     <l>(So dry he was for sway) with the<anchor rend="pre(*)" xml:id="star002"
+                           corresp="#n013"/> king of Naples,</l>
+                     <l>To give him annual tribute, do him homage;</l>
+                     <l>Subject his coronet to his crown, and bend</l>
+                     <l>The dukedom, yet unbow'd, alas, poor Milan!</l>
+                     <l part="I">To most ignoble stooping.</l>
+                  </lg>
+               </sp>
+               <sp who="#mira">
+                  <speaker>Mira.</speaker>
+                  <lg>
+                     <l part="F">O the heavens!</l>
+                  </lg>
+               </sp>
+               <sp who="#pro">
+                  <speaker>Pro.</speaker>
+                  <lg>
+                     <l>Mark his condition, and the event; then tell me,</l>
+                     <l part="I">If this might be a brother.</l>
+                  </lg>
+               </sp>
+               <sp who="#mira">
+                  <speaker>Mira.</speaker>
+                  <lg>
+                     <l part="F">I should sin</l>
+                     <l>To think but nobly of my grandmother:</l>
+                     <l part="I">Good wombs have borne bad sons.</l>
+                  </lg>
+               </sp>
+               <sp who="#pro">
+                  <speaker>Pro.</speaker>
+                  <lg>
+                     <l part="F">Now the condition.</l>
+                     <l>This king of Naples, being an enemy</l>
+                     <l>To me inveterate, hearkens my brother's suit;</l>
+                     <l>Which was, that he, in lieu<anchor rend="pre(ᵇ)" xml:id="b003"
+                           corresp="#n014"/> o' the premises</l>
+                     <l>Of homage, and I know not how much tribute,</l>
+                     <l>Should presently extirpate me and mine</l>
+                     <l>Out of the dukedom, and confer fair Milan,</l>
+                     <l>With all the honours, on my brother: whereon,</l>
+                     <l>A treacherous army levied, one midnight</l>
+                     <l>Fated to the purpose,<anchor rend="pre(ᶜ)" xml:id="c002" corresp="#n015"/>
+                        did Antonio open</l>
+                     <l>The gates of Milan; and, i' the dead of darkness,</l>
+                     <l>The ministers for the purpose hurried thence</l>
+                     <l part="I">Me, and thy crying self.</l>
+                  </lg>
+               </sp>
+               <sp who="#mira">
+                  <speaker>Mira.</speaker>
+                  <lg>
+                     <l part="F">Alack, for pity!</l>
                   </lg>
                </sp>
             </div>
