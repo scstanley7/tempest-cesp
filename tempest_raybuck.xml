@@ -253,7 +253,7 @@
                   </lg> And this emednation is entitled to more respect than it has received.</p>
             </note>
             <note xml:id="n013" target="#star002" rend="pre((*))">
-               <p>old text omits, <hi rend="slant(italic)">the</hi>.</p>
+               <p>Old text omits, <hi rend="slant(italic)">the</hi>.</p>
             </note>
             <note xml:id="n014" target="#b003" rend="pre(ᵇ)">
                <label rend="post(--])">In lieu</label>
@@ -266,6 +266,45 @@
                <label rend="post(--])"><hi rend="slant(italic)">Fated to the</hi> purpose.</label>
                <p>Mr. Collier's annotator reads,-- "Fated to the practice;" and as "purpose" is
                   repeated two lines below, the substitution is an improvement.</p>
+            </note>
+            <note xml:id="n016" target="#d002" rend="pre(ᵈ)">
+               <label rend="post(--])">In few,</label>
+               <p rend="slant(italic)">To be brief; in a few words.</p>
+            </note>
+            <note xml:id="n017" target="#star003" rend="pre((*))">
+               <p>Old text, <hi rend="slant(italic)">Butt.</hi></p>
+            </note>
+            <note xml:id="n018" target="#e002" rend="pre(ᵉ)">
+               <label rend="post(--])"> deck'd </label>
+               <p><hi rend="slant(italic)">Decked</hi>, if not a corruption for degged, an old
+                  provincialism, probably meant the same, that is, <hi rend="slant(italic)"
+                     >sprinkled</hi>.</p>
+            </note>
+            <note rend="pre(ᵃ)" target="#a006" xml:id="n019">
+               <label rend="post(--])">Now I arise:</label>
+               <p>The purport of these words has never been satisfactorily explained, because they
+                  have been always understood as addressed to Miranda. If we suppose them directed
+                  not to her, but aside to Ariel, who has entered, invisible except to Prospero,
+                  after having <lg>
+                     <l>"Perform'd to point the tempest,"</l>
+                  </lg> and whose arrival occasions Prospero to operate his sleepy charm upon
+                  Miranda, they are perfectly intelligible. That they were so intended becomes
+                  almost certain from Prospero's language persently, when teh charm has taken
+                  effect,-- <lg>
+                     <l>"Come away, servant, come! I am ready <hi rend="slant(italic)">now</hi>:</l>
+                     <l>Appraoch, my Ariel; come!</l>
+                  </lg>
+               </p>
+            </note>
+            <note xml:id="n020" rend="pre((*))" target="#star003">
+               <p>Old text, <hi rend="slant(italic)">Bare-spritt</hi>.</p>
+            </note>
+            <note xml:id="n021" rend="pre(ᵇ)" target="#b004">
+               <label rend="post(--])">Distinctly,</label>
+               <p>That is, <hi rend="slant(italic)">separately</hi>.</p>
+            </note>
+            <note xml:id="n022" rend="pre((†))" target="#dag001">
+               <p>Old text, <hi rend="slant(italic)">Lightening</hi>.</p>
             </note>
          </div>
       </hyperDiv>
@@ -978,8 +1017,185 @@
                   <speaker>Mira.</speaker>
                   <lg>
                      <l part="F">Alack, for pity!</l>
+                     <cb n="2"/>
+                     <l>I, not rememb'ring how I cried out them,</l>
+                     <l>Will cry it o'er again: it is a hint</l>
+                     <l part="I">That wrings my eyes to 't.</l>
                   </lg>
                </sp>
+               <sp who="#pro">
+                  <speaker>Pro.</speaker>
+                  <lg>
+                     <l part="F">Hear a little further,</l>
+                     <l>And then I'll bring thee to the present business</l>
+                     <l>Which now's upon us; without the which, this story</l>
+                     <l part="I">Were most impertinent.</l>
+                  </lg>
+               </sp>
+               <sp who="#mira">
+                  <speaker>Mira.</speaker>
+                  <lg>
+                     <l part="F">Wherefore did they not</l>
+                     <l part="I">That hour destroy us?</l>
+                  </lg>
+               </sp>
+               <sp who="#pro">
+                  <speaker>Pro.</speaker>
+                  <lg>
+                     <l part="F">Well demanded, wench:</l>
+                     <l>My tale provokes that question. Dear, they durst not--,</l>
+                     <l>So dear the love my people bore me,-- nor set</l>
+                     <l>A mark so bloody on the business; but</l>
+                     <l>With colours fairer painted their foul ends.</l>
+                     <l>In few,<anchor rend="pre(ᵈ)" xml:id="d002" corresp="#n016"/> they hurried us
+                        aboard a bark,</l>
+                     <l>Bore us some leagues to sea; where they prepar'd</l>
+                     <l>A rotten carcas of a boat,<anchor rend="pre(*)" xml:id="star003"
+                           corresp="#n017"/> not rigg'd,</l>
+                     <l>Nor tackle, sail, nor mast; the very rats</l>
+                     <l>Instinctively have quit it: there they hoist us,</l>
+                     <l>To cry to the sea taht roar'd to us; to sigh</l>
+                     <l>To the winds, whose pity, sighing back again,</l>
+                     <l part="I">Did us but loving wrong.</l>
+                  </lg>
+               </sp>
+               <sp who="#mira">
+                  <speaker>Mira.</speaker>
+                  <lg>
+                     <l part="F">Alack, what trouble</l>
+                     <l part="I">Was I then to you?</l>
+                  </lg>
+               </sp>
+               <sp who="#pro">
+                  <speaker>Pro.</speaker>
+                  <lg>
+                     <l part="F">O, a cherubin</l>
+                     <l>Thou wast that did preserve me! Thou didst smile.</l>
+                     <l>Infused with a fortitude from heaven,</l>
+                     <l>When I have deck'd<anchor rend="pre(ᵉ)" xml:id="e002" corresp="#n018"/> the
+                        sea with drops full salt;</l>
+                     <l>Under my burthen groan'd; which rais'd in me</l>
+                     <l>An undergoing stomach, to bear up</l>
+                     <l part="I">Against what should ensue.</l>
+                  </lg>
+               </sp>
+               <sp who="#mira">
+                  <speaker>Mira.</speaker>
+                  <lg>
+                     <l part="F">How came we ashore?</l>
+                  </lg>
+               </sp>
+               <sp who="#pro">
+                  <speaker>Pro.</speaker>
+                  <lg>
+                     <l>By Providence divine.</l>
+                     <l>Some food we had, and some fresh water, that</l>
+                     <l>A noble Neapolitan, Gonzalo,</l>
+                     <l>Out of his charity,-- who being then appointed</l>
+                     <l>Master of this design,-- did give us; with</l>
+                     <l>Rich garments, linens, stuffs, and necessaries,</l>
+                     <l>Which since have steaded much; so, of his gentleness,</l>
+                     <l>Knowing I lov'd my books, he furnish'd me,</l>
+                     <l>From mine own library, with volumes that</l>
+                     <l part="I">I prize above my dukedom.</l>
+                  </lg>
+               </sp>
+               <sp who="#mira">
+                  <speaker>Mira.</speaker>
+                  <lg>
+                     <l part="F">Would I might</l>
+                     <l part="I">But ever see that man!</l>
+                  </lg>
+               </sp>
+               <fw type="pageNum" rend="align(right)">9</fw>
+               <pb n="10"/>
+               <figure>
+                  <figDesc><!--I'm like 90% sure this is supposed to be Prospero and Miranda adrift at sea with the island barely in view on the horizon?--></figDesc>
+               </figure>
+               <cb n="1"/>
+               <sp who="#pro">
+                  <speaker>Pro.</speaker>
+                  <lg>
+                     <l part="F"><stage type="delivery"><hi rend="slant(italic)">Aside to</hi>
+                           <hi rend="pre([)post(])case(smallcaps)">Ariel</hi>, <hi
+                              rend="slant(italic)">above</hi>. </stage>Now I arise:--<anchor
+                           rend="pre(ᵃ)" xml:id="a006" corresp="#n019"/></l>
+                     <l>Sit still, and hear the last of our sea-sorrow.</l>
+                     <l>Here in this island we arriv'd; and here</l>
+                     <l>Have I, thy schoolmaster, made thee more profit</l>
+                     <l>Than other princess' can, that have more time</l>
+                     <l>For vainer hours, and tutors not so careful.</l>
+                  </lg>
+               </sp>
+               <sp who="#mira">
+                  <speaker>Mira.</speaker>
+                  <lg>
+                     <l>Heavens thank you for't! And now, I pray you, sir,--</l>
+                     <l>For still 'tis beating in my mind,-- your reason</l>
+                     <l part="I">For raising this sea-storm?</l>
+                  </lg>
+               </sp>
+               <sp who="#pro">
+                  <speaker>Pro.</speaker>
+                  <lg>
+                     <l part="F">Know thus far forth.</l>
+                     <l>By accident most strange, bountiful Fortune--</l>
+                     <l>Now my dear lady-- hath mine enemies</l>
+                     <l>Brought to this shore; and by my prescience</l>
+                     <l>I find my zenith doth depend upon</l>
+                     <l>A most auspicious star, whose influence</l>
+                     <l>If now I court not, but omit, my fortunes</l>
+                     <l>Will ever after droop.-- Here cease more questions:</l>
+                     <l>Thou art inclin'd to sleep; 't is a good dulness,</l>
+                     <l>And give it way;-- I know thou canst not choose.--</l>
+                     <stage type="business" rend="pre([)"><hi rend="case(smallcaps)">Miranda</hi>
+                        <hi rend="slant(italic)">sleeps</hi>.</stage>
+                     <l>Come away, servant, come! I am ready now:</l>
+                     <l>Approach, my Ariel; come!</l>
+                  </lg>
+               </sp>
+               <stage type="entrance"><hi rend="slant(italic)">Enter</hi>
+                  <hi rend="case(smallcaps)">Ariel</hi>.(2)</stage>
+               <sp who="#ari">
+                  <speaker>Ari.</speaker>
+                  <lg>
+                     <l>All hail, great master! grave sir, hail! I come</l>
+                     <l>To answer thy best pleasure; bet'd to fly,</l>
+                     <l>To swim, to dive into the fire, to ride</l>
+                     <l>On the curl'd clouds,-- to thy strong bidding, task</l>
+                     <l part="I">Ariel, and all his quality.</l>
+                  </lg>
+               </sp>
+               <sp who="#pro">
+                  <speaker>Pro.</speaker>
+                  <lg>
+                     <l part="F">Hast thou, spirit,</l>
+                     <l>Perform'd to point the tempest that I bade thee?</l>
+                  </lg>
+               </sp>
+               <sp who="#ari">
+                  <speaker>Ari.</speaker>
+                  <lg>
+                     <l>To every article.</l>
+                     <l>I boarded the king's ship; now on the beak,</l>
+                     <l>Now in the waist, the deck, in every cabin,</l>
+                     <l>I flam'd amazement: sometime I'd divide</l>
+                     <l>And burn in many places; on the topmast,</l>
+                     <l>The yards, and bowsprit,<anchor rend="pre(*)" xml:id="star004"
+                           corresp="#n020"/> would I flame distinctly,<anchor rend="pre(ᵇ)"
+                           xml:id="b004" corresp="#n021"/></l>
+                     <l>Then meet, and join.(3) Jove's lightnings, <anchor rend="pre(†)"
+                           xml:id="dag001" corresp="#n022"/>the precursors</l>
+                     <l>O' the dreadful thunder-claps, more momentary</l>
+                     <l>And sight-outrnning were not: the fire, and cracks</l>
+                     <l>Of sulfurous roaring, the most mighty Neptune</l>
+                     <l>Seem to besiege, and make his bold waves tremble,</l>
+                     <l>Yea, his dread trident shake.</l>
+                  </lg>
+               </sp>
+               <fw type="pageNum" rend="align(left)">10</fw>
+               <pb n="11"/>
+               <cb n="1"/>
             </div>
             <!--scene 2 div-->
          </div>
