@@ -275,10 +275,10 @@
                   <p><s n="36">I pray now, keep below.</s></p>
                </sp>
 
-               <fw type="sig" rend="align(center)">B2</fw>
+               <fw type="signature" rend="align(center)">B2</fw>
                <fw type="catch" rend="break(no)slant(italic)">Ant.</fw>
 
-               <milestone unit="sig" n="B2v"/>
+               <milestone unit="signature" n="B2v"/>
                <pb n="4"/>
 
                <fw type="pageNum">4</fw>
@@ -372,7 +372,7 @@
 
                <fw type="catch" rend="slant(italic)align(right)">Boatſ.</fw>
 
-               <milestone unit="sig" n="B3r"/>
+               <milestone unit="signature" n="B3r"/>
                <pb n="5"/>
 
                <fw type="pageNum">5</fw>
@@ -466,10 +466,10 @@
                      <l n="92">With thoſe that I ſaw ſuffer: a brave veſſel</l>
                      <l n="93">(Who had, no doubt, ſome noble creatures in her)</l>
                      <l n="94">Daſh'd all to pieces. O! the cry did knock</l>
-                     <fw type="sig" rend="align(center)">B3</fw>
+                     <fw type="signature" rend="align(center)">B3</fw>
                      <fw type="catch" rend="break(no)align(right)">Againſt</fw>
 
-                     <milestone unit="sig" n="B3v"/>
+                     <milestone unit="signature" n="B3v"/>
                      <pb n="6"/>
                      <fw type="pageNum">6</fw>
 
@@ -549,7 +549,7 @@
                      -->
                      <fw type="catch" rend="align(right)">Begun</fw>
 
-                     <milestone unit="sig" n="B4r"/>
+                     <milestone unit="signature" n="B4r"/>
                      <pb n="7"/>
                      <fw type="pageNum">7</fw>
                      <l n="127">Begun to tell me what I am, but ſtopt,</l>
@@ -647,10 +647,10 @@
                      <lb/>the Expreſſion is obſolete, but it ſupply'd the Senſe of, full
                      <lb/>out, out-right, or right-out.
                      -->
-                     <fw type="sig" rend="align(center)">B4</fw>
+                     <fw type="signature" rend="align(center)">B4</fw>
                      <fw type="catch" rend="break(no)align(right)">By</fw>
 
-                     <milestone unit="sig" n="B4v"/>
+                     <milestone unit="signature" n="B4v"/>
                      <pb n="8"/>
                      <fw type="pageNum">8</fw>
                      <l n="162">By foul play (as thou ſay'ſt) were we heav'd thence;</l>
@@ -725,7 +725,7 @@
 
                      <fw type="catch" rend="align(right)">But</fw>
 
-                     <milestone unit="sig" n="B5r"/>
+                     <milestone unit="signature" n="B5r"/>
                      <pb n="9"/>
                      <fw type="pageNum">9</fw>
                      <l n="202">But what my power might elſe exact; like one,</l>
@@ -780,7 +780,7 @@
                   </lg>
                </sp>
 
-               <fw type="sig" rend="align(center)">B5</fw>
+               <fw type="signature" rend="align(center)">B5</fw>
                <fw type="catch" rend="break(no)align(right)slant(italic)">Pro</fw>
 
                <!-- Footnotes 3 &amp 4 
@@ -801,7 +801,7 @@
                <fw type="catch" rend="align(right)">to</fw>
                -->
 
-               <milestone unit="sig" n="B5v"/>
+               <milestone unit="signature" n="B5v"/>
                <pb n="10"/>
                <fw type="pageNum">10</fw>
                <sp who="#pro">
@@ -875,7 +875,7 @@
                      <lb/>People to have bad Children."-->
                      <fw type="catch" rend="align(right)">To</fw>
 
-                     <milestone unit="sig" n="B5v"/>
+                     <milestone unit="signature" n="B5v"/>
                      <pb n="11"/>
                      <fw type="pageNum">11</fw>
                      <l n="261">To th' winds, whoſe pity, ſighing back again,</l>
@@ -958,7 +958,7 @@
                      <l n="299">A moſt auſpicious ſtar; whoſe Influence</l>
                      <fw type="catch" rend="align(right)">If</fw>
 
-                     <milestone unit="sig" n="###"/>
+                     <milestone unit="signature" n="###"/>
                      <pb n="12"/>
                      <fw type="pageNum">12</fw>
                      <l n="300">If now I court not, but omit, my fortunes</l>
@@ -1039,7 +1039,7 @@
                </sp>
                <fw type="catch" rend="align(right)slant(italic)">Ari.</fw>
 
-               <milestone unit="sig" n=""/>
+               <milestone unit="signature" n=""/>
                <pb n="13"/>
                <fw type="pageNum">13</fw>
                <sp who="#ari">
@@ -1137,7 +1137,7 @@
                      <l n="379">Remember, I have done thee worthy ſervice;</l>
                      <fw type="catch" rend="align(right)">Told</fw>
 
-                     <milestone unit="sig" n=""/>
+                     <milestone unit="signature" n=""/>
                      <pb n="14"/>
                      <fw type="pageNum">14</fw>
                      <l n="380">Told thee no lies, made no miſtakings, ſerv'd</l>
@@ -1229,7 +1229,7 @@
 
                      <fw type="catch" rend="align(right)">A</fw>
 
-                     <milestone unit="sig" n=""/>
+                     <milestone unit="signature" n=""/>
                      <pb n="15"/>
                      <fw type="pageNum">15</fw>
                      <l n="419">A freckled whelp, hag-born) not honour'd with</l>
@@ -1334,7 +1334,7 @@
                      <l n="458">Fetch in our wood, and ſerves in offices</l>
                      <fw type="catch" rend="align(right)">That</fw>
 
-                     <milestone unit="sig" n=""/>
+                     <milestone unit="signature" n=""/>
                      <pb n="16"/>
                      <fw type="pageNum">16</fw>
                      <l n="459">That profit us. What ho! ſlave! <persName rend="slant(italic)"
@@ -1420,7 +1420,7 @@
                </sp>
                <fw type="catch" rend="align(right)slant(italic)">Pro.</fw>
 
-               <milestone unit="sig" n=""/>
+               <milestone unit="signature" n=""/>
                <pb n="17"/>
                <fw type="pageNum">17</fw>
                <sp who="#pro">
@@ -1490,7 +1490,7 @@
                      -->
                      <fw type="catch" rend="align(right)">If</fw>
 
-                     <milestone unit="sig" n=""/>
+                     <milestone unit="signature" n=""/>
                      <pb n="18"/>
                      <fw type="pageNum">18</fw>
                      <l n="523">If thou neglect'ſt, or doſt unwillingly</l>
@@ -1568,7 +1568,7 @@
 
                   <fw type="catch" rend="align(right)slant(italic)">Thoſe</fw>
 
-                  <milestone unit="sig" n=""/>
+                  <milestone unit="signature" n=""/>
                   <pb n="19"/>
                   <fw type="pageNum">19</fw>
                   <l n="556">Thoſe are pearls, that were his eyes;</l>
@@ -1661,7 +1661,7 @@
                </sp>
                <fw type="catch" rend="align(right)slant(italic)">Pro.</fw>
 
-               <milestone unit="sig" n=""/>
+               <milestone unit="signature" n=""/>
                <pb n="20"/>
                <fw type="pageNum">20</fw>
                <sp who="#pro">
@@ -1752,7 +1752,7 @@
                </p> -->
                <fw type="catch" rend="align(right)slant(italic)">Mira.</fw>
 
-               <milestone unit="sig" n=""/>
+               <milestone unit="signature" n=""/>
                <pb n="21"/>
                <fw type="pageNum">21</fw>
                <sp who="#mira">
@@ -1850,7 +1850,7 @@
                </sp>
                <fw type="catch" rend="align(right)slant(italic)" n="654">Fer.</fw>
 
-               <milestone unit="sig" n=""/>
+               <milestone unit="signature" n=""/>
                <pb n="22"/>
                <fw type="pageNum">22</fw>
                <sp who="#fer">
@@ -1928,7 +1928,7 @@
                      <l n="696">Have juſt our theam of woe: but for the miracle,</l>
                      <fw type="catch" rend="align(right)pre(()">I mean</fw>
 
-                     <milestone unit="sig" n=""/>
+                     <milestone unit="signature" n=""/>
                      <pb n="23"/>
                      <fw type="pageNum">23</fw>
                      <l n="697">(I mean our preſervation) few in millions</l>
@@ -2011,7 +2011,7 @@
                </p> -->
                <fw type="catch" rend="align(right)slant(italic)">Seb.</fw>
 
-               <milestone unit="sig" n=""/>
+               <milestone unit="signature" n=""/>
                <pb n="24"/>
                <fw type="pageNum">24</fw>
                <sp who="#seb">
@@ -2158,7 +2158,7 @@
                      <s n="743"><lb/>That our garments being (as they were) drench'd <lb/>in the ſea, hold
                      notwithſtanding their freſhneſs and <pb/>
                      <fw type="catch" rend="align(right)">gloſſes;</fw>
-                     <milestone unit="sig" n="C1r"/>
+                     <milestone unit="signature" n="C1r"/>
                      <pb n="25"/>
                      <fw type="pageNum">25</fw>
                      <lb/>gloſſes; being rather new dy'd, than ſtain'd with ſalt <lb/>water. </s></p>
@@ -2290,10 +2290,10 @@
                   <speaker>Ant.</speaker>
                   <p><s n="769">That ſort was well fiſh'd for.</s></p>
                </sp>
-               <fw type="sig" rend="align(center)">C</fw>
+               <fw type="signature" rend="align(center)">C</fw>
                <fw type="catch" rend="align(right)slant(italic)">Gon.</fw>
 
-               <milestone unit="sig" n="C1v"/>
+               <milestone unit="signature" n="C1v"/>
                <pb n="26"/>
                <fw type="pageNum">26</fw>
                <sp who="#gon">
@@ -2382,7 +2382,7 @@
                </sp>
                <fw type="catch" rend="align(right)slant(italic)">Ant.</fw>
 
-               <milestone unit="sig" n="C2r"/>
+               <milestone unit="signature" n="C2r"/>
                <pb n="27"/>
                <fw type="pageNum">27</fw>
                <sp who="#ant">
@@ -2488,9 +2488,9 @@
                   <speaker>Gon.</speaker>
                   <p>
                      <s n="844"><lb/>I do well believe your Highneſs; and did it to <lb/>miniſter occaſion to
-                     theſe gentlemen, who are of ſuch <fw type="sig" rend="align(center)">C2</fw>
+                     theſe gentlemen, who are of ſuch <fw type="signature" rend="align(center)">C2</fw>
                      <fw type="catch" rend="break(no)align(right)">ſenſible</fw>
-                     <milestone unit="sig" n="C2v"/>
+                     <milestone unit="signature" n="C2v"/>
                      <pb n="28"/>
                      <fw type="pageNum">28</fw>
                      <lb/>ſenſible and nimble lungs, that they always uſe to laugh <lb/>at nothing.</s>
@@ -2594,7 +2594,7 @@
                         more.</l>
                      <fw type="catch" rend="align(right)">And</fw>
 
-                     <milestone unit="sig" n="C3r"/>
+                     <milestone unit="signature" n="C3r"/>
                      <pb n="29"/>
                      <fw type="pageNum">29</fw>
                      <l n="873">And yet, methinks, I ſee it in thy face,</l>
@@ -2687,10 +2687,10 @@
                <lb/>firſt got Birth in Mr. Pope's two Editions of our Poet; and,
                <lb/>I dare ſay, will lie buried there in a proper Obſcurity.
             </p>  -->
-                     <fw type="sig" rend="align(center)">C3</fw>
+                     <fw type="signature" rend="align(center)">C3</fw>
                      <fw type="catch" rend="break(no)align(right)">A</fw>
 
-                     <milestone unit="sig" n="C3v"/>
+                     <milestone unit="signature" n="C3v"/>
                      <pb n="30"/>
                      <fw type="pageNum">30</fw>
                      <l n="904">A matter from thee; and a birth, indeed,</l>
@@ -2784,7 +2784,7 @@
                      <l n="943">That now hath ſeiz'd them, why, they were no worſe</l>
                      <fw type="catch" rend="align(right)">Than</fw>
 
-                     <milestone unit="sig" n="C4r"/>
+                     <milestone unit="signature" n="C4r"/>
                      <pb n="31"/>
                      <fw type="pageNum">31</fw>
                      <l n="944">Than now they are: there be, that can rule <placeName rend="slant(italic)"
@@ -2869,10 +2869,10 @@
                   <lg>
                      <l n="982">Draw together:</l>
                      <l n="983">And when I rear my hand, do you the like</l>
-                     <fw type="sig" rend="align(center)">C4</fw>
+                     <fw type="signature" rend="align(center)">C4</fw>
                      <fw type="catch" rend="break(no)align(right)">To</fw>
 
-                     <milestone unit="sig" n="C4v"/>
+                     <milestone unit="signature" n="C4v"/>
                      <pb n="32"/>
                      <fw type="pageNum">32</fw>
                      <l n="984">To fall it on <persName rend="slant(italic)">Gonzalo</persName>.</l>
@@ -2975,7 +2975,7 @@
                </sp>
                <fw type="catch" rend="align(right)slant(italic)">Alon.</fw>
 
-               <milestone unit="sig" n="C5r"/>
+               <milestone unit="signature" n="C5r"/>
                <pb n="33"/>
                <fw type="pageNum">33</fw>
                <sp who="#alo">
@@ -3039,9 +3039,9 @@
                      <lb/>Days a large Veſſel for holding Drink, as well as the Piece of
                      <lb/>Ordnance ſo call'd
                   </p> -->
-                     <fw type="sig" rend="align(center)">C5</fw>
+                     <fw type="signature" rend="align(center)">C5</fw>
                      <fw type="catch" rend="break(no)align(right)">liquor.</fw>
-                     <milestone unit="sig" n="C5v"/>
+                     <milestone unit="signature" n="C5v"/>
                      <pb n="34"/>
                      <fw type="pageNum">34</fw>
                      <lb/>liquor. </s><s n="1047">If it ſhould thunder as it did before, I know <lb/>not where to
@@ -3101,7 +3101,7 @@
                      ſalvages, and men of <hi rend="slant(italic)">Inde</hi>?</s><s n="1080"> ha?</s><s n="1081"> <lb/>I have not
                      ſcap'd drowning, to be afraid now of your <lb/>four legs; for it hath been
                      ſaid, As proper a man, as <fw type="catch" rend="align(right)">ever</fw>
-                     <milestone unit="sig" n=""/>
+                     <milestone unit="signature" n=""/>
                      <pb n="35"/>
                      <fw type="pageNum">35</fw>
                      <lb/>ever went upon four legs, cannot make him give ground; <lb/>and it ſhall
@@ -3181,7 +3181,7 @@
                      <s n="1100"><lb/><persName rend="slant(italic)">Stephano!</persName></s><s n="1101"> if thou beeſt
                         <persName rend="slant(italic)">Stephano</persName>, touch me, and <fw
                         type="catch" rend="align(right)">ſpeak</fw>
-                     <milestone unit="sig" n=""/>
+                     <milestone unit="signature" n=""/>
                      <pb n="36"/>
                      <fw type="pageNum">36</fw>
                      <lb/>ſpeak to me; for I am <persName rend="slant(italic)">Trinculo</persName>;
@@ -3286,7 +3286,7 @@
                </sp>
                <fw type="catch" rend="align(right)slant(italic)">Trin.</fw>
 
-               <milestone unit="sig" n=""/>
+               <milestone unit="signature" n=""/>
                <pb n="37"/>
                <fw type="pageNum">37</fw>
                <sp who="#tri">
@@ -3373,7 +3373,7 @@
                </p> 
               <fw type="catch" rend="align(right)">the</fw> -->
 
-               <milestone unit="sig" n=""/>
+               <milestone unit="signature" n=""/>
                <pb n="38"/>
                <fw type="pageNum">38</fw>
                <sp who="#ste">
@@ -3444,7 +3444,7 @@
                      <l n="1174">Upon a ſore Injunction. My ſweet miſtreſs</l>
                      <fw type="catch" rend="align(right)">Weeps</fw>
 
-                     <milestone unit="sig" n=""/>
+                     <milestone unit="signature" n=""/>
                      <pb n="39"/>
                      <fw type="pageNum">39</fw>
                      <l n="1175">Weeps when ſhe ſees me work, and ſays, ſuch baſeneſs</l>
@@ -3531,7 +3531,7 @@
               </p> -->
                      <fw type="catch" rend="align(right)">(Chiefly</fw>
 
-                     <milestone unit="sig" n=""/>
+                     <milestone unit="signature" n=""/>
                      <pb n="40"/>
                      <fw type="pageNum">40</fw>
                      <l n="1206">(Chiefly that I might ſet it in my prayers)</l>
@@ -3606,7 +3606,7 @@
                      <l n="1255">And crown what I profeſs with kind event,</l>
                      <fw type="catch" rend="align(right)">If</fw>
 
-                     <milestone unit="sig" n=""/>
+                     <milestone unit="signature" n=""/>
                      <pb n="41"/>
                      <fw type="pageNum">41</fw>
                      <l n="1256">If I ſpeak true nollowly, invert</l>
@@ -3708,7 +3708,7 @@
                </sp>
                <fw type="catch" rend="align(right)slant(italic)">Trin.</fw>
 
-               <milestone unit="sig" n=""/>
+               <milestone unit="signature" n=""/>
                <pb n="42"/>
                <fw type="pageNum">42</fw>
                <sp who="#tri">
@@ -3815,7 +3815,7 @@
                   <p>
                      <s n="1319"><lb/>As I told thee before, I am ſubject to a tyrant, <fw type="catch"
                         rend="align(right)">a</fw>
-                     <milestone unit="sig" n=""/>
+                     <milestone unit="signature" n=""/>
                      <pb n="43"/>
                      <fw type="pageNum">43</fw>
                      <lb/>a ſorcerer, that by his cunning hath cheated me of the <lb/>Iſland. </s></p>
@@ -3920,7 +3920,7 @@
                </sp>
                <fw type="catch" rend="align(right)slant(italic)">Cal.</fw>
 
-               <milestone unit="sig" n=""/>
+               <milestone unit="signature" n=""/>
                <pb n="44"/>
                <fw type="pageNum">44</fw>
                <sp who="#cal">
@@ -4018,7 +4018,7 @@
                </sp>
                <fw type="catch" rend="align(right)slant(italic)">Ste.</fw>
 
-               <milestone unit="sig" n=""/>
+               <milestone unit="signature" n=""/>
                <pb n="45"/>
                <fw type="pageNum">45</fw>
                <sp who="#ste">
@@ -4117,7 +4117,7 @@
 
             </div>
 
-            <milestone unit="sig" n=""/>
+            <milestone unit="signature" n=""/>
             <pb n="46"/>
             <fw type="pageNum">46</fw>
             <div type="scene" n="3">
@@ -4213,7 +4213,7 @@
                      <l n="1446">And what does elſe want credit, come to me,</l>
                      <fw type="catch" rend="align(right)">And</fw>
 
-                     <milestone unit="sig" n=""/>
+                     <milestone unit="signature" n=""/>
                      <pb n="47"/>
                      <fw type="pageNum">47</fw>
                      <l n="1447">And I'll be ſworn 'tis true. Travellers ne'er did lie,</l>
@@ -4296,7 +4296,7 @@
               </p> 
               <fw type="catch" rend="align(right)">the</fw>-->
 
-               <milestone unit="sig" n=""/>
+               <milestone unit="signature" n=""/>
                <pb n="48"/>
                <fw type="pageNum">48</fw>
                <sp who="#alo">
@@ -4356,7 +4356,7 @@
 
                      <fw type="catch" rend="align(right)">Against</fw>
 
-                     <milestone unit="sig" n="D1r"/>
+                     <milestone unit="signature" n="D1r"/>
                      <pb n="49"/>
                      <fw type="pageNum">49</fw>
                      <l n="1503">Againſt your peace: thee of thy ſon, <persName rend="slant(italic)"
@@ -4436,10 +4436,10 @@
                   <lg>
                      <l n="1539">All three of them are deſperate; their great guilt,</l>
                      <l n="1540">Like poiſon giv'n to work a great time after,</l>
-                     <fw type="sig" rend="align(center)">D</fw>
+                     <fw type="signature" rend="align(center)">D</fw>
                      <fw type="catch" rend="break(no)align(right)">Now</fw>
 
-                     <milestone unit="sig" n="D1v"/>
+                     <milestone unit="signature" n="D1v"/>
                      <pb n="50"/>
                      <fw type="pageNum">50</fw>
                      <l n="1541">Now 'gins to bite the ſpirits. I do beſeech you,</l>
@@ -4501,7 +4501,7 @@
               </p> -->
                <fw type="catch" rend="align(right)slant(italic)">Fer.</fw>
 
-               <milestone unit="sig" n="D2r"/>
+               <milestone unit="signature" n="D2r"/>
                <pb n="51"/>
                <fw type="pageNum">51</fw>
                <sp who="#fer">
@@ -4586,10 +4586,10 @@
                   <lg>
                      <l>Before you can ſay, Come, and go,</l>
                      <l>And breathe twice; and cry, ſo, ſo;</l>
-                     <fw type="sig" rend="align(center)">D2</fw>
+                     <fw type="signature" rend="align(center)">D2</fw>
                      <fw type="catch" rend="break(no)align(right)">Each</fw>
 
-                     <milestone unit="sig" n="D2v"/>
+                     <milestone unit="signature" n="D2v"/>
                      <pb n="52"/>
                      <fw type="pageNum">52</fw>
                      <l>Each one, tripping on his toe,</l>
@@ -4673,7 +4673,7 @@
                </sp>
                <fw type="catch" rend="align(right)slant(italic)">Enter</fw>
 
-               <milestone unit="sig" n="D3r"/>
+               <milestone unit="signature" n="D3r"/>
                <pb n="53"/>
                <fw type="pageNum">53</fw>
                <stage type="entrance" rend="align(center)">Enter <persName>Ceres</persName>.</stage>
@@ -4761,10 +4761,10 @@
                         you:</l>
                   </lg>
                </sp>
-               <fw type="sig" rend="align(center)">D3</fw>
+               <fw type="signature" rend="align(center)">D3</fw>
                <fw type="catch" rend="break(no)align(right)">Cer.</fw>
 
-               <milestone unit="sig" n="D3v"/>
+               <milestone unit="signature" n="D3v"/>
                <pb n="54"/>
                <fw type="pageNum">54</fw>
                <sp who="#ceres">
@@ -4845,7 +4845,7 @@
                  </p> -->
                      <fw type="catch" rend="align(right)">Make</fw>
 
-                     <milestone unit="sig" n="D4r"/>
+                     <milestone unit="signature" n="D4r"/>
                      <pb n="55"/>
                      <fw type="pageNum">55</fw>
                      <l>Make holy-day; your rye-ſtraw hats put on,</l>
@@ -4923,10 +4923,10 @@
                   <speaker>Ari.</speaker>
                   <l>Thy thoughts I cleave to; what's thy pleaſure?</l>
                </sp>
-               <fw type="sig" rend="align(center)">D4</fw>
+               <fw type="signature" rend="align(center)">D4</fw>
                <fw type="catch" rend="break(no)align(right)slant(italic)">Pro.</fw>
 
-               <milestone unit="sig" n="D4v"/>
+               <milestone unit="signature" n="D4v"/>
                <pb n="56"/>
                <fw type="pageNum">56</fw>
                <sp who="#pro">
@@ -4982,7 +4982,7 @@
                   <speaker>Ari.</speaker>
                   <l>I go, I go.</l>
                </sp>
-               <stage type="#exit" rend="break(no)pre([)align(right)">Exit.</stage>
+               <stage type="exit" rend="break(no)pre([)align(right)">Exit.</stage>
                <sp who="#pro">
                   <speaker>Pro.</speaker>
                   <lg>
@@ -5018,7 +5018,7 @@
                </sp>
                <fw type="catch" rend="align(right)slant(italic)">Trin.</fw>
 
-               <milestone unit="sig" n="D5r"/>
+               <milestone unit="signature" n="D5r"/>
                <pb n="57"/>
                <fw type="pageNum">57</fw>
                <sp who="#tri">
@@ -5129,10 +5129,10 @@
                      the jerkin under the line: now, <lb/>jerkin, you are like to loſe your hair,
                      and prove a bald <lb/>jerkin. </p>
                </sp>
-               <fw type="sig" rend="align(center)">D5</fw>
+               <fw type="signature" rend="align(center)">D5</fw>
                <fw type="catch" rend="break(no)align(right)slant(italic)">Trin.</fw>
 
-               <milestone unit="sig" n="D5v"/>
+               <milestone unit="signature" n="D5v"/>
                <pb n="58"/>
                <fw type="pageNum">58</fw>
                <sp who="#tri">
@@ -5224,7 +5224,7 @@
             </div>
          </div>
 
-         <milestone unit="sig" n=""/>
+         <milestone unit="signature" n=""/>
          <pb n="59"/>
          <fw type="pageNum">59</fw>
          <div type="act" n="5">
@@ -5297,7 +5297,7 @@
 
                      <fw type="catch" rend="align(right)">Tho'</fw>
 
-                     <milestone unit="sig" n=""/>
+                     <milestone unit="signature" n=""/>
                      <pb n="60"/>
                      <fw type="pageNum">60</fw>
                      <l>Tho' with their high wrongs I am ſtruck to th' quick,</l>
@@ -5359,7 +5359,7 @@
               </p> -->
                      <fw type="catch" rend="align(right)slant(italic)">Here</fw>
 
-                     <milestone unit="sig" n=""/>
+                     <milestone unit="signature" n=""/>
                      <pb n="61"/>
                      <fw type="pageNum">61</fw>
                      <stage type="mixed" rend="slant(italic)">
@@ -5418,7 +5418,7 @@
                  </p> -->
                      <fw type="catch" rend="align(right)">As</fw>
 
-                     <milestone unit="sig" n=""/>
+                     <milestone unit="signature" n=""/>
                      <pb n="62"/>
                      <fw type="pageNum">62</fw>
                      <l>As I was ſometime <placeName rend="slant(italic)">Milan</placeName>:
@@ -5498,7 +5498,7 @@
               </p> -->
                <fw type="catch" rend="align(right)slant(italic)">Alon.</fw>
 
-               <milestone unit="sig" n=""/>
+               <milestone unit="signature" n=""/>
                <pb n="63"/>
                <fw type="pageNum">63</fw>
                <sp who="#alo">
@@ -5589,7 +5589,7 @@
 
                      <fw type="catch" rend="align(right)">For</fw>
 
-                     <milestone unit="sig" n=""/>
+                     <milestone unit="signature" n=""/>
                      <pb n="64"/>
                      <fw type="pageNum">64</fw>
                      <l>For the like loſs, I have her ſov'reign aid,</l>
@@ -5668,7 +5668,7 @@
                </sp>
                <fw type="catch" rend="align(right)slant(italic)">Mira.</fw>
 
-               <milestone unit="sig" n=""/>
+               <milestone unit="signature" n=""/>
                <pb n="65"/>
                <fw type="pageNum">65</fw>
                <sp who="#mira">
@@ -5772,7 +5772,7 @@
                </sp>
                <fw type="catch" rend="align(right)slant(italic)">Alon.</fw>
 
-               <milestone unit="sig" n=""/>
+               <milestone unit="signature" n=""/>
                <pb n="66"/>
                <fw type="pageNum">66</fw>
                <sp who="#alo">
@@ -5861,7 +5861,7 @@
                      <l>We were awak'd; ſtraightway at liberty:</l>
                      <fw type="catch" rend="align(right)">Where</fw>
 
-                     <milestone unit="sig" n=""/>
+                     <milestone unit="signature" n=""/>
                      <pb n="67"/>
                      <fw type="pageNum">67</fw>
                      <l>Where we, in all her trim, freſhly beheld <!-- (19) --></l>
@@ -5944,7 +5944,7 @@
               </p> -->
                <fw type="catch" rend="align(right)slant(italic)">Seb.</fw>
 
-               <milestone unit="sig" n=""/>
+               <milestone unit="signature" n=""/>
                <pb n="68"/>
                <fw type="pageNum">68</fw>
                <sp who="#seb">
@@ -6046,7 +6046,7 @@
               </p> -->
                <fw type="catch" rend="align(right)slant(italic)">Cal.</fw>
 
-               <milestone unit="sig" n=""/>
+               <milestone unit="signature" n=""/>
                <pb n="69"/>
                <fw type="pageNum">69</fw>
                <sp who="#cal">
@@ -6115,7 +6115,7 @@
             </div>
          </div>
 
-         <milestone unit="sig" n=""/>
+         <milestone unit="signature" n=""/>
          <pb n="70"/>
          <fw type="pageNum">70</fw>
          <div type="epilogue">

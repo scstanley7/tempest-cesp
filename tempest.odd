@@ -134,6 +134,7 @@
                                 <valItem ident="pageNum"/>
                                 <valItem ident="signature"/>
                                 <valItem ident="pressFig"/>
+                                <valItem ident="catch"/>
                             </valList>
                         </attDef>
                     </attList>
