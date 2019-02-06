@@ -306,6 +306,56 @@
             <note xml:id="n022" rend="pre((†))" target="#dag001">
                <p>Old text, <hi rend="slant(italic)">Lightening</hi>.</p>
             </note>
+            <note rend="pre(ᵃ)" target="#a007" xml:id="n023">
+               <label rend="post(--])"><hi rend="slant(italic)">And</hi> are <hi
+                     rend="slant(italic)">upon the Mediterranean flote</hi>,</label>
+               <p>Mr. Collier's annotator suggests, "And <hi rend="slant(italic)">all</hi> upon,"
+                  &amp;c.; but what is gained by the alteration we cannot discern. <hi
+                     rend="slant(italic)">Flote</hi> is here used substantively for <hi
+                     rend="slant(italic)">flood</hi> or <hi rend="slant(italic)">wave</hi>, as in
+                  the following from Middleton and Rowley's play of "The Spanish Gipsie," Act I. Sc.
+                  5,--</p>
+               <lg>
+                  <l rend="indent(2)">"-- it did not</l>
+                  <l>More check my rash attempt, than draw to ebb</l>
+                  <l>The <hi rend="slant(italic)">float</hi> of those desires."</l>
+               </lg>
+            </note>
+            <note rend="pre(ᵃ)" target="#a008" xml:id="n024">
+               <lg rend="post(])">
+                  <l>At least two glasses-- the time, 'twixt six and now--</l>
+                  <l>Must by us both be spent most preciously.</l>
+               </lg>
+               <p>By the customary punctuation of this passage, Prospero is made to ask a question
+                  and anser it. The pointing we adopt obviates this inconsistency, and renders any
+                  change in the distribution of the speeches needless.</p>
+            </note>
+            <note rend="pre(ᵇ)" target="#b005" xml:id="n025">
+               <label rend="post(--])"><hi rend="slant(italic)">Told thee no lies, made</hi> thee
+                     <hi rend="slant(italic)">no mistakings, serv'd</hi></label>
+               <p>The second <hi rend="slant(italic)">thee</hi>, which overloads the line, was
+                  probably repeated by the compositor through inadvertence.</p>
+            </note>
+            <note rend="pre(ᶜ)" target="#c003" xml:id="n026">
+               <label rend="post(])">Argier.</label>
+               <p>The old English name for Algiers.</p>
+            </note>
+            <note rend="pre(ᵈ)" target="#d003" xml:id="n027">
+               <label rend="post(--])"><hi rend="slant(italic)">This</hi> blue-ey'd <hi
+                     rend="slant(italic)">hag</hi></label>
+               <p><hi rend="slant(italic)">Blue-ey'd</hi> has been ably defended; but it must be
+                  confessed that <hi rend="slant(italic)">blear-ey'd</hi>, a common epithet in our
+                  old plays, seems more applicable to the "damn'd witch Sycorax." Thus in Beaumont
+                  and Fletcher's play of "The Chances," Act IV. Sc. 2, where old Antonio bids his
+                  servant--</p>
+               <lg>
+                  <l rend="indent(3)">"Get me a conjuror,</l>
+                  <l>One that can raise a water devil:</l>
+                  <!--row of stars denoting some kind of skip?-->
+                  <l rend="indent(2)">-- any <hi rend="slant(italic)">blear-ey'd people</hi></l>
+                  <l>With red heads, and flat noses, can perform it."</l>
+               </lg>
+            </note>
          </div>
       </hyperDiv>
       <front>
@@ -857,254 +907,254 @@
                   <lg>
                      <l n="175" part="F">O, the heavens!</l>
                      <l>What foul play had we, that we came from thence?</l>
-                     <l part="I">Or blessed was't we did?</l>
+                     <l n="176" part="I">Or blessed was't we did?</l>
                   </lg>
                </sp>
                <sp who="#pro">
                   <speaker>Pro.</speaker>
                   <lg>
-                     <l part="F">Both, both, my girl:</l>
-                     <l>By foul play, as thou say'st, were we heav'd thence;</l>
-                     <l part="I">But blessedly holp hither.</l>
+                     <l n="177" part="F">Both, both, my girl:</l>
+                     <l n="178">By foul play, as thou say'st, were we heav'd thence;</l>
+                     <l n="179" part="I">But blessedly holp hither.</l>
                   </lg>
                </sp>
                <sp who="#mira">
                   <speaker> Mira. </speaker>
                   <lg>
-                     <l part="F">O, my heart bleeds</l>
-                     <l>To think o' the teen<anchor rend="pre(ᵉ)" corresp="#n010" xml:id="e001"/>
-                        that I have turn'd you to,</l>
-                     <l>Which is from my remembrance! Please you, further.</l>
+                     <l n="180" part="F">O, my heart bleeds</l>
+                     <l n="181">To think o' the teen<anchor rend="pre(ᵉ)" corresp="#n010"
+                           xml:id="e001"/> that I have turn'd you to,</l>
+                     <l n="182">Which is from my remembrance! Please you, further.</l>
                   </lg>
                </sp>
                <sp who="#pro">
                   <speaker>Pro.</speaker>
                   <lg>
-                     <l>My brother, any thu uncle, call'd Antonio,--</l>
-                     <l>I pray thee, mark me,-- that a brother should</l>
-                     <l>Be so perfidious!-- he whom, next thyself,</l>
-                     <l>Of all the world I lov'd, and to him put</l>
-                     <l>The manage of my state; as, at that time,</l>
-                     <l>Through all the signiories it was the first,--</l>
-                     <l>And Prospero the prime duke;-- being so reputed</l>
-                     <l>In dignity, and for the liberal arts</l>
-                     <l>Without a parallel: those being all my study,</l>
-                     <l>The government I cast upon my brother,</l>
-                     <l>And to my state grew stranger, being transported</l>
-                     <l>And rapt in secret studies. Thy false uncle--</l>
-                     <l part="I">Dost thou attend me?</l>
+                     <l n="183">My brother, any thu uncle, call'd Antonio,--</l>
+                     <l n="184">I pray thee, mark me,-- that a brother should</l>
+                     <l n="185">Be so perfidious!-- he whom, next thyself,</l>
+                     <l n="186">Of all the world I lov'd, and to him put</l>
+                     <l n="187">The manage of my state; as, at that time,</l>
+                     <l n="188">Through all the signiories it was the first,--</l>
+                     <l n="189">And Prospero the prime duke;-- being so reputed</l>
+                     <l n="190">In dignity, and for the liberal arts</l>
+                     <l n="191">Without a parallel: those being all my study,</l>
+                     <l n="192">The government I cast upon my brother,</l>
+                     <l n="193">And to my state grew stranger, being transported</l>
+                     <l n="194">And rapt in secret studies. Thy false uncle--</l>
+                     <l n="195" part="I">Dost thou attend me?</l>
                   </lg>
                </sp>
                <sp who="#mira">
                   <speaker>Mira.</speaker>
                   <lg>
-                     <l part="F">Sir, most heedfully.</l>
+                     <l n="196" part="F">Sir, most heedfully.</l>
                   </lg>
                </sp>
                <sp who="#pro">
                   <speaker>Pro.</speaker>
                   <lg>
-                     <l>Being once perfected how to grant suits,</l>
-                     <l>How to deny them, who to advance, and who</l>
-                     <l>To trash<anchor rend="pre(ᶠ)" corresp="#n011" xml:id="f001"/> for
+                     <l n="197">Being once perfected how to grant suits,</l>
+                     <l n="198">How to deny them, who to advance, and who</l>
+                     <l n="199">To trash<anchor rend="pre(ᶠ)" corresp="#n011" xml:id="f001"/> for
                         over-topping,-- new created</l>
-                     <l>The creatures that were mine, I say, or chang'd 'em,</l>
-                     <l>Or else new form'd 'em; having both the key</l>
-                     <l>Of officer and office, set all hearts i' the state</l>
-                     <l>To what tune pleas'd his ear; that now he was</l>
-                     <l>The ivy which had hid my princely trunk,</l>
-                     <l>And suck'd my verdue out on't.-- Thou attend'st not.</l>
+                     <l n="200">The creatures that were mine, I say, or chang'd 'em,</l>
+                     <l n="201">Or else new form'd 'em; having both the key</l>
+                     <l n="202">Of officer and office, set all hearts i' the state</l>
+                     <l n="203">To what tune pleas'd his ear; that now he was</l>
+                     <l n="204">The ivy which had hid my princely trunk,</l>
+                     <l n="205">And suck'd my verdue out on't.-- Thou attend'st not.</l>
                   </lg>
                </sp>
                <sp who="#mira">
                   <speaker>Mira.</speaker>
                   <lg>
-                     <l part="I">O good sir, I do.</l>
+                     <l n="206" part="I">O good sir, I do.</l>
                   </lg>
                </sp>
                <sp who="#pro">
                   <speaker>Pro.</speaker>
                   <lg>
-                     <l part="F">I pray thee, mark me.</l>
-                     <l>I thus neglecting wordly ends, all dedicated</l>
-                     <l>To closeness, and the bettering of my mind</l>
-                     <l>With that, which, but by being so retir'd</l>
-                     <l>O'er-priz'd all popular rate, in my false brother</l>
-                     <l>Awak'd an evil nature; and my trust,</l>
+                     <l part="F" n="207">I pray thee, mark me.</l>
+                     <l n="208">I thus neglecting wordly ends, all dedicated</l>
+                     <l n="209">To closeness, and the bettering of my mind</l>
+                     <l n="210">With that, which, but by being so retir'd</l>
+                     <l n="211">O'er-priz'd all popular rate, in my false brother</l>
+                     <l n="212">Awak'd an evil nature; and my trust,</l>
                      <fw type="pageNum">8</fw>
                      <pb n="9"/>
                      <cb n="1"/>
-                     <l>Like a good parent, did beget of him</l>
-                     <l>A falsehood, in its contrary as great</l>
-                     <l>As my trust was; which had indeed no limit,</l>
-                     <l>A confidence sans bound. He being thus lorded,</l>
-                     <l>Not only with what my revenue yielded,</l>
-                     <l>But what my power might else exact,-- like one</l>
-                     <l>Who having unto truth, by telling of it</l>
-                     <l>Made such a sinner of his memory,</l>
-                     <l>To credit his own lie,<anchor rend="pre(ᵃ)" xml:id="a005" corresp="#n012"
-                        />-- he did believe</l>
-                     <l>He was indeed the duke; out o' the substitution,</l>
-                     <l>And executing the outward face of royalty,</l>
-                     <l>With all prerogative:-- hence his ambition growing,--</l>
-                     <l part="I">Dost thou hear?</l>
+                     <l n="213">Like a good parent, did beget of him</l>
+                     <l n="214">A falsehood, in its contrary as great</l>
+                     <l n="215">As my trust was; which had indeed no limit,</l>
+                     <l n="216">A confidence sans bound. He being thus lorded,</l>
+                     <l n="217">Not only with what my revenue yielded,</l>
+                     <l n="218">But what my power might else exact,-- like one</l>
+                     <l n="219">Who having unto truth, by telling of it</l>
+                     <l n="220">Made such a sinner of his memory,</l>
+                     <l n="221">To credit his own lie,<anchor rend="pre(ᵃ)" xml:id="a005"
+                           corresp="#n012"/>-- he did believe</l>
+                     <l n="222">He was indeed the duke; out o' the substitution,</l>
+                     <l n="223">And executing the outward face of royalty,</l>
+                     <l n="224">With all prerogative:-- hence his ambition growing,--</l>
+                     <l n="225" part="I">Dost thou hear?</l>
                   </lg>
                </sp>
                <sp who="#mira">
                   <speaker>Mira.</speaker>
                   <lg>
-                     <l part="F">Your tale, sir, would cure deafness.</l>
+                     <l n="226" part="F">Your tale, sir, would cure deafness.</l>
                   </lg>
                </sp>
                <sp who="#pro">
                   <speaker>Pro.</speaker>
                   <lg>
-                     <l>To have no screen between this part he play'd</l>
-                     <l>And him he play'd it for, he needs will be</l>
-                     <l>Absolute Milan. Me, poor man! my library</l>
-                     <l>Was dukedom large enough; of temporal royalties</l>
-                     <l>He thinks me now incapable; confederates</l>
-                     <l>(So dry he was for sway) with the<anchor rend="pre(*)" xml:id="star002"
-                           corresp="#n013"/> king of Naples,</l>
-                     <l>To give him annual tribute, do him homage;</l>
-                     <l>Subject his coronet to his crown, and bend</l>
-                     <l>The dukedom, yet unbow'd, alas, poor Milan!</l>
-                     <l part="I">To most ignoble stooping.</l>
+                     <l n="227">To have no screen between this part he play'd</l>
+                     <l n="228">And him he play'd it for, he needs will be</l>
+                     <l n="229">Absolute Milan. Me, poor man! my library</l>
+                     <l n="230">Was dukedom large enough; of temporal royalties</l>
+                     <l n="231">He thinks me now incapable; confederates</l>
+                     <l n="232">(So dry he was for sway) with the<anchor rend="pre(*)"
+                           xml:id="star002" corresp="#n013"/> king of Naples,</l>
+                     <l n="233">To give him annual tribute, do him homage;</l>
+                     <l n="234">Subject his coronet to his crown, and bend</l>
+                     <l n="235">The dukedom, yet unbow'd, alas, poor Milan!</l>
+                     <l n="236" part="I">To most ignoble stooping.</l>
                   </lg>
                </sp>
                <sp who="#mira">
                   <speaker>Mira.</speaker>
                   <lg>
-                     <l part="F">O the heavens!</l>
+                     <l n="237" part="F">O the heavens!</l>
                   </lg>
                </sp>
                <sp who="#pro">
                   <speaker>Pro.</speaker>
                   <lg>
-                     <l>Mark his condition, and the event; then tell me,</l>
-                     <l part="I">If this might be a brother.</l>
+                     <l n="238">Mark his condition, and the event; then tell me,</l>
+                     <l n="239" part="I">If this might be a brother.</l>
                   </lg>
                </sp>
                <sp who="#mira">
                   <speaker>Mira.</speaker>
                   <lg>
-                     <l part="F">I should sin</l>
-                     <l>To think but nobly of my grandmother:</l>
-                     <l part="I">Good wombs have borne bad sons.</l>
+                     <l n="240" part="F">I should sin</l>
+                     <l n="241">To think but nobly of my grandmother:</l>
+                     <l n="242" part="I">Good wombs have borne bad sons.</l>
                   </lg>
                </sp>
                <sp who="#pro">
                   <speaker>Pro.</speaker>
                   <lg>
-                     <l part="F">Now the condition.</l>
-                     <l>This king of Naples, being an enemy</l>
-                     <l>To me inveterate, hearkens my brother's suit;</l>
-                     <l>Which was, that he, in lieu<anchor rend="pre(ᵇ)" xml:id="b003"
+                     <l n="243" part="F">Now the condition.</l>
+                     <l n="244">This king of Naples, being an enemy</l>
+                     <l n="245">To me inveterate, hearkens my brother's suit;</l>
+                     <l n="246">Which was, that he, in lieu<anchor rend="pre(ᵇ)" xml:id="b003"
                            corresp="#n014"/> o' the premises</l>
-                     <l>Of homage, and I know not how much tribute,</l>
-                     <l>Should presently extirpate me and mine</l>
-                     <l>Out of the dukedom, and confer fair Milan,</l>
-                     <l>With all the honours, on my brother: whereon,</l>
-                     <l>A treacherous army levied, one midnight</l>
-                     <l>Fated to the purpose,<anchor rend="pre(ᶜ)" xml:id="c002" corresp="#n015"/>
-                        did Antonio open</l>
-                     <l>The gates of Milan; and, i' the dead of darkness,</l>
-                     <l>The ministers for the purpose hurried thence</l>
-                     <l part="I">Me, and thy crying self.</l>
+                     <l n="247">Of homage, and I know not how much tribute,</l>
+                     <l n="248">Should presently extirpate me and mine</l>
+                     <l n="249">Out of the dukedom, and confer fair Milan,</l>
+                     <l n="250">With all the honours, on my brother: whereon,</l>
+                     <l n="251">A treacherous army levied, one midnight</l>
+                     <l n="252">Fated to the purpose,<anchor rend="pre(ᶜ)" xml:id="c002"
+                           corresp="#n015"/> did Antonio open</l>
+                     <l n="253">The gates of Milan; and, i' the dead of darkness,</l>
+                     <l n="254">The ministers for the purpose hurried thence</l>
+                     <l n="255" part="I">Me, and thy crying self.</l>
                   </lg>
                </sp>
                <sp who="#mira">
                   <speaker>Mira.</speaker>
                   <lg>
-                     <l part="F">Alack, for pity!</l>
+                     <l n="256" part="F">Alack, for pity!</l>
                      <cb n="2"/>
-                     <l>I, not rememb'ring how I cried out them,</l>
-                     <l>Will cry it o'er again: it is a hint</l>
-                     <l part="I">That wrings my eyes to 't.</l>
+                     <l n="257">I, not rememb'ring how I cried out them,</l>
+                     <l n="258">Will cry it o'er again: it is a hint</l>
+                     <l n="259" part="I">That wrings my eyes to 't.</l>
                   </lg>
                </sp>
                <sp who="#pro">
                   <speaker>Pro.</speaker>
                   <lg>
-                     <l part="F">Hear a little further,</l>
-                     <l>And then I'll bring thee to the present business</l>
-                     <l>Which now's upon us; without the which, this story</l>
-                     <l part="I">Were most impertinent.</l>
+                     <l n="260" part="F">Hear a little further,</l>
+                     <l n="261">And then I'll bring thee to the present business</l>
+                     <l n="262">Which now's upon us; without the which, this story</l>
+                     <l n="263" part="I">Were most impertinent.</l>
                   </lg>
                </sp>
                <sp who="#mira">
                   <speaker>Mira.</speaker>
                   <lg>
-                     <l part="F">Wherefore did they not</l>
-                     <l part="I">That hour destroy us?</l>
+                     <l n="264" part="F">Wherefore did they not</l>
+                     <l n="265" part="I">That hour destroy us?</l>
                   </lg>
                </sp>
                <sp who="#pro">
                   <speaker>Pro.</speaker>
                   <lg>
-                     <l part="F">Well demanded, wench:</l>
-                     <l>My tale provokes that question. Dear, they durst not--,</l>
-                     <l>So dear the love my people bore me,-- nor set</l>
-                     <l>A mark so bloody on the business; but</l>
-                     <l>With colours fairer painted their foul ends.</l>
-                     <l>In few,<anchor rend="pre(ᵈ)" xml:id="d002" corresp="#n016"/> they hurried us
-                        aboard a bark,</l>
-                     <l>Bore us some leagues to sea; where they prepar'd</l>
-                     <l>A rotten carcas of a boat,<anchor rend="pre(*)" xml:id="star003"
+                     <l n="266" part="F">Well demanded, wench:</l>
+                     <l n="267">My tale provokes that question. Dear, they durst not--,</l>
+                     <l n="268">So dear the love my people bore me,-- nor set</l>
+                     <l n="269">A mark so bloody on the business; but</l>
+                     <l n="270">With colours fairer painted their foul ends.</l>
+                     <l n="271">In few,<anchor rend="pre(ᵈ)" xml:id="d002" corresp="#n016"/> they
+                        hurried us aboard a bark,</l>
+                     <l n="272">Bore us some leagues to sea; where they prepar'd</l>
+                     <l n="273">A rotten carcas of a boat,<anchor rend="pre(*)" xml:id="star003"
                            corresp="#n017"/> not rigg'd,</l>
-                     <l>Nor tackle, sail, nor mast; the very rats</l>
-                     <l>Instinctively have quit it: there they hoist us,</l>
-                     <l>To cry to the sea taht roar'd to us; to sigh</l>
-                     <l>To the winds, whose pity, sighing back again,</l>
-                     <l part="I">Did us but loving wrong.</l>
+                     <l n="274">Nor tackle, sail, nor mast; the very rats</l>
+                     <l n="275">Instinctively have quit it: there they hoist us,</l>
+                     <l n="276">To cry to the sea taht roar'd to us; to sigh</l>
+                     <l n="277">To the winds, whose pity, sighing back again,</l>
+                     <l n="278" part="I">Did us but loving wrong.</l>
                   </lg>
                </sp>
                <sp who="#mira">
                   <speaker>Mira.</speaker>
                   <lg>
-                     <l part="F">Alack, what trouble</l>
-                     <l part="I">Was I then to you?</l>
+                     <l n="279" part="F">Alack, what trouble</l>
+                     <l n="280" part="I">Was I then to you?</l>
                   </lg>
                </sp>
                <sp who="#pro">
                   <speaker>Pro.</speaker>
                   <lg>
-                     <l part="F">O, a cherubin</l>
-                     <l>Thou wast that did preserve me! Thou didst smile.</l>
-                     <l>Infused with a fortitude from heaven,</l>
-                     <l>When I have deck'd<anchor rend="pre(ᵉ)" xml:id="e002" corresp="#n018"/> the
-                        sea with drops full salt;</l>
-                     <l>Under my burthen groan'd; which rais'd in me</l>
-                     <l>An undergoing stomach, to bear up</l>
-                     <l part="I">Against what should ensue.</l>
+                     <l n="281" part="F">O, a cherubin</l>
+                     <l n="282">Thou wast that did preserve me! Thou didst smile.</l>
+                     <l n="283">Infused with a fortitude from heaven,</l>
+                     <l n="284">When I have deck'd<anchor rend="pre(ᵉ)" xml:id="e002"
+                           corresp="#n018"/> the sea with drops full salt;</l>
+                     <l n="285">Under my burthen groan'd; which rais'd in me</l>
+                     <l n="286">An undergoing stomach, to bear up</l>
+                     <l n="287" part="I">Against what should ensue.</l>
                   </lg>
                </sp>
                <sp who="#mira">
                   <speaker>Mira.</speaker>
                   <lg>
-                     <l part="F">How came we ashore?</l>
+                     <l n="288" part="F">How came we ashore?</l>
                   </lg>
                </sp>
                <sp who="#pro">
                   <speaker>Pro.</speaker>
                   <lg>
-                     <l>By Providence divine.</l>
-                     <l>Some food we had, and some fresh water, that</l>
-                     <l>A noble Neapolitan, Gonzalo,</l>
-                     <l>Out of his charity,-- who being then appointed</l>
-                     <l>Master of this design,-- did give us; with</l>
-                     <l>Rich garments, linens, stuffs, and necessaries,</l>
-                     <l>Which since have steaded much; so, of his gentleness,</l>
-                     <l>Knowing I lov'd my books, he furnish'd me,</l>
-                     <l>From mine own library, with volumes that</l>
-                     <l part="I">I prize above my dukedom.</l>
+                     <l n="289">By Providence divine.</l>
+                     <l n="290">Some food we had, and some fresh water, that</l>
+                     <l n="291">A noble Neapolitan, Gonzalo,</l>
+                     <l n="292">Out of his charity,-- who being then appointed</l>
+                     <l n="293">Master of this design,-- did give us; with</l>
+                     <l n="294">Rich garments, linens, stuffs, and necessaries,</l>
+                     <l n="295">Which since have steaded much; so, of his gentleness,</l>
+                     <l n="296">Knowing I lov'd my books, he furnish'd me,</l>
+                     <l n="297">From mine own library, with volumes that</l>
+                     <l n="298" part="I">I prize above my dukedom.</l>
                   </lg>
                </sp>
                <sp who="#mira">
                   <speaker>Mira.</speaker>
                   <lg>
-                     <l part="F">Would I might</l>
-                     <l part="I">But ever see that man!</l>
+                     <l n="299" part="F">Would I might</l>
+                     <l n="300" part="I">But ever see that man!</l>
                   </lg>
                </sp>
                <fw type="pageNum" rend="align(right)">9</fw>
@@ -1116,86 +1166,323 @@
                <sp who="#pro">
                   <speaker>Pro.</speaker>
                   <lg>
-                     <l part="F"><stage type="delivery"><hi rend="slant(italic)">Aside to</hi>
+                     <l n="301" part="F"><stage type="delivery"><hi rend="slant(italic)">Aside
+                              to</hi>
                            <hi rend="pre([)post(])case(smallcaps)">Ariel</hi>, <hi
                               rend="slant(italic)">above</hi>. </stage>Now I arise:--<anchor
                            rend="pre(ᵃ)" xml:id="a006" corresp="#n019"/></l>
-                     <l>Sit still, and hear the last of our sea-sorrow.</l>
-                     <l>Here in this island we arriv'd; and here</l>
-                     <l>Have I, thy schoolmaster, made thee more profit</l>
-                     <l>Than other princess' can, that have more time</l>
-                     <l>For vainer hours, and tutors not so careful.</l>
+                     <l n="302">Sit still, and hear the last of our sea-sorrow.</l>
+                     <l n="303">Here in this island we arriv'd; and here</l>
+                     <l n="304">Have I, thy schoolmaster, made thee more profit</l>
+                     <l n="305">Than other princess' can, that have more time</l>
+                     <l n="306">For vainer hours, and tutors not so careful.</l>
                   </lg>
                </sp>
                <sp who="#mira">
                   <speaker>Mira.</speaker>
                   <lg>
-                     <l>Heavens thank you for't! And now, I pray you, sir,--</l>
-                     <l>For still 'tis beating in my mind,-- your reason</l>
-                     <l part="I">For raising this sea-storm?</l>
+                     <l n="307">Heavens thank you for't! And now, I pray you, sir,--</l>
+                     <l n="308">For still 'tis beating in my mind,-- your reason</l>
+                     <l n="309" part="I">For raising this sea-storm?</l>
                   </lg>
                </sp>
                <sp who="#pro">
                   <speaker>Pro.</speaker>
                   <lg>
-                     <l part="F">Know thus far forth.</l>
-                     <l>By accident most strange, bountiful Fortune--</l>
-                     <l>Now my dear lady-- hath mine enemies</l>
-                     <l>Brought to this shore; and by my prescience</l>
-                     <l>I find my zenith doth depend upon</l>
-                     <l>A most auspicious star, whose influence</l>
-                     <l>If now I court not, but omit, my fortunes</l>
-                     <l>Will ever after droop.-- Here cease more questions:</l>
-                     <l>Thou art inclin'd to sleep; 't is a good dulness,</l>
-                     <l>And give it way;-- I know thou canst not choose.--</l>
-                     <stage type="business" rend="pre([)"><hi rend="case(smallcaps)">Miranda</hi>
+                     <l n="310" part="F">Know thus far forth.</l>
+                     <l n="311">By accident most strange, bountiful Fortune--</l>
+                     <l n="312">Now my dear lady-- hath mine enemies</l>
+                     <l n="313">Brought to this shore; and by my prescience</l>
+                     <l n="314">I find my zenith doth depend upon</l>
+                     <l n="315">A most auspicious star, whose influence</l>
+                     <l n="316">If now I court not, but omit, my fortunes</l>
+                     <l n="317">Will ever after droop.-- Here cease more questions:</l>
+                     <l n="318">Thou art inclin'd to sleep; 't is a good dulness,</l>
+                     <l n="319">And give it way;-- I know thou canst not choose.--</l>
+                     <stage n="320" type="business" rend="pre([)"><persName>Miranda</persName>
                         <hi rend="slant(italic)">sleeps</hi>.</stage>
-                     <l>Come away, servant, come! I am ready now:</l>
-                     <l>Approach, my Ariel; come!</l>
+                     <l n="321">Come away, servant, come! I am ready now:</l>
+                     <l n="322">Approach, my Ariel; come!</l>
                   </lg>
                </sp>
-               <stage type="entrance"><hi rend="slant(italic)">Enter</hi>
+               <stage n="323" type="entrance"><hi rend="slant(italic)">Enter</hi>
                   <hi rend="case(smallcaps)">Ariel</hi>.(2)</stage>
                <sp who="#ari">
                   <speaker>Ari.</speaker>
                   <lg>
-                     <l>All hail, great master! grave sir, hail! I come</l>
-                     <l>To answer thy best pleasure; bet'd to fly,</l>
-                     <l>To swim, to dive into the fire, to ride</l>
-                     <l>On the curl'd clouds,-- to thy strong bidding, task</l>
-                     <l part="I">Ariel, and all his quality.</l>
+                     <l n="324">All hail, great master! grave sir, hail! I come</l>
+                     <l n="325">To answer thy best pleasure; bet'd to fly,</l>
+                     <l n="326">To swim, to dive into the fire, to ride</l>
+                     <l n="327">On the curl'd clouds,-- to thy strong bidding, task</l>
+                     <l n="328" part="I">Ariel, and all his quality.</l>
                   </lg>
                </sp>
                <sp who="#pro">
                   <speaker>Pro.</speaker>
                   <lg>
-                     <l part="F">Hast thou, spirit,</l>
-                     <l>Perform'd to point the tempest that I bade thee?</l>
+                     <l n="329" part="F">Hast thou, spirit,</l>
+                     <l n="330">Perform'd to point the tempest that I bade thee?</l>
                   </lg>
                </sp>
                <sp who="#ari">
                   <speaker>Ari.</speaker>
                   <lg>
-                     <l>To every article.</l>
-                     <l>I boarded the king's ship; now on the beak,</l>
-                     <l>Now in the waist, the deck, in every cabin,</l>
-                     <l>I flam'd amazement: sometime I'd divide</l>
-                     <l>And burn in many places; on the topmast,</l>
-                     <l>The yards, and bowsprit,<anchor rend="pre(*)" xml:id="star004"
+                     <l n="331">To every article.</l>
+                     <l n="332">I boarded the king's ship; now on the beak,</l>
+                     <l n="333">Now in the waist, the deck, in every cabin,</l>
+                     <l n="334">I flam'd amazement: sometime I'd divide</l>
+                     <l n="335">And burn in many places; on the topmast,</l>
+                     <l n="336">The yards, and bowsprit,<anchor rend="pre(*)" xml:id="star004"
                            corresp="#n020"/> would I flame distinctly,<anchor rend="pre(ᵇ)"
                            xml:id="b004" corresp="#n021"/></l>
-                     <l>Then meet, and join.(3) Jove's lightnings, <anchor rend="pre(†)"
+                     <l n="337">Then meet, and join.(3) Jove's lightnings, <anchor rend="pre(†)"
                            xml:id="dag001" corresp="#n022"/>the precursors</l>
-                     <l>O' the dreadful thunder-claps, more momentary</l>
-                     <l>And sight-outrnning were not: the fire, and cracks</l>
-                     <l>Of sulfurous roaring, the most mighty Neptune</l>
-                     <l>Seem to besiege, and make his bold waves tremble,</l>
-                     <l>Yea, his dread trident shake.</l>
+                     <l n="338">O' the dreadful thunder-claps, more momentary</l>
+                     <l n="339">And sight-outrnning were not: the fire, and cracks</l>
+                     <l n="340">Of sulfurous roaring, the most mighty Neptune</l>
+                     <l n="341">Seem to besiege, and make his bold waves tremble,</l>
+                     <l n="342" part="I">Yea, his dread trident shake.</l>
                   </lg>
                </sp>
                <fw type="pageNum" rend="align(left)">10</fw>
                <pb n="11"/>
+               <figure>
+                  <figDesc>A man standing on a bat in flight is pictured holding a long length of
+                     cloth that is flowing above his head and wrapped around him from his waist to
+                     his knees.</figDesc>
+               </figure>
                <cb n="1"/>
+               <sp who="#pro">
+                  <speaker>Pro.</speaker>
+                  <lg>
+                     <l n="343" part="F">My brave spirit!</l>
+                     <l n="344">Who was so firm, so constant, that this coil</l>
+                     <l n="345" part="I">Would not infect his reason?</l>
+                  </lg>
+               </sp>
+               <sp who="#ari">
+                  <speaker>Ari.</speaker>
+                  <lg>
+                     <l n="346" part="F">Not a soul</l>
+                     <l n="347">But felt a fever of the mad, and play'd</l>
+                     <l n="348">Some tricks of desperation. All, but mariners,</l>
+                     <l n="349">Plung'd in teh foaming brine, and quit the vessel,</l>
+                     <l n="350">Then all a-fire with me: the king's son, Ferdinand,</l>
+                     <l n="351">With hair up-staring,-- then like reeds, not hair,-- </l>
+                     <l n="352">Was the first man that leap'd ; cried, <hi rend="slant(italic)">Hell
+                           is empty,</hi></l>
+                     <l n="353" part="I"><hi rend="slant(italic)">And all the devils are
+                        here.</hi></l>
+                  </lg>
+               </sp>
+               <sp who="#pro">
+                  <speaker>Pro.</speaker>
+                  <lg>
+                     <l n="354" part="F">Why, thats my spirit!</l>
+                     <l n="355" part="I">But was not this nighshore?</l>
+                  </lg>
+               </sp>
+               <sp who="#ari">
+                  <speaker>Ari.</speaker>
+                  <lg>
+                     <l n="356" part="F">Close by, my master.</l>
+                  </lg>
+               </sp>
+               <sp who="#pro">
+                  <speaker>Pro.</speaker>
+                  <lg>
+                     <l n="357" part="I">But are they, Ariel, safe?</l>
+                  </lg>
+               </sp>
+               <sp who="#ari">
+                  <speaker>Ari.</speaker>
+                  <lg>
+                     <l n="358" part="F">Not a hair perish'd;</l>
+                     <l n="359">On their sustaining garments not a blemish,</l>
+                     <l n="360">But fresher than before: and, as thou bad'st me,</l>
+                     <l n="361">In troops I have dispers'd them 'bout the isle.</l>
+                     <l n="362">The king's son have I landed by himself;</l>
+                     <l n="363">Whom I left cooling of the air with sighs,</l>
+                     <cb n="2"/>
+                     <l n="364">In an odd angle of hte isle, and sitting,</l>
+                     <l n="365" part="I">His arms in this sad knot.</l>
+                  </lg>
+               </sp>
+               <sp who="#pro">
+                  <speaker>Pro.</speaker>
+                  <lg>
+                     <l n="366" part="F">Of the king's ship,</l>
+                     <l n="367">The mariners, say how thou hast dispos'd,</l>
+                     <l n="368" part="I">And all the rest o' the fleet.</l>
+                  </lg>
+               </sp>
+               <sp who="#ari">
+                  <speaker>Ari.</speaker>
+                  <lg>
+                     <l n="369" part="F">Safely in harbour</l>
+                     <l n="370">Is the king's ship; in the deep nook, where once</l>
+                     <l n="371">Thou call'dst me up at midnight to fetch dew</l>
+                     <l n="372">From the still-vex'd Bermoothes,(4) there she's hid:</l>
+                     <l n="373">The mariners all under hatches stow'd;</l>
+                     <l n="374">Whom, with a charm join'd to their suffer'd labour,</l>
+                     <l n="375">I have left asleep: and for the rest o' the fleet,</l>
+                     <l n="376">Which I dispers'd, they all have met again,</l>
+                     <l n="377">And are upon the Mediterranean flote,<anchor rend="pre(ᵃ)"
+                           xml:id="a007" corresp="#n023"/></l>
+                     <l n="378">Bound sadly home for Naples,</l>
+                     <l n="379">Supposing that thehy saw the king's ship wreck'd,</l>
+                     <l n="380" part="I">And his great person perish.</l>
+                  </lg>
+               </sp>
+               <sp who="#pro">
+                  <speaker>Pro.</speaker>
+                  <lg>
+                     <l n="381">Ariel, thy charge</l>
+                     <l n="382">Exacly is perform'd; but there's more work.</l>
+                     <l n="383" part="I">What is the time o' the day?</l>
+                  </lg>
+               </sp>
+               <sp who="#ari">
+                  <speaker>Ari.</speaker>
+                  <lg>
+                     <l n="384" part="F">Past the mid season.</l>
+                  </lg>
+               </sp>
+               <fw type="pageNum" rend="align(right)">11</fw>
+               <pb n="12"/>
+               <figure>
+                  <figDesc><!--what--></figDesc>
+               </figure>
+               <cb n="1"/>
+               <sp who="#pro">
+                  <speaker>Pro.</speaker>
+                  <lg>
+                     <l n="385">At least two glasses-- the time, 'twixt six and now--</l>
+                     <l n="386">Must by us both be spent most preciously.<anchor rend="pre(ᵃ)"
+                           xml:id="a008" corresp="#n024"/></l>
+                  </lg>
+               </sp>
+               <sp who="#ari">
+                  <speaker>Ari.</speaker>
+                  <lg>
+                     <l n="387">Is there more toil? Since thou dost give me pains,</l>
+                     <l n="388">Let me remember thee what thou hast promis'd,</l>
+                     <l n="389" part="I">Which is not yet perform'd me.</l>
+                  </lg>
+               </sp>
+               <sp who="#pro">
+                  <speaker>Pro.</speaker>
+                  <lg>
+                     <l n="390" part="F">How now! moody?</l>
+                     <l n="391" part="I">What is't thou canst demand?</l>
+                  </lg>
+               </sp>
+               <sp who="#ari">
+                  <speaker>Ari.</speaker>
+                  <lg>
+                     <l n="392" part="F">My liberty.</l>
+                  </lg>
+               </sp>
+               <sp who="#pro">
+                  <speaker>Pro.</speaker>
+                  <lg>
+                     <l n="393" part="I">Before the time be out? no more!</l>
+                  </lg>
+               </sp>
+               <sp who="#ari">
+                  <speaker>Ari.</speaker>
+                  <lg>
+                     <l n="394" part="F">I pr'ythee,</l>
+                     <l n="395">Remember, I have done thee worthy service;</l>
+                     <l n="396">Told thee no lies, made thee<anchor rend="pre(ᵇ)" xml:id="b005"
+                           corresp="#n025"/> no mistakings, serv'd</l>
+                     <l n="397">Without or grudge or grumblings: thou didst promise</l>
+                     <l n="398" part="I">To bate me a full year.</l>
+                  </lg>
+               </sp>
+               <sp who="pro">
+                  <speaker>Pro.</speaker>
+                  <lg>
+                     <l n="399" part="F">Dost thou forget</l>
+                     <l n="400">From what a torment I did free thee?</l>
+                  </lg>
+               </sp>
+               <sp who="#ari">
+                  <speaker>Ari.</speaker>
+                  <lg>
+                     <l n="401">No.</l>
+                  </lg>
+               </sp>
+               <sp who="#pro">
+                  <speaker>Pro.</speaker>
+                  <lg>
+                     <l n="402">Thou dost; and think'st it much to tread the ooze</l>
+                     <l n="403">Of the salt deep,</l>
+                     <l n="404">To run upon the sharp wind of the north,</l>
+                     <l n="405">To do me business in the veins o' the earth</l>
+                     <l n="406">When it is bak'd with frost.</l>
+                  </lg>
+               </sp>
+               <sp who="#ari">
+                  <speaker>Ari.</speaker>
+                  <lg>
+                     <l n="407">I do not, sir.</l>
+                  </lg>
+               </sp>
+               <sp who="#pro">
+                  <speaker>Pro.</speaker>
+                  <lg>
+                     <l n="408">Thou liest, malignant thing! Hast thou forgot</l>
+                     <l n="409">The foul witch Sycorax, who, with age and envy,</l>
+                     <l n="410">Was grown into a hoop? hast thou forgot her?</l>
+                  </lg>
+               </sp>
+               <sp who="#ari">
+                  <speaker>Ari.</speaker>
+                  <lg>
+                     <l n="411">No, sir.</l>
+                  </lg>
+               </sp>
+               <sp who="#pro">
+                  <speaker>Pro.</speaker>
+                  <lg>
+                     <l n="412">Thou hast. Where was she born? speak; tell me.</l>
+                  </lg>
+               </sp>
+               <sp who="#ari">
+                  <speaker>Ari.</speaker>
+                  <lg>
+                     <l n="413" part="I">Sir, in Argier.<anchor rend="pre(ᶜ)" xml:id="c003"
+                           corresp="#n026"/></l>
+                  </lg>
+               </sp>
+               <sp who="#pro">
+                  <speaker>Pro.</speaker>
+                  <lg>
+                     <l n="414" part="F">O, was she so? I must</l>
+                     <l n="415">Once in a month recount what thou hast been,</l>
+                     <l n="416">Which thou forgett'st. This damn'd witch Sycorax,</l>
+                     <l n="417">For mischiefs manifold, and sorceries terrible</l>
+                     <l n="418">To enter human hearing, from Argier,</l>
+                     <l n="419">Thou know'st, was banish'd: for on ething she did</l>
+                     <l n="420">They would not take her life. Is not this true?</l>
+                  </lg>
+               </sp>
+               <sp who="#ari">
+                  <speaker>Ari.</speaker>
+                  <lg>
+                     <l n="421">Ay, sir.</l>
+                  </lg>
+               </sp>
+               <sp who="#pro">
+                  <speaker>Pro.</speaker>
+                  <lg>
+                     <l n="422">This blue-ey'd hag was hither brought with child,<anchor
+                           rend="pre(ᵈ)" xml:id="d003" corresp="#n027"/></l>
+                     <l n="423">And here was left by the sailors: Thou, my slave,</l>
+                     <l n="424">As thou report'st thyself, wast then her servant;</l>
+                  </lg>
+               </sp>
             </div>
             <!--scene 2 div-->
          </div>
