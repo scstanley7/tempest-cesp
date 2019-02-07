@@ -4,13 +4,13 @@
     xmlns:tei="http://www.tei-c.org/ns/1.0">
 
     <!-- Create an HTML version of the play that: -->
-    <!--  * render headings with whatever flavor of HTML head you so choose -->
-    <!--  * renders all stage directions aligned right -->
-    <!--  * makes speaker labels bold -->
+    <!--   render headings with whatever flavor of HTML head you so choose -->
+    <!--   renders all stage directions aligned right -->
+    <!--   makes speaker labels bold -->
     <!--  * puts the first lines of speeches on the same line as the label -->
-    <!--  * aligns all page numbers right -->
-    <!--  * maintains all existing line breaks -->
-    <!--  * renders all <hi> elements as italics -->
+    <!--   aligns all page numbers right -->
+    <!--   maintains all existing line breaks -->
+    <!--   renders all <hi> elements as italics -->
     <!--  * renders the cast list as an unordered html list -->
     <!--    * make sure that any nested lists are also rendered as nested lists -->
     <!--    * you may need to do some creative things with role/roleDesc. I'm excited to see what you do :) -->
@@ -33,22 +33,53 @@
             <xsl:apply-templates/>
         </html>
     </xsl:template>
+    <!--   render headings with whatever flavor of HTML head you so choose -->
     <xsl:template match="tei:head">
         <h1>
             <xsl:apply-templates/>
         </h1>
     </xsl:template>
+    <!--   renders all stage directions aligned right -->
     <xsl:template match="tei:stage">
         <p syle="text-align: right;">
             <xsl:apply-templates/>
         </p>
     </xsl:template>
+    <!--   makes speaker labels bold -->
     <xsl:template match="tei:speaker">
-        <p>
-            <b>
-                <xsl:apply-templates/>
-            </b>
-        </p>
+        <b>
+            <xsl:apply-templates/>
+        </b>
+    </xsl:template>
+    <!--   aligns all page numbers right -->
+    <xsl:template match="tei:fw[@type eq pageNum]">
+        <div style="text-align: right;">
+            <xsl:apply-templates/>
+        </div>
+    </xsl:template>
+    <!--   maintains all existing line breaks -->
+    <xsl:template match="tei:lb">
+        <br>
+            <xsl:apply-templates/>
+        </br>
+    </xsl:template>
+    <!--   renders all <hi> elements as italics -->
+    <xsl:template match="tei:hi">
+        <i>
+            <xsl:apply-templates/>
+        </i>
+    </xsl:template>
+    <!--   renders the cast list as an unordered html list -->
+    <xsl:template match="tei:castList">
+        <ul>
+            <xsl:apply-templates/>
+        </ul>
+
+    </xsl:template>
+    <xsl:template match="tei:role">
+        <li>
+            <xsl:apply-templates/>
+        </li>
     </xsl:template>
 
 </xsl:stylesheet>
