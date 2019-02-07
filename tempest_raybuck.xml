@@ -1481,6 +1481,89 @@
                            rend="pre(ᵈ)" xml:id="d003" corresp="#n027"/></l>
                      <l n="423">And here was left by the sailors: Thou, my slave,</l>
                      <l n="424">As thou report'st thyself, wast then her servant;</l>
+                     <fw type="pageNum" rend="align(left)">12</fw>
+                     <pb n="13"/>
+                     <cb n="1"/>
+                     <l>And, for thou wast a spirit too delicate</l>
+                     <l>To act her earthy and abhorr'd commands,</l>
+                     <l>Refusg her grand hests, she did confine thee,</l>
+                     <l>By help of her more potent ministers,</l>
+                     <l>And in her most unmitigable rage,</l>
+                     <l>Into a cloven pine; within which rift</l>
+                     <l>Imprison'd, thou didst painfully remain</l>
+                     <l>A dozen years; within which space she died,</l>
+                     <l>And left thee there; where thou didst vent thy grounds</l>
+                     <l>As fast as mill-wheels strike. Then was this</l>
+                     <l>Save for the son that she did litter here,</l>
+                     <l>A freckled whelp, hag-born-- not honour'd with</l>
+                     <l part="I">A human shape.</l>
+                  </lg>
+               </sp>
+               <sp who="#ari">
+                  <speaker>Ari.</speaker>
+                  <lg>
+                     <l part="F">Yes, Caliban her son.</l>
+                  </lg>
+               </sp>
+               <sp who="#pro">
+                  <speaker>Pro.</speaker>
+                  <lg>
+                     <l>Dull thing, I say so; he, that Caliban,</l>
+                     <l>Whom now I keep in service. Thou best know'st</l>
+                     <l>What torment I did find thee in; thy groans</l>
+                     <l>Did make wolves howl, and penetrate the breasts</l>
+                     <l>Of ever-angry bears: it was a torment</l>
+                     <l>To lay upon the damn'd, which Sycorax</l>
+                     <l>Could not again undo: it was mine art,</l>
+                     <l>When I arriv'd, and heard thee, that made gape</l>
+                     <l part="I">The pine, and let thee out.</l>
+                  </lg>
+               </sp>
+               <sp who="#ari">
+                  <speaker>Ari.</speaker>
+                  <lg>
+                     <l part="F">I thank thee, master.</l>
+                  </lg>
+               </sp>
+               <sp who="#pro">
+                  <speaker>Pro.</speaker>
+                  <lg>
+                     <l>If thou more murmur'st I will rend an oak,</l>
+                     <l>And peg thee in his knotty entrails, till</l>
+                     <l part="I">Thou hast howl'd away twelve winters.</l>
+                  </lg>
+               </sp>
+               <sp who="#ari">
+                  <speaker>Ari.</speaker>
+                  <lg>
+                     <l part="F">Pardon, master:</l>
+                     <l>I will be correspondent to command,</l>
+                     <l part="I">And do my spriting gently.</l>
+                  </lg>
+               </sp>
+               <sp who="#pro">
+                  <speaker>Pro.</speaker>
+                  <lg>
+                     <l part="F">Do so; and after two days</l>
+                     <l part="I">I will discharge thee.</l>
+                  </lg>
+               </sp>
+               <sp who="#ari">
+                  <speaker>Ari.</speaker>
+                  <lg>
+                     <l part="F">That's my noble master!</l>
+                     <l>What shall I do? say what; what shall I do?</l>
+                  </lg>
+               </sp>
+               <sp who="#pro">
+                  <speaker>Pro.</speaker>
+                  <lg>
+                     <l>Go make thyself like a nymph o' the sea;</l>
+                     <l>Be subject to no sight but thine and mine; invisible</l>
+                     <l>To every eyeball else. Go, take this shape,</l>
+                     <l>And hither come in 't: go, hence with diligence!</l>
+                     <stage type="exit" rend="pre([)"><hi rend="slant(italic)">Exit</hi>
+                        <persName>Ariel.</persName></stage>
                   </lg>
                </sp>
             </div>
