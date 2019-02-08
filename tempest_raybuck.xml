@@ -1562,8 +1562,116 @@
                      <l>Be subject to no sight but thine and mine; invisible</l>
                      <l>To every eyeball else. Go, take this shape,</l>
                      <l>And hither come in 't: go, hence with diligence!</l>
-                     <stage type="exit" rend="pre([)"><hi rend="slant(italic)">Exit</hi>
+                     <stage type="exit" rend="pre([)"><hi rend="slant(italic)align(right)">Exit</hi>
                         <persName>Ariel.</persName></stage>
+                     <l>Awake, dear heart, awake! thou hast slept well; Awake!</l>
+                  </lg>
+               </sp>
+               <sp who="#mira">
+                  <speaker>Mira.</speaker>
+                  <lg>
+                     <l><stage type="delivery" rend="pre([)post(])slant(italic)"
+                           >Waking.</stage><anchor rend="pre(ᵃ)" xml:id="a009" corresp="#n028"/>The
+                        strangeness of your story put</l>
+                     <l part="I">Heaviness in me.</l>
+                  </lg>
+               </sp>
+               <sp who="#pro">
+                  <speaker>Pro.</speaker>
+                  <lg>
+                     <l part="F">Shake it off. Come on;</l>
+                     <l>We'll visit Caliban, my slave, who never</l>
+                     <l part="I">Yields us a kind answer.</l>
+                  </lg>
+               </sp>
+               <sp who="#mira">
+                  <speaker>Mira.</speaker>
+                  <lg>
+                     <l part="F">'Tis a villain, sir,</l>
+                     <l part="I">I do not love to look on.</l>
+                  </lg>
+               </sp>
+               <cb n="2"/>
+               <sp who="#pro">
+                  <speaker>Pro.</speaker>
+                  <lg>
+                     <l part="F">But, as 'tis,</l>
+                     <l>We cannot miss<anchor rend="pre(ᵇ)" xml:id="b006" corresp="#n029"/> him: he
+                        does make our fire,</l>
+                     <l>Fetch in our wood, and serves in offices</l>
+                     <l>That profit us. What ho! slave! Caliban!</l>
+                     <l>Thou earth, thou! speak.</l>
+                  </lg>
+               </sp>
+               <sp who="#cal">
+                  <speaker>Cal.</speaker>
+                  <lg>
+                     <l><stage type="delivery" rend="pre([)post(])slant(italic)"
+                        >Within</stage>There's wood enough within.</l>
+                  </lg>
+               </sp>
+               <sp who="#pro">
+                  <speaker>Pro.</speaker>
+                  <lg>
+                     <l>Come forth, I say! there's other business for thee:</l>
+                     <l>Come, thou toirtoise! when?<anchor rend="pre(ᶜ)" xml:id="c004"
+                           corresp="#n030"/></l>
+                     <stage type="entrance" rend="slant(italic)align(center)">Re-enter
+                           <persName>Ariel</persName>, like a Water-nymph.</stage>
+                     <l><stage type="delivery" rend="pre([)post(])slant(italic)">Aside to
+                              <persName>Ariel</persName>.</stage> Fine apparition! My quaint
+                        Ariel,</l>
+                     <l part="I">Hark in thine ear.</l>
+                  </lg>
+               </sp>
+               <sp who="#ari">
+                  <speaker>Ari.</speaker>
+                  <lg>
+                     <l>My lord, it shall be done.<stage type="exit" rend="pre([)slant(italic)"
+                           >Exit.</stage></l>
+                  </lg>
+               </sp>
+               <sp who="pro">
+                  <speaker>Pro.</speaker>
+                  <lg>
+                     <l>Thou poisonous slave, got by the devil homself</l>
+                     <l>Upon thy wicked dam, come forth!</l>
+                  </lg>
+               </sp>
+               <stage type="entrance" rend="slant(italic)align(center)">Enter
+                     <persName>Caliban</persName>.(5)</stage>
+               <sp who="#cal">
+                  <speaker>Cal.</speaker>
+                  <lg>
+                     <l>As wicked<anchor rend="pre(ᵈ)" xml:id="d004" corresp="#n031"/> dew as e'er
+                        my mother brush'd</l>
+                     <l>With raven's feather from unwholesome fen,</l>
+                     <l>Drop on you both! a south-west blow on ye,</l>
+                     <l>And blister you all o'er! (6)</l>
+                  </lg>
+               </sp>
+               <sp who="#pro">
+                  <speaker>Pro.</speaker>
+                  <lg>
+                     <l>For this, be sure, to-night thou shalt have cramps,</l>
+                     <l>Side-stitches that shall pen thy breath up; urchins<anchor rend="pre(ᵉ)"
+                           xml:id="e003" corresp="#n032"/></l>
+                     <l>Shall, for that vast<anchor rend="pre(ᶠ)" xml:id="f002" corresp="#n033"/> of
+                        night that they may work.</l>
+                     <l>All exerise on thee: thou shalt be pinch'd</l>
+                     <l>As thick as honeycomb, each pinch more stinging</l>
+                     <l part="I">Than bees that made 'em.</l>
+                  </lg>
+               </sp>
+               <sp who="#cal">
+                  <speaker>Caliban</speaker>
+                  <lg>
+                     <l part="F">I must eat my dinner.</l>
+                     <l>This island's mine, by Sycorax my mother,</l>
+                     <l>Which thou tak'st from me. When thou camest first,</l>
+                     <l>Thou strok'dst me, and mad'st much of me; wouldst give me</l>
+                     <l>Water with berries in 't; and teach me how</l>
+                     <l>To name the bigger light, and how the less,</l>
                   </lg>
                </sp>
             </div>
