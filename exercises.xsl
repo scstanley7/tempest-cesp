@@ -12,7 +12,7 @@
     <!--   maintains all existing line breaks -->
     <!--   renders all <hi> elements as italics -->
     <!--  * renders the cast list as an unordered html list -->
-    <!--    * make sure that any nested lists are also rendered as nested lists -->
+    <!--     make sure that any nested lists are also rendered as nested lists -->
     <!--    * you may need to do some creative things with role/roleDesc. I'm excited to see what you do :) -->
 
     <!-- Some things to remember: -->
@@ -76,10 +76,16 @@
         </ul>
 
     </xsl:template>
-    <xsl:template match="tei:role">
+    <xsl:template match="tei:castItem">
         <li>
             <xsl:apply-templates/>
         </li>
+    </xsl:template>
+    <xsl:template match="castGroup">
+        <ul>
+            <xsl:apply-templates/>
+        </ul>
+
     </xsl:template>
 
 </xsl:stylesheet>
