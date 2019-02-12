@@ -7,7 +7,6 @@
     <!--   render headings with whatever flavor of HTML head you so choose -->
     <!--   renders all stage directions aligned right -->
     <!--   makes speaker labels bold -->
-    <!--  * puts the first lines of speeches on the same line as the label -->
     <!--   aligns all page numbers right -->
     <!--   maintains all existing line breaks -->
     <!--   renders all <hi> elements as italics -->
@@ -30,7 +29,7 @@
             <head>
                 <title>The Tempest - Test</title>
             </head>
-            <xsl:apply-templates/>
+            <body><xsl:apply-templates/></body>
         </html>
     </xsl:template>
     <!--   render headings with whatever flavor of HTML head you so choose -->
@@ -39,9 +38,16 @@
             <xsl:apply-templates/>
         </h1>
     </xsl:template>
+    
+    <xsl:template match="tei:sp">
+        <div class="speech">
+            <xsl:apply-templates/>
+        </div>
+    </xsl:template>
+    
     <!--   renders all stage directions aligned right -->
     <xsl:template match="tei:stage">
-        <p syle="text-align: right;">
+        <p style="text-align: right;">
             <xsl:apply-templates/>
         </p>
     </xsl:template>
@@ -86,6 +92,12 @@
             <xsl:apply-templates/>
         </ul>
 
+    </xsl:template>
+    <xsl:template match="tei:l">
+        <p>
+            <xsl:apply-templates/>
+        </p>
+        
     </xsl:template>
 
 </xsl:stylesheet>
