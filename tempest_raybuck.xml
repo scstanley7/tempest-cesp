@@ -448,6 +448,9 @@
                   the passage above, <hi rend="slant(italic)">aches</hi>, and should be so
                   pronounced. </p>
             </note>
+            <note rend="pre(*)" xml:id="n039" target="#star005">
+               
+            </note>
          </div>
       </hyperDiv>
       <front>
@@ -1907,7 +1910,7 @@
                   <lg rend="slant(italic)">
                      <l n="560">Hark, hark! I hear</l>
                      <l n="561">The strain of strutting chanticleer</l>
-                     <l n="562">Cry, cock-a-doodle-doo.<anchor rend="pre(*)" xml:id="star007"
+                     <l n="562">Cry, cock-a-doodle-doo.<anchor rend="pre(*)" xml:id="star006"
                            corresp="#n040"/></l>
                   </lg>
                </sp>
@@ -1926,6 +1929,7 @@
                   </lg>
                </sp>
                <fw type="pageNum" rend="align(right)">15</fw>
+               
             </div>
             <!--scene 2 div-->
          </div>

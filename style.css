@@ -1,0 +1,16 @@
+body{
+    background-image: url("parchment.jpg");
+    
+}
+.container{
+    width: 800px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+h1, h2{
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+}
+p, ul, li{
+    font-family: 'Open Sans', sans-serif;
+}

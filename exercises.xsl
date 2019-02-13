@@ -32,6 +32,8 @@
             <body><xsl:apply-templates/></body>
         </html>
     </xsl:template>
+    
+    
     <!--   render headings with whatever flavor of HTML head you so choose -->
     <xsl:template match="tei:head">
         <h1>
