@@ -448,9 +448,31 @@
                   the passage above, <hi rend="slant(italic)">aches</hi>, and should be so
                   pronounced. </p>
             </note>
-            <note rend="pre(*)" xml:id="n039" target="#star005">
-               
+            <note rend="pre(ᵃ)" xml:id="n039">
+               <lg>
+                  <l>"Court'sied when you have and kiss'd,--</l>
+                  <l>The wild waves whist,--</l>
+                  <l>Foot it featly," &amp;c.]</l>
+               </lg>
+               <p>It was customary in the "good old times," for the partners in some dances to
+                  curtsy and salute before the beginning; and if an allusion to these ceremonies is
+                  intended, the line,--</p>
+               <lg>
+                  <l>"The wild waves whist,"--</l>
+               </lg>
+               <p>should be read parenthetically, in the sense of, the wild saves being hushed. The
+                  original punctuation, however,--</p>
+               <lg>
+                  <l>"Court'sied when you have, and kiss'd,</l>
+                  <l>The wild waves whist:"</l>
+               </lg>
+               <p>(when you have curtsied, and kissed the waves to peace) affords an intelligible
+                  and poetic meaning.</p>
             </note>
+            <note rend="pre((*))" xml:id="n040" target="#star005">
+               <p>Old text, <hi rend="slant(italic)">beaere the burthen.</hi></p>
+            </note>
+
          </div>
       </hyperDiv>
       <front>
@@ -1830,7 +1852,7 @@
                   <lg>
                      <l n="532">You taught me language; and my profit on't</l>
                      <l n="533">Is, I know how to curse. The red plague rid<anchor rend="pre(ᵈ)"
-                           xml:id="d005" corresp="#n036"/> you,</l>
+                           xml:id="d005" corresp="#n037"/> you,</l>
                      <l n="534" part="I">For learning me your language!</l>
                   </lg>
                </sp>
@@ -1843,7 +1865,7 @@
                      <l n="538">If thou neglect'st, or dost unwillingly</l>
                      <l n="539">What I command, I'll rack thee with old crampl,</l>
                      <l n="540">Fill all thy bones with aches,<anchor rend="pre(ᵉ)" xml:id="e004"
-                           corresp="#n037"/> make thee roar,</l>
+                           corresp="#n038"/> make thee roar,</l>
                      <l n="541" part="I">That beasts shall tremble at thy din.</l>
                   </lg>
                </sp>
@@ -1882,11 +1904,11 @@
                   <l n="550">Come unto these yellow sands,</l>
                   <l n="551">And then take hands:</l>
                   <l n="552">Court'sied when you have and kiss'd,--<anchor rend="pre(ᵃ)"
-                        xml:id="a011" corresp="#n038"/></l>
+                        xml:id="a011" corresp="#n039"/></l>
                   <l n="553">The wild wavse whist,--</l>
                   <l n="554">Foot it featly here and there;</l>
                   <l n="555">And, sweet sprites, the burden bear.<anchor rend="pre(*)"
-                        xml:id="star005" corresp="#n039"/></l>
+                        xml:id="star005" corresp="#n040"/></l>
                   <l n="556">Hark, hark!</l>
                </lg>
                <!--I do not know how to encode the burden people?-->
@@ -1911,7 +1933,7 @@
                      <l n="560">Hark, hark! I hear</l>
                      <l n="561">The strain of strutting chanticleer</l>
                      <l n="562">Cry, cock-a-doodle-doo.<anchor rend="pre(*)" xml:id="star006"
-                           corresp="#n040"/></l>
+                           corresp="#n041"/></l>
                   </lg>
                </sp>
                <sp who="#fer">
@@ -1929,7 +1951,146 @@
                   </lg>
                </sp>
                <fw type="pageNum" rend="align(right)">15</fw>
-               
+               <pb n="16"/>
+               <cb n="1"/>
+               <stage type="business"><persName>Ariel</persName>
+                  <hi rend="slant(italic)">sings</hi>.</stage>
+               <lg>
+                  <l>Full fathom five thy father lies;</l>
+                  <l>Of his bones are coral made;</l>
+                  <l>Those are pearls that were his eyes:</l>
+                  <l>Nothing of him that doth fade,</l>
+                  <l>But doth suffera sea-change</l>
+                  <l>Into something rich and strange</l>
+                  <l>Sea-nymphs hourly ring his knell:</l>
+               </lg>
+               <sp who="#burden">
+                  <speaker>Burden</speaker>
+                  <lg rend="slant(italic)">
+                     <l>Ding-dong.</l>
+                     <l>Hark! now I hear them,-- Ding-dong, bell.</l>
+                  </lg>
+               </sp>
+               <sp who="#fer">
+                  <speaker>Fer.</speaker>
+                  <lg>
+                     <l>The dity does remember my drown'd father:--</l>
+                     <l>This is no mortal business, nor no sound</l>
+                     <l>That the earth owes:-- I hear it now above me.</l>
+                  </lg>
+               </sp>
+               <sp who="#pro">
+                  <speaker>Pro.</speaker>
+                  <lg>
+                     <l>The fringed curtains of thine eye advance,</l>
+                     <l part="I">And say what thou seest yond.</l>
+                  </lg>
+               </sp>
+               <sp who="#mira">
+                  <speaker>Mira.</speaker>
+                  <lg>
+                     <l part="F">I might call him</l>
+                     <l>A thing divine; for nothing natural</l>
+                     <l part="I">I ever saw so noble.</l>
+                  </lg>
+               </sp>
+               <sp who="#pro">
+                  <speaker>Pro.</speaker>
+                  <lg>
+                     <l><stage type="delivery" rend="slant(italic)pre([)post(])">Aside</stage> It
+                        goes on, I see,</l>
+                     <l>As my soul prompts it.-- Spirit, fine spirit! I'll free thee</l>
+                     <l part="I">within two days for this.</l>
+                  </lg>
+               </sp>
+               <sp who="#fer">
+                  <speaker>Fer.</speaker>
+                  <lg>
+                     <l>Most sure, the goddess</l>
+                     <l>On whom these airs attend!-- Vouchsafe my prayer</l>
+                     <l>May know if you remain upon this island;</l>
+                     <l>And that you will some good instruction give</l>
+                     <l>How I may bear me here: my prime request,</l>
+                     <l>Which I do last pronounce, is,-- O you wonder!--</l>
+                     <l>If you be maid or no?</l>
+                  </lg>
+               </sp>
+               <sp who="#mira">
+                  <speaker>Mira.</speaker>
+                  <lg>
+                     <l part="F">No wonder, sir;</l>
+                     <l part="I">But certainly a maid.</l>
+                  </lg>
+               </sp>
+               <sp who="#fer">
+                  <speaker>Fer.</speaker>
+                  <lg>
+                     <l part="F">My language! heavens!--</l>
+                     <l>I am the best of them that speak this speech,</l>
+                     <l part="I">Were I but where 't is spoken.</l>
+                  </lg>
+               </sp>
+               <sp who="#pro">
+                  <speaker>Pro.</speaker>
+                  <lg>
+                     <l>How! the best?</l>
+                     <l>What weret thou, if the king of Naples heard thee?</l>
+                  </lg>
+               </sp>
+               <sp who="#fer">
+                  <speaker>Fer.</speaker>
+                  <lg>
+                     <l>A single thing, as I am now, that wonders</l>
+                     <l>to hear thee speak of Naples. He does hear me,</l>
+                     <l>And that he does I weep: myself am Naples;</l>
+                     <cb n="2"/>
+                     <l>Who with mine eyes, ne'er since at ebb, beheld</l>
+                     <l part="I">The king my father wreck'd</l>
+                  </lg>
+               </sp>
+               <sp who="#mira">
+                  <speaker>Mira.</speaker>
+                  <lg>
+                     <l part="F">Alack, for mercy!</l>
+                  </lg>
+               </sp>
+               <sp who="#fer">
+                  <speaker>Fer.</speaker>
+                  <lg>
+                     <l>Yes, faith, and all his lords; the duke of Milan</l>
+                     <l part="I">And his brave son, being twain.</l>
+                  </lg>
+               </sp>
+               <sp who="#pro">
+                  <speaker>Pro.</speaker>
+                  <lg>
+                     <l part="F"><stage type="delivery" rend="slant(italic)pre([)post(])"
+                           >Aside</stage> The duke of Milan</l>
+                     <l>And his more braver daughter, could control<anchor rend="pre(ᵃ)"
+                           xml:id="a012" corresp="#n041"/> thee,</l>
+                     <l>If now't were fit to do't.-- At the first sight</l>
+                     <l>They have chang'd eyes:-- delicate Ariel,</l>
+                     <l>I'll set thee free for this!-- A word, good sir;</l>
+                     <l>I fear you have done yourself some wrong: a word.</l>
+                  </lg>
+               </sp>
+               <sp who="#mira">
+                  <speaker>Mira.</speaker>
+                  <lg>
+                     <l>Why speaks my father so ungently? This</l>
+                     <l>Is the third man that e'er I saw; the first</l>
+                     <l>That e'er I sigh'd for: pity move my father</l>
+                     <l part="I">To be inclin'd my way!</l>
+                  </lg>
+               </sp>
+               <sp who="#fer">
+                  <speaker>Fer.</speaker>
+                  <lg>
+                     <l part="F">O, if a virgin,</l>
+                     <l>And your affections not gone forth, I'll make you</l>
+                     <l>The queen of Naples.</l>
+                  </lg>
+               </sp>
             </div>
             <!--scene 2 div-->
          </div>
