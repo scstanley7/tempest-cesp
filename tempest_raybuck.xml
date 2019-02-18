@@ -495,6 +495,17 @@
                <label rend="pre(--)post(])slant(italic)">-- thy ward;</label>
                <p>Thy posture of defence.</p>
             </note>
+            <note rend="pre(ᵃ)" xml:id="n045" target="#a012">
+               <label rend="post(--])"><hi rend="slant(italic)">The</hi> masters <hi
+                     rend="slant(italic)">of some merchant</hi>,</label>
+               <p>Capell reads, perhaps rightly, "The <hi rend="slant(italic)">master</hi>," &amp;c.; and Steevens conjectures we should print--
+               <lg>
+                  <l>"The mistress of some merchant,"</l>
+               </lg>
+                  <hi rend="slant(italic)">Mistress</hi> being anciently spelt, <hi rend="slant(italic)">maistresse</hi> or <hi rend="slant(italic)">maistress</hi>.
+               </p>
+            </note>
+            <note rend="pre(ᵇ)" xml:id="n046" target="#b009"/>
          </div>
       </hyperDiv>
       <front>
@@ -2276,7 +2287,8 @@
                <sp who="#pro">
                   <speaker>Pro.</speaker>
                   <lg>
-                     <l part="I"><stage><hi rend="slant(italic)pre([)post(])">To</hi>
+                     <l part="I"><stage type="delivery"><hi rend="slant(italic)pre([)post(])"
+                              >To</hi>
                            <persName>Ariel</persName></stage> Thou shalt be as free</l>
                      <l>As mountain winds: but then exactly do</l>
                      <l part="F">All points of my command.</l>
@@ -2329,7 +2341,8 @@
                      <l>So have we all-- of joy; for our escape</l>
                      <l>Is much beyond our loss. Our hint of woe</l>
                      <l>Is common; every day, some sailor's wife,</l>
-                     <l>The masters <anchor rend="pre(ᵃ)" xml:id="a013" corresp="#n045"></anchor>of some merchant, and the merchant,</l>
+                     <l>The masters <anchor rend="pre(ᵃ)" xml:id="a013" corresp="#n045"/>of some
+                        merchant, and the merchant,</l>
                      <l>Have just our theme of woe: but for the miracle,</l>
                      <l>I mean our preservation, few in millions</l>
                      <l>Can speak like us: then wisely, good sir, weigh</l>
@@ -2340,6 +2353,64 @@
                   <speaker>Alon.</speaker>
                   <lg>
                      <l part="F">Pr'ythee, peace.</l>
+                  </lg>
+               </sp>
+               <cb n="2"/>
+               <sp who="#seb">
+                  <speaker>Seb.</speaker>
+                  <lg>
+                     <l>He receives comfort like cold porridge.</l>
+                  </lg>
+               </sp>
+               <sp who="#ant">
+                  <speaker>Ant.</speaker>
+                  <lg>
+                     <l>The visitor will not give him o'er so.</l>
+                  </lg>
+               </sp>
+               <sp who="#seb">
+                  <speaker>Seb.</speaker>
+                  <lg>
+                     <l>Look, he's winding up the watch of his wit;</l>
+                     <l>By and by it will strike.</l>
+                  </lg>
+               </sp>
+               <sp who="#gon">
+                  <speaker>Gon.</speaker>
+                  <lg>
+                     <l>Sir,--</l>
+                  </lg>
+               </sp>
+               <sp who="#seb">
+                  <speaker>Seb.</speaker>
+                  <lg>
+                     <l>One:-- tell.</l>
+                  </lg>
+               </sp>
+               <sp who="#gon">
+                  <speaker>Gon.</speaker>
+                  <lg>
+                     <l>When every grief is entertain'd that's offer'd,</l>
+                     <l>Comes to the etnertainer--</l>
+                  </lg>
+               </sp>
+               <sp who="#seb">
+                  <speaker>Seb.</speaker>
+                  <lg>
+                     <l>A dollar.</l>
+                  </lg>
+               </sp>
+               <sp who="#gon">
+                  <speaker>Gon.</speaker>
+                  <lg>
+                     <l>Dolour<anchor rend="pre(ᵇ)" xml:id="b009" corresp="#n046"/> comes to him,
+                        indeed; you have spoken truer than you purposed</l>
+                  </lg>
+               </sp>
+               <sp who="#seb">
+                  <speaker>Seb.</speaker>
+                  <lg>
+                     <l>You have ta'en it wiselier than I meant you should.</l>
                   </lg>
                </sp>
             </div>
