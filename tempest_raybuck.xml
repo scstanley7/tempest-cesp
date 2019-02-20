@@ -498,19 +498,73 @@
             <note rend="pre(ᵃ)" xml:id="n045" target="#a045">
                <label rend="post(--])"><hi rend="slant(italic)">The</hi> masters <hi
                      rend="slant(italic)">of some merchant</hi>,</label>
-               <p>Capell reads, perhaps rightly, "The <hi rend="slant(italic)">master</hi>," &amp;c.; and Steevens conjectures we should print--
-               <lg>
-                  <l>"The mistress of some merchant,"</l>
-               </lg>
-                  <hi rend="slant(italic)">Mistress</hi> being anciently spelt, <hi rend="slant(italic)">maistresse</hi> or <hi rend="slant(italic)">maistress</hi>.
+               <p>Capell reads, perhaps rightly, "The <hi rend="slant(italic)">master</hi>,"
+                  &amp;c.; and Steevens conjectures we should print-- <lg>
+                     <l>"The mistress of some merchant,"</l>
+                  </lg>
+                  <hi rend="slant(italic)">Mistress</hi> being anciently spelt, <hi
+                     rend="slant(italic)">maistresse</hi> or <hi rend="slant(italic)"
+                  >maistress</hi>. </p>
+            </note>
+            <note rend="pre(ᵇ)" xml:id="n046" target="#a046">
+               <label rend="post(--])"><!--allow sp to be contained by label?-->
+                  <sp who="#seb">
+                     <speaker>Seb.</speaker>
+                     <lg>
+                        <l>A dollar.</l>
+                     </lg>
+                  </sp>
+                  <sp who="#gon">
+                     <speaker>Gon.</speaker>
+                     <lg>
+                        <l>Dolour</l>
+                     </lg>
+                  </sp>
+               </label>
+               <p>The same quibbly is found in "King Lear," Act II. Sc. 4, and in "Measure for
+                  Measure," Act I. Sc. 2.</p>
+            </note>
+            <note rend="pre(ᵃ)" xml:id="n047" target="#a047">
+               <label><hi rend="slant(italic)">Which,</hi> of he <hi rend="slant(italic)">or
+                     Adrian,</hi></label>
+               <p>So the old text, and rightly; compare the following from "Midsummer Night's
+                  Dream," Act III. Sc. 2:-- <lg>
+                     <l>"Now follow, if thou dar'st to try whose right,</l>
+                     <l><hi rend="slant(italic)">Of thine or mine,</hi> is most in Helena."</l>
+                  </lg> The usual reading is that adopted by Capell, "Which of <hi
+                     rend="slant(italic)">them</hi>, he or Adrian," &amp;c.; but Mr. Collier's
+                  annotator reads,-- <lg>
+                     <l>"Which, <hi rend="slant(italic)">or</hi> he or Adrian," &amp;c.</l>
+                  </lg>
                </p>
             </note>
-            <note rend="pre(ᵇ)" xml:id="n046" target="#a046"/>
+            <note rend="pre(ᵇ)" xml:id="n048" target="#a048">
+               <label rend="post(])">Ha, ha, ha! So, you're paid.</label>
+               <p>In the old copies, "So, you're paid," is given to Antonio, wrongly.</p>
+            </note>
+            <note rend="pre(ᶜ)" xml:id="n049" target="#a049">
+               <label rend="post(])">Temperance.</label>
+               <p>That is, <hi rend="slant(italic)">temperature</hi>.</p>
+            </note>
+            <note rend="pre(ᵈ)" xml:id="n050" target="#a050">
+               <label rend="post(--])">Lush</label>
+               <p><hi rend="slant(italic)">Succulent, juicy.</hi></p>
+            </note>
+            <note rend="pre(ᵉ)" xml:id="n051" target="#a051">
+               <label rend="pre(----)post(])">the miraculous harp.</label>
+               <p>The harp of Amphion.</p>
+            </note>
+            <note rend="pre(ᶠ)" xml:id="n052" target="#a052">
+               <label rend="post(])">Ay!</label>
+               <p>This sigh or exclamation, which the two next speeches show indisputably to have
+                  been uttered by the king, upon awaking from his trance of grief, has hitherto, in
+                  both old and modern editions, been assigned to Gonzalo.</p>
+            </note>
          </div>
       </hyperDiv>
       <front>
          <pb n="1"/>
-         <figure>
+         <figure xml:id="f001">
             <figDesc>
                <!--I have no clue whats going on in this illustration, it looks like a caveman is yelling at Jesus-->
             </figDesc>
@@ -666,7 +720,7 @@
          <pb n="5"/>
          <div type="act" n="1">
             <div type="scene" n="1">
-               <figure>
+               <figure xml:id="f002">
                   <figDesc><!--i really don't know enough about the Tempest to describe these man--></figDesc>
                </figure>
                <head type="act" rend="case(allcaps)">Act I.</head>
@@ -886,7 +940,7 @@
                      <l n="107">The sky, it seems, would pour down like stinking pitch,</l>
                      <fw type="pageNum" rend="align(left)">6</fw>
                      <pb n="7"/>
-                     <figure>
+                     <figure xml:id="f003">
                         <figDesc><!--bruh--></figDesc>
                      </figure>
                      <cb n="1"/>
@@ -1164,8 +1218,8 @@
                      <l n="229">Absolute Milan. Me, poor man! my library</l>
                      <l n="230">Was dukedom large enough; of temporal royalties</l>
                      <l n="231">He thinks me now incapable; confederates</l>
-                     <l n="232">(So dry he was for sway) with the<anchor rend="pre(*)"
-                           xml:id="a013" corresp="#n013"/> king of Naples,</l>
+                     <l n="232">(So dry he was for sway) with the<anchor rend="pre(*)" xml:id="a013"
+                           corresp="#n013"/> king of Naples,</l>
                      <l n="233">To give him annual tribute, do him homage;</l>
                      <l n="234">Subject his coronet to his crown, and bend</l>
                      <l n="235">The dukedom, yet unbow'd, alas, poor Milan!</l>
@@ -1309,7 +1363,7 @@
                </sp>
                <fw type="pageNum" rend="align(right)">9</fw>
                <pb n="10"/>
-               <figure>
+               <figure xml:id="f004">
                   <figDesc><!--I'm like 90% sure this is supposed to be Prospero and Miranda adrift at sea with the island barely in view on the horizon?--></figDesc>
                </figure>
                <cb n="1"/>
@@ -1396,7 +1450,7 @@
                </sp>
                <fw type="pageNum" rend="align(left)">10</fw>
                <pb n="11"/>
-               <figure>
+               <figure xml:id="f005">
                   <figDesc>A man standing on a bat in flight is pictured holding a long length of
                      cloth that is flowing above his head and wrapped around him from his waist to
                      his knees.</figDesc>
@@ -1500,7 +1554,7 @@
                </sp>
                <fw type="pageNum" rend="align(right)">11</fw>
                <pb n="12"/>
-               <figure>
+               <figure xml:id="f006">
                   <figDesc><!--what--></figDesc>
                </figure>
                <cb n="1"/>
@@ -1831,7 +1885,7 @@
                      <l n="508">For I am all teh subjects that you have,</l>
                      <fw type="pageNum" rend="align(right)">13</fw>
                      <pb n="14"/>
-                     <figure>
+                     <figure xml:id="f007">
                         <figDesc>Caliban emerging from a cave, he is incredibly ugly and hunched
                            over with long, mangy hair and an evil look in his eye.</figDesc>
                      </figure>
@@ -1904,7 +1958,7 @@
                </sp>
                <fw type="pageNum" rend="align(left)">14</fw>
                <pb n="15"/>
-               <figure>
+               <figure xml:id="f008">
                   <figDesc>Ferdinand, elegantly clothed, is walking over a rocky area while
                      marvelling at four cherubs and Ariel flying around him.</figDesc>
                </figure>
@@ -1940,8 +1994,8 @@
                         xml:id="a039" corresp="#n039"/></l>
                   <l n="553">The wild wavse whist,--</l>
                   <l n="554">Foot it featly here and there;</l>
-                  <l n="555">And, sweet sprites, the burden bear.<anchor rend="pre(*)"
-                        xml:id="a040" corresp="#n040"/></l>
+                  <l n="555">And, sweet sprites, the burden bear.<anchor rend="pre(*)" xml:id="a040"
+                        corresp="#n040"/></l>
                   <l n="556">Hark, hark!</l>
                </lg>
                <!--I do not know how to encode the burden people?-->
@@ -2307,7 +2361,7 @@
                   </lg>
                </sp>
                <stage type="exit" rend="slant(italic)pre([)align(right)">Exeunt.</stage>
-               <figure>
+               <figure xml:id="f009">
                   <figDesc>A sketched drawing of Prospero looking out at an angle towards the
                      reader. He has his long hair back in a headband and a long scruffy
                      beard.</figDesc>
@@ -2320,7 +2374,7 @@
          <!--act 1 div-->
          <div type="act" n="2">
             <div type="scene" n="1">
-               <figure>
+               <figure xml:id="f010">
                   <figDesc><!--idk a bunch of sassy dudebros in a forest--></figDesc>
                </figure>
                <head type="act" rend="case(allcaps)">Act II.</head>
@@ -2396,21 +2450,299 @@
                </sp>
                <sp who="#seb">
                   <speaker>Seb.</speaker>
-                  <lg>
-                     <l>A dollar.</l>
-                  </lg>
+                  <p>A dollar.</p>
                </sp>
                <sp who="#gon">
                   <speaker>Gon.</speaker>
-                  <lg>
-                     <l>Dolour<anchor rend="pre(ᵇ)" xml:id="a046" corresp="#n046"/> comes to him,
-                        indeed; you have spoken truer than you purposed</l>
-                  </lg>
+                  <p>Dolour<anchor rend="pre(ᵇ)" xml:id="a046" corresp="#n046"/> comes to him,
+                     indeed; you have spoken truer than you purposed</p>
                </sp>
                <sp who="#seb">
                   <speaker>Seb.</speaker>
+                  <p>You have ta'en it wiselier than I meant you should.</p>
+               </sp>
+               <fw type="pageNum" rend="align(left)">18</fw>
+               <pb n="19"/>
+               <cb n="1"/>
+               <sp who="#gon">
+                  <speaker>Gon.</speaker>
+                  <p>Therefore, my lord,--</p>
+               </sp>
+               <sp who="#ant">
+                  <speaker>Ant.</speaker>
+                  <p>Fie, what a spendthrift is he of his tongue!</p>
+               </sp>
+               <sp who="#alon">
+                  <speaker>Alon.</speaker>
+                  <p>I pr'ythee spare.</p>
+               </sp>
+               <sp who="#gon">
+                  <speaker>Gon.</speaker>
+                  <p>Well, I have done: but yet--</p>
+               </sp>
+               <sp who="#seb">
+                  <speaker>Seb.</speaker>
+                  <p>He will be talking.</p>
+               </sp>
+               <sp who="#ant">
+                  <speaker>Ant.</speaker>
+                  <p>Which, of he<anchor rend="pre(ᵃ)" xml:id="a047" corresp="#n047"/> or Adrian,
+                     for a good wager, first begins to crow?</p>
+               </sp>
+               <sp who="#seb">
+                  <speaker>Seb.</speaker>
+                  <p>The old cock.</p>
+               </sp>
+               <sp who="#ant">
+                  <speaker>Ant.</speaker>
+                  <p>The cockrel.</p>
+               </sp>
+               <sp who="#seb">
+                  <speaker>Seb.</speaker>
+                  <p>Done: the wager?</p>
+               </sp>
+               <sp who="#ant">
+                  <speaker>Ant.</speaker>
+                  <p>A laughter.</p>
+               </sp>
+               <sp who="#seb">
+                  <speaker>Seb.</speaker>
+                  <p>A match!</p>
+               </sp>
+               <sp who="#adr">
+                  <speaker>Adr.</speaker>
+                  <p>Though this island seem to be desert,--</p>
+               </sp>
+               <sp who="#seb">
+                  <speaker>Seb.</speaker>
+                  <p>Ha, ha, ha! So, you're paid.<anchor rend="pre(ᵇ)" xml:id="a048" corresp="#n048"
+                     /></p>
+               </sp>
+               <sp who="#adr">
+                  <speaker>Adr.</speaker>
+                  <p>Uninhabitable, and almost inaccessible,--</p>
+               </sp>
+               <sp who="#seb">
+                  <speaker>Seb.</speaker>
+                  <p>Yet,--</p>
+               </sp>
+               <sp who="#adr">
+                  <speaker>Adr.</speaker>
+                  <p>Yet,--</p>
+               </sp>
+               <sp who="#ant">
+                  <speaker>Ant.</speaker>
+                  <p>He could not miss it.</p>
+               </sp>
+               <sp who="#adr">
+                  <speaker>Adr.</speaker>
+                  <p>It must needs be of subtle, tender, and delicate temperance.<anchor
+                        rend="pre(ᶜ)" xml:id="a049" corresp="#n049"/></p>
+               </sp>
+               <sp who="#ant">
+                  <speaker>Ant.</speaker>
+                  <p><hi rend="slant(italic)">Temperance</hi> was a delicate wench.</p>
+               </sp>
+               <sp who="#seb">
+                  <speaker>Seb.</speaker>
+                  <p>Ay, and a subtle; as he most learnedly delivered.</p>
+               </sp>
+               <sp who="#adr">
+                  <speaker>Adr.</speaker>
+                  <p>The air breathes upon us here most sweetly.</p>
+               </sp>
+               <sp who="#seb">
+                  <speaker>Seb.</speaker>
+                  <p>As if it had lungs, and rotten ones.</p>
+               </sp>
+               <sp who="#ant">
+                  <speaker>Ant.</speaker>
+                  <p>Or as 't were perfumed by a fen.</p>
+               </sp>
+               <sp who="#gon">
+                  <speaker>Gon.</speaker>
+                  <p>Here is everything advantageous to life.</p>
+               </sp>
+               <sp who="#ant">
+                  <speaker>Ant.</speaker>
+                  <p>True; save means to live.</p>
+               </sp>
+               <sp who="#seb">
+                  <speaker>Seb.</speaker>
+                  <p>Of that there's none, or little.</p>
+               </sp>
+               <sp who="#gon">
+                  <speaker>Gon.</speaker>
+                  <p>How lush<anchor rend="pre(ᵈ)" xml:id="a050" corresp="#n050"/> and lusty the
+                     grass looks! how green!</p>
+               </sp>
+               <sp who="#ant">
+                  <speaker>Ant.</speaker>
+                  <p>The ground, indeed, is tawny.</p>
+               </sp>
+               <sp who="#seb">
+                  <speaker>Seb.</speaker>
+                  <p>With an eye of green in 't.</p>
+               </sp>
+               <sp who="#ant">
+                  <speaker>Ant.</speaker>
+                  <p>He misses not much.</p>
+               </sp>
+               <sp who="#seb">
+                  <speaker>Seb.</speaker>
+                  <p>No; he doth but mistake the truth totally.</p>
+               </sp>
+               <sp who="#gon">
+                  <speaker>Gon.</speaker>
+                  <p>But the rarity of it is-- which is indeed almost beyond credit--</p>
+               </sp>
+               <sp who="#seb">
+                  <speaker>Seb.</speaker>
+                  <p>As many vouched rarities are.</p>
+               </sp>
+               <sp who="#gon">
+                  <speaker>Gon.</speaker>
+                  <p>That our garments, being, as they were, drenched in the sea, hold,
+                     notwithstanding, their freshness and glosses; being rather new dyed than
+                     stained with salt water.</p>
+               </sp>
+               <sp who="#ant">
+                  <speaker>Ant.</speaker>
+                  <p>If by one of his pockets could speak, would it not say, he lies?</p>
+               </sp>
+               <sp who="#seb">
+                  <speaker>Seb.</speaker>
+                  <p>Ay, or very falsely pocket up his report.</p>
+               </sp>
+               <sp who="#gon">
+                  <speaker>Gon.</speaker>
+                  <p>Methinks our farments are now as fresh as when we put them on first in Afric,
+                     at the marriage of hte king's fair daughter Claribel to the king of Tunis.</p>
+               </sp>
+               <cb n="2"/>
+               <sp who="#seb">
+                  <speaker>Seb.</speaker>
+                  <p>'Twas a sweet marriage, and we prosper well in our return.</p>
+               </sp>
+               <sp who="#adr">
+                  <speaker>Adr.</speaker>
+                  <p>Tunis was never graced before with such a paragon to their queen.</p>
+               </sp>
+               <sp who="#gon">
+                  <speaker>Gon.</speaker>
+                  <p>Not since widow Dido's time.</p>
+               </sp>
+               <sp who="#ant">
+                  <speaker>Ant.</speaker>
+                  <p>Widow? a pox o' that! How came that widow in? Widow Dido!</p>
+               </sp>
+               <sp who="#seb">
+                  <speaker>Seb.</speaker>
+                  <p>What if he had said, widower Æneas too? good lord, how you take it!</p>
+               </sp>
+               <sp who="#adr">
+                  <speaker>Adr.</speaker>
+                  <p>Widow Dido, said you? you make me study of that: she was of Carthage, not of
+                     Tunis.</p>
+               </sp>
+               <sp who="#gon">
+                  <speaker>Gon.</speaker>
+                  <p>This Tunis, sir, was Carthage.</p>
+               </sp>
+               <sp who="#adr">
+                  <speaker>Adr.</speaker>
+                  <p>Carthage?</p>
+               </sp>
+               <sp who="#gon">
+                  <speaker>Gon.</speaker>
+                  <p>I assure you, Carthage.</p>
+               </sp>
+               <sp who="#ant">
+                  <speaker>Ant.</speaker>
+                  <p>His word is more than the miraculous harp. <anchor rend="pre(ᵉ)" xml:id="a051"
+                        corresp="#n051"/></p>
+               </sp>
+               <sp who="#seb">
+                  <speaker>Seb.</speaker>
+                  <p>He hath raised the wall, and houses too.</p>
+               </sp>
+               <sp who="#ant">
+                  <speaker>Ant.</speaker>
+                  <p>What impossible matter will he make easy next?</p>
+               </sp>
+               <sp who="#seb">
+                  <speaker>Seb</speaker>
+                  <p>I think he will carry this island home in his pocket, and give it his son for
+                     an apple.</p>
+               </sp>
+               <sp who="#ant">
+                  <speaker>Ant.</speaker>
+                  <p>And, sowing the kernels of it in the sea, bring forth more islands.</p>
+               </sp>
+               <sp who="#alo">
+                  <speaker>Alon.</speaker>
+                  <p>Ay!<anchor rend="pre(ᶠ)" xml:id="a052" corresp="#n052"/></p>
+               </sp>
+               <sp who="#ant">
+                  <speaker>Ant.</speaker>
+                  <p>Why, in good time.</p>
+               </sp>
+               <sp who="#gon">
+                  <speaker>Gon.</speaker>
+                  <p>Sir, we were talking that our garments seem now as fresh as when we were at
+                     Tunis at the marriage of your daughter, who is now queen.</p>
+               </sp>
+               <sp who="#ant">
+                  <speaker>Ant.</speaker>
+                  <p>And the rarest that e'er came there.</p>
+               </sp>
+               <sp who="#seb">
+                  <speaker>Seb.</speaker>
+                  <p>Bate, I beseech you, widow Dido.</p>
+               </sp>
+               <sp who="#ant">
+                  <speaker>Ant.</speaker>
+                  <p>O, widow Dido! ay, widow Dido.</p>
+               </sp>
+               <sp who="#gon">
+                  <speaker>Gon.</speaker>
+                  <p>Is not, sir, my doublet as fresh as the first day I wore it? I mean, in a
+                     sort.</p>
+               </sp>
+               <sp who="#ant">
+                  <speaker>Ant.</speaker>
+                  <p>That sort was well fish'd for.</p>
+               </sp>
+               <sp who="#gon">
+                  <speaker>Gon.</speaker>
+                  <p>When I wore it at your daughter's marriage?</p>
+               </sp>
+               <sp who="#alo">
+                  <speaker>Alon.</speaker>
                   <lg>
-                     <l>You have ta'en it wiselier than I meant you should.</l>
+                     <l>You cram these words into mine ears against</l>
+                     <l>The stomach of my sense. Would I had never</l>
+                     <l>My son is lost; and, in my rate, she too,</l>
+                     <l>Who is so far from Italy removed,</l>
+                     <l>I ne'er again shall see her. O thou mine heir</l>
+                     <l>Of Naples and of Milan, what strange fish</l>
+                     <l part="I">Hath made his meal on thee?</l>
+                  </lg>
+               </sp>
+               <sp who="#fran">
+                  <speaker>Fran.</speaker>
+                  <lg>
+                     <l part="F">Sir, he may live;</l>
+                     <l>I saw him beat the surges under him,</l>
+                     <l>And ride upon their backs; he trod the water,</l>
+                     <l>Whose enmity he flung aside, and breasted</l>
+                     <l>The surge most swoln that met him; his bold head</l>
+                     <l>'Bove the contentious waves he kept, and oar'd</l>
+                     <l>Himself with his good arms in lusty stroke</l>
+                     <fw type="pageNum" rend="align(left)">19</fw>
+                     <fw type="signature" rend="align(right)">c 2</fw>
+                     <pb n="20"></pb>
+                     <cb n="1"></cb>
                   </lg>
                </sp>
             </div>
