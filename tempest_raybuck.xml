@@ -560,6 +560,28 @@
                   been uttered by the king, upon awaking from his trance of grief, has hitherto, in
                   both old and modern editions, been assigned to Gonzalo.</p>
             </note>
+            <note rend="pre(ᵃ)" xml:id="n053" target="#a053">
+               <label><hi rend="post(])slant(italic)">Which end o' the beam </hi>she'd <hi
+                     rend="slant(italic)">bow</hi></label>
+               <p>So Malone. The old text has, --
+               <lg>
+                  <l>"Which end o' the beame <hi rend="slant(italic)">should</hi> bow."</l>
+               </lg>
+                  For which Capell substituted,--
+                  <lg>
+                     <l>"Which end the beam should bow."</l>
+                  </lg>
+                  And Mr. Collier's annotator changes the "at" of the previous line to <hi rend="slant(italic)">as</hi>,--
+                  <lg>
+                     <l rend="indent(3)">"-- as</l>
+                     <l>Which end," &amp;c.</l>
+                  </lg>
+               </p>
+            </note>
+            <note rend="pre(ᵇ)" xml:id="n054" target="#a054">
+               <label rend="post(--])">Foizon,</label>
+               <p rend="slant(italic)">Abundance, plenty.</p>
+            </note>
          </div>
       </hyperDiv>
       <front>
@@ -2741,10 +2763,302 @@
                      <l>Himself with his good arms in lusty stroke</l>
                      <fw type="pageNum" rend="align(left)">19</fw>
                      <fw type="signature" rend="align(right)">c 2</fw>
-                     <pb n="20"></pb>
-                     <cb n="1"></cb>
+                     <pb n="20"/>
+                     <cb n="1"/>
+                     <l>To the shore, that o'er his wave-worn basis bow'd,</l>
+                     <l>As stooping to relieve him; I not doubt</l>
+                     <l part="I">He came alive to land.</l>
                   </lg>
                </sp>
+               <sp who="#alo">
+                  <speaker>Alon.</speaker>
+                  <lg>
+                     <l part="F">No, no, he's gone.</l>
+                  </lg>
+               </sp>
+               <sp who="#seb">
+                  <speaker>Seb.</speaker>
+                  <lg>
+                     <l>Sir, you may thank yourself for this great loss,</l>
+                     <l>That would not bless our Europe with your daughter,</l>
+                     <l>But rather lose her to an African;</l>
+                     <l>Where she, at least, is banish'd from your eye,</l>
+                     <l part="I">Who hath cause to we the grief on't.</l>
+                  </lg>
+               </sp>
+               <sp who="#alo">
+                  <speaker>Alon.</speaker>
+                  <lg>
+                     <l part="F">Pr'ythee, peace.</l>
+                  </lg>
+               </sp>
+               <sp who="#seb">
+                  <speaker>Seb.</speaker>
+                  <lg>
+                     <l>You were knell'd to, and importun'd otherwise,</l>
+                     <l>By all of us; and the fair soul herself</l>
+                     <l>Weigh'd, between lothness and obedience, at</l>
+                     <l>Which end o' the beam she'd<anchor rend="pre(ᵃ)" xml:id="a053"
+                           corresp="#n053"/> bow. We had lost your son,</l>
+                     <l>I fear, for ever. Milan and Naples have</l>
+                     <l>More widows in them of this business' making,</l>
+                     <l>Than we bring men to comfort them:</l>
+                     <l>The fault's your own</l>
+                  </lg>
+               </sp>
+               <sp who="#alo">
+                  <speaker>Alon.</speaker>
+                  <lg>
+                     <l part="I">So is the dear'st o' the loss.</l>
+                  </lg>
+               </sp>
+               <sp who="#gon">
+                  <speaker>Gon.</speaker>
+                  <lg>
+                     <l part="F">My lord Sebastian,</l>
+                     <l>The truth you speak doth lack some gentleness,</l>
+                     <l>And time to speak in it; you rub the sore,</l>
+                     <l part="I">When you should bring the plaster.</l>
+                  </lg>
+               </sp>
+               <sp who="#seb">
+                  <speaker>Seb.</speaker>
+                  <lg>
+                     <l part="F">Very well.</l>
+                  </lg>
+               </sp>
+               <sp who="#ant">
+                  <speaker>Ant.</speaker>
+                  <lg>
+                     <l>And most chirurgeonly.</l>
+                  </lg>
+               </sp>
+               <sp who="#gon">
+                  <speaker>Gon.</speaker>
+                  <lg>
+                     <l>It is foul weather in us all, good sir,</l>
+                     <l part="I">When you are cloudy.</l>
+                  </lg>
+               </sp>
+               <sp who="#seb">
+                  <speaker>Seb.</speaker>
+                  <lg>
+                     <l rend="slant(italics)" part="M">Foul weather!</l>
+                  </lg>
+               </sp>
+               <sp who="#ant">
+                  <speaker>Ant.</speaker>
+                  <lg>
+                     <l>Very foul.</l>
+                  </lg>
+               </sp>
+               <sp who="#gon">
+                  <speaker>Gon.</speaker>
+                  <lg>
+                     <l>Had I plantation of this isle, my lord,--</l>
+                  </lg>
+               </sp>
+               <sp who="#ant">
+                  <speaker>Ant.</speaker>
+                  <lg>
+                     <l part="I">He'd sow't with nettle-seed.</l>
+                  </lg>
+               </sp>
+               <sp who="#seb">
+                  <speaker>Seb.</speaker>
+                  <lg>
+                     <l part="F">Or docks, or mallows.</l>
+                  </lg>
+               </sp>
+               <sp who="#gon">
+                  <speaker>Gon.</speaker>
+                  <lg>
+                     <l>--And were the king on't, what would I do?</l>
+                  </lg>
+               </sp>
+               <sp who="#seb">
+                  <speaker>Seb.</speaker>
+                  <lg>
+                     <l>'Scape being drunk, for want of wine.</l>
+                  </lg>
+               </sp>
+               <sp who="#gon">
+                  <speaker>Gon.</speaker>
+                  <lg>
+                     <l>I' the commonwealth I would by contraries</l>
+                     <l>Execute all things; for no kind of traffic</l>
+                     <l>Would I admit; no name of magistrate;</l>
+                     <l>Letters should not be known: riches, poverty,</l>
+                     <l>And use of service, none: contract, succession,</l>
+                     <l>Bourn, bound of land, tilth, vineyard, none;</l>
+                     <l>No use of metal, corn, or wine, or oil;</l>
+                     <l>No occupation; all men idle, all;</l>
+                     <l>And women too,-- but innocent and pure;</l>
+                     <l part="I">No sovereignty:--</l>
+                  </lg>
+               </sp>
+               <sp who="#seb">
+                  <speaker>Seb.</speaker>
+                  <lg>
+                     <l part="F">Yet he would be king on't.</l>
+                  </lg>
+               </sp>
+               <sp who="#ant">
+                  <speaker>Ant.</speaker>
+                  <lg>
+                     <l>The latter end of his commonwealth forgets the beginning.</l>
+                  </lg>
+               </sp>
+               <sp who="#gon">
+                  <speaker>Gon.</speaker>
+                  <lg>
+                     <l>All things in commmon nature should produce,</l>
+                     <cb n="1"/>
+                     <l>Without sweat or endeavour: treason, felony,</l>
+                     <l>Sword, pike, knife, fun, or need of any engine,</l>
+                     <l>Would I not have; but nature should bring forth,</l>
+                     <l>Of it own kind, all foizon,<anchor rend="pre(ᵇ)" xml:id="a054"
+                           corresp="#n054"/> all abundance,</l>
+                     <l>To feed my innocent people. (1)</l>
+                     <!--ILLUSTRATIVE COMMENT-->
+                  </lg>
+               </sp>
+               <sp who="#seb">
+                  <speaker>Seb.</speaker>
+                  <lg>
+                     <l>No marrying 'moung his subjects?</l>
+                  </lg>
+               </sp>
+               <sp who="#ant">
+                  <speaker>Ant.</speaker>
+                  <lg>
+                     <l>None, man; all idle,-- whores and knaves.</l>
+                  </lg>
+               </sp>
+               <sp who="#gon">
+                  <speaker>Gon.</speaker>
+                  <lg>
+                     <l>I would with such perfection govern, sir,</l>
+                     <l part="I">To excel the golden age.</l>
+                  </lg>
+               </sp>
+               <sp who="#seb">
+                  <speaker>Seb.</speaker>
+                  <lg>
+                     <l part="F">Save his majesty!</l>
+                  </lg>
+               </sp>
+               <sp who="#ant">
+                  <speaker>Ant.</speaker>
+                  <lg>
+                     <l>Long live Gonzalo!</l>
+                  </lg>
+               </sp>
+               <sp who="#gon">
+                  <speaker>Gon.</speaker>
+                  <lg>
+                     <l>And, do you mark me, sir?--</l>
+                  </lg>
+               </sp>
+               <sp who="#alo">
+                  <speaker>Alon.</speaker>
+                  <lg>
+                     <l>Pr'ythee, no more: thou dost talk nothing to me.</l>
+                  </lg>
+               </sp>
+               <sp who="#gon">
+                  <speaker>Gon.</speaker>
+                  <p>I do well believe your highness; and did it to minster occasion to these
+                     gentlemen, who are of such sensible and nimble lungs that they always use to
+                     laugh at nothing.</p>
+               </sp>
+               <sp who="#ant">
+                  <speaker>Ant.</speaker>
+                  <p>'Twas you we laugh'd at.</p>
+               </sp>
+               <sp who="#gon">
+                  <speaker>Gon.</speaker>
+                  <p>Who, in this kind of merry fooling, am nothing to you: so you may continue, and
+                     laugh at nothing still.</p>
+               </sp>
+               <sp who="#ant">
+                  <speaker>Ant.</speaker>
+                  <p>What a blow was there given!</p>
+               </sp>
+               <sp who="#seb">
+                  <speaker>Seb.</speaker>
+                  <p>An it had not fallen flat-long.</p>
+               </sp>
+               <sp who="#gon">
+                  <speaker>Gon.</speaker>
+                  <p>You are gentlemen of brave mettle; you would lift the moon out of her sphere,
+                     if she would continue in it five weeks without changing.</p>
+               </sp>
+               <stage rend="slant(italic)align(center)" type="mixed">Enter
+                     <persName>Ariel</persName>, invisible, solemn Music playing.</stage>
+               <sp who="#seb">
+                  <speaker>Seb.</speaker>
+                  <p>We would so, and then go a bat-fowling.(2)</p>
+                  <!--Illustrative comment-->
+               </sp>
+               <sp who="#ant">
+                  <speaker>Ant.</speaker>
+                  <p>Nay, good my lord, be not angry.</p>
+               </sp>
+               <sp who="#gon">
+                  <speaker>Gon.</speaker>
+                  <p>No, I warrant you; I will not adventure my discretion so weakly. Will you laugh
+                     me asleep, for I am very heavy?</p>
+               </sp>
+               <sp who="#ant">
+                  <speaker>Ant.</speaker>
+                  <p>Go sleep, and hear us.</p>
+               </sp>
+               <stage type="business" rend="slant(italic)align(right)pre([)">All sleep but
+                     <persName>Alon.</persName>, <persName>Seb.</persName>, and
+                     <persName>Ant.</persName></stage>
+               <sp who="#alo">
+                  <speaker>Alon.</speaker>
+                  <lg>
+                     <l>What, all so soon asleep! I wish mine eyes</l>
+                     <l>Would, with themselves, shut up my thoughts: I find</l>
+                     <l part="I">They are inclin'd to do so.</l>
+                  </lg>
+               </sp>
+               <sp who="#seb">
+                  <speaker>Seb.</speaker>
+                  <lg>
+                     <l part="F">Please you, sir,</l>
+                     <l>Do not omit the heavy offer of it:</l>
+                     <l>It seldom visits sorrow; when it doth,</l>
+                     <l part="I">It is a comforter.</l>
+                  </lg>
+               </sp>
+               <sp who="#ant">
+                  <speaker>Ant.</speaker>
+                  <lg>
+                     <l part="F">We two, my lord,</l>
+                     <l>Will guard your person while you take your rest,</l>
+                     <l part="I">And watch your safety.</l>
+                  </lg>
+               </sp>
+               <sp who="#alo">
+                  <speaker>Alon.</speaker>
+                  <lg>
+                     <l part="F">Thank you.-- Wondrous heavy.</l>
+                  </lg>
+               </sp>
+               <stage type="mixed" rend="align(right)slant(italic)pre([)"><persName>Alon.</persName>
+                  sleeps. Exit <persName>Ariel</persName></stage>
+               <sp who="#seb">
+                  <speaker>Seb.</speaker>
+                  <lg>
+                     <l>What a strange drowsiness possesses them!</l>
+                  </lg>
+               </sp>
+               <fw type="pageNum" rend="align(left)">20</fw>
+               <pb n="21"/>
+               <cb n="1"/>
             </div>
          </div>
       </body>
