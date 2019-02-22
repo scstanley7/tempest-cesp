@@ -3059,6 +3059,33 @@
                <fw type="pageNum" rend="align(left)">20</fw>
                <pb n="21"/>
                <cb n="1"/>
+               <sp who="#ant">
+                  <speaker>Ant.</speaker>
+                  <lg>
+                     <l part="I">It is the quality o' the climate.</l>
+                  </lg>
+               </sp>
+               <sp who="#seb">
+                  <speaker>Seb.</speaker>
+                  <lg>
+                     <l part="F">Why</l>
+                     <l>Doth it not, then, our eyelids sink? I find not</l>
+                     <l part="I">Myself dispos'd to sleep.</l>
+                  </lg>
+               </sp>
+               <sp who="#ant">
+                  <speaker>Ant.</speaker>
+                  <lg>
+                     <l part="F">Nor I; my spirits are nimble.</l>
+                     <l>They fell together all, as by consent;</l>
+                     <l>They dropp'd, as by a thunder-stroke. What might,</l>
+                     <l>Worthy Sebastian-- O, what might-- no more:-- </l>
+                     <l>And yet methinks I see it in thy face,</l>
+                     <l>What thou shouldst be: the occasion speaks thee; and</l>
+                     <l>My strong imagination sees a crown</l>
+                     <l>Dropping upon thy head.</l>
+                  </lg>
+               </sp>
             </div>
          </div>
       </body>
