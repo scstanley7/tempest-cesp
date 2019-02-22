@@ -2744,316 +2744,316 @@
                   <lg>
                      <l n="785">You cram these words into mine ears against</l>
                      <l n="786">The stomach of my sense. Would I had never</l>
-                     <l>My son is lost; and, in my rate, she too,</l>
-                     <l>Who is so far from Italy removed,</l>
-                     <l>I ne'er again shall see her. O thou mine heir</l>
-                     <l>Of Naples and of Milan, what strange fish</l>
-                     <l part="I">Hath made his meal on thee?</l>
+                     <l n="787">My son is lost; and, in my rate, she too,</l>
+                     <l n="788">Who is so far from Italy removed,</l>
+                     <l n="789">I ne'er again shall see her. O thou mine heir</l>
+                     <l n="790">Of Naples and of Milan, what strange fish</l>
+                     <l n="791" part="I">Hath made his meal on thee?</l>
                   </lg>
                </sp>
                <sp who="#fran">
                   <speaker>Fran.</speaker>
                   <lg>
-                     <l part="F">Sir, he may live;</l>
-                     <l>I saw him beat the surges under him,</l>
-                     <l>And ride upon their backs; he trod the water,</l>
-                     <l>Whose enmity he flung aside, and breasted</l>
-                     <l>The surge most swoln that met him; his bold head</l>
-                     <l>'Bove the contentious waves he kept, and oar'd</l>
-                     <l>Himself with his good arms in lusty stroke</l>
+                     <l n="792" part="F">Sir, he may live;</l>
+                     <l n="793">I saw him beat the surges under him,</l>
+                     <l n="794">And ride upon their backs; he trod the water,</l>
+                     <l n="795">Whose enmity he flung aside, and breasted</l>
+                     <l n="796">The surge most swoln that met him; his bold head</l>
+                     <l n="797">'Bove the contentious waves he kept, and oar'd</l>
+                     <l n="798">Himself with his good arms in lusty stroke</l>
                      <fw type="pageNum" rend="align(left)">19</fw>
                      <fw type="signature" rend="align(right)">c 2</fw>
                      <pb n="20"/>
                      <cb n="1"/>
-                     <l>To the shore, that o'er his wave-worn basis bow'd,</l>
-                     <l>As stooping to relieve him; I not doubt</l>
-                     <l part="I">He came alive to land.</l>
+                     <l n="799">To the shore, that o'er his wave-worn basis bow'd,</l>
+                     <l n="800">As stooping to relieve him; I not doubt</l>
+                     <l n="801" part="I">He came alive to land.</l>
                   </lg>
                </sp>
                <sp who="#alo">
                   <speaker>Alon.</speaker>
                   <lg>
-                     <l part="F">No, no, he's gone.</l>
+                     <l n="802" part="F">No, no, he's gone.</l>
                   </lg>
                </sp>
                <sp who="#seb">
                   <speaker>Seb.</speaker>
                   <lg>
-                     <l>Sir, you may thank yourself for this great loss,</l>
-                     <l>That would not bless our Europe with your daughter,</l>
-                     <l>But rather lose her to an African;</l>
-                     <l>Where she, at least, is banish'd from your eye,</l>
-                     <l part="I">Who hath cause to we the grief on't.</l>
+                     <l n="803">Sir, you may thank yourself for this great loss,</l>
+                     <l n="804">That would not bless our Europe with your daughter,</l>
+                     <l n="805">But rather lose her to an African;</l>
+                     <l n="806">Where she, at least, is banish'd from your eye,</l>
+                     <l n="807" part="I">Who hath cause to we the grief on't.</l>
                   </lg>
                </sp>
                <sp who="#alo">
                   <speaker>Alon.</speaker>
                   <lg>
-                     <l part="F">Pr'ythee, peace.</l>
+                     <l n="808" part="F">Pr'ythee, peace.</l>
                   </lg>
                </sp>
                <sp who="#seb">
                   <speaker>Seb.</speaker>
                   <lg>
-                     <l>You were knell'd to, and importun'd otherwise,</l>
-                     <l>By all of us; and the fair soul herself</l>
-                     <l>Weigh'd, between lothness and obedience, at</l>
-                     <l>Which end o' the beam she'd<anchor rend="pre(ᵃ)" xml:id="a053"
+                     <l n="809">You were knell'd to, and importun'd otherwise,</l>
+                     <l n="810">By all of us; and the fair soul herself</l>
+                     <l n="811">Weigh'd, between lothness and obedience, at</l>
+                     <l n="812">Which end o' the beam she'd<anchor rend="pre(ᵃ)" xml:id="a053"
                            corresp="#n053"/> bow. We had lost your son,</l>
-                     <l>I fear, for ever. Milan and Naples have</l>
-                     <l>More widows in them of this business' making,</l>
-                     <l>Than we bring men to comfort them:</l>
-                     <l>The fault's your own</l>
+                     <l n="813">I fear, for ever. Milan and Naples have</l>
+                     <l n="814">More widows in them of this business' making,</l>
+                     <l n="815">Than we bring men to comfort them:</l>
+                     <l n="816">The fault's your own</l>
                   </lg>
                </sp>
                <sp who="#alo">
                   <speaker>Alon.</speaker>
                   <lg>
-                     <l part="I">So is the dear'st o' the loss.</l>
+                     <l n="817" part="I">So is the dear'st o' the loss.</l>
                   </lg>
                </sp>
                <sp who="#gon">
                   <speaker>Gon.</speaker>
                   <lg>
-                     <l part="F">My lord Sebastian,</l>
-                     <l>The truth you speak doth lack some gentleness,</l>
-                     <l>And time to speak in it; you rub the sore,</l>
-                     <l part="I">When you should bring the plaster.</l>
+                     <l n="818" part="F">My lord Sebastian,</l>
+                     <l n="819">The truth you speak doth lack some gentleness,</l>
+                     <l n="820">And time to speak in it; you rub the sore,</l>
+                     <l n="821" part="I">When you should bring the plaster.</l>
                   </lg>
                </sp>
                <sp who="#seb">
                   <speaker>Seb.</speaker>
                   <lg>
-                     <l part="F">Very well.</l>
+                     <l n="822" part="F">Very well.</l>
                   </lg>
                </sp>
                <sp who="#ant">
                   <speaker>Ant.</speaker>
                   <lg>
-                     <l>And most chirurgeonly.</l>
+                     <l n="823">And most chirurgeonly.</l>
                   </lg>
                </sp>
                <sp who="#gon">
                   <speaker>Gon.</speaker>
                   <lg>
-                     <l>It is foul weather in us all, good sir,</l>
-                     <l part="I">When you are cloudy.</l>
+                     <l n="824">It is foul weather in us all, good sir,</l>
+                     <l n="825" part="I">When you are cloudy.</l>
                   </lg>
                </sp>
                <sp who="#seb">
                   <speaker>Seb.</speaker>
                   <lg>
-                     <l rend="slant(italics)" part="M">Foul weather!</l>
+                     <l n="826" rend="slant(italics)" part="M">Foul weather!</l>
                   </lg>
                </sp>
                <sp who="#ant">
                   <speaker>Ant.</speaker>
                   <lg>
-                     <l>Very foul.</l>
+                     <l n="827">Very foul.</l>
                   </lg>
                </sp>
                <sp who="#gon">
                   <speaker>Gon.</speaker>
                   <lg>
-                     <l>Had I plantation of this isle, my lord,--</l>
+                     <l n="828">Had I plantation of this isle, my lord,--</l>
                   </lg>
                </sp>
                <sp who="#ant">
                   <speaker>Ant.</speaker>
                   <lg>
-                     <l part="I">He'd sow't with nettle-seed.</l>
+                     <l n="829" part="I">He'd sow't with nettle-seed.</l>
                   </lg>
                </sp>
                <sp who="#seb">
                   <speaker>Seb.</speaker>
                   <lg>
-                     <l part="F">Or docks, or mallows.</l>
+                     <l n="830" part="F">Or docks, or mallows.</l>
                   </lg>
                </sp>
                <sp who="#gon">
                   <speaker>Gon.</speaker>
                   <lg>
-                     <l>--And were the king on't, what would I do?</l>
+                     <l n="831">--And were the king on't, what would I do?</l>
                   </lg>
                </sp>
                <sp who="#seb">
                   <speaker>Seb.</speaker>
                   <lg>
-                     <l>'Scape being drunk, for want of wine.</l>
+                     <l n="832">'Scape being drunk, for want of wine.</l>
                   </lg>
                </sp>
                <sp who="#gon">
                   <speaker>Gon.</speaker>
                   <lg>
-                     <l>I' the commonwealth I would by contraries</l>
-                     <l>Execute all things; for no kind of traffic</l>
-                     <l>Would I admit; no name of magistrate;</l>
-                     <l>Letters should not be known: riches, poverty,</l>
-                     <l>And use of service, none: contract, succession,</l>
-                     <l>Bourn, bound of land, tilth, vineyard, none;</l>
-                     <l>No use of metal, corn, or wine, or oil;</l>
-                     <l>No occupation; all men idle, all;</l>
-                     <l>And women too,-- but innocent and pure;</l>
-                     <l part="I">No sovereignty:--</l>
+                     <l n="833">I' the commonwealth I would by contraries</l>
+                     <l n="834">Execute all things; for no kind of traffic</l>
+                     <l n="835">Would I admit; no name of magistrate;</l>
+                     <l n="836">Letters should not be known: riches, poverty,</l>
+                     <l n="837">And use of service, none: contract, succession,</l>
+                     <l n="838">Bourn, bound of land, tilth, vineyard, none;</l>
+                     <l n="839">No use of metal, corn, or wine, or oil;</l>
+                     <l n="840">No occupation; all men idle, all;</l>
+                     <l n="841">And women too,-- but innocent and pure;</l>
+                     <l n="842" part="I">No sovereignty:--</l>
                   </lg>
                </sp>
                <sp who="#seb">
                   <speaker>Seb.</speaker>
                   <lg>
-                     <l part="F">Yet he would be king on't.</l>
+                     <l n="843" part="F">Yet he would be king on't.</l>
                   </lg>
                </sp>
                <sp who="#ant">
                   <speaker>Ant.</speaker>
                   <lg>
-                     <l>The latter end of his commonwealth forgets the beginning.</l>
+                     <l n="844">The latter end of his commonwealth forgets the beginning.</l>
                   </lg>
                </sp>
                <sp who="#gon">
                   <speaker>Gon.</speaker>
                   <lg>
-                     <l>All things in commmon nature should produce,</l>
+                     <l n="845">All things in commmon nature should produce,</l>
                      <cb n="1"/>
-                     <l>Without sweat or endeavour: treason, felony,</l>
-                     <l>Sword, pike, knife, fun, or need of any engine,</l>
-                     <l>Would I not have; but nature should bring forth,</l>
-                     <l>Of it own kind, all foizon,<anchor rend="pre(ᵇ)" xml:id="a054"
+                     <l n="846">Without sweat or endeavour: treason, felony,</l>
+                     <l n="847">Sword, pike, knife, fun, or need of any engine,</l>
+                     <l n="848">Would I not have; but nature should bring forth,</l>
+                     <l n="849">Of it own kind, all foizon,<anchor rend="pre(ᵇ)" xml:id="a054"
                            corresp="#n054"/> all abundance,</l>
-                     <l>To feed my innocent people. (1)</l>
+                     <l n="850">To feed my innocent people. (1)</l>
                      <!--ILLUSTRATIVE COMMENT-->
                   </lg>
                </sp>
                <sp who="#seb">
                   <speaker>Seb.</speaker>
                   <lg>
-                     <l>No marrying 'moung his subjects?</l>
+                     <l n="851">No marrying 'moung his subjects?</l>
                   </lg>
                </sp>
                <sp who="#ant">
                   <speaker>Ant.</speaker>
                   <lg>
-                     <l>None, man; all idle,-- whores and knaves.</l>
+                     <l n="852">None, man; all idle,-- whores and knaves.</l>
                   </lg>
                </sp>
                <sp who="#gon">
                   <speaker>Gon.</speaker>
                   <lg>
-                     <l>I would with such perfection govern, sir,</l>
-                     <l part="I">To excel the golden age.</l>
+                     <l n="853">I would with such perfection govern, sir,</l>
+                     <l n="854" part="I">To excel the golden age.</l>
                   </lg>
                </sp>
                <sp who="#seb">
                   <speaker>Seb.</speaker>
                   <lg>
-                     <l part="F">Save his majesty!</l>
+                     <l n="855" part="F">Save his majesty!</l>
                   </lg>
                </sp>
                <sp who="#ant">
                   <speaker>Ant.</speaker>
                   <lg>
-                     <l>Long live Gonzalo!</l>
+                     <l n="856">Long live Gonzalo!</l>
                   </lg>
                </sp>
                <sp who="#gon">
                   <speaker>Gon.</speaker>
                   <lg>
-                     <l>And, do you mark me, sir?--</l>
+                     <l n="857">And, do you mark me, sir?--</l>
                   </lg>
                </sp>
                <sp who="#alo">
                   <speaker>Alon.</speaker>
                   <lg>
-                     <l>Pr'ythee, no more: thou dost talk nothing to me.</l>
+                     <l n="858">Pr'ythee, no more: thou dost talk nothing to me.</l>
                   </lg>
                </sp>
                <sp who="#gon">
                   <speaker>Gon.</speaker>
-                  <p>I do well believe your highness; and did it to minster occasion to these
+                  <p><s n="859">I do well believe your highness; and did it to minster occasion to these
                      gentlemen, who are of such sensible and nimble lungs that they always use to
-                     laugh at nothing.</p>
+                     laugh at nothing.</s></p>
                </sp>
                <sp who="#ant">
                   <speaker>Ant.</speaker>
-                  <p>'Twas you we laugh'd at.</p>
+                  <p><s n="860">'Twas you we laugh'd at.</s></p>
                </sp>
                <sp who="#gon">
                   <speaker>Gon.</speaker>
-                  <p>Who, in this kind of merry fooling, am nothing to you: so you may continue, and
-                     laugh at nothing still.</p>
+                  <p><s n="861">Who, in this kind of merry fooling, am nothing to you: so you may continue, and
+                     laugh at nothing still.</s></p>
                </sp>
                <sp who="#ant">
                   <speaker>Ant.</speaker>
-                  <p>What a blow was there given!</p>
+                  <p><s n="862">What a blow was there given!</s></p>
                </sp>
                <sp who="#seb">
                   <speaker>Seb.</speaker>
-                  <p>An it had not fallen flat-long.</p>
+                  <p><s n="863">An it had not fallen flat-long.</s></p>
                </sp>
                <sp who="#gon">
                   <speaker>Gon.</speaker>
-                  <p>You are gentlemen of brave mettle; you would lift the moon out of her sphere,
-                     if she would continue in it five weeks without changing.</p>
+                  <p><s n="864">You are gentlemen of brave mettle; you would lift the moon out of her sphere,
+                     if she would continue in it five weeks without changing.</s></p>
                </sp>
-               <stage rend="slant(italic)align(center)" type="mixed">Enter
+               <stage n="865" rend="slant(italic)align(center)" type="mixed">Enter
                      <persName>Ariel</persName>, invisible, solemn Music playing.</stage>
                <sp who="#seb">
                   <speaker>Seb.</speaker>
-                  <p>We would so, and then go a bat-fowling.(2)</p>
+                  <p><s n="867">We would so, and then go a bat-fowling.(2)</s></p>
                   <!--Illustrative comment-->
                </sp>
                <sp who="#ant">
                   <speaker>Ant.</speaker>
-                  <p>Nay, good my lord, be not angry.</p>
+                  <p><s n="868">Nay, good my lord, be not angry.</s></p>
                </sp>
                <sp who="#gon">
                   <speaker>Gon.</speaker>
-                  <p>No, I warrant you; I will not adventure my discretion so weakly. Will you laugh
-                     me asleep, for I am very heavy?</p>
+                  <p><s n="869">No, I warrant you; I will not adventure my discretion so weakly. </s><s n="870">Will you laugh
+                     me asleep, for I am very heavy?</s></p>
                </sp>
                <sp who="#ant">
                   <speaker>Ant.</speaker>
-                  <p>Go sleep, and hear us.</p>
+                  <p><s n="871">Go sleep, and hear us.</s></p>
                </sp>
-               <stage type="business" rend="slant(italic)align(right)pre([)">All sleep but
+               <stage n="872" type="business" rend="slant(italic)align(right)pre([)">All sleep but
                      <persName>Alon.</persName>, <persName>Seb.</persName>, and
                      <persName>Ant.</persName></stage>
                <sp who="#alo">
                   <speaker>Alon.</speaker>
                   <lg>
-                     <l>What, all so soon asleep! I wish mine eyes</l>
-                     <l>Would, with themselves, shut up my thoughts: I find</l>
-                     <l part="I">They are inclin'd to do so.</l>
+                     <l n="873">What, all so soon asleep! I wish mine eyes</l>
+                     <l n="874">Would, with themselves, shut up my thoughts: I find</l>
+                     <l n="875" part="I">They are inclin'd to do so.</l>
                   </lg>
                </sp>
                <sp who="#seb">
                   <speaker>Seb.</speaker>
                   <lg>
-                     <l part="F">Please you, sir,</l>
-                     <l>Do not omit the heavy offer of it:</l>
-                     <l>It seldom visits sorrow; when it doth,</l>
-                     <l part="I">It is a comforter.</l>
+                     <l n="876" part="F">Please you, sir,</l>
+                     <l n="877">Do not omit the heavy offer of it:</l>
+                     <l n="878">It seldom visits sorrow; when it doth,</l>
+                     <l n="879" part="I">It is a comforter.</l>
                   </lg>
                </sp>
                <sp who="#ant">
                   <speaker>Ant.</speaker>
                   <lg>
-                     <l part="F">We two, my lord,</l>
-                     <l>Will guard your person while you take your rest,</l>
-                     <l part="I">And watch your safety.</l>
+                     <l n="880" part="F">We two, my lord,</l>
+                     <l n="881">Will guard your person while you take your rest,</l>
+                     <l n="882" part="I">And watch your safety.</l>
                   </lg>
                </sp>
                <sp who="#alo">
                   <speaker>Alon.</speaker>
                   <lg>
-                     <l part="F">Thank you.-- Wondrous heavy.</l>
+                     <l n="883" part="F">Thank you.-- Wondrous heavy.</l>
                   </lg>
                </sp>
-               <stage type="mixed" rend="align(right)slant(italic)pre([)"><persName>Alon.</persName>
+               <stage n="884" type="mixed" rend="align(right)slant(italic)pre([)"><persName>Alon.</persName>
                   sleeps. Exit <persName>Ariel</persName></stage>
                <sp who="#seb">
                   <speaker>Seb.</speaker>
                   <lg>
-                     <l>What a strange drowsiness possesses them!</l>
+                     <l n="885">What a strange drowsiness possesses them!</l>
                   </lg>
                </sp>
                <fw type="pageNum" rend="align(left)">20</fw>
