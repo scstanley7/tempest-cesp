@@ -2062,291 +2062,291 @@
                <fw type="pageNum" rend="align(right)">15</fw>
                <pb n="16"/>
                <cb n="1"/>
-               <stage type="business"><persName>Ariel</persName>
+               <stage type="business" n="572"><persName>Ariel</persName>
                   <hi rend="slant(italic)">sings</hi>.</stage>
                <lg>
-                  <l>Full fathom five thy father lies;</l>
-                  <l>Of his bones are coral made;</l>
-                  <l>Those are pearls that were his eyes:</l>
-                  <l>Nothing of him that doth fade,</l>
-                  <l>But doth suffera sea-change</l>
-                  <l>Into something rich and strange</l>
-                  <l>Sea-nymphs hourly ring his knell:</l>
+                  <l n="573">Full fathom five thy father lies;</l>
+                  <l n="574">Of his bones are coral made;</l>
+                  <l n="575">Those are pearls that were his eyes:</l>
+                  <l n="576">Nothing of him that doth fade,</l>
+                  <l n="577">But doth suffera sea-change</l>
+                  <l n="578">Into something rich and strange</l>
+                  <l n="579">Sea-nymphs hourly ring his knell:</l>
                </lg>
                <sp who="#burden">
                   <speaker>Burden</speaker>
                   <lg rend="slant(italic)">
-                     <l>Ding-dong.</l>
-                     <l>Hark! now I hear them,-- Ding-dong, bell.</l>
+                     <l n="580">Ding-dong.</l>
+                     <l n="581">Hark! now I hear them,-- Ding-dong, bell.</l>
                   </lg>
                </sp>
                <sp who="#fer">
                   <speaker>Fer.</speaker>
                   <lg>
-                     <l>The dity does remember my drown'd father:--</l>
-                     <l>This is no mortal business, nor no sound</l>
-                     <l>That the earth owes:-- I hear it now above me.</l>
+                     <l n="582">The dity does remember my drown'd father:--</l>
+                     <l n="583">This is no mortal business, nor no sound</l>
+                     <l n="584">That the earth owes:-- I hear it now above me.</l>
                   </lg>
                </sp>
                <sp who="#pro">
                   <speaker>Pro.</speaker>
                   <lg>
-                     <l>The fringed curtains of thine eye advance,</l>
-                     <l part="I">And say what thou seest yond.</l>
+                     <l n="585">The fringed curtains of thine eye advance,</l>
+                     <l n="586" part="I">And say what thou seest yond.</l>
                   </lg>
                </sp>
                <sp who="#mira">
                   <speaker>Mira.</speaker>
                   <lg>
-                     <l part="F">I might call him</l>
-                     <l>A thing divine; for nothing natural</l>
-                     <l part="I">I ever saw so noble.</l>
+                     <l n="587" part="F">I might call him</l>
+                     <l n="588">A thing divine; for nothing natural</l>
+                     <l n="589" part="I">I ever saw so noble.</l>
                   </lg>
                </sp>
                <sp who="#pro">
                   <speaker>Pro.</speaker>
                   <lg>
-                     <l><stage type="delivery" rend="slant(italic)pre([)post(])">Aside</stage> It
+                     <l n="590"><stage type="delivery" rend="slant(italic)pre([)post(])">Aside</stage> It
                         goes on, I see,</l>
-                     <l>As my soul prompts it.-- Spirit, fine spirit! I'll free thee</l>
-                     <l part="I">within two days for this.</l>
+                     <l n="591">As my soul prompts it.-- Spirit, fine spirit! I'll free thee</l>
+                     <l n="592" part="I">within two days for this.</l>
                   </lg>
                </sp>
                <sp who="#fer">
                   <speaker>Fer.</speaker>
                   <lg>
-                     <l>Most sure, the goddess</l>
-                     <l>On whom these airs attend!-- Vouchsafe my prayer</l>
-                     <l>May know if you remain upon this island;</l>
-                     <l>And that you will some good instruction give</l>
-                     <l>How I may bear me here: my prime request,</l>
-                     <l>Which I do last pronounce, is,-- O you wonder!--</l>
-                     <l>If you be maid or no?</l>
+                     <l n="593" >Most sure, the goddess</l>
+                     <l n="594" >On whom these airs attend!-- Vouchsafe my prayer</l>
+                     <l n="595" >May know if you remain upon this island;</l>
+                     <l n="596" >And that you will some good instruction give</l>
+                     <l n="597" >How I may bear me here: my prime request,</l>
+                     <l n="598">Which I do last pronounce, is,-- O you wonder!--</l>
+                     <l n="599" >If you be maid or no?</l>
                   </lg>
                </sp>
                <sp who="#mira">
                   <speaker>Mira.</speaker>
                   <lg>
-                     <l part="F">No wonder, sir;</l>
-                     <l part="I">But certainly a maid.</l>
+                     <l n="600" part="F">No wonder, sir;</l>
+                     <l n="601" part="I">But certainly a maid.</l>
                   </lg>
                </sp>
                <sp who="#fer">
                   <speaker>Fer.</speaker>
                   <lg>
-                     <l part="F">My language! heavens!--</l>
-                     <l>I am the best of them that speak this speech,</l>
-                     <l part="I">Were I but where 't is spoken.</l>
+                     <l n="602" part="F">My language! heavens!--</l>
+                     <l n="603" >I am the best of them that speak this speech,</l>
+                     <l n="604" part="I">Were I but where 't is spoken.</l>
                   </lg>
                </sp>
                <sp who="#pro">
                   <speaker>Pro.</speaker>
                   <lg>
-                     <l>How! the best?</l>
-                     <l>What weret thou, if the king of Naples heard thee?</l>
+                     <l n="605">How! the best?</l>
+                     <l n="606">What weret thou, if the king of Naples heard thee?</l>
                   </lg>
                </sp>
                <sp who="#fer">
                   <speaker>Fer.</speaker>
                   <lg>
-                     <l>A single thing, as I am now, that wonders</l>
-                     <l>to hear thee speak of Naples. He does hear me,</l>
-                     <l>And that he does I weep: myself am Naples;</l>
+                     <l n="607">A single thing, as I am now, that wonders</l>
+                     <l n="608">to hear thee speak of Naples. He does hear me,</l>
+                     <l n="609">And that he does I weep: myself am Naples;</l>
                      <cb n="2"/>
-                     <l>Who with mine eyes, ne'er since at ebb, beheld</l>
-                     <l part="I">The king my father wreck'd</l>
+                     <l n="610">Who with mine eyes, ne'er since at ebb, beheld</l>
+                     <l n="611" part="I">The king my father wreck'd</l>
                   </lg>
                </sp>
                <sp who="#mira">
                   <speaker>Mira.</speaker>
                   <lg>
-                     <l part="F">Alack, for mercy!</l>
+                     <l n="612" part="F">Alack, for mercy!</l>
                   </lg>
                </sp>
                <sp who="#fer">
                   <speaker>Fer.</speaker>
                   <lg>
-                     <l>Yes, faith, and all his lords; the duke of Milan</l>
-                     <l part="I">And his brave son, being twain.</l>
+                     <l n="613">Yes, faith, and all his lords; the duke of Milan</l>
+                     <l n="614" part="I">And his brave son, being twain.</l>
                   </lg>
                </sp>
                <sp who="#pro">
                   <speaker>Pro.</speaker>
                   <lg>
-                     <l part="F"><stage type="delivery" rend="slant(italic)pre([)post(])"
+                     <l n="615" part="F"><stage type="delivery" rend="slant(italic)pre([)post(])"
                            >Aside</stage> The duke of Milan</l>
-                     <l>And his more braver daughter, could control<anchor rend="pre(ᵃ)"
+                     <l n="616">And his more braver daughter, could control<anchor rend="pre(ᵃ)"
                            xml:id="a042" corresp="#n042"/> thee,</l>
-                     <l>If now't were fit to do't.-- At the first sight</l>
-                     <l>They have chang'd eyes:-- delicate Ariel,</l>
-                     <l>I'll set thee free for this!-- A word, good sir;</l>
-                     <l>I fear you have done yourself some wrong: a word.</l>
+                     <l n="617">If now't were fit to do't.-- At the first sight</l>
+                     <l n="618">They have chang'd eyes:-- delicate Ariel,</l>
+                     <l n="619">I'll set thee free for this!-- A word, good sir;</l>
+                     <l n="620">I fear you have done yourself some wrong: a word.</l>
                   </lg>
                </sp>
                <sp who="#mira">
                   <speaker>Mira.</speaker>
                   <lg>
-                     <l>Why speaks my father so ungently? This</l>
-                     <l>Is the third man that e'er I saw; the first</l>
-                     <l>That e'er I sigh'd for: pity move my father</l>
-                     <l part="I">To be inclin'd my way!</l>
+                     <l n="621">Why speaks my father so ungently? This</l>
+                     <l n="622">Is the third man that e'er I saw; the first</l>
+                     <l n="623">That e'er I sigh'd for: pity move my father</l>
+                     <l n="624" part="I">To be inclin'd my way!</l>
                   </lg>
                </sp>
                <sp who="#fer">
                   <speaker>Fer.</speaker>
                   <lg>
-                     <l part="F">O, if a virgin,</l>
-                     <l>And your affections not gone forth, I'll make you</l>
-                     <l part="I">The queen of Naples.</l>
+                     <l n="625" part="F">O, if a virgin,</l>
+                     <l n="626" >And your affections not gone forth, I'll make you</l>
+                     <l n="627" part="I">The queen of Naples.</l>
                   </lg>
                </sp>
                <sp who="#pro">
                   <speaker>Pro.</speaker>
                   <lg>
-                     <l>Soft, sir! one word more.--</l>
-                     <l><stage type="delivery" rend="pre([)post(])slant(italic)">Aside</stage> They
+                     <l n="628">Soft, sir! one word more.--</l>
+                     <l n="629"><stage type="delivery" rend="pre([)post(])slant(italic)">Aside</stage> They
                         are both in either's powers; but this swift business</l>
-                     <l>I must uneasy make, lest too light winning</l>
-                     <l>Make the prize light.-- One word more; I charge thee</l>
-                     <l>That thou attend me: thou dost here usurp</l>
-                     <l>The name thou ow'st not; and hast put thyself</l>
-                     <l>Upon this island as a spy, to win it</l>
-                     <l part="I">From me, the lord on 't.</l>
+                     <l n="630">I must uneasy make, lest too light winning</l>
+                     <l n="631">Make the prize light.-- One word more; I charge thee</l>
+                     <l n="632">That thou attend me: thou dost here usurp</l>
+                     <l n="633">The name thou ow'st not; and hast put thyself</l>
+                     <l n="634">Upon this island as a spy, to win it</l>
+                     <l n="635" part="I">From me, the lord on 't.</l>
                   </lg>
                </sp>
                <sp who="#fer">
                   <speaker>Fer.</speaker>
                   <lg>
-                     <l part="F">No, as I am a man.</l>
+                     <l n="636" part="F">No, as I am a man.</l>
                   </lg>
                </sp>
                <sp who="#mira">
                   <speaker>Mira.</speaker>
                   <lg>
-                     <l>Theres nothing ill can dwell in such a temple:</l>
-                     <l>If the ill spirit have so fair a house,</l>
-                     <l part="I">Good things will strive to dwell with 't.</l>
+                     <l n="637">Theres nothing ill can dwell in such a temple:</l>
+                     <l n="638">If the ill spirit have so fair a house,</l>
+                     <l n="639" part="I">Good things will strive to dwell with 't.</l>
                   </lg>
                </sp>
                <sp who="#pro">
                   <speaker>Pro.</speaker>
                   <lg>
-                     <l part="F">Follow me.--<stage type="delivery" rend="pre([)align(right)"><hi
+                     <l n="640" part="F">Follow me.--<stage type="delivery" rend="pre([)align(right)"><hi
                               rend="slant(italic)">To </hi><persName>Fer</persName></stage></l>
-                     <l>Speak not you for him; he's a traitor.-- Come,</l>
-                     <l>I'll manacle thy neck and feet together:</l>
-                     <l>Sea-water shalt thou drink; thy food shall be</l>
-                     <l>the fresh-brook muscles, wither'd roots, and husks</l>
-                     <l part="I">Wherein the acorn cradled. Follow.</l>
+                     <l n="641">Speak not you for him; he's a traitor.-- Come,</l>
+                     <l n="642">I'll manacle thy neck and feet together:</l>
+                     <l n="643">Sea-water shalt thou drink; thy food shall be</l>
+                     <l n="644">the fresh-brook muscles, wither'd roots, and husks</l>
+                     <l n="645" part="I">Wherein the acorn cradled. Follow.</l>
                   </lg>
                </sp>
                <sp who="#fer">
                   <speaker>Fer.</speaker>
                   <lg>
-                     <l part="F">No,</l>
-                     <l>I will resist such entertainment, till</l>
-                     <l part="I">Mine enemy has more power.</l>
+                     <l n="646" part="F">No,</l>
+                     <l n="647">I will resist such entertainment, till</l>
+                     <l n="648" part="I">Mine enemy has more power.</l>
                   </lg>
                </sp>
-               <stage type="business" rend="pre([)slant(italic)">Draws, and is charmed from
+               <stage n="649" type="business" rend="pre([)slant(italic)">Draws, and is charmed from
                   moving.</stage>
                <sp who="#mira">
                   <speaker>Mira.</speaker>
                   <lg>
-                     <l part="F">O dear father,</l>
-                     <l>Make not too rash a trial of him, for</l>
-                     <l part="I">He's gentle, and not fearful.<anchor rend="pre(ᵇ)" xml:id="a043"
+                     <l n="650" part="F">O dear father,</l>
+                     <l n="651" >Make not too rash a trial of him, for</l>
+                     <l n="652" part="I">He's gentle, and not fearful.<anchor rend="pre(ᵇ)" xml:id="a043"
                            corresp="#n043"/></l>
                   </lg>
                </sp>
                <sp who="#pro">
                   <speaker>Pro.</speaker>
                   <lg>
-                     <l>What! I say,</l>
-                     <l>My foot my tutor!-- Put thy sword up, traitor;</l>
-                     <l>Who mak'st a show, but dar'st not strike, thy conscience</l>
-                     <l>Is so possess'd with guilt: come from thy ward;<anchor rend="pre(ᶜ)"
+                     <l n="653">What! I say,</l>
+                     <l n="654">My foot my tutor!-- Put thy sword up, traitor;</l>
+                     <l n="655">Who mak'st a show, but dar'st not strike, thy conscience</l>
+                     <l n="656">Is so possess'd with guilt: come from thy ward;<anchor rend="pre(ᶜ)"
                            xml:id="a044" corresp="#n044"/></l>
                      <fw type="pageNum" rend="align(left)">16</fw>
                      <pb n="17"/>
                      <cb n="1"/>
-                     <l>For I can here disarm thee with this stick,</l>
-                     <l part="I">And make thy weapon drop.</l>
+                     <l n="657">For I can here disarm thee with this stick,</l>
+                     <l n="658" part="I">And make thy weapon drop.</l>
                   </lg>
                </sp>
                <sp who="#mira">
                   <speaker>Mira.</speaker>
                   <lg>
-                     <l part="F">Beseech you, father!--</l>
+                     <l n="659" part="F">Beseech you, father!--</l>
                   </lg>
                </sp>
                <sp who="#pro">
                   <speaker/>
                   <lg>
-                     <l part="I">Hence; hang not on my garments.</l>
+                     <l n="660" part="I">Hence; hang not on my garments.</l>
                   </lg>
                </sp>
                <sp who="#mira">
                   <speaker>Mira.</speaker>
                   <lg>
-                     <l part="F">Sir, have pity;</l>
-                     <l part="I">I'll be his surety.</l>
+                     <l n="661" part="F">Sir, have pity;</l>
+                     <l n="662" part="I">I'll be his surety.</l>
                   </lg>
                </sp>
                <sp who="#pro">
                   <speaker>Pro.</speaker>
                   <lg>
-                     <l part="F">Silece! one word more</l>
-                     <l>Shall make me chide thee, if not hate thee. What!</l>
-                     <l>An advocate for an imposter! hush!</l>
-                     <l>Thou think'st there are no more such shapes as he,</l>
-                     <l>Having seen but him and Caliban: foolish wench!</l>
-                     <l>To the most of men this is a Caliban,</l>
-                     <l part="I">And they to him are angels.</l>
+                     <l n="663" part="F">Silece! one word more</l>
+                     <l n="664">Shall make me chide thee, if not hate thee. What!</l>
+                     <l n="665">An advocate for an imposter! hush!</l>
+                     <l n="666">Thou think'st there are no more such shapes as he,</l>
+                     <l n="667">Having seen but him and Caliban: foolish wench!</l>
+                     <l n="668">To the most of men this is a Caliban,</l>
+                     <l n="669" part="I">And they to him are angels.</l>
                   </lg>
                </sp>
                <sp who="#mira">
                   <speaker>Mira.</speaker>
                   <lg>
-                     <l part="F">My affections</l>
-                     <l>Are then most humble; I have no ambition</l>
-                     <l part="I">To see a goodlier man.</l>
+                     <l n="670" part="F">My affections</l>
+                     <l n="671">Are then most humble; I have no ambition</l>
+                     <l n="672" part="I">To see a goodlier man.</l>
                   </lg>
                </sp>
                <sp who="#pro">
                   <speaker>Pro.</speaker>
                   <lg>
-                     <l part="F">Come on: obey: <stage type="delivery" rend="pre([)"><hi
+                     <l n="673" part="F">Come on: obey: <stage type="delivery" rend="pre([)"><hi
                               rend="slant(italic)align(right)">To</hi>
                            <persName>Fer.</persName></stage></l>
-                     <l>Thy nerves are in their infancy again,</l>
-                     <l part="I">And have no vigour in them.</l>
+                     <l n="674">Thy nerves are in their infancy again,</l>
+                     <l n="675" part="I">And have no vigour in them.</l>
                   </lg>
                </sp>
                <sp who="#fer">
                   <speaker>Fer.</speaker>
                   <lg>
-                     <l part="F">So they are:</l>
-                     <l>My spirits, as in a dream, are all bound up.</l>
+                     <l n="676" part="F">So they are:</l>
+                     <l n="677">My spirits, as in a dream, are all bound up.</l>
                      <cb n="2"/>
-                     <l>My father's loss, the weakness which I feel,</l>
-                     <l>The wreck of all my friends, nor this man's threats,</l>
-                     <l>To whom I am subdued, are but light to me,</l>
-                     <l>Might I but through my prison once a day</l>
-                     <l>Behold this maid: all corners else o' the earth</l>
-                     <l>Let liberty make use of; space enough</l>
-                     <l part="I">Have I in such a prison.</l>
+                     <l n="678">My father's loss, the weakness which I feel,</l>
+                     <l n="679">The wreck of all my friends, nor this man's threats,</l>
+                     <l n="680">To whom I am subdued, are but light to me,</l>
+                     <l n="681">Might I but through my prison once a day</l>
+                     <l n="682">Behold this maid: all corners else o' the earth</l>
+                     <l n="683">Let liberty make use of; space enough</l>
+                     <l n="684" part="I">Have I in such a prison.</l>
                   </lg>
                </sp>
                <sp who="#pro">
                   <speaker>Pro.</speaker>
                   <lg>
-                     <l part="F"><stage type="delivery" rend="slant(italic)pre([)post(])"
+                     <l n="685" part="F"><stage type="delivery" rend="slant(italic)pre([)post(])"
                            >Aside.</stage> It works.-- Come on .-- </l>
-                     <l>Thou hast done well, fine Ariel!-- Follow me.--</l>
-                     <stage type="delivery" rend="align(right)"><hi rend="slant(italic)">To</hi>
+                     <l n="686">Thou hast done well, fine Ariel!-- Follow me.--</l>
+                     <stage n="687" type="delivery" rend="align(right)"><hi rend="slant(italic)">To</hi>
                         <persName>Fer.</persName></stage>
-                     <l>Hark, what thou else shalt do me.<stage type="delivery"
+                     <l n="688">Hark, what thou else shalt do me.<stage type="delivery"
                            rend="pre([)align(right)"><hi rend="slant(italic)">To</hi>
                            <persName>Ariel</persName></stage></l>
                   </lg>
@@ -2354,32 +2354,32 @@
                <sp who="#mira">
                   <speaker>Mira.</speaker>
                   <lg>
-                     <l part="F">Be of comfort;</l>
-                     <l>My father's of a better nature, sir,</l>
-                     <l>Than he appears by speech; this is unwonted,</l>
-                     <l part="I">Which now came from him.</l>
+                     <l n="689" part="F">Be of comfort;</l>
+                     <l n="690">My father's of a better nature, sir,</l>
+                     <l n="691">Than he appears by speech; this is unwonted,</l>
+                     <l n="692" part="I">Which now came from him.</l>
                   </lg>
                </sp>
                <sp who="#pro">
                   <speaker>Pro.</speaker>
                   <lg>
-                     <l part="I"><stage type="delivery"><hi rend="slant(italic)pre([)post(])"
+                     <l n="693" part="I"><stage type="delivery"><hi rend="slant(italic)pre([)post(])"
                               >To</hi>
                            <persName>Ariel</persName></stage> Thou shalt be as free</l>
-                     <l>As mountain winds: but then exactly do</l>
-                     <l part="F">All points of my command.</l>
+                     <l n="694">As mountain winds: but then exactly do</l>
+                     <l n="695" part="F">All points of my command.</l>
                   </lg>
                </sp>
                <sp who="#ari">
                   <speaker>Ari.</speaker>
                   <lg>
-                     <l part="F">To the syllable.</l>
+                     <l n="696" part="F">To the syllable.</l>
                   </lg>
                </sp>
                <sp who="#pro">
                   <speaker>Pro.</speaker>
                   <lg>
-                     <l>Come, fellow. Speak not for him.</l>
+                     <l n="697">Come, fellow. Speak not for him.</l>
                   </lg>
                </sp>
                <stage type="exit" rend="slant(italic)pre([)align(right)">Exeunt.</stage>
@@ -2405,7 +2405,7 @@
                   <placeName>Island</placeName></hi></stage>
                <cb n="1"/>
                <stage type="entrance" rend="align(center)"><hi rend="slant(italic)"><hi
-                        rend="slant(italic)">Enter</hi>
+                      n="698"  rend="slant(italic)">Enter</hi>
                      <persName>Alonso</persName>, <persName>Sebastian</persName>,
                         <persName>Antonio</persName>, <persName>Gonzalo</persName>,
                         <persName>Adrian</persName>, <persName>Francisco</persName>, <hi
@@ -2413,13 +2413,13 @@
                <sp who="#gon">
                   <speaker>Gon.</speaker>
                   <lg>
-                     <l>Beseech you, sir, be merry: you have cause--</l>
-                     <l>So have we all-- of joy; for our escape</l>
-                     <l>Is much beyond our loss. Our hint of woe</l>
-                     <l>Is common; every day, some sailor's wife,</l>
-                     <l>The masters <anchor rend="pre(ᵃ)" xml:id="a045" corresp="#n045"/>of some
+                     <l n="699">Beseech you, sir, be merry: you have cause--</l>
+                     <l n="700">So have we all-- of joy; for our escape</l>
+                     <l n="701">Is much beyond our loss. Our hint of woe</l>
+                     <l n="702">Is common; every day, some sailor's wife,</l>
+                     <l n="703">The masters <anchor rend="pre(ᵃ)" xml:id="a045" corresp="#n045"/>of some
                         merchant, and the merchant,</l>
-                     <l>Have just our theme of woe: but for the miracle,</l>
+                     <l n="704">Have just our theme of woe: but for the miracle,</l>
                      <l>I mean our preservation, few in millions</l>
                      <l>Can speak like us: then wisely, good sir, weigh</l>
                      <l part="I">Our sorrow with our comfort.</l>
