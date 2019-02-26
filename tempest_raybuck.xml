@@ -128,20 +128,24 @@
                   <hi rend="rend(italic)">briskly, nimbly, actively.</hi></p>
             </note>
             <note xml:id="n002" target="#a002" rend="pre(ᵃ)">
-               <p>
-                  <ref rend="post(—])"><quote>Bring her to try with main-course!</quote></ref> It
-                  has been proposed to read, "Bring her to; try with the main-course;" but see a
+
+                  <ref rend="post(—])"><quote>Bring her to try with main-course!</quote></ref>
+                  <p>It has been proposed to read, "Bring her to; try with the main-course;" but see a
                   passage from Hakluyt's Voyages, 1598 quoted by Malone:-- "and when tehe barke had
                   way, we cut the hawser and so gate the sea to our friend, and <hi
                      rend="slant(italic)">tryed out</hi> al that day with our <hi
                      rend="slant(italic)">maine corse</hi>."</p>
             </note>
             <note xml:id="n003" target="#a003" rend="pre(ᵇ)">
-               <p>
-                  <lg rend="post(])">
+                 <ref rend="post(])">
+                   <quote>
+                  <lg>
                      <l>If by your art, my dearest father, you have</l>
                      <l>Put the wild waters in this roar, allay them.</l>
-                  </lg> These lines are not metrical, and sound but gratingly on the ear. It would
+                  </lg>
+                </quote>
+                </ref>
+                <p>These lines are not metrical, and sound but gratingly on the ear. It would
                   be an improvement perhaps if we read them thus,-- <lg>
                      <l>"If by your art, my dearest father, you</l>
                      <l>Have put the wild waters in this roar, allay them.</l>
@@ -149,8 +153,8 @@
                </p>
             </note>
             <note xml:id="n004" target="#a004" rend="pre(ᵃ)">
-               <p><ref rend="pre(ᵃ --)post(--])"><hi rend="slant(italic)">mounting to the welkin's
-                     </hi>cheek</ref> Although we have in "Richard II." Act III. Sc. 2, -- "the
+               <p><ref rend="pre(ᵃ --)post(--])"><quote><hi rend="slant(italic)">mounting to the welkin's
+               </hi>cheek</quote></ref> Although we have in "Richard II." Act III. Sc. 2, -- "the
                   cloudy cheeks of heaven," and elsewhere, "welkin's face," and "heaven's face," it
                   may well be questioned whether "cheeck," in this place is not a misprint. Mr.
                   Collier's annotator subsittutes <hi rend="slant(italic)">heat</hi>, a change
@@ -186,14 +190,13 @@
                   <l>This Caitife in such feare and terror strake" &amp;c.</l>
                </lg>
             </note>
-            <note xml:id="n005" target="#a005" rend="pre(*)">
-               <p>
-                  <ref rend="pre(()post())"><quote>*</quote></ref> Old text, <hi
+            <note xml:id="n005" target="#a005" rend="pre((*))">
+                    <p> Old text, <hi
                      rend="slant(italics)">creature.</hi></p>
             </note>
             <note xml:id="n006" target="#a006" rend="pre(ᵃ)">
-               <ref rend="pre(ᵃ--)post(--])"><hi rend="slant(italic)">that there is no</hi>
-                  soul</ref>
+               <ref rend="pre(ᵃ--)post(--])"><quote><hi rend="slant(italic)">that there is no</hi>
+                  soul</quote></ref>
                <p>Rowe Prints,-- <lg>
                      <l>"-- that there is no soul <hi rend="slant(italic)">lost</hi>;</l>
                   </lg> Theobald, "that there is no <hi rend="slant(italic)">foyle</hi>;"and
@@ -208,27 +211,27 @@
                </p>
             </note>
             <note xml:id="n007" target="#a007" rend="pre(ᵇ)">
-               <ref rend="pre(ᵇ)post(])"><hi rend="slant(italic)">You have often,</hi> &amp;c.</ref>
+               <ref rend="pre(ᵇ)post(])"><quote><hi rend="slant(italic)">You have often,</hi> &amp;c.</quote></ref>
                <p>Query, "You have <hi rend="slant(italic)">oft</hi>," &amp;c.</p>
             </note>
             <note xml:id="n008" target="#a008" rend="pre(ᶜ)">
-               <ref rend="pre(ᶜ)post(])">Out <hi rend="slant(italic)">three years old</hi>.</ref>
+               <ref rend="pre(ᶜ)post(])"><quote>Out <hi rend="slant(italic)">three years old</hi>.</quote></ref>
                <p>That is, <hi rend="slant(italic)">past</hi>, or <hi rend="slant(italic)">more
                      than</hi>, three years old.</p>
             </note>
             <note xml:id="n009" target="#a009" rend="pre(ᵈ)">
-               <ref rend="post(--])"><quote><quote>A<hi rend="slant(italic)"
-                     >princess</hi></quote></quote></ref>
+               <ref rend="post(--])"><quote>A<hi rend="slant(italic)"
+                     >princess</hi></quote></ref>
                <p>In the old text, <hi rend="slant(italic)">"And Princesse."</hi> The correction is
                   due to Pope.</p>
             </note>
             <note xml:id="n010" target="#a010" rend="pre(ᵉ)">
-               <ref rend="post(--])"><quote><quote>Teen</quote></quote></ref>
+               <ref rend="post(--])"><quote>Teen</quote></ref>
                <p><hi rend="slant(italic)">Sorrow, vexation.</hi></p>
             </note>
             <note xml:id="n011" target="#a011" rend="pre(ᶠ)">
-               <ref rend="post(--])"><hi rend="slant(italic)">To</hi> trash <hi rend="slant(italic)"
-                     >for over-toping,</hi></ref>
+               <ref rend="post(--])"><quote><hi rend="slant(italic)">To</hi> trash <hi rend="slant(italic)"
+                     >for over-toping,</hi></quote></ref>
                <p>To clog or impede, lest they should run too fast. The expression <hi
                      rend="slant(italic)">to trash</hi> is a hunting technical. In the present day
                   sportsmen check the speed of very fleet hounds by tying a rope, called a <hi
@@ -237,12 +240,16 @@
                   sometimes called in jest a <hi rend="slant(italic)">clogdogo</hi></p>
             </note>
             <note xml:id="n012" target="#a012" rend="pre(ᵃ)">
-               <lg rend="post(])">
+              <ref rend="post(])">
+                <quote>
+               <lg>
                   <l rend="indent(2)">--like one</l>
                   <l>Who having unto truth, by telling of it,</l>
                   <l>Made such a sinner of his memory,</l>
                   <l>To credit his own lie,--</l>
                </lg>
+               </quote>
+             </ref>
                <p>The folios have, "<hi rend="slant(italic)">into</hi> truth," whihc WArburton
                   amended; but this we suspect is not the only correction needed, the passage as it
                   stands, though intelligible, being very hazily expressed. Mr. Collier's annotator
@@ -256,7 +263,7 @@
                <p>Old text omits, <hi rend="slant(italic)">the</hi>.</p>
             </note>
             <note xml:id="n014" target="#a014" rend="pre(ᵇ)">
-               <ref rend="post(--])"><quote><quote>In lieu</quote></quote></ref>
+               <ref rend="post(--])"><quote>In lieu</quote></ref>
                <p><hi rend="slant(italic)">In lieu</hi> means here, in <hi rend="slant(italic)"
                      >geurdon</hi>, or <hi rend="slant(italic)">consideration</hi>; not as it
                   usually signifies, <hi rend="slant(italic)">instead</hi>, or <hi
@@ -308,8 +315,8 @@
                <p>Old text, <hi rend="slant(italic)">Lightening</hi>.</p>
             </note>
             <note rend="pre(ᵃ)" target="#a023" xml:id="n023">
-               <ref rend="post(--])"><hi rend="slant(italic)">And</hi> are <hi rend="slant(italic)"
-                     >upon the Mediterranean flote</hi>,</ref>
+               <ref rend="post(--])"><quote><hi rend="slant(italic)">And</hi> are <hi rend="slant(italic)"
+                     >upon the Mediterranean flote</hi>,</quote></ref>
                <p>Mr. Collier's annotator suggests, "And <hi rend="slant(italic)">all</hi> upon,"
                   &amp;c.; but what is gained by the alteration we cannot discern. <hi
                      rend="slant(italic)">Flote</hi> is here used substantively for <hi
@@ -323,17 +330,21 @@
                </lg>
             </note>
             <note rend="pre(ᵃ)" target="#a024" xml:id="n024">
+              <ref>
+                <quote>
                <lg rend="post(])">
                   <l>At least two glasses-- the time, 'twixt six and now--</l>
                   <l>Must by us both be spent most preciously.</l>
                </lg>
+               </quote>
+             </ref>
                <p>By the customary punctuation of this passage, Prospero is made to ask a question
                   and anser it. The pointing we adopt obviates this inconsistency, and renders any
                   change in the distribution of the speeches needless.</p>
             </note>
             <note rend="pre(ᵇ)" target="#a025" xml:id="n025">
-               <ref rend="post(--])"><hi rend="slant(italic)">Told thee no lies, made</hi> thee <hi
-                     rend="slant(italic)">no mistakings, serv'd</hi></ref>
+               <ref rend="post(--])"><quote><hi rend="slant(italic)">Told thee no lies, made</hi> thee <hi
+                     rend="slant(italic)">no mistakings, serv'd</hi></quote></ref>
                <p>The second <hi rend="slant(italic)">thee</hi>, which overloads the line, was
                   probably repeated by the compositor through inadvertence.</p>
             </note>
@@ -342,8 +353,8 @@
                <p>The old English name for Algiers.</p>
             </note>
             <note rend="pre(ᵈ)" target="#a027" xml:id="n027">
-               <ref rend="post(--])"><hi rend="slant(italic)">This</hi> blue-ey'd <hi
-                     rend="slant(italic)">hag</hi></ref>
+               <ref rend="post(--])"><quote><hi rend="slant(italic)">This</hi> blue-ey'd <hi
+                     rend="slant(italic)">hag</hi></quote></ref>
                <p><hi rend="slant(italic)">Blue-ey'd</hi> has been ably defended; but it must be
                   confessed that <hi rend="slant(italic)">blear-ey'd</hi>, a common epithet in our
                   old plays, seems more applicable to the "damn'd witch Sycorax." Thus in Beaumont
@@ -358,14 +369,14 @@
                </lg>
             </note>
             <note rend="pre(ᵃ)" xml:id="n028" target="#a028">
-               <ref rend="post(])"><persName>Mira.</persName><hi rend="slant(italic)"
-                  >(Waking.)</hi></ref>
+               <ref rend="post(])"><quote><persName>Mira.</persName><hi rend="slant(italic)"
+                  >(Waking.)</hi></quote></ref>
                <p>Mr. Collier claims for his annotator the merit of having first added this not very
                   important stage direction.</p>
             </note>
             <note rend="pre(ᵇ)" xml:id="n029" target="#a029">
-               <ref rend="post(])"><hi rend="slant(italic)">We cannot</hi> miss <hi
-                     rend="slant(italic)">him:</hi></ref>
+               <ref rend="post(])"><quote><hi rend="slant(italic)">We cannot</hi> miss <hi
+                     rend="slant(italic)">him:</hi></quote></ref>
                <p>We cannot do without him.</p>
             </note>
             <note rend="pre(ᶜ)" xml:id="n030" target="#a030">
@@ -373,8 +384,8 @@
                <p>See note (f), p. 449, Vol. I.</p>
             </note>
             <note rend="pre(ᵈ)" xml:id="n031" target="#a031">
-               <ref rend="post(])"><hi rend="slant(italic)">As</hi> wicked <hi rend="slant(italic)"
-                     >dew</hi>--</ref>
+               <ref rend="post(])"><quote><hi rend="slant(italic)">As</hi> wicked <hi rend="slant(italic)"
+                     >dew</hi>--</quote></ref>
                <p><hi rend="slant(italic)">Wicked</hi> here implies <hi rend="slant(italic)"
                      >baneful, pernicious</hi>; as in opposition, we hear of the <hi
                      rend="slant(italic)">virtuous</hi> properties of "herbs, plants, stones,"
@@ -412,10 +423,14 @@
                   retained it ever since.</p>
             </note>
             <note rend="pre(ᵇ)" xml:id="n035" target="#a035">
-               <lg rend="slant(italic)">
+              <ref rend="slant(italic)">
+                <quote>
+               <lg>
                   <l>Which any print of goodness will not take,</l>
                   <l rend="post(])">Being capable of all ill!</l>
                </lg>
+               </quote>
+             </ref>
                <p>here, as in many other places, <hi rend="slant(italic)">capable</hi> signifies <hi
                      rend="slant(italic)">impressible, susceptible.</hi></p>
             </note>
@@ -452,11 +467,15 @@
                   pronounced. </p>
             </note>
             <note rend="pre(ᵃ)" xml:id="n039" target="#a039">
+              <ref rend="post(])">
+                <quote>
                <lg>
                   <l>"Court'sied when you have and kiss'd,--</l>
                   <l>The wild waves whist,--</l>
-                  <l>Foot it featly," &amp;c.]</l>
+                  <l>Foot it featly," &amp;c.</l>
                </lg>
+             </quote>
+             </ref>
                <p>It was customary in the "good old times," for the partners in some dances to
                   curtsy and salute before the beginning; and if an allusion to these ceremonies is
                   intended, the line,--</p>
@@ -479,8 +498,8 @@
                <p>Old text, <hi rend="slant(italic)">cock-a-diddle-dowe</hi>.</p>
             </note>
             <note rend="pre(ᵃ)" xml:id="n042" target="#a042">
-               <ref rend="pre(--)post(--])">-- <hi rend="slant(italic)">could</hi> control <hi
-                     rend="slant(italic)">thee</hi>,</ref>
+               <ref rend="pre(--)post(--])"><quote>-- <hi rend="slant(italic)">could</hi> control <hi
+                     rend="slant(italic)">thee</hi>,</quote></ref>
                <p><hi rend="slant(italic)">Control</hi> in its ordinary acceptation, and Shakespeare
                   uses it in no other, seems incongruous here. Is it a misprint for <hi
                      rend="slant(italic)">console?</hi></p>
@@ -499,8 +518,8 @@
                <p>Thy posture of defence.</p>
             </note>
             <note rend="pre(ᵃ)" xml:id="n045" target="#a045">
-               <ref rend="post(--])"><hi rend="slant(italic)">The</hi> masters <hi
-                     rend="slant(italic)">of some merchant</hi>,</ref>
+               <ref rend="post(--])"><quote><hi rend="slant(italic)">The</hi> masters <hi
+                     rend="slant(italic)">of some merchant</hi>,</quote></ref>
                <p>Capell reads, perhaps rightly, "The <hi rend="slant(italic)">master</hi>,"
                   &amp;c.; and Steevens conjectures we should print-- <lg>
                      <l>"The mistress of some merchant,"</l>
@@ -510,7 +529,7 @@
                   >maistress</hi>. </p>
             </note>
             <note rend="pre(ᵇ)" xml:id="n046" target="#a046">
-               <ref rend="post(--])"><!--allow sp to be contained by ref?-->
+               <ref rend="post(--])">
                   <quote>
                      <sp who="#seb">
                         <speaker>Seb.</speaker>
@@ -530,8 +549,8 @@
                   Measure," Act I. Sc. 2.</p>
             </note>
             <note rend="pre(ᵃ)" xml:id="n047" target="#a047">
-               <ref><hi rend="slant(italic)">Which,</hi> of he <hi rend="slant(italic)">or
-                     Adrian,</hi></ref>
+               <ref><quote><hi rend="slant(italic)">Which,</hi> of he <hi rend="slant(italic)">or
+                     Adrian,</hi></quote></ref>
                <p>So the old text, and rightly; compare the following from "Midsummer Night's
                   Dream," Act III. Sc. 2:-- <lg>
                      <l>"Now follow, if thou dar'st to try whose right,</l>
@@ -566,8 +585,8 @@
                   both old and modern editions, been assigned to Gonzalo.</p>
             </note>
             <note rend="pre(ᵃ)" xml:id="n053" target="#a053">
-               <ref><hi rend="post(])slant(italic)">Which end o' the beam </hi>she'd <hi
-                     rend="slant(italic)">bow</hi></ref>
+               <ref><quote><hi rend="post(])slant(italic)">Which end o' the beam </hi>she'd <hi
+                     rend="slant(italic)">bow</hi></quote></ref>
                <p>So Malone. The old text has, -- <lg>
                      <l>"Which end o' the beame <hi rend="slant(italic)">should</hi> bow."</l>
                   </lg> For which Capell substituted,-- <lg>
@@ -621,8 +640,8 @@
                <p>Has before been explained to mean, <hi rend="slant(italic)">temptation</hi>.</p>
             </note>
             <note rend="pre(ᵇ)" xml:id="n061" target="#a061">
-               <ref rend="post(])"><hi rend="slant(italic)">To keep</hi> them <hi
-                     rend="slant(italic)">living.</hi></ref>
+               <ref rend="post(])"><quote><hi rend="slant(italic)">To keep</hi> them <hi
+                     rend="slant(italic)">living.</hi></quote></ref>
                <p>Mr. Dyce reads, "-- to keep <hi rend="slant(italic)">thee</hi> living," which is
                   preferable to any altercation of the passage yet suggested; but we are not
                   convinced that change is required.</p>
@@ -653,7 +672,7 @@
                <ref rend="post(])"><quote>Gaberdine;</quote></ref>
                <p>A loose over-garment, worn by the lower classes. See note (6), p. 438, Vol. I.</p>
             </note>
-            <note rend="pre(*)" xml:id="nPLACE" target="#aPLACE"><!--footnote from the illustrative comments which are also kind of footnotes so where does this go???-->
+            <note rend="pre(*)" xml:id="nPLACE" target="#aPLACE">
                <p>The striking the top masts was a new invention in Shakespeare's time, which he
                   here very properly introduces. Sir Henry Manwaring says, "It is not yet agreed
                   amongst all seamen whether it is better for a ship to hull with her topmast up or
