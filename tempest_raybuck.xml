@@ -681,6 +681,35 @@
                   the ancient proverb, "He who eats with the devil hath need of a <hi
                      rend="slant(italic)">long spoon</hi>."</p>
             </note>
+            <note rend="pre(ᵃ)" xml:id="n068" target="#a068">
+               <ref rend="post(])"><quote><hi rend="slant(italic)">Young</hi> scamel--</quote></ref>
+               <p>So the text, but perhaps corrputly, since the word has not been found in any other
+                  author. Theobald changed it to a <hi rend="slant(italic)">shamois</hi>, and
+                  suggested <hi rend="slant(italic)">staniels</hi>, that is, young hawks, and <hi
+                     rend="slant(italic)">sea-malls</hi>, or <hi rend="slant(italic)"
+                  >sea-mells</hi>.</p>
+            </note>
+            <note rend="pre(ᵇ)" xml:id="n069" target="#a069">
+               <ref rend="post(])"><quote><hi rend="slant(italic)">Nor scrape</hi>
+                     trencher,--</quote></ref>
+               <p>The old text has, "Nor scrape trenchering," but, as Mr. Dyce observes, "That '<hi
+                     rend="slant(italic)">trenchering</hi>' is an error of the printer (or
+                  transcriber), occasioned by the preceding words, 'fir<hi rend="slant(italic)"
+                     >ing</hi>' and 'requir<hi rend="slant(italic)">ing</hi>,' is beyond a
+                  doubt."</p>
+            </note>
+            <note rend="pre(ᶜ)" xml:id="n070" target="#a070">
+               <ref rend="post(])"><quote>Hey-day! hey-day!</quote></ref>
+               <p>This appears to have been a familiar burden. Thus, in Ben Johnson's "Cynthia's
+                  Revels," Act II. Sc.1;-- <lg>
+                     <l>"Come follow me, my wags, and say, as I say.</l>
+                     <l>There's no riches but rags, <hi rend="slant(italic)">hey day, hey
+                        day:</hi></l>
+                     <l>You that profess this art, come away, come away,</l>
+                     <l>And help to bear a part. <hi rend="slant(italic)">Hey-day, hey-day!</hi></l>
+                  </lg>
+               </p>
+            </note>
             <note rend="pre(*)" xml:id="nPLACE" target="#aPLACE">
                <p>The striking the top masts was a new invention in Shakespeare's time, which he
                   here very properly introduces. Sir Henry Manwaring says, "It is not yet agreed
@@ -3923,9 +3952,90 @@
                         rock. Wilt thou go with me?</l>
                   </lg>
                </sp>
+               <sp who="#ste">
+                  <speaker>Ste.</speaker>
+                  <p>I pr'ythee now, lead the way, without any more talking.-- Trinculo, the king
+                     and all our company else being drowned, we will inherity here.-- <stage
+                        type="delivery" rend="slant(italic)pre([)post(])">To
+                           <persName>Caliban.</persName></stage>Here; bear my bottle.-- Fellow
+                     Trinculo, we'll fill him by and by again.</p>
+               </sp>
+               <sp who="#cal">
+                  <speaker>Cal.</speaker>
+                  <lg type="song" rend="slant(italic)">
+                     <l>Farewell, master: farewell, farewell!</l>
+                  </lg>
+               </sp>
+               <stage type="business" rend="align(right)pre([)">Sings drunkenly.</stage>
+               <sp who="tri">
+                  <speaker>Trin.</speaker>
+                  <p>A howling monster; a drunken monster!</p>
+               </sp>
+               <sp who="#cal">
+                  <speaker>Cal.</speaker>
+                  <lg type="song">
+                     <l>No more dams I'll make for fish;</l>
+                     <l>Nor fetch in firing</l>
+                     <l>At requiring,</l>
+                     <l>Nor scrape trencher,<anchor rend="pre(ᵇ)" xml:id="a069" corresp="#n069"/>
+                        nor wash dish:</l>
+                     <l>'Ban, 'Ban, Ca-Caliban</l>
+                     <l>Has a new master-- Get a new man.</l>
+                     <l>Freedom, hey-day! hey-day, <anchor rend="pre(ᶜ)" xml:id="a070"
+                           corresp="#n070"/>Freedom!</l>
+                     <l>Freedom, hey-day, Freedom!</l>
+                  </lg>
+               </sp>
+               <sp who="#ste">
+                  <speaker>Ste.</speaker>
+                  <lg>
+                     <l>O brave monster! lead the way.</l>
+                  </lg>
+               </sp>
+               <stage type="exit" rend="slant(italics)align(right)">Exeunt.</stage>
+               <figure>
+                  <figDesc>Caliban, jumping and singing boistrously, raises his arms in song in the
+                     foreground as Trinculo and Stephano walk and sing together in the
+                     background.</figDesc>
+               </figure>
             </div>
          </div>
-         <!--act 2 div-->
+         <div type="act" n="3">
+            <div type="scene" n="1">
+               <pb n="28"/>
+               <figure>
+                  <figDesc>Ferdinand, carrying a log, is talking to Miranda in a beautiful wooded
+                     area as Prospero watches them from the darkness of the background.</figDesc>
+               </figure>
+               <head type="act" rend="case(allcaps)">Act III.</head>
+               <stage n="23" type="setting" rend="align(center)"><hi rend="case(allcaps)">Scene
+                     I</hi>.-- <hi rend="slant(italic)">Before <persName>Prospero's</persName>
+                     Cell</hi></stage>
+               <cb n="1"/>
+               <stage type="entrance" rend="slant(italic)">Enter <persName>Ferdinand</persName>,
+                  bearing a log.</stage>
+               <sp who="#fer">
+                  <speaker>Fer.</speaker>
+                  <lg>
+                     <l>There be some sports are painful, and their labour</l>
+                     <l>Delight in them sets off: some kinds of baseness</l>
+                     <l>Are nobly undergone; and most poor matters</l>
+                     <l>Point to rich ends. This my mean task</l>
+                     <l>Would be as heavy to me as odious; but</l>
+                     <l>The mistress which I serve quickens what's dead,</l>
+                     <l>And makes my labours pleasures: O, she is</l>
+                     <l>Ten times more gentle than her father's crabbed,--</l>
+                     <l>And he's compos'd of harshness! I must remove</l>
+                     <l>Some thousands of these logs, and pile them up,</l>
+                     <l>Upon a sore injunction. My sweet mistress</l>
+                     <l>Weeps when she sees me work; and says such baseness</l>
+                  </lg>
+               </sp>
+               <fw type="pageNum">28</fw>
+               <pb n="29"/>
+               <cb n="1"/>
+            </div>
+         </div>
       </body>
       <back>
          <div type="notes">
@@ -4010,7 +4120,7 @@
                   not only a spirit of fire-- one of those, according to the same authority, which
                   "commonly work by blazing stars, fire drakes, or <hi rend="slant(italic)">ignes
                      fatui</hi>; *** counterfeit suns and moons, stars oftentimes, and sit upon
-                  ship-masts"-- but a <hi rend="slant(italic)">naiad</hi>, or spirit of teh water
+                  ship-masts"-- but a <hi rend="slant(italic)">naiad</hi>, or spirit of the water
                   also: in fact. assumes any shape, and is visible or unseen at will.</p>
                <p part="I">For full particulars, <hi rend="slant(italic)">de operatione
                   Demonum</hi>, the reader may consult, besides the ancient writers on the
