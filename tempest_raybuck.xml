@@ -710,6 +710,40 @@
                   </lg>
                </p>
             </note>
+            <note rend="pre((*))" xml:id="a071" corresp="#n071">
+               <p>Old text, <hi rend="slant(italics)">labours</hi>.</p>
+            </note>
+            <note rend="pre(ᵃ)" xml:id="a072" corresp="#n072">
+               <ref rend="post(])"><quote>
+                     <lg>
+                        <l>-- I forget:</l>
+                        <l rend="slant(italic)">But these sweet thoughts do even refresh my
+                           labour;</l>
+                        <l><hi rend="slant(italic)">Most busy </hi>felt,<hi rend="slant(italic)">
+                              when I do it.</hi></l>
+                     </lg>
+                  </quote></ref>
+               <p>This is the great crux of the play. No passage in Shakespeare has occasioned more
+                  speculation, and on none has speculation proved less happy. The first folio reads,
+                  "Most busie <hi rend="slant(italic)">lest</hi>, when I doe it;" the second, "Most
+                  busie <hi rend="slant(italic)">least</hi> when I doe it;" Pope prints, "<hi
+                     rend="slant(italic)">Least busy</hi> when I do it;" Theobald, "Most <hi
+                     rend="slant(italic)">busyless</hi> when I do it;" Mr. Holt White suggests,
+                  "Most <hi rend="slant(italic)">busiest</hi> when I do it;" and Mr. Collier's
+                  annotator, "Most busy,-- <hi rend="slant(italic)">blest</hi> when I do it."
+                  Whatever may have been teh word for which "<hi rend="slant(italic)">lest</hi>" was
+                  misprinted, "Most busy" and that word bore reference, unquestionably, not to
+                  Ferdinand's task, but to the sweet thoughts by which it was relieved. We have
+                  substituted <hi>felt</hi> as a likely word to have been mis-set "lest;" but are in
+                  doubt whether <hi rend="slant(italic)">still</hi>, in its old sense of <hi
+                     rend="slant(italic)">ever, always,</hi> is not preferable,-- <lg>
+                     <l>"Most busy still, when I do it."</l>
+                  </lg></p>
+            </note>
+            <note rend="pre(ᵇ)" xml:id="n073" target="#a073">
+               <ref rend="post(])"><quote>Fellow--</quote></ref>
+               <p>That is, <hi rend="slant(italic)">companion, pheer.</hi></p>
+            </note>
             <note rend="pre(*)" xml:id="nPLACE" target="#aPLACE">
                <p>The striking the top masts was a new invention in Shakespeare's time, which he
                   here very properly introduces. Sir Henry Manwaring says, "It is not yet agreed
@@ -4029,11 +4063,280 @@
                      <l>Some thousands of these logs, and pile them up,</l>
                      <l>Upon a sore injunction. My sweet mistress</l>
                      <l>Weeps when she sees me work; and says such baseness</l>
+                     <fw type="pageNum">28</fw>
+                     <pb n="29"/>
+                     <cb n="1"/>
+                     <l>Had never like executor. I forget:</l>
+                     <l>But these sweet thoughts do even refresh my labour;<anchor rend="pre(*)"
+                           xml:id="a071" corresp="#n071"/></l>
+                     <l part="I">Most busy felt, when I do it.<anchor rend="pre(ᵃ)" xml:id="a072"
+                           corresp="#n072"/></l>
                   </lg>
                </sp>
-               <fw type="pageNum">28</fw>
-               <pb n="29"/>
+               <stage type="mixed" rend="slant(italics)">Enter <persName>Miranda</persName>, and
+                     <persName>Prospero</persName> following.</stage>
+               <sp who="#mira">
+                  <speaker>Mira.</speaker>
+                  <lg>
+                     <l part="F">Alas, now! pray you,</l>
+                     <l>Work not so hard; I would the lightning had</l>
+                     <l>Burnt up those logs that you are enjoin'd to pile!</l>
+                     <l>Pray, set it down, and rest you: when this burns,</l>
+                     <l>'T will weep for having wearied you. My father</l>
+                     <l>Is hard at study; pray, now, rest yourself;</l>
+                     <l part="I">He's safe for these three hours.</l>
+                  </lg>
+               </sp>
+               <sp who="#fer">
+                  <speaker>Fer.</speaker>
+                  <lg>
+                     <l part="F">O most dear mistress,</l>
+                     <l>The sun will set before I shall discharge</l>
+                     <l part="I">What I must strive to do.</l>
+                  </lg>
+               </sp>
+               <sp who="#mira">
+                  <speaker>Mira.</speaker>
+                  <lg>
+                     <l part="I">If you'll sit down</l>
+                     <l>I'll bear your logs the while: pray give me that;</l>
+                     <l part="I">I'll carry it to the pile.</l>
+                  </lg>
+               </sp>
+               <sp who="#fer">
+                  <speaker>Fer.</speaker>
+                  <lg>
+                     <l part="F">No, precious creature:</l>
+                     <l>I had rather crack my sinews, break my back,</l>
+                     <l>Than you should dishonour undergo,</l>
+                     <l part="I">While I sit lazy by.</l>
+                  </lg>
+               </sp>
+               <sp who="#mira">
+                  <speaker>Mira.</speaker>
+                  <lg>
+                     <l part="F">It would become me</l>
+                     <l>As well as it does you; and I should do it</l>
+                     <l>With much more ease; for my good will is to it,</l>
+                     <l part="I">And yours it is against.</l>
+                  </lg>
+               </sp>
+               <sp who="#pro">
+                  <speaker>Pro.</speaker>
+                  <lg>
+                     <l part="F"><stage type="delivery" rend="pre([)post(])slant(italic)"
+                           >Aside.</stage> Poor worm, thou art infected!</l>
+                     <l part="I">This visitation shows it.</l>
+                  </lg>
+               </sp>
+               <sp who="#mira">
+                  <speaker>Mira.</speaker>
+                  <lg>
+                     <l part="F">You look wearily.</l>
+                  </lg>
+               </sp>
+               <sp who="#fer">
+                  <speaker>Fer.</speaker>
+                  <lg>
+                     <l>No, noble mistress; 't is fresh morning with me,</l>
+                     <l>When you are by at night. I do beseech you,--</l>
+                     <l>Chiefly that I might set it in my prayers,--</l>
+                     <l part="I">What is your name?</l>
+                  </lg>
+               </sp>
+               <sp who="#mira">
+                  <speaker>Mira.</speaker>
+                  <lg>
+                     <l part="F">Miranda:-- O my father,</l>
+                     <l part="I">I have broken your 'hest to say so!</l>
+                  </lg>
+               </sp>
+               <sp who="#fer">
+                  <speaker>Fer.</speaker>
+                  <lg>
+                     <l part="F">Admir'd Miranda!</l>
+                     <l>Indeed the top of admiration; worth</l>
+                     <l>What's dearest to the world! Full many a lady</l>
+                     <l>I have ey'd with best regard; and many a time</l>
+                     <l>The harmony of their tongues hath into bondage</l>
+                     <l>Brought my too diligent ear: for several virtues</l>
+                     <l>Have I lik'd several women; never any</l>
+                     <l>With so full soul, but some defect in her</l>
+                     <l>Did quarrel with the noblest grace she ow'd,</l>
+                     <l>And put it to teh foil: but you, O you,</l>
+                     <cb n="2"/>
+                     <l>So perfect and so peerless, are created</l>
+                     <l part="I">Of every creature's best!</l>
+                  </lg>
+               </sp>
+               <sp who="#mira">
+                  <speaker>Mira.</speaker>
+                  <lg>
+                     <l part="F">I do not know</l>
+                     <l>One of my sex; no woman's face remember,</l>
+                     <l>Save, from my glass, mine own; nor have I seen</l>
+                     <l>More that I may call men, than you, good friend,</l>
+                     <l>And my dear father: how features are abroad,</l>
+                     <l>I am skill-less of; but, by my modesty,</l>
+                     <l>--The jewel in my dower,-- I would not wish</l>
+                     <l>Any companion in the world but you;</l>
+                     <l>Nor can imagination form a shape,</l>
+                     <l>Besides yourself, to like of. But I prattle</l>
+                     <l>Something too wildly, and my father's precepts</l>
+                     <l part="I">I therein do forget.</l>
+                  </lg>
+               </sp>
+               <sp who="#fer">
+                  <speaker>Fer.</speaker>
+                  <lg>
+                     <l part="F">I am, in my condition,</l>
+                     <l>A prince, Miranda; I do think, a king,--</l>
+                     <l>I would not so!-- and would no more endure</l>
+                     <l>This wooden slavery, than to suffer</l>
+                     <l>The flesh-fly blow my mouth.-- Hear my soul speak:--</l>
+                     <l>The very instant that I saw you, did</l>
+                     <l>My heart fly to your service; there resides,</l>
+                     <l>To make me slave to it; and for your sake</l>
+                     <l part="I">Am I this patient log-man.</l>
+                  </lg>
+               </sp>
+               <sp who="#mira">
+                  <speaker>Mira.</speaker>
+                  <lg>
+                     <l part="F">Do you love me?</l>
+                  </lg>
+               </sp>
+               <sp who="#fer">
+                  <speaker>Fer.</speaker>
+                  <lg>
+                     <l>O heaven! O earth! bear witness to this sound,</l>
+                     <l>And crown what I profess with kind event,</l>
+                     <l>If I speak true! if hollowly, invert</l>
+                     <l>What best is boded me, to mischief! I,</l>
+                     <l>Beyond all limit of what else i' the world,</l>
+                     <l part="I">Do love, prize, honour you.</l>
+                  </lg>
+               </sp>
+               <sp who="#mira">
+                  <speaker>Mira.</speaker>
+                  <lg>
+                     <l part="F">I am a fool,</l>
+                     <l part="I">To weep at what I am glad of.</l>
+                  </lg>
+               </sp>
+               <sp who="#pro">
+                  <speaker>Pro.</speaker>
+                  <lg>
+                     <l part="F"><stage type="delivery" rend="pre([)post(])slant(italic)"
+                           >Aside.</stage> Fair encounter</l>
+                     <l>Of two most rare affections! Heavens rain grace</l>
+                     <l part="I">On that which breeds between 'em!</l>
+                  </lg>
+               </sp>
+               <sp who="#fer">
+                  <speaker>Fer.</speaker>
+                  <lg>
+                     <l>Wherefore weep you?</l>
+                  </lg>
+               </sp>
+               <sp who="#mira">
+                  <speaker>Mira.</speaker>
+                  <lg>
+                     <l>At mine unworthiness, that dare not offer</l>
+                     <l>What I desire to give; and much less take</l>
+                     <l>What I shall die to want. But this is trifling;</l>
+                     <l>And all the more it seeks to hide itself,</l>
+                     <l>The bigger bulk it shows. Hence, bashful cunning!</l>
+                     <l>And prompt me, plain and holy innocence!</l>
+                     <l>I am your wife, if you will marry me;</l>
+                     <l>If not, I'll die your maid: to be your fellow<anchor rend="pre(ᵇ)"
+                           xml:id="a073" corresp="#n073"/></l>
+                     <l>You may deny me; but I'll be your servant,</l>
+                     <l part="I">Whether you will or no.</l>
+                  </lg>
+               </sp>
+               <sp who="#fer">
+                  <speaker>Fer.</speaker>
+                  <lg>
+                     <l part="F">My mistress, dearest!</l>
+                     <l part="I">And I thus humble ever.</l>
+                  </lg>
+               </sp>
+               <fw type="pageNum">29</fw>
+               <pb n="30"/>
                <cb n="1"/>
+               <sp who="#mira">
+                  <speaker>Mira.</speaker>
+                  <lg>
+                     <l part="F">My husband, then?</l>
+                  </lg>
+               </sp>
+               <sp who="#fer">
+                  <speaker>Fer.</speaker>
+                  <lg>
+                     <l>Ay, with a heart as willing</l>
+                     <l>As bondage e'er of freedom: here's my hand.</l>
+                  </lg>
+               </sp>
+               <sp who="#mira">
+                  <speaker>Mira.</speaker>
+                  <lg>
+                     <l>And mine, with my heart in't: and now, farewell</l>
+                     <l>Till half an hour hence.</l>
+                  </lg>
+               </sp>
+               <sp who="#fer">
+                  <speaker>Fer.</speaker>
+                  <lg>
+                     <l>A thousand thousand!</l>
+                  </lg>
+               </sp>
+               <stage type="exit" rend="slant(italic)pre([)align(right)">Exeunt
+                     <persName>Ferdinand</persName> and <persName>Miranda</persName>
+                  severally.</stage>
+               <sp who="#pro">
+                  <speaker>Pro.</speaker>
+                  <lg>
+                     <l>So glad of this as they I cannot be,</l>
+                     <l>Who are surpris'd with all; but my rejoicing</l>
+                     <l>At nothing can be more. I'll to my book;</l>
+                     <l>For yet, ere supper-time, must I perform</l>
+                     <l>Much business appertaining. <stage type="exit"
+                           rend="pre([)slant(italic)align(right)">Exit.</stage></l>
+                  </lg>
+               </sp>
+            </div>
+            <div type="scene" n="2">
+               <stage type="setting"><hi rend="case(allcaps)">Scene II.</hi>-- <hi
+                     rend="slant(italic)">Another Part of the</hi> Island</stage>
+               <stage type="entrance" rend="slant(italic)">Enter <persName>Caliban</persName> with a
+                  bottle; <persName>Stephano</persName> and <persName>Trinculo</persName>
+                  following.</stage>
+               <sp who="#ste">
+                  <speaker>Ste.</speaker>
+                  <p>Tell not me;-- when the butt is out we will drink water; not a drop before:
+                     therefore bear up, and board 'em.-- Servant-monster, drink to me.</p>
+               </sp>
+               <sp who="#tri">
+                  <speaker>Trin.</speaker>
+                  <p><hi rend="slant(italic)">Servant-monster?</hi> the folloy of this island! They
+                     say there's but five upon this isle: we are three of them; if the other two be
+                     brained like us, the state totters.</p>
+               </sp>
+               <sp who="#ste">
+                  <speaker>Ste.</speaker>
+                  <p>Drink, servant-monster, when I bid thee; thy eyes are almost set in thy
+                     head.</p>
+               </sp>
+               <sp who="#tri">
+                  <speaker>Trin.</speaker>
+                  <p>Where should they be set else? he were a brave monster indeed, if they were set
+                     in his tail. </p>
+               </sp>
+               <sp who="#ste">
+                  <speaker>Ste.</speaker>
+                  <p>My man-monster hath drowned his tongue in </p>
+               </sp>
             </div>
          </div>
       </body>
