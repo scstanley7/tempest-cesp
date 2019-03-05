@@ -4335,7 +4335,145 @@
                </sp>
                <sp who="#ste">
                   <speaker>Ste.</speaker>
-                  <p>My man-monster hath drowned his tongue in </p>
+                  <p>My man-monster hath drowned his tongue in sack: for my part, the sea cannot
+                     drown me; I swam, ere I could recover the shore, five-and-thirty leagues, off
+                     and on. By this light thou shalt be my lieutenant, monster, or my standard.</p>
+               </sp>
+               <sp who="#tri">
+                  <speaker>Trin.</speaker>
+                  <p>Your lieutenant, if you list; he's no standard.</p>
+               </sp>
+               <sp who="#ste">
+                  <speaker>Ste.</speaker>
+                  <p>We'll not run, monsieur Monster.</p>
+               </sp>
+               <sp who="#tri">
+                  <speaker>Trin.</speaker>
+                  <p>Nor go neither: but you'll lie, like dogs; and yet say nothing neither.</p>
+               </sp>
+               <sp who="#ste">
+                  <speaker>Ste.</speaker>
+                  <p>Moon-calf, speak once in thy life, if thou beest a good moon-calf.</p>
+               </sp>
+               <sp who="#cal">
+                  <speaker>Cal.</speaker>
+                  <lg>
+                     <l>How does thy honour? Let me lick thy shoe.</l>
+                     <l>I'll not serve him, he is not valiant.</l>
+                  </lg>
+               </sp>
+               <sp who="#tri">
+                  <speaker>Trin.</speaker>
+                  <p>Thou liest, most ignorant monster; I am in case to justle a constable. Why,
+                     thou deboshed fish, thou, was there ever a man a coward that hath drunk so much
+                     sack as I to-day? Wilt thou tell a monstrous lie, being but half a fish, and
+                     half a monster?</p>
+               </sp>
+               <sp who="#cal">
+                  <speaker>Cal.</speaker>
+                  <p>Lo, how he mocks me! wilt thou let him, my lord?</p>
+               </sp>
+               <sp who="#tri">
+                  <speaker>Trin.</speaker>
+                  <p><hi rend="slant(italic)">Lord</hi>, quoth he!-- that a monster should be such a
+                     natural!</p>
+               </sp>
+               <sp who="#cal">
+                  <speaker>Cal.</speaker>
+                  <p>Lo, lo, again! bite him to death, I pr'ythee.</p>
+               </sp>
+               <sp who="#ste">
+                  <speaker>Ste.</speaker>
+                  <p>Trinculo, keep a good tongue in your head; if you prove a mutineer, the next
+                     tree-- the poor monster's my subject, and he shall not suffer indignantly.</p>
+               </sp>
+               <sp who="#cal">
+                  <speaker>Cal.</speaker>
+                  <p>I thank my noble lord. Wilt thou be pleased to hearken once again to the suit I
+                     made to thee?</p>
+               </sp>
+               <sp who="#ste">
+                  <speaker>Ste.</speaker>
+                  <p>Marry will I: kneel and repeat it; I will stand, and so shall Trinculo.</p>
+               </sp>
+               <stage type="entrance" rend="slant(italic)">Enter <persName>Ariel</persName>,
+                  invisible.</stage>
+               <sp who="#cal">
+                  <speaker>Cal.</speaker>
+                  <p>As I told thee before, I am subject to a tyrant;-- a sorcerer, that by his
+                     cunning hath cheated me of the island.</p>
+               </sp>
+               <sp who="#ari">
+                  <speaker>Ari.</speaker>
+                  <p>Thou liest.</p>
+               </sp>
+               <sp who="#cal">
+                  <speaker>Cal.</speaker>
+                  <p>Thou liest, thou jesting monkey, thou; I would my valiant master would destroy
+                     thee: I do not lie.</p>
+               </sp>
+               <sp who="#ste">
+                  <speaker>Ste.</speaker>
+                  <p>Trinculo, if you trouble him any more in's tale, by this hand, I will supplant
+                     some of your teeth.</p>
+               </sp>
+               <sp who="#tri">
+                  <speaker>Trin.</speaker>
+                  <p>Why, I said nothing.</p>
+               </sp>
+               <sp who="#ste">
+                  <speaker>Ste.</speaker>
+                  <p>Mum then, and no more.--<stage type="delivery"
+                        rend="slant(italic)pre([)post(])">To
+                     <persName>Caliban</persName></stage>Proceed.</p>
+               </sp>
+               <sp who="#cal">
+                  <speaker>Cal.</speaker>
+                  <lg>
+                     <l>I say, by sorcery he got this isle;</l>
+                     <l>From me he got it. If thy greatness will</l>
+                     <l>Revenge it on him-- for, I know, thou dar'st;</l>
+                     <l>But this thing dare not,--</l>
+                  </lg>
+               </sp>
+               <sp who="#ste">
+                  <speaker>Ste.</speaker>
+                  <p>That's most certain.</p>
+               </sp>
+               <sp who="#cal">
+                  <speaker>Cal.</speaker>
+                  <p>-- Thou shalt be lord of it, and I'll serve thee.</p>
+               </sp>
+               <sp who="#ste">
+                  <speaker>Ste.</speaker>
+                  <p>How now shall this be compassed? Canst thou bring me to the party?</p>
+               </sp>
+               <sp who="#cal">
+                  <speaker>Cal.</speaker>
+                  <lg>
+                     <l>Yea, yea, my lord; I'll yield him thee asleep,</l>
+                     <l>Where thou mayst knock a nail into his head.</l>
+                  </lg>
+               </sp>
+               <sp who="#ari">
+                  <speaker>Ari.</speaker>
+                  <p>Thou liest; thou canst not.</p>
+               </sp>
+               <sp who="#cal">
+                  <speaker>Cal.</speaker>
+                  <lg>
+                     <l>What a pied<anchor rend="pre(ᵃ)" xml:id="a074" corresp="#n074"/> ninny's
+                        this!-- Thou scurvy patch!--<anchor rend="pre(ᵇ)" xml:id="a075"
+                           corresp="n075"/></l>
+                     <l>I do beseech thy greatness, give him blows,</l>
+                     <l>And take his bottle from him: when that's gone,</l>
+                     <l>He shall drink nought but brine; for I'll not show him</l>
+                     <l>Where the quick freshes are.</l>
+                  </lg>
+               </sp>
+               <sp who="#ste">
+                  <speaker>Ste.</speaker>
+                 <p>Trinculo, run into no further danger: interrupt the monster one word further, and, by this</p>
                </sp>
             </div>
          </div>
