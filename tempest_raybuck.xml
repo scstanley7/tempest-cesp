@@ -779,6 +779,53 @@
                <p>"Mazes were of two kinds, rectangular and curvilinear; Mr. Knight gives a figure
                   of one of the former." - <hi rend="case(allcaps)">Singer</hi>.</p>
             </note>
+            <note rend="pre(ᵃ)" xml:id="n081" target="#a081">
+               <ref rend="post(])"><quote>A living droppery.</quote></ref>
+               <p>A puppet-show in Shakespeare's time was called a <hi rend="slant(italic)"
+                     >drollery</hi>. This, Sebastian says, is one played by living characters.</p>
+            </note>
+            <note rend="pre((*))" xml:id="n082" target="#a082">
+               <p>First folio, <hi rend="slant(italic)">Islands.</hi></p>
+            </note>
+            <note rend="pre(ᵇ)" xml:id="n083" target="#a083">
+               <ref rend="post(])"><quote>Praise in departing.</quote></ref>
+               <p>A proverbial saying, equivalent to "Await the end before you commend your
+                  entertainment." So in "The Paradise of Dainty Devises," 1596,--</p>
+               <p>"A good beginning oft we see, but seldome standing at one stay, For few do like
+                  the meane degree, then <hi rend="slant(italic)">praise at parting</hi> some men
+                  say."</p>
+            </note>
+
+            <note rend="pre(ᶜ)" xml:id="n084" target="#a084">
+               <ref rend="pre([)post(])"><quote>Each putter-out of five for one--</quote></ref>
+               <p>It was the custom of travellers, when about to make a long voyage, to put out, or
+                  invest, a sum of money, upon a guaruntee that they should receive at the rate of
+                  five for one if they returned. This species of gambling become so much in vogue at
+                  one period that adventurers were in the practice of undertaking dangerous journeys
+                  solely upon the speculation of what their <hi rend="slant(italic)"
+                     >puttings-out</hi> would yield if they got back safe. Of course when the
+                  journey ended fatally, the money they had invested went to the party who had
+                  engaged to pay the enormous interst on it. So, in Barnaby Riche's "Faults and
+                  Nothing but Faults," 1607: "Those whipsters, that, having spent the greatest part
+                  of their patrimony in prodigality, will give out the rest of their stocke <hi
+                     rend="slant(italic)">to be paid</hi> two or <hi rend="slant(italic)">three for
+                     one</hi> upon their return form Rome." See also Fynes Moryson's "Itinerary,"
+                  Part I., p. 198, and Taylor, the water poet's pamphlet, called "The Scourge of
+                  Basenesse: or the Old Lerry, with a new Kicksey, and a new-cum <hi
+                     rend="slant(italic)">twang</hi>, with the old Winsey." The ancient reading is
+                  usually altered in modern editions to "Each putter-out of <hi rend="slant(italic)"
+                     >one for five</hi>," or "Each putter-out <hi rend="slant(italic)">on</hi> five
+                  for one," but no change is called for; Shakespeare and his contemporaries commonly
+                  used <hi rend="slant(italic)">of</hi> for <hi rend="slant(italic)">on</hi>,-- <lg>
+                     <l>"I'd put out moneys <hi rend="slant(italic)">of</hi> being Mayor."</l>
+                  </lg>
+                  <hi rend="align(right)">"The Ordinary," Act I. Sc. 1.</hi>
+               </p>
+            </note>
+            <note rend="pre(ᵈ)">
+               <ref rend="post(])"><quote>Dowle--</quote></ref>
+               <p>Feather; or particle of down.</p>
+            </note>
             <note rend="pre(*)" xml:id="nPLACE" target="#aPLACE">
                <p>The striking the top masts was a new invention in Shakespeare's time, which he
                   here very properly introduces. Sir Henry Manwaring says, "It is not yet agreed
@@ -4941,7 +4988,7 @@
                   <speaker>Seb.</speaker>
                   <lg>
                      <l part="I">No matter, since</l>
-                     <cb n="2"></cb>
+                     <cb n="2"/>
                      <l>They have left thier viands behind; for we have stomachs.--</l>
                      <l part="I">Will't please you taste of what is here?</l>
                   </lg>
@@ -4950,6 +4997,92 @@
                   <speaker>Alon.</speaker>
                   <lg>
                      <l part="F">Not I.</l>
+                  </lg>
+               </sp>
+               <sp who="#gon">
+                  <speaker>Gon.</speaker>
+                  <lg>
+                     <l>Faith, sir, you need not fear. When we were boys,</l>
+                     <l>Who would believe that there were mountaineers</l>
+                     <l>Dew-lapp'd like bulls, whose throats had hanging at 'em</l>
+                     <l>Wallets of flesh? or that there were such men</l>
+                     <l>Whose heads stood in their breasts? which now we find,</l>
+                     <l>Each putter-out of five for one<anchor rend="pre(ᶜ)" xml:id="a085"
+                           corresp="#n085"/> will bring us</l>
+                     <l part="I">Good warrant of.</l>
+                  </lg>
+               </sp>
+               <sp who="#alo">
+                  <speaker>Alon.</speaker>
+                  <lg>
+                     <l part="F">I will stand to, and feed,</l>
+                     <l>Although my last: no matter, since I feel</l>
+                     <l>The best is past.-- Brother, my lord the duke,</l>
+                     <l>Stand to, and do as we.</l>
+                  </lg>
+               </sp>
+               <stage type="mixed" rend="slant(italic)align(center)">Thunder and lightning. Enter
+                     <persName>Ariel</persName>, like a harpy; claps his wings upon the table, and,
+                  with a quant device, the banquet vanishes.</stage>
+               <sp who="#ari">
+                  <speaker>Ari.</speaker>
+                  <lg>
+                     <l>You are three men of sin, whom Destiny,--</l>
+                     <l>That hath to instrument this lower world</l>
+                     <l>And what is in't,-- the never-surfeited sea</l>
+                     <l>Hath caus'd to belch up you, and on this island</l>
+                     <l>Where man doth not inhabit, you 'mongst men</l>
+                     <l>Being most unfit to live. I have made you mad;</l>
+                     <l>And even with such-like valour, men hang and drown</l>
+                     <l part="I">Their proper selves.</l>
+                     <stage type="business" rend="slant(italic)pre([)post(])align(right)"/>
+                     <l part="F">You fools! I and my fellows</l>
+                     <l>Are ministers of Fate: the elements,</l>
+                     <l>Of whom your swords are temper'd, may as well</l>
+                     <l>Wound the loud winds, or with bemock'd-at stabs</l>
+                     <l>Kill the still-closing waters, as diminish</l>
+                     <l>One dowle<anchor rend="pre(ᵈ)" xml:id="a086" corresp="#n086"/> that's in my
+                        plume; my fellow ministers</l>
+                     <l>Are like invulnerable. If you could hurt,</l>
+                     <l>Your swords are now too massy for your strengths,</l>
+                     <l>And will not be uplifted. But, remember,--</l>
+                     <l>For that's my business to you,-- that you three</l>
+                     <l>From Milan did supplant good Prospero;</l>
+                     <l>Expos'd unto the sea, which hath requit it,</l>
+                     <l>Him and his innocent child: for which foul deed</l>
+                     <l part="I">The powers, delaying, not forgetting, have</l>
+                     <fw type="pageNum" rend="align(left)">33</fw>
+                     <fw type="signature" rend="align(right)">D</fw>
+                     <pb n="34"/>
+                     <cb n="1"/>
+                     <l>Incens'd the seas and shores, yea, all the creatures,</l>
+                     <l>Against your peace. Thee of thy son, Alonso,</l>
+                     <l>They have bereft; and do pronounce, by me, </l>
+                     <l>Ling'ring perdition-- worse than any death</l>
+                     <l>Can be at once-- shall step by step attend</l>
+                     <l>You and your ways; whose wraths to guard you from,--</l>
+                     <l>Which here, in this most desolate isle, else falls</l>
+                     <l>Upon your heads,-- is nothing but heart's sorrow,</l>
+                     <l>And a clear life ensuing.</l>
+                  </lg>
+               </sp>
+               <stage type="mixed" rend="slant(italic)align(center)">He vanishes in thunder: then,
+                  to soft music, enter the Shapes again, and dance with mocks and mows, and carry
+                  out the table.</stage>
+               <sp who="#pro">
+                  <speaker>Pro.</speaker>
+                  <lg>
+                     <l><stage type="delivery" rend="pre([)post(])slant(italic)"
+                        >Aside.</stage>Bravely the figure of this harpy hast thou</l>
+                     <l>Perform'd, my Ariel; a grace it had, devouring:</l>
+                     <l>Of my instruction hast thou nothing 'bated,</l>
+                     <l>In what thou hadst to say: so, with good life,<anchor rend="pre(ᵃ)"
+                           xml:id="a087" corresp="#n087"/></l>
+                     <l>And observation strange, my meaner ministers</l>
+                     <l>Their several kinds have done. My high charms work,</l>
+                     <l>And these, mine enemies, are all knit up</l>
+                     <l>In their distractions: they now are in my power;</l>
+                     <cb n="2"></cb>
                   </lg>
                </sp>
             </div>
