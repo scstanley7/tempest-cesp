@@ -710,10 +710,10 @@
                   </lg>
                </p>
             </note>
-            <note rend="pre((*))" xml:id="a071" corresp="#n071">
+            <note rend="pre((*))" xml:id="n071" corresp="#a071">
                <p>Old text, <hi rend="slant(italics)">labours</hi>.</p>
             </note>
-            <note rend="pre(ᵃ)" xml:id="a072" corresp="#n072">
+            <note rend="pre(ᵃ)" xml:id="n072" corresp="#a072">
                <ref rend="post(])"><quote>
                      <lg>
                         <l>-- I forget:</l>
@@ -743,6 +743,88 @@
             <note rend="pre(ᵇ)" xml:id="n073" target="#a073">
                <ref rend="post(])"><quote>Fellow--</quote></ref>
                <p>That is, <hi rend="slant(italic)">companion, pheer.</hi></p>
+            </note>
+            <note rend="pre(ᵃ)" xml:id="n074" target="#a074">
+               <ref rend="post(])"><quote>-- <hi rend="slant(italic)">a</hi> pied <hi
+                        rend="slant(italic)">ninny's this!</hi></quote></ref>
+               <p>An allusion to the <hi rend="slant(italic)">pied</hi>, or party coloured dress
+                  which Trinculo, as a jester, wore.</p>
+            </note>
+            <note rend="pre(ᵇ)" xml:id="n075" target="#a075">
+               <ref rend="post(])"><quote>See notes (ᵇ), p. 127, Vol. I., and (ᵈ), p. 372, Vol.
+                     I.</quote></ref>
+            </note>
+            <note rend="pre((*))" xml:id="n076" target="#a076">
+               <p>Old text, <hi rend="slant(italic)">cout</hi>.</p>
+            </note>
+            <note rend="pre(ᵃ)" xml:id="n077" target="#a077">
+               <ref rend="post(])"><quote>By and by:</quote></ref>
+               <p><hi rend="slant(italic)">By and by,</hi> as well as <hi rend="slant(italic)"
+                     >presently</hi>, now implies some brief delay; but in old language they usually
+                  meant <hi rend="slant(italic)">immediately</hi>.</p>
+            </note>
+            <note rend="pre(ᵇ)" xml:id="n078" target="#a078">
+               <ref rend="post(])"><quote><hi rend="slant(italic)">By'r</hi> lakin,--</quote></ref>
+               <p>A contraction of By our ladykin or, little lady. It occurs in "A Midsummer Night's
+                  Dream." See note (ᵇ), p. 357, Vol. I.</p>
+            </note>
+            <note rend="pre(ᶜ)" xml:id="n079" target="#a079">
+               <ref rend="post(])"><quote>Ache;</quote></ref>
+               <p>This word is now invariably spelt thus formerly, when used as a verb, it took the
+                  form of "<hi rend="slant(italic)">ake</hi>" and, as a substantive, of "<hi
+                     rend="slant(italic)">ache</hi>." See note (ᵉ), p.14.</p>
+            </note>
+            <note rend="pre(ᵈ)" xml:id="n080" target="#a080">
+               <ref rend="post(])"><quote>Through forth-rights and meanders!</quote></ref>
+               <p>"Mazes were of two kinds, rectangular and curvilinear; Mr. Knight gives a figure
+                  of one of the former." - <hi rend="case(allcaps)">Singer</hi>.</p>
+            </note>
+            <note rend="pre(ᵃ)" xml:id="n081" target="#a081">
+               <ref rend="post(])"><quote>A living droppery.</quote></ref>
+               <p>A puppet-show in Shakespeare's time was called a <hi rend="slant(italic)"
+                     >drollery</hi>. This, Sebastian says, is one played by living characters.</p>
+            </note>
+            <note rend="pre((*))" xml:id="n082" target="#a082">
+               <p>First folio, <hi rend="slant(italic)">Islands.</hi></p>
+            </note>
+            <note rend="pre(ᵇ)" xml:id="n083" target="#a083">
+               <ref rend="post(])"><quote>Praise in departing.</quote></ref>
+               <p>A proverbial saying, equivalent to "Await the end before you commend your
+                  entertainment." So in "The Paradise of Dainty Devises," 1596,--</p>
+               <p>"A good beginning oft we see, but seldome standing at one stay, For few do like
+                  the meane degree, then <hi rend="slant(italic)">praise at parting</hi> some men
+                  say."</p>
+            </note>
+
+            <note rend="pre(ᶜ)" xml:id="n084" target="#a084">
+               <ref rend="pre([)post(])"><quote>Each putter-out of five for one--</quote></ref>
+               <p>It was the custom of travellers, when about to make a long voyage, to put out, or
+                  invest, a sum of money, upon a guaruntee that they should receive at the rate of
+                  five for one if they returned. This species of gambling become so much in vogue at
+                  one period that adventurers were in the practice of undertaking dangerous journeys
+                  solely upon the speculation of what their <hi rend="slant(italic)"
+                     >puttings-out</hi> would yield if they got back safe. Of course when the
+                  journey ended fatally, the money they had invested went to the party who had
+                  engaged to pay the enormous interst on it. So, in Barnaby Riche's "Faults and
+                  Nothing but Faults," 1607: "Those whipsters, that, having spent the greatest part
+                  of their patrimony in prodigality, will give out the rest of their stocke <hi
+                     rend="slant(italic)">to be paid</hi> two or <hi rend="slant(italic)">three for
+                     one</hi> upon their return form Rome." See also Fynes Moryson's "Itinerary,"
+                  Part I., p. 198, and Taylor, the water poet's pamphlet, called "The Scourge of
+                  Basenesse: or the Old Lerry, with a new Kicksey, and a new-cum <hi
+                     rend="slant(italic)">twang</hi>, with the old Winsey." The ancient reading is
+                  usually altered in modern editions to "Each putter-out of <hi rend="slant(italic)"
+                     >one for five</hi>," or "Each putter-out <hi rend="slant(italic)">on</hi> five
+                  for one," but no change is called for; Shakespeare and his contemporaries commonly
+                  used <hi rend="slant(italic)">of</hi> for <hi rend="slant(italic)">on</hi>,-- <lg>
+                     <l>"I'd put out moneys <hi rend="slant(italic)">of</hi> being Mayor."</l>
+                  </lg>
+                  <hi rend="align(right)">"The Ordinary," Act I. Sc. 1.</hi>
+               </p>
+            </note>
+            <note rend="pre(ᵈ)">
+               <ref rend="post(])"><quote>Dowle--</quote></ref>
+               <p>Feather; or particle of down.</p>
             </note>
             <note rend="pre(*)" xml:id="nPLACE" target="#aPLACE">
                <p>The striking the top masts was a new invention in Shakespeare's time, which he
@@ -3360,13 +3442,13 @@
                   <speaker>Ant.</speaker>
                   <lg>
                      <l n="928" part="F">Thus sir,:</l>
-                     <l n="929">Although this lord of weak remembrance, <anchor rend="pre(ᵃ)" xml:id="a055"
-                           corresp="#n055"/> this,--</l>
+                     <l n="929">Although this lord of weak remembrance, <anchor rend="pre(ᵃ)"
+                           xml:id="a055" corresp="#n055"/> this,--</l>
                      <l n="930">Who shall be of as little memory</l>
                      <l n="931">When he is earth'd,-- hath here almost persuaded,--</l>
                      <l n="932">For he's a spirit of persuasion, only</l>
-                     <l n="933">Professes to persuade,<anchor rend="pre(ᵇ)" xml:id="a056" corresp="#n056"
-                        />-- the king his son's alive,--</l>
+                     <l n="933">Professes to persuade,<anchor rend="pre(ᵇ)" xml:id="a056"
+                           corresp="#n056"/>-- the king his son's alive,--</l>
                      <cb n="2"/>
                      <l n="934">'T is as impossible that he's undrown'd,</l>
                      <l n="935" part="I">As he that sleeps here, swims.</l>
@@ -3386,8 +3468,8 @@
                      <l n="939">What great hope have you! no hope, that way, is</l>
                      <l n="940">Another way so high a hope, that even</l>
                      <l n="941">Ambition cannot pierce a wink beyond,</l>
-                     <l n="942">But doubts<anchor rend="pre(*)" xml:id="a057" corresp="#n057"/> discovery
-                        there. Will you grant with me,</l>
+                     <l n="942">But doubts<anchor rend="pre(*)" xml:id="a057" corresp="#n057"/>
+                        discovery there. Will you grant with me,</l>
                      <l n="943" part="I">That Ferdinand is drown'd?</l>
                   </lg>
                </sp>
@@ -3420,8 +3502,8 @@
                      <l n="952">Be rough and razorable; she,<anchor rend="pre(ᶜ)" xml:id="a058"
                            corresp="#n058"/> from whom</l>
                      <l n="953">We all were sea-swallow'd, though some cast again;</l>
-                     <l n="954">And, by that destiny,<anchor rend="pre(ᵈ)" xml:id="a059" corresp="#n059"/>
-                        to perform an act,</l>
+                     <l n="954">And, by that destiny,<anchor rend="pre(ᵈ)" xml:id="a059"
+                           corresp="#n059"/> to perform an act,</l>
                      <l n="955">Whereof whats past is prologue; what to come,</l>
                      <l n="956" part="I">In yours and my discharge.</l>
                   </lg>
@@ -3439,10 +3521,11 @@
                   <speaker>Ant.</speaker>
                   <lg>
                      <l n="961" part="F">A space whose every cubit</l>
-                     <l n="962">Seems to cry out, <hi rend="slant(italic)">How shall that Claribel</hi></l>
+                     <l n="962">Seems to cry out, <hi rend="slant(italic)">How shall that
+                           Claribel</hi></l>
                      <l n="963" rend="slant(italic)">Measure us back to Naples? Keep in Tunis,</l>
-                     <l n="964"><hi rend="slant(italic)">And let Sebastian wake!</hi>-- Say, this were
-                        death</l>
+                     <l n="964"><hi rend="slant(italic)">And let Sebastian wake!</hi>-- Say, this
+                        were death</l>
                      <l n="965">That now hath seiz'd them; why, they were no worse</l>
                      <l n="966">Than now they are. There be that can rule Naples</l>
                      <l n="967">As well as he that sleeps; lords that can prate</l>
@@ -3506,8 +3589,8 @@
                      <l n="992">To the perpetual wink for aye might put</l>
                      <l n="993">This ancient morsel, this sir Prudence, who</l>
                      <l n="994">Should not upbraid our course. For all the rest,</l>
-                     <l n="995">They'll take suggestion<anchor rend="pre(ᵃ)" xml:id="a060" corresp="#n060"/>
-                        as a cat laps milk;</l>
+                     <l n="995">They'll take suggestion<anchor rend="pre(ᵃ)" xml:id="a060"
+                           corresp="#n060"/> as a cat laps milk;</l>
                      <l n="996">They'll tell the clock to any business that</l>
                      <l n="997" part="I">We say befits the hour.</l>
                   </lg>
@@ -3544,8 +3627,8 @@
                   <lg>
                      <l n="1008">My master through his art foresees the danger</l>
                      <l n="1009">That you, his friend, are in; and sends me forth,--</l>
-                     <l n="1010">For else his project dies,-- to keep them<anchor rend="pre(ᵇ)" xml:id="a061"
-                           corresp="#n061"/> living.</l>
+                     <l n="1010">For else his project dies,-- to keep them<anchor rend="pre(ᵇ)"
+                           xml:id="a061" corresp="#n061"/> living.</l>
                   </lg>
                </sp>
                <stage n="1011" type="business" rend="slant(italic)align(right)pre([)">Sings in
@@ -3568,18 +3651,18 @@
                <sp who="#gon">
                   <speaker>Gon.</speaker>
                   <lg>
-                     <l n="1019"><stage type="business" rend="pre([)post(])slant(italic)">Waking.</stage>
-                        Now, good angels, preserve the king!</l>
-                     <l n="1020">Why, how now?<anchor rend="pre(ᶜ)" xml:id="a062" corresp="#n062"/> ho,
-                        awake! Why are you drawn?</l>
+                     <l n="1019"><stage type="business" rend="pre([)post(])slant(italic)"
+                           >Waking.</stage> Now, good angels, preserve the king!</l>
+                     <l n="1020">Why, how now?<anchor rend="pre(ᶜ)" xml:id="a062" corresp="#n062"/>
+                        ho, awake! Why are you drawn?</l>
                      <l n="1021">Wherefore this ghastly looking?</l>
                   </lg>
                </sp>
                <sp who="#alo">
                   <speaker>Alon.</speaker>
                   <lg>
-                     <l n="1022"><stage type="business" rend="pre([)post(])slant(italic)">Waking.</stage>
-                        Whats the matter?</l>
+                     <l n="1022"><stage type="business" rend="pre([)post(])slant(italic)"
+                           >Waking.</stage> Whats the matter?</l>
                   </lg>
                </sp>
                <sp who="#seb">
@@ -3618,8 +3701,8 @@
                      <l n="1033">And that a strange one too, which did awake me:</l>
                      <l n="1034">I shak'd you, sir, ad cried; as mine eyes open'd,</l>
                      <l n="1035">I saw their weapons drawn:-- there was a noise,</l>
-                     <l n="1036">That's verity.<anchor rend="pre(ᵈ)" xml:id="a063" corresp="#n063"/> 'Tis
-                        best we stand upon our guard,</l>
+                     <l n="1036">That's verity.<anchor rend="pre(ᵈ)" xml:id="a063" corresp="#n063"/>
+                        'Tis best we stand upon our guard,</l>
                      <l n="1037">Or that we quit this place: let's draw our weapons.</l>
                   </lg>
                </sp>
@@ -3640,8 +3723,8 @@
                <sp who="#alo">
                   <speaker>Alon.</speaker>
                   <lg>
-                     <l n="1042">Lead away. <stage type="exit" rend="pre([)slant(italic)align(right)"
-                           >Exeunt.</stage></l>
+                     <l n="1042">Lead away. <stage type="exit"
+                           rend="pre([)slant(italic)align(right)">Exeunt.</stage></l>
                   </lg>
                </sp>
                <sp who="#ari">
@@ -3656,8 +3739,8 @@
             <div type="scene" n="2">
                <stage n="1045" type="setting"><hi rend="case(allcaps)">Scene</hi> II. -- <hi
                      rend="slant(italic)">Another Part of the </hi>Island</stage>
-               <stage n="1046" type="mixed">Enter <persName>Caliban</persName>, with a burden of wood. A
-                  noise of thunder heard.</stage>
+               <stage n="1046" type="mixed">Enter <persName>Caliban</persName>, with a burden of
+                  wood. A noise of thunder heard.</stage>
                <sp who="#cal">
                   <speaker>Cal.</speaker>
                   <lg>
@@ -3681,8 +3764,8 @@
                      </figure>
                      <cb n="1"/>
                      <l n="1058">Their pricks at my footfall; sometime am I</l>
-                     <l n="1059">All wound<anchor rend="pre(ᵃ)" xml:id="a064" corresp="#n064"/> with adders,
-                        who, with cloven tongues,</l>
+                     <l n="1059">All wound<anchor rend="pre(ᵃ)" xml:id="a064" corresp="#n064"/> with
+                        adders, who, with cloven tongues,</l>
                      <l n="1060">Do hiss me into madness.-- Lo, now! lo!</l>
                      <cb n="2"/>
                      <l n="1061">Here comes a spirit of his; and to torment me,</l>
@@ -3699,9 +3782,9 @@
                      </hi><persName>Trinculo</persName>.</stage>
                <sp who="#tri">
                   <speaker>Trin.</speaker>
-                  <p><s n="1065">Here's neither bush nor shrub, to bear off any weather at all, and another
-                     storm brewing; <cb n="2"/> I hear it sing i' the wind: yond same black cloud,
-                     yond huge one, looks like a foul bombard that</s></p>
+                  <p><s n="1065">Here's neither bush nor shrub, to bear off any weather at all, and
+                        another storm brewing; <cb n="2"/> I hear it sing i' the wind: yond same
+                        black cloud, yond huge one, looks like a foul bombard that</s></p>
                   <fw type="pageNum" rend="align(right)">23</fw>
                   <pb n="24"/>
                   <figure>
@@ -3709,22 +3792,30 @@
                         and holding a bottle and looks very unsteady.</figDesc>
                   </figure>
                   <cb n="1"/>
-                  <p><s n="1066">would shed his liquor.</s><s n="1067">If it should thunder as it did before, I know not where
-                     to hide my head: yond same cloud cannot choose but fall by pailfuls.</s>--<s n="1068"> What
-                     have we here?</s> <s n="1069">a man or a fish?</s> <s n="1070">dead or alive?</s> <s n="1071">A fish: he smells like a fish: a
-                     very ancient and fish-like smell; a kind of, not of the newest, poor-John.</s> <s n="1072">A
-                     strange fish!</s><s n="1073"> were I in England now (as I once was), and had but this fish
-                     painted, not a holiday fool there but would give a piece of silver: there would
-                     this monster make a man; any strange beast there makes a man: when they will
-                     not give a doit to relieve a lame beggar, they will lay out ten to see a dead
-                     Indian.</s><s n="1074"> (3) <!--illustrative comment--> Legged like a man!</s><s n="1075"> and his fins like
-                     arms!</s> <s n="1076">Warm, o' my truth! </s><s n="1077">I do now let loose my opinion, hold it no longer,--
-                     this is no fish, but an islander, that hath lately suffered by a thunderbolt</s>.
-                        <stage n="1078" type="business" rend="pre([)post(])slant(italic)">Thunder.</stage>
-                     <s n="1079">Alas, the storm is come again!</s><s n="1080"> my best way is to creep under his
-                        gaberdine;</s><anchor rend="pre(ᵃ)" xml:id="a065" corresp="#n065"/> <s n="1080">there is no
-                     other shelter herabout: misery acquaints a man with strange bedfellows.</s> <s n="1081">I will
-                     here shroud till the dregs of the storm be past.</s></p>
+                  <p><s n="1066">would shed his liquor.</s><s n="1067">If it should thunder as it
+                        did before, I know not where to hide my head: yond same cloud cannot choose
+                        but fall by pailfuls.</s>--<s n="1068"> What have we here?</s>
+                     <s n="1069">a man or a fish?</s>
+                     <s n="1070">dead or alive?</s>
+                     <s n="1071">A fish: he smells like a fish: a very ancient and fish-like smell;
+                        a kind of, not of the newest, poor-John.</s>
+                     <s n="1072">A strange fish!</s><s n="1073"> were I in England now (as I once
+                        was), and had but this fish painted, not a holiday fool there but would give
+                        a piece of silver: there would this monster make a man; any strange beast
+                        there makes a man: when they will not give a doit to relieve a lame beggar,
+                        they will lay out ten to see a dead Indian.</s><s n="1074"> (3)
+                        <!--illustrative comment--> Legged like a man!</s><s n="1075"> and his fins
+                        like arms!</s>
+                     <s n="1076">Warm, o' my truth! </s><s n="1077">I do now let loose my opinion,
+                        hold it no longer,-- this is no fish, but an islander, that hath lately
+                        suffered by a thunderbolt</s>. <stage n="1078" type="business"
+                        rend="pre([)post(])slant(italic)">Thunder.</stage>
+                     <s n="1079">Alas, the storm is come again!</s><s n="1080"> my best way is to
+                        creep under his gaberdine;</s><anchor rend="pre(ᵃ)" xml:id="a065"
+                        corresp="#n065"/>
+                     <s n="1080">there is no other shelter herabout: misery acquaints a man with
+                        strange bedfellows.</s>
+                     <s n="1081">I will here shroud till the dregs of the storm be past.</s></p>
                </sp>
                <stage n="1082" type="entrance" rend="slant(italic)align(center)">Enter
                      <persName>Stephano</persName>, singing; a bottle in his hand.</stage>
@@ -3734,23 +3825,25 @@
                      <l n="1083">I shall no more to sea, to sea,</l>
                      <l n="1084">Here I shall die ashore;--</l>
                   </lg>
-                  <p><s n="1085">This is a very scurvy tune to sing at a man's funeral: well, heres my
-                     comfort.</s></p>
-                  <stage n="1086" type="business" rend="slant(italic)pre([)align(right)">Drinks.</stage>
+                  <p><s n="1085">This is a very scurvy tune to sing at a man's funeral: well, heres
+                        my comfort.</s></p>
+                  <stage n="1086" type="business" rend="slant(italic)pre([)align(right)"
+                     >Drinks.</stage>
                   <lg rend="slant(italic)" type="song">
                      <l n="1087">The master, the swabber, the boatswain, and I,</l>
                      <l n="1088">The gunner, and his mate,</l>
                      <l n="1089">Lov'd Mall, Meg, and Marian, and Margery,</l>
                      <l n="1090">But none of us car'd for Kate:</l>
                      <l n="1091">For she had a tongue with a tang,</l>
-                     <l n="1092">Would cry to a sailor, <!--is this correct?--><hi rend="slant(none)">Go
-                           hang</hi></l>
+                     <l n="1092">Would cry to a sailor, <!--is this correct?--><hi
+                           rend="slant(none)">Go hang</hi></l>
                      <l n="1093">She lov'd not the savour of tar nor of pitch,</l>
                      <l n="1094">Yet a tailor might scratch her where'er she did itch;</l>
                      <l n="1095">Then to sea, boys, and let her go hang!</l>
                   </lg>
                   <p><s n="1096">This is a scurvy tune too: but heres my comfort.</s></p>
-                  <stage n="1097" type="business" rend="slant(italic)pre([)align(right)">Drinks.</stage>
+                  <stage n="1097" type="business" rend="slant(italic)pre([)align(right)"
+                     >Drinks.</stage>
                </sp>
                <sp who="#cal">
                   <speaker>Cal.</speaker>
@@ -3760,11 +3853,12 @@
                </sp>
                <sp who="#ste">
                   <speaker>Ste.</speaker>
-                  <p><s n="1099">Whats the matter?</s> <s n="1100">Have we devils here?</s><s n="1101"> Do you put tricks upon's with salvages
-                     and men of Inde, ha?</s><s n="1102"> I have not 'scaped drowning, to be afeared now of your
-                     four legs; for it hath been said, As proper a man as ever went on four legs
-                     cannot make him give ground: and it shall be said so again, while Stephano
-                     breathes at nostrils.</s></p>
+                  <p><s n="1099">Whats the matter?</s>
+                     <s n="1100">Have we devils here?</s><s n="1101"> Do you put tricks upon's with
+                        salvages and men of Inde, ha?</s><s n="1102"> I have not 'scaped drowning,
+                        to be afeared now of your four legs; for it hath been said, As proper a man
+                        as ever went on four legs cannot make him give ground: and it shall be said
+                        so again, while Stephano breathes at nostrils.</s></p>
                </sp>
                <sp who="#cal">
                   <speaker>Cal.</speaker>
@@ -3774,8 +3868,10 @@
                </sp>
                <sp who="#ste">
                   <speaker>Ste.</speaker>
-                  <p><s n="1104">This is some monster of the isle with four legs, who hath got, as I take it, an
-                     ague.</s> <s n="1104">Where the devil should he learn our language? </s><s n="1105">I will</s></p>
+                  <p><s n="1104">This is some monster of the isle with four legs, who hath got, as I
+                        take it, an ague.</s>
+                     <s n="1104">Where the devil should he learn our language? </s><s n="1105">I
+                        will</s></p>
                   <fw type="pageNum" rend="align(left)">24</fw>
                   <pb n="25"/>
                   <figure>
@@ -3783,44 +3879,48 @@
                         it, Trinculo watches in shock.</figDesc>
                   </figure>
                   <cb n="1"/>
-                  <p><s n="1106">give him some relief, if it be but for that.</s><s n="1107"> If I can recover him, and keep him
-                     tame, and get to Naples with him, he's a present for any emperor that ever trod
-                     on neat's-leather.</s></p>
+                  <p><s n="1106">give him some relief, if it be but for that.</s><s n="1107"> If I
+                        can recover him, and keep him tame, and get to Naples with him, he's a
+                        present for any emperor that ever trod on neat's-leather.</s></p>
                   <p/>
                </sp>
                <sp who="#cal">
                   <speaker>Cal.</speaker>
-                  <p><s n="1108">Do not torment me, py'ythee!</s><s n="1109"> I'll bring my wood home faster.</s></p>
+                  <p><s n="1108">Do not torment me, py'ythee!</s><s n="1109"> I'll bring my wood
+                        home faster.</s></p>
                </sp>
                <sp who="#ste">
                   <speaker>Ste.</speaker>
-                  <p><s n="1110">He's in his fit now; and does not talk after the wisest.</s> <s n="1111">He shall taste of my
-                     bottle: if he have never drunk wine afore, it will go near to remove his fit.</s>
-                     <s n="1112">If I can recover him, and keep him tame, I will not take too much for him: he
-                     shall pay for him that hat him, and that soundly.</s></p>
+                  <p><s n="1110">He's in his fit now; and does not talk after the wisest.</s>
+                     <s n="1111">He shall taste of my bottle: if he have never drunk wine afore, it
+                        will go near to remove his fit.</s>
+                     <s n="1112">If I can recover him, and keep him tame, I will not take too much
+                        for him: he shall pay for him that hat him, and that soundly.</s></p>
                </sp>
                <sp who="#cal">
                   <speaker>Cal.</speaker>
-                  <p><s n="1113">Thou dost me yet but little hurt; thou wilt anon, I know it by thy trembling:
-                     now Prosper works upon thee.</s></p>
+                  <p><s n="1113">Thou dost me yet but little hurt; thou wilt anon, I know it by thy
+                        trembling: now Prosper works upon thee.</s></p>
                </sp>
                <sp who="#ste">
                   <speaker>Ste.</speaker>
-                  <p><s n="1114">Come on your ways; open your mouth; here is that which will give language to
-                     you, cat; open your mouth; this will shake your shaking, I can tell you, and
-                     that soundly: you cannot tell who's your friend: open your chaps again.</s></p>
+                  <p><s n="1114">Come on your ways; open your mouth; here is that which will give
+                        language to you, cat; open your mouth; this will shake your shaking, I can
+                        tell you, and that soundly: you cannot tell who's your friend: open your
+                        chaps again.</s></p>
                </sp>
                <sp who="#tri">
                   <speaker>Trin.</speaker>
-                  <p><s n="1115">I should know that voice: t should be-- but he is drowned; and these are
-                     devils:-- O! defend me!--</s></p>
+                  <p><s n="1115">I should know that voice: t should be-- but he is drowned; and
+                        these are devils:-- O! defend me!--</s></p>
                </sp>
                <sp who="#ste">
                   <speaker>Ste.</speaker>
-                  <p><s n="1116">Four legs and two voices; a most delicate monster!</s> <s n="1117">His forward voice now, is to
-                     speak well of his friend; his backward voice is to utter foul speeches and to
-                     detract.</s><s n="1118"> If all the wine in my bottle will recover him, I will help his ague:
-                     Come;-- Amen!</s><anchor rend="pre(ᵃ)" xml:id="a066" corresp="#n066"/></p>
+                  <p><s n="1116">Four legs and two voices; a most delicate monster!</s>
+                     <s n="1117">His forward voice now, is to speak well of his friend; his backward
+                        voice is to utter foul speeches and to detract.</s><s n="1118"> If all the
+                        wine in my bottle will recover him, I will help his ague: Come;--
+                        Amen!</s><anchor rend="pre(ᵃ)" xml:id="a066" corresp="#n066"/></p>
                </sp>
                <sp who="#tri">
                   <speaker>Trin.</speaker>
@@ -3828,27 +3928,33 @@
                </sp>
                <sp who="#Ste">
                   <speaker>Ste.</speaker>
-                  <p><s n="1120">Doth thy other mouth call me?</s> <s n="1121">Mercy!</s> <s n="1122">mercy!</s> <s n="1123">This is a devil, and no monster: I
-                     will leave him: I have no long spoon.</s><anchor rend="pre(ᵇ)" xml:id="a067"
-                        corresp="#n067"/></p>
+                  <p><s n="1120">Doth thy other mouth call me?</s>
+                     <s n="1121">Mercy!</s>
+                     <s n="1122">mercy!</s>
+                     <s n="1123">This is a devil, and no monster: I will leave him: I have no long
+                        spoon.</s><anchor rend="pre(ᵇ)" xml:id="a067" corresp="#n067"/></p>
                </sp>
                <sp who="#tri">
                   <speaker>Trin.</speaker>
-                  <p><s n="1124">Stephano!--</s><s n="1125"> if thou beest Stephano, touch me, and speak to me; for I am
-                     Trinculo,-- be not afeard,-- thy good friend Trinculo.</s></p>
+                  <p><s n="1124">Stephano!--</s><s n="1125"> if thou beest Stephano, touch me, and
+                        speak to me; for I am Trinculo,-- be not afeard,-- thy good friend
+                        Trinculo.</s></p>
                </sp>
                <sp who="#ste">
                   <speaker>Ste.</speaker>
-                  <p><s n="1125">If thou beest Trinculo, come forth: I'll pull thee by the lesser legs: if any
-                     be Trinculo's legs, these are they.--</s><s n="1126"> Thou art very Trinculo, indeed: how
-                     camest thou to be the siege of this moon-calf?</s><s n="1127"> can he vent Trinculos?</s></p>
+                  <p><s n="1125">If thou beest Trinculo, come forth: I'll pull thee by the lesser
+                        legs: if any be Trinculo's legs, these are they.--</s><s n="1126"> Thou art
+                        very Trinculo, indeed: how camest thou to be the siege of this
+                        moon-calf?</s><s n="1127"> can he vent Trinculos?</s></p>
                </sp>
                <sp who="#tri">
                   <speaker>Trin.</speaker>
-                  <p><s n="1128">I took him to be killed with a thunderstroke:-- but art thou not drowned,
-                     Stephano?</s><s n="1129"> I hope now, thou art not drowned.</s> <s n="1130">Is the storm overblown?</s><s n="1131"> I hid me
-                     under the dead moon-calf's gaberdine for fear of the storm.</s><s n="1132"> And art thou
-                     living, Stephano?</s> <s n="1133">O Stephano, two Neapolitans 'scaped!</s></p>
+                  <p><s n="1128">I took him to be killed with a thunderstroke:-- but art thou not
+                        drowned, Stephano?</s><s n="1129"> I hope now, thou art not drowned.</s>
+                     <s n="1130">Is the storm overblown?</s><s n="1131"> I hid me under the dead
+                        moon-calf's gaberdine for fear of the storm.</s><s n="1132"> And art thou
+                        living, Stephano?</s>
+                     <s n="1133">O Stephano, two Neapolitans 'scaped!</s></p>
                </sp>
                <sp who="#ste">
                   <speaker>Ste.</speaker>
@@ -3857,8 +3963,8 @@
                <sp who="#cal">
                   <speaker>Cal.</speaker>
                   <lg>
-                     <l n="1135"><stage type="delivery" rend="slant(italic)pre([)post(])">Aside.</stage>These
-                        be fine things, an if they be not sprites.</l>
+                     <l n="1135"><stage type="delivery" rend="slant(italic)pre([)post(])"
+                           >Aside.</stage>These be fine things, an if they be not sprites.</l>
                      <l n="1136">That's a brave god, and bears celestial liquor:</l>
                      <l n="1137">I will kneel to him.</l>
                   </lg>
@@ -3873,15 +3979,17 @@
                         dictating to him while holding a bottle.</figDesc>
                   </figure>
                   <cb n="1"/>
-                  <p><s n="1140">hither?</s> <s n="1141">swear by this bottle , how thou camest hither.</s><s n="1142"> I escaped upon a butt of
-                     sack, which the sailors heaved overboard, by this bottle!</s><s n="1142"> which I made of the
-                     bark of a tree, with mine own hands, since I was cast ashore.</s></p>
+                  <p><s n="1140">hither?</s>
+                     <s n="1141">swear by this bottle , how thou camest hither.</s><s n="1142"> I
+                        escaped upon a butt of sack, which the sailors heaved overboard, by this
+                        bottle!</s><s n="1142"> which I made of the bark of a tree, with mine own
+                        hands, since I was cast ashore.</s></p>
                </sp>
                <sp who="#cal">
                   <speaker>Cal.</speaker>
-                  <p><stage n="1143" type="delivery" rend="pre([)post(])slant(italic)">Aside.</stage><s n="1144">I'll
-                     swear upon that bottle, to be thy true subject; for the liquor is not
-                     earthly.</s></p>
+                  <p><stage n="1143" type="delivery" rend="pre([)post(])slant(italic)"
+                        >Aside.</stage><s n="1144">I'll swear upon that bottle, to be thy true
+                        subject; for the liquor is not earthly.</s></p>
                </sp>
                <sp who="#ste">
                   <speaker>Ste.</speaker>
@@ -3889,11 +3997,13 @@
                </sp>
                <sp who="#tri">
                   <speaker>Trin.</speaker>
-                  <p><s n="1146">Swam ashore, man, like a duck; I can swim like a duck, I'll be sworn.</s></p>
+                  <p><s n="1146">Swam ashore, man, like a duck; I can swim like a duck, I'll be
+                        sworn.</s></p>
                </sp>
                <sp who="#ste">
                   <speaker>Ste.</speaker>
-                  <p><s n="1147">Here, kiss the book.</s> <s n="1148">Though thou canst swim like a duck, thou art made like a
+                  <p><s n="1147">Here, kiss the book.</s>
+                     <s n="1148">Though thou canst swim like a duck, thou art made like a
                      goose.</s></p>
                </sp>
                <sp who="#tri">
@@ -3902,8 +4012,9 @@
                </sp>
                <sp who="#ste">
                   <speaker>Ste.</speaker>
-                  <p><s n="1150">The whole butt, man; my cellar is in a rock by the sea-side, where my wine is
-                     hid.--</s><s n="1151"> How now, moon-calf?</s><s n="1152"> how does thine ague?</s></p>
+                  <p><s n="1150">The whole butt, man; my cellar is in a rock by the sea-side, where
+                        my wine is hid.--</s><s n="1151"> How now, moon-calf?</s><s n="1152"> how
+                        does thine ague?</s></p>
                </sp>
                <sp who="#cal">
                   <speaker>Cal.</speaker>
@@ -3911,7 +4022,8 @@
                </sp>
                <sp who="#ste">
                   <speaker>Ste.</speaker>
-                  <p><s n="1154">Out o' the moon, I do assure thee: I was the man i' the moon when time was.</s></p>
+                  <p><s n="1154">Out o' the moon, I do assure thee: I was the man i' the moon when
+                        time was.</s></p>
                </sp>
                <sp who="#cal">
                   <speaker>Cal.</speaker>
@@ -3923,16 +4035,17 @@
                <sp who="#ste">
                   <speaker>Ste.</speaker>
                   <lg>
-                     <l n="1157">Come, swear to that; kiss the book:-- I will furnish it anon with new
-                        contents:-- swear.</l>
+                     <l n="1157">Come, swear to that; kiss the book:-- I will furnish it anon with
+                        new contents:-- swear.</l>
                   </lg>
                </sp>
                <sp who="#tri">
                   <speaker>Trin.</speaker>
-                  <p><s n="1158">By this good light, this is a very shallow monster: I afeard of him!--</s><s n="1159">a very
-                     weak mon <cb n="2"/> ster:-- <hi rend="slant(italic)">The man i' the
-                     moon!</hi></s>--<s n="1160"> a most porr credulous monster!--</s><s n="1161">Well drawn, monster, in good
-                     sooth.</s></p>
+                  <p><s n="1158">By this good light, this is a very shallow monster: I afeard of
+                        him!--</s><s n="1159">a very weak mon <cb n="2"/> ster:-- <hi
+                           rend="slant(italic)">The man i' the moon!</hi></s>--<s n="1160"> a most
+                        porr credulous monster!--</s><s n="1161">Well drawn, monster, in good
+                        sooth.</s></p>
                </sp>
                <sp who="#cal">
                   <speaker>Cal.</speaker>
@@ -3946,8 +4059,9 @@
                </sp>
                <sp who="#tri">
                   <speaker>Trin.</speaker>
-                  <p><s n="1163">I shall laugh myself to death at this puppy-headed monster: a most scurvy
-                     monster!</s> <s n="1164">I could find in my heart to beat him.</s></p>
+                  <p><s n="1163">I shall laugh myself to death at this puppy-headed monster: a most
+                        scurvy monster!</s>
+                     <s n="1164">I could find in my heart to beat him.</s></p>
                </sp>
                <sp who="#ste">
                   <speaker>Ste.</speaker>
@@ -3955,7 +4069,8 @@
                </sp>
                <sp who="#tri">
                   <speaker>Trin.</speaker>
-                  <p><s n="1166">But that the poor monster's in drink, an abominable monster!</s></p>
+                  <p><s n="1166">But that the poor monster's in drink, an abominable
+                     monster!</s></p>
                </sp>
                <sp who="#cal">
                   <speaker>Cal.</speaker>
@@ -3969,7 +4084,8 @@
                </sp>
                <sp who="#tri">
                   <speaker>Trin.</speaker>
-                  <p><s n="1172">A most ridiculous monster!</s><s n="1173">to make a wonder of a poor drunkard!</s></p>
+                  <p><s n="1172">A most ridiculous monster!</s><s n="1173">to make a wonder of a
+                        poor drunkard!</s></p>
                </sp>
                <sp who="#cal">
                   <speaker>Cal.</speaker>
@@ -3982,17 +4098,18 @@
                      <l n="1176">Show thee a jay's nest, and instruct thee how</l>
                      <l n="1177">To snare the nimble marmozet; I'll bring thee</l>
                      <l n="1178">To clust'ring filberds, and sometimes I'll get thee</l>
-                     <l n="1179">Young scamels<anchor rend="pre(ᵃ)" xml:id="a068" corresp="#n068"/> from the
-                        rock. Wilt thou go with me?</l>
+                     <l n="1179">Young scamels<anchor rend="pre(ᵃ)" xml:id="a068" corresp="#n068"/>
+                        from the rock. Wilt thou go with me?</l>
                   </lg>
                </sp>
                <sp who="#ste">
                   <speaker>Ste.</speaker>
-                  <p><s n="1180">I pr'ythee now, lead the way, without any more talking.--</s> <s n="1181">Trinculo, the king
-                     and all our company else being drowned, we will inherity here.--</s> <stage n="1182"
-                        type="delivery" rend="slant(italic)pre([)post(])">To
-                           <persName>Caliban.</persName></stage><s n="1183">Here; bear my bottle.-- </s><s n="1184">Fellow
-                     Trinculo, we'll fill him by and by again.</s></p>
+                  <p><s n="1180">I pr'ythee now, lead the way, without any more talking.--</s>
+                     <s n="1181">Trinculo, the king and all our company else being drowned, we will
+                        inherity here.--</s>
+                     <stage n="1182" type="delivery" rend="slant(italic)pre([)post(])">To
+                           <persName>Caliban.</persName></stage><s n="1183">Here; bear my bottle.--
+                        </s><s n="1184">Fellow Trinculo, we'll fill him by and by again.</s></p>
                </sp>
                <sp who="#cal">
                   <speaker>Cal.</speaker>
@@ -4011,8 +4128,8 @@
                      <l n="1188">No more dams I'll make for fish;</l>
                      <l n="1189">Nor fetch in firing</l>
                      <l n="1190">At requiring,</l>
-                     <l n="1191">Nor scrape trencher,<anchor rend="pre(ᵇ)" xml:id="a069" corresp="#n069"/>
-                        nor wash dish:</l>
+                     <l n="1191">Nor scrape trencher,<anchor rend="pre(ᵇ)" xml:id="a069"
+                           corresp="#n069"/> nor wash dish:</l>
                      <l n="1192">'Ban, 'Ban, Ca-Caliban</l>
                      <l n="1193">Has a new master-- Get a new man.</l>
                      <l n="1194">Freedom, hey-day! hey-day, <anchor rend="pre(ᶜ)" xml:id="a070"
@@ -4046,8 +4163,8 @@
                      I</hi>.-- <hi rend="slant(italic)">Before <persName>Prospero's</persName>
                      Cell</hi></stage>
                <cb n="1"/>
-               <stage n="1199" type="entrance" rend="slant(italic)">Enter <persName>Ferdinand</persName>,
-                  bearing a log.</stage>
+               <stage n="1199" type="entrance" rend="slant(italic)">Enter
+                     <persName>Ferdinand</persName>, bearing a log.</stage>
                <sp who="#fer">
                   <speaker>Fer.</speaker>
                   <lg>
@@ -4067,14 +4184,14 @@
                      <pb n="29"/>
                      <cb n="1"/>
                      <l n="1212">Had never like executor. I forget:</l>
-                     <l n="1213">But these sweet thoughts do even refresh my labour;<anchor rend="pre(*)"
-                           xml:id="a071" corresp="#n071"/></l>
-                     <l n="1214" part="I">Most busy felt, when I do it.<anchor rend="pre(ᵃ)" xml:id="a072"
-                           corresp="#n072"/></l>
+                     <l n="1213">But these sweet thoughts do even refresh my labour;<anchor
+                           rend="pre(*)" xml:id="a071" corresp="#n071"/></l>
+                     <l n="1214" part="I">Most busy felt, when I do it.<anchor rend="pre(ᵃ)"
+                           xml:id="a072" corresp="#n072"/></l>
                   </lg>
                </sp>
-               <stage n="1215" type="mixed" rend="slant(italics)">Enter <persName>Miranda</persName>, and
-                     <persName>Prospero</persName> following.</stage>
+               <stage n="1215" type="mixed" rend="slant(italics)">Enter
+                  <persName>Miranda</persName>, and <persName>Prospero</persName> following.</stage>
                <sp who="#mira">
                   <speaker>Mira.</speaker>
                   <lg>
@@ -4464,7 +4581,7 @@
                   <lg>
                      <l>What a pied<anchor rend="pre(ᵃ)" xml:id="a074" corresp="#n074"/> ninny's
                         this!-- Thou scurvy patch!--<anchor rend="pre(ᵇ)" xml:id="a075"
-                           corresp="n075"/></l>
+                           corresp="#n075"/></l>
                      <l>I do beseech thy greatness, give him blows,</l>
                      <l>And take his bottle from him: when that's gone,</l>
                      <l>He shall drink nought but brine; for I'll not show him</l>
@@ -4473,7 +4590,500 @@
                </sp>
                <sp who="#ste">
                   <speaker>Ste.</speaker>
-                 <p>Trinculo, run into no further danger: interrupt the monster one word further, and, by this</p>
+                  <p>Trinculo, run into no further danger: interrupt the monster one word further,
+                     and, by this</p>
+                  <fw type="pageNum" rend="align(right)">30</fw>
+                  <pb n="31"/>
+                  <figure>
+                     <figDesc>Caliban is kneeling before Stephano who appears to be drunk and
+                        leaning backwards against Trinculo who is similarly intoxicated. In front of
+                        them is a large jug and behind them is Ariel, flying unseen in the
+                        background.</figDesc>
+                  </figure>
+                  <cb n="1"/>
+                  <p>hand, I'll turn my mercy out of doors, and make a stock-fish of thee.</p>
+               </sp>
+               <sp who="#tri">
+                  <speaker>Trin.</speaker>
+                  <p>Why, what did I ? I did nothing; I'll go further off.</p>
+               </sp>
+               <sp who="#ste">
+                  <speaker>Ste.</speaker>
+                  <p>Didst thou not say he lied?</p>
+               </sp>
+               <sp who="#ari">
+                  <speaker>Ari.</speaker>
+                  <p>Thou liest.</p>
+               </sp>
+               <sp who="#ste">
+                  <speaker>Ste.</speaker>
+                  <p>Do I so? take thou that.</p>
+                  <stage type="business" rend="slant(italic)pre([)post(])align(right)">Strikes
+                        <persName>Trinculo</persName>.</stage>
+                  <p>As you like this, give me the lie another time.</p>
+               </sp>
+               <sp who="#tri">
+                  <speaker>Trin.</speaker>
+                  <p part="I">I did not give the lie:-- out o' your wits, and hearing too?</p>
+                  <cb n="2"/>
+                  <p part="F">-- A pox o' your bottle! this can sack and drinking do.-- A murrain on
+                     your monster, and the devil take your fingers!</p>
+               </sp>
+               <sp who="#cal">
+                  <speaker>Cal.</speaker>
+                  <p>Ha, ha, ha!</p>
+               </sp>
+               <sp who="#ste">
+                  <speaker>Ste.</speaker>
+                  <p>Now, forward with your tale.-- Pr'ythee stand further off.</p>
+               </sp>
+               <sp who="#cal">
+                  <speaker>Cal.</speaker>
+                  <p>Beat him enough: after a little time, I'll beat him too.</p>
+               </sp>
+               <sp who="#ste">
+                  <speaker>Ste.</speaker>
+                  <p>Stand further.-- Come, proceed.</p>
+               </sp>
+               <sp who="#cal">
+                  <speaker>Cal.</speaker>
+                  <lg>
+                     <l>Why, as I told thee, 't is a custom with him</l>
+                     <fw type="pageNum" rend="align(right)">31</fw>
+                     <pb n="31"/>
+                     <l>I' the afternoon to sleep: there thou mayst brain him,</l>
+                     <l>Having first seiz'd his books; or with a log</l>
+                     <l>Batter his skull, or paunch him with a stake,</l>
+                     <l>Or cut his wezand with thy knife. Remember,</l>
+                     <l>First to possess his books; for without them</l>
+                     <l>He's but a sot, as I am, nor hath not</l>
+                     <l>One spirit to command: they all do hate him,</l>
+                     <l>As rootedly as I:-- burn but his books;</l>
+                     <l>He has brave utensils,-- for so he calls them,--</l>
+                     <l>Which, when he has a house, he'll deck withal:</l>
+                     <l>And that most deeply to consider, is</l>
+                     <l>The beauty of his daughter; he himself</l>
+                     <l>Calls her a nonpareil: I never saw a woman,</l>
+                     <l>But only Sycorax my dam and she;</l>
+                     <l>But she as far surpasseth Sycorax,</l>
+                     <l part="I">As great'st does least.</l>
+                  </lg>
+               </sp>
+               <sp who="#ste">
+                  <speaker>Ste.</speaker>
+                  <lg>
+                     <l part="F">Is it so brave a lass?</l>
+                  </lg>
+               </sp>
+               <sp who="#cal">
+                  <speaker>Cal.</speaker>
+                  <lg>
+                     <l>Ay, lord; she will become thy bed, I warrant,</l>
+                     <l>And bring thee forth brave brood.</l>
+                  </lg>
+               </sp>
+               <sp who="#ste">
+                  <speaker>Ste.</speaker>
+                  <p>Monster, I will kill this man: his daughter and I will be king and queen,--
+                     save our graces!-- and Trinculo and thyself shall be viceroys.-- Dost thou like
+                     the plot, Trinculo?</p>
+               </sp>
+               <sp who="#tri">
+                  <speaker>Trin.</speaker>
+                  <p>Excellent.</p>
+               </sp>
+               <sp who="#ste">
+                  <speaker>Ste.</speaker>
+                  <p>Give me thy hand; I am sorry I beat thee; but, while thou livest, keep a good
+                     tongue in thy head.</p>
+               </sp>
+               <sp who="#cal">
+                  <speaker>Cal.</speaker>
+                  <lg>
+                     <l>Within this half-hour will he be asleep;</l>
+                     <l part="I">Wilt thou destroy him then?</l>
+                  </lg>
+               </sp>
+               <sp who="#ste">
+                  <speaker>Ste.</speaker>
+                  <lg>
+                     <l part="F">Ay, on mine honour.</l>
+                  </lg>
+               </sp>
+               <sp who="#ari">
+                  <speaker>Ari.</speaker>
+                  <lg>
+                     <l>This will I tell my master.</l>
+                  </lg>
+               </sp>
+               <sp who="#cal">
+                  <speaker>Cal.</speaker>
+                  <lg>
+                     <l>Thou mak'st me merry; I am full of pleasure;</l>
+                     <l>Let us be jocund: will you troll the catch</l>
+                     <l>You taught me but while-ere?</l>
+                  </lg>
+               </sp>
+               <sp who="#ste">
+                  <speaker>Ste.</speaker>
+                  <p>At thy request, monster, I will do reason, any reason:-- Come on, Trinculo, let
+                     us sing.</p>
+                  <stage rend="slant(italic)pre([)post(])align(right)" type="delivery"
+                     >Sings.</stage>
+                  <lg rend="slant(italic)" type="song">
+                     <l>Flout 'em, and scout<anchor rend="pre(*)" xml:id="a076" corresp="#n076"/>
+                        'em; and scout 'em, and flout 'em;</l>
+                     <l>Thought is free.</l>
+                  </lg>
+               </sp>
+               <sp who="#cal">
+                  <speaker>Cal.</speaker>
+                  <lg>
+                     <l>That's not the tune.</l>
+                  </lg>
+               </sp>
+               <stage type="business" rend="slant(italic)pre([)post(])align(right)"
+                     ><persName>Ariel</persName> plays the tune on a tabor and pipe.</stage>
+               <sp who="#ste">
+                  <speaker>Ste.</speaker>
+                  <p>What is this same?</p>
+               </sp>
+               <sp who="#tri">
+                  <speaker>Trin.</speaker>
+                  <p>This is the tune of our catch, played by the picture of Nobody.
+                     (1)<!--illustrative comments--></p>
+               </sp>
+               <sp who="#ste">
+                  <speaker>Ste.</speaker>
+                  <p>If thou beest a man, show thyself in thy likeness: if thou beest a devil,
+                     take't as thou list.</p>
+               </sp>
+               <cb n="2"/>
+               <sp who="#tri">
+                  <speaker>Trin.</speaker>
+                  <p>O, forgive me my sins!</p>
+               </sp>
+               <sp who="#ste">
+                  <speaker>Ste.</speaker>
+                  <p>He that dies pays all debts: I defy thee.-- Mercy upon us!</p>
+               </sp>
+               <sp who="#cal">
+                  <speaker>Cal.</speaker>
+                  <lg>
+                     <l>Art thou afeared?</l>
+                  </lg>
+               </sp>
+               <sp who="#ste">
+                  <speaker>Ste.</speaker>
+                  <lg>
+                     <l>No, monster, not I.</l>
+                  </lg>
+               </sp>
+               <sp who="#cal">
+                  <speaker>Cal.</speaker>
+                  <lg>
+                     <l>Be not afeared; the isle is full of noises,</l>
+                     <l>Sounds, and sweet airs, that give delight, and hurt not.</l>
+                     <l>Sometimes a thousand twangling instruments</l>
+                     <l>Will hum about mine ears; and sometime voices,</l>
+                     <l>That, if I then had wak'd after long sleep,</l>
+                     <l>Will make me sleep again: and then, in dreaming,</l>
+                     <l>The clouds methought would open and show riches</l>
+                     <l>Ready to drop upon me; that when I wak'd</l>
+                     <l>I cried to dream again.</l>
+                  </lg>
+               </sp>
+               <sp who="#ste">
+                  <speaker>Ste.</speaker>
+                  <p>This will prove a brave kingdom to me, where I shall have my music for
+                     nothing.</p>
+               </sp>
+               <sp who="#cal">
+                  <speaker>Cal.</speaker>
+                  <lg>
+                     <l>When Prospero is destroyed.</l>
+                  </lg>
+               </sp>
+               <sp who="#ste">
+                  <speaker>Ste.</speaker>
+                  <lg>
+                     <l>That shall be by and by:<anchor rend="pre(ᵃ)" xml:id="a077" corresp="#n077"
+                        /> I remember the story.</l>
+                  </lg>
+               </sp>
+               <sp who="#tri">
+                  <speaker>Trin.</speaker>
+                  <p>The sound is going away : let's follow it, and after do our work.</p>
+               </sp>
+               <sp who="#ste">
+                  <speaker>Ste.</speaker>
+                  <p>Lead, monster; we'll follow.-- I would I could see this taborer! (2)
+                     <!--illustrative comment--> he lays it on.</p>
+               </sp>
+               <sp who="#tri">
+                  <speaker>Trin.</speaker>
+                  <p>Wilt come? I'll follow, Stephano.</p>
+               </sp>
+               <stage type="exit" rend="slant(italic)pre([)align(right)">Exeunt.</stage>
+            </div>
+            <div type="scene" n="3">
+               <stage type="setting" rend="align(center)"><hi rend="case(allcaps)">Scene III.
+                  </hi>-- <hi rend="slant(italic)">Another Part of the</hi> Island</stage>
+               <stage type="entrance" rend="slant(italic)align(center)">Enter
+                     <persName>Alonso</persName>, <persName>Sebastian</persName>,
+                     <persName>Antonio</persName>, <persName>Gonzalo</persName>,
+                     <persName>Adrian</persName>, <persName>Francisco</persName>, and
+                  others.</stage>
+               <sp who="#gon">
+                  <speaker>Gon.</speaker>
+                  <lg>
+                     <l>By'r lakin,<anchor rend="pre(ᵇ)" xml:id="a078" corresp="#n078"/> I can go no
+                        further, sir: </l>
+                     <l>My old bones ache;<anchor rend="pre(ᶜ)" xml:id="a079" corresp="#n079"/>
+                        here's a maze trod, indeed,</l>
+                     <l>Through forth-rights<anchor rend="pre(ᵈ)" xml:id="a080" corresp="#n080"/>
+                        and meanders! by your patience,</l>
+                     <l part="I">I needs must rest me.</l>
+                  </lg>
+               </sp>
+               <sp who="#alo">
+                  <speaker>Alon.</speaker>
+                  <lg>
+                     <l part="F">Old lord, I cannot blame thee,</l>
+                     <l>Who am myself attach'd with weariness,</l>
+                     <l>To the dulling of my spirits: sit down and rest.</l>
+                     <l>Even here I will put off my hope, and keep it</l>
+                     <l>No longer for my flatterer: he is drown'd</l>
+                     <l>Whom thus we stray to find; and the sea mocks</l>
+                     <l>Our frustrate search on land. Well, let him go.</l>
+                  </lg>
+               </sp>
+               <sp who="#ant">
+                  <speaker>Ant.</speaker>
+                  <lg>
+                     <l><stage type="delivery" rend="pre([)post(])slant(italic)">Aside to
+                              <persName>Seb.</persName></stage>I am right glad taht he's so out of
+                        hope.</l>
+                     <l>Do not, for one repulse, forego the purpose</l>
+                     <l part="I">That you resolv'd to effect.</l>
+                  </lg>
+               </sp>
+               <sp who="#seb">
+                  <speaker>Seb.</speaker>
+                  <lg>
+                     <l part="F"><stage type="delivery" rend="pre([)post(])slant(italic)">Aside to
+                              <persName>Ant.</persName></stage> The next advantage</l>
+                     <l>Will we take throughly.</l>
+                  </lg>
+               </sp>
+               <fw type="pageNum" rend="align(left)">32</fw>
+               <pb n="33"/>
+               <cb n="1"/>
+               <sp who="#ant">
+                  <speaker>Ant.</speaker>
+                  <lg>
+                     <l><stage type="delivery" rend="pre([)post(])slant(italic)">Aside to
+                              <persName>Seb.</persName></stage>Let it be to-night;</l>
+                     <l>For now they are oppress'd with travel, they</l>
+                     <l>Will not, nor cannot, use such vigilance,</l>
+                     <l>AS when they are fresh.</l>
+                  </lg>
+               </sp>
+               <sp who="#seb">
+                  <speaker>Seb.</speaker>
+                  <lg>
+                     <l><stage type="delivery" rend="pre([)post(])slant(italic)">Aside to
+                              <persName>Ant.</persName></stage> I say, to-night: no more.</l>
+                  </lg>
+               </sp>
+               <stage type="mixed" rend="slant(italic)align(center)">Solemn and strange music; and
+                     <persName>Prospero</persName> above, invisible. Enter several strange Shapes,
+                  bringing in a banquet; they dance about it with gentle actions of salutation; and,
+                  inviting the King, &amp;c., to eat, they depart.</stage>
+               <sp who="#alo">
+                  <speaker>Alon.</speaker>
+                  <lg>
+                     <l>What harmony is this? my good friends, hark!</l>
+                  </lg>
+               </sp>
+               <sp who="#gon">
+                  <speaker>Gon.</speaker>
+                  <lg>
+                     <l>Marvellous sweet music!</l>
+                  </lg>
+               </sp>
+               <sp who="#alo">
+                  <speaker>Alon.</speaker>
+                  <lg>
+                     <l>Give us kind keepers, heavens! What were these?</l>
+                  </lg>
+               </sp>
+               <sp who="#seb">
+                  <speaker>Seb.</speaker>
+                  <lg>
+                     <l>A living droller.<anchor rend="pre(ᵃ)" xml:id="a081" corresp="#n081"/> Now I
+                        will believe</l>
+                     <l>That there are unicorns; that in Arabia</l>
+                     <l>There is one tree, the phœnix' throne; one phœnix</l>
+                     <l part="I">At this hour reigning there.</l>
+                  </lg>
+               </sp>
+               <sp who="#ant">
+                  <speaker>Ant.</speaker>
+                  <lg>
+                     <l part="F">I'll believe both;</l>
+                     <l>And what does else want credit, come to me,</l>
+                     <l>And I'll be sworn 'tis true: travellers ne'er did lie,</l>
+                     <l part="I">Though fools at home condemn 'em</l>
+                  </lg>
+               </sp>
+               <sp who="#gon">
+                  <speaker>Gon.</speaker>
+                  <lg>
+                     <l part="F">If in Naples</l>
+                     <l>I should report this now, would they believe me?</l>
+                     <l>If I should say, I saw such islanders,--<anchor rend="pre(*)" xml:id="a082"
+                           corresp="#n082"/></l>
+                     <l>For, certes, these are people of the island,--</l>
+                     <l>Who, though they are of monstrous shape, yet, note,</l>
+                     <l>Their manners are more gentle-kind, than of</l>
+                     <l>Our human generation you shall find</l>
+                     <l>Many, nay, almost any.</l>
+                  </lg>
+               </sp>
+               <sp who="#pro">
+                  <speaker>Pro.</speaker>
+                  <lg>
+                     <l><stage type="delivery" rend="slant(italic)pre([)post(])"
+                        >Aside.</stage>Honest lord,<anchor rend="pre(ᵇ)" xml:id="a083"
+                           corresp="#n083"/></l>
+                     <l>Thou hast said well; for some of you there present</l>
+                     <l part="I">Are worse than devils.</l>
+                  </lg>
+               </sp>
+               <sp who="#alo">
+                  <speaker>Alon.</speaker>
+                  <lg>
+                     <l part="F">I cannot too much muse,</l>
+                     <l>Such shapes, such gesture, and such sound, expressing,--</l>
+                     <l>Although they want the use of tongue,-- a kind</l>
+                     <l part="I">Of excellent dumb discourse.</l>
+                  </lg>
+               </sp>
+               <sp who="#pro">
+                  <speaker>Pro.</speaker>
+                  <lg>
+                     <l part="F"><stage type="delivery" rend="slant(italic)pre([)post(])"
+                           >Aside.</stage> Praise in departing.<anchor rend="pre(ᵇ)" xml:id="a084"
+                           corresp="#n084"/></l>
+                  </lg>
+               </sp>
+               <sp who="#fran">
+                  <speaker>Fran.</speaker>
+                  <lg>
+                     <l>They vanish'd strangely.</l>
+                  </lg>
+               </sp>
+               <sp who="#seb">
+                  <speaker>Seb.</speaker>
+                  <lg>
+                     <l part="I">No matter, since</l>
+                     <cb n="2"/>
+                     <l>They have left thier viands behind; for we have stomachs.--</l>
+                     <l part="I">Will't please you taste of what is here?</l>
+                  </lg>
+               </sp>
+               <sp who="#alo">
+                  <speaker>Alon.</speaker>
+                  <lg>
+                     <l part="F">Not I.</l>
+                  </lg>
+               </sp>
+               <sp who="#gon">
+                  <speaker>Gon.</speaker>
+                  <lg>
+                     <l>Faith, sir, you need not fear. When we were boys,</l>
+                     <l>Who would believe that there were mountaineers</l>
+                     <l>Dew-lapp'd like bulls, whose throats had hanging at 'em</l>
+                     <l>Wallets of flesh? or that there were such men</l>
+                     <l>Whose heads stood in their breasts? which now we find,</l>
+                     <l>Each putter-out of five for one<anchor rend="pre(ᶜ)" xml:id="a085"
+                           corresp="#n085"/> will bring us</l>
+                     <l part="I">Good warrant of.</l>
+                  </lg>
+               </sp>
+               <sp who="#alo">
+                  <speaker>Alon.</speaker>
+                  <lg>
+                     <l part="F">I will stand to, and feed,</l>
+                     <l>Although my last: no matter, since I feel</l>
+                     <l>The best is past.-- Brother, my lord the duke,</l>
+                     <l>Stand to, and do as we.</l>
+                  </lg>
+               </sp>
+               <stage type="mixed" rend="slant(italic)align(center)">Thunder and lightning. Enter
+                     <persName>Ariel</persName>, like a harpy; claps his wings upon the table, and,
+                  with a quant device, the banquet vanishes.</stage>
+               <sp who="#ari">
+                  <speaker>Ari.</speaker>
+                  <lg>
+                     <l>You are three men of sin, whom Destiny,--</l>
+                     <l>That hath to instrument this lower world</l>
+                     <l>And what is in't,-- the never-surfeited sea</l>
+                     <l>Hath caus'd to belch up you, and on this island</l>
+                     <l>Where man doth not inhabit, you 'mongst men</l>
+                     <l>Being most unfit to live. I have made you mad;</l>
+                     <l>And even with such-like valour, men hang and drown</l>
+                     <l part="I">Their proper selves.</l>
+                     <stage type="business" rend="slant(italic)pre([)post(])align(right)"/>
+                     <l part="F">You fools! I and my fellows</l>
+                     <l>Are ministers of Fate: the elements,</l>
+                     <l>Of whom your swords are temper'd, may as well</l>
+                     <l>Wound the loud winds, or with bemock'd-at stabs</l>
+                     <l>Kill the still-closing waters, as diminish</l>
+                     <l>One dowle<anchor rend="pre(ᵈ)" xml:id="a086" corresp="#n086"/> that's in my
+                        plume; my fellow ministers</l>
+                     <l>Are like invulnerable. If you could hurt,</l>
+                     <l>Your swords are now too massy for your strengths,</l>
+                     <l>And will not be uplifted. But, remember,--</l>
+                     <l>For that's my business to you,-- that you three</l>
+                     <l>From Milan did supplant good Prospero;</l>
+                     <l>Expos'd unto the sea, which hath requit it,</l>
+                     <l>Him and his innocent child: for which foul deed</l>
+                     <l part="I">The powers, delaying, not forgetting, have</l>
+                     <fw type="pageNum" rend="align(left)">33</fw>
+                     <fw type="signature" rend="align(right)">D</fw>
+                     <pb n="34"/>
+                     <cb n="1"/>
+                     <l>Incens'd the seas and shores, yea, all the creatures,</l>
+                     <l>Against your peace. Thee of thy son, Alonso,</l>
+                     <l>They have bereft; and do pronounce, by me, </l>
+                     <l>Ling'ring perdition-- worse than any death</l>
+                     <l>Can be at once-- shall step by step attend</l>
+                     <l>You and your ways; whose wraths to guard you from,--</l>
+                     <l>Which here, in this most desolate isle, else falls</l>
+                     <l>Upon your heads,-- is nothing but heart's sorrow,</l>
+                     <l>And a clear life ensuing.</l>
+                  </lg>
+               </sp>
+               <stage type="mixed" rend="slant(italic)align(center)">He vanishes in thunder: then,
+                  to soft music, enter the Shapes again, and dance with mocks and mows, and carry
+                  out the table.</stage>
+               <sp who="#pro">
+                  <speaker>Pro.</speaker>
+                  <lg>
+                     <l><stage type="delivery" rend="pre([)post(])slant(italic)"
+                        >Aside.</stage>Bravely the figure of this harpy hast thou</l>
+                     <l>Perform'd, my Ariel; a grace it had, devouring:</l>
+                     <l>Of my instruction hast thou nothing 'bated,</l>
+                     <l>In what thou hadst to say: so, with good life,<anchor rend="pre(ᵃ)"
+                           xml:id="a087" corresp="#n087"/></l>
+                     <l>And observation strange, my meaner ministers</l>
+                     <l>Their several kinds have done. My high charms work,</l>
+                     <l>And these, mine enemies, are all knit up</l>
+                     <l>In their distractions: they now are in my power;</l>
+                     <cb n="2"></cb>
+                  </lg>
                </sp>
             </div>
          </div>
