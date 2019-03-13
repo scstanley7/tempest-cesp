@@ -133,4 +133,76 @@ With regard to the disputed word, "rack," which some editors, Mr. Dyce among the
 , Vol. II. pp. 389-396. To what those writers have said on the subject we have only to add, that while it is evident that by rack was understood the drifting vapour, or scud as it is now termed, it would appear that Shakespeare, in the present instance, as in another, occurring in "Antony and Cleopatra," Act IV. Sc. 12,--
 
 "That which is now a horse, even with a thought
-The rack dislimns," &c.
+The rack dislimns," &amp;c.
+
+-was thinking not more of the actual clouds than of those gauzy semblances which, in the pageants of his day as in the stage-spectacles of ours, were often used partly or totally to obscure the scene behind. Ben Jonson, in the descriptions of his masques, very frequently mentions this scenic contrivance. Thus in his "Entertainment at Theobalds:" -- "The King and Queen, with the princes of Wales and Lorrain, and the nobility, being entered into the gallery after dinner, there was seen nothing but a traverse of white across the room; which suddenly drawn, was discovered a gloomy obscure place, hung all with black silks," &amp;c. Again, in his "Masque of Hymen:"-- "At this, the whole scene being drawn again, and all covered with clouds, as at night, they left off their intermixed dances, and returned to their first places."
+
+The evanishing of the actors, then in Prospero's pageant-- whom
+
+"Melted into air, into thin air,"
+
+--was doubtless effected by the agency of filmy curtains which, being drawn one over another to resemble the flying mists, gave to the scene an appearance of gradual dissolution; when the objects were totally hidden, the drapery was withdrawn in the same manner, veil by veil, till at length even that too had disappeared and there was left, then, not even a rack behind.
+
+(2) Scene I.-- Come, hang them on this line.]
+Mr. Hunter successfully exposed the error of those editors who deemed it necessary to change the old spelling of "line-grove," to "lime-grove;" see note (ᵃ), p. 41; but to our thinking he has committed a graver mistake than theirs in his ingenious endeavour to prove that the "line" in this passage meant a line-tree;-- "When," he observes, "Prospero says to Ariel, who comes in bringing the glittering apparel, 'Come, hang them on this line,' he means on one of the line-trees near his cell, which could hardly have been if the word of the original copies, line-grove, had been allowed to keep its place. But the ear having long been familiar with line-grove, the word suggested not the branches of a tree so-called, but a cord-line, and, accordingly, when the play is represented, such a line is actually drawn across the stage, and the glittering apparel is hung upon it. Anything more remote from poetry than this can scarcely be imagined."-- Disquisition on Shakespeare's Tempest.
+
+However unpoetic, and perhaps, as Mr. Knight has remarked, the incidents of the scene so far as the drunken butler and his companion are concerned were purposely rendered so, it is hardly possible to conceive that the coarse jesting,-- "Mistress line, is not this my jerkin? Now is the jerkin under the line: now, jerkin, you are like to lose your hair, and prove a bald jerkin;" and,--
+
+--"we steal by line and level," &amp;c.
+
+could have been provoked by, or indeed woud have been applicable to any other object than the familiar horse-hair line which was formerly used to hang clothes on.
+
+(3) Scene I.-- And all be turn'd to barnacles.]
+It was anciently believed that the barnacle shell-fish, which is found on timber exposed to the action of the sea, became, when broken off, a kind of goose. Some, indeed, supposed that the barnacles actually grew on trees, and thence dropping into the sea, became geese; and an interesting cut of these birds so growing, from a MS. of the fourteenth century, is given by Mr. Halliwell, who observes that "the
+
+<!--page-->
+
+barnacle mentioned by Caliban was no doubt the treegoose; and the true absurdity of our old writers, as Douce has observed, consisted in their believing that this bird was really produced from the shell of the fish." Innumerable allusions to this vulgar error occur in our old writers, but we wil adduce only the testimony of Sir John Maundeville, who declares that in his country "-- weren trees that beren a fruyt, that become briddles fleeynge; and tho that fellen into the water, lyven; and thei that fallen on the erthe, dyen anon: and thei ben right gode to mannes mete."
+
+Act V.
+
+(1) Scene I.-- By my so potent art.]
+This speech is founded upon the invocation of Medea in Ovid's Metamorphoses, for which it is evident, from several expressions, that Shakespeare consulted Golding's translation:--
+
+"Ye Ayres and Windes, ye Elves of Hilles, of Brookes, of Woods alone,
+Of standing Lakes, and of the Night, approach ye everychone.
+Through helpe of whom (crooked bankes much wondring at the thing)
+I have compelled streames to run cleane backward to their spring.
+By charmes I raise and lay the windes, and burst the Viper's jaw,
+And from the bowels of the earth both stones and trees do draw.
+Whole woods and Forests I remoove, I make the Mountaines shake,
+And even the earth it selfe to grone and fearfully to quake.
+I call up deud men from their graves, and thee, O lightsome Moone,
+I darken oft, though beaten brass abate thy perill soone:
+Our Sorcerie dimmes the Morning faire, and darks the Sun at Noone,
+The flaming breath of fierie Bulles ye quenched for my sake,
+And caused their unwieldy neckes the bended yoke to take.
+Among the earth-bred brothers you a mortal warre did set,
+And brought asleepe the Dragon fell, whose eyes were never shet."
+Golding's Ovid, lib. 7, 1567.
+
+(2) Scene I.-- Under the blossom that hangs on the bough.]
+The beautiful fancy in the second line of Ariel's song,--
+
+"In a cowslip's bell I lie,"
+
+was once supposed to have been borrowed from a stanza in Drayton's delicious "Nimphidia:"--
+
+"At midnight the appointed hour;
+And for the queen a fitting bower,
+Quoth he, is that fair cowslip-flower
+On Hip-cut hill that bloweth."
+
+It is now, however, generally believed that "Nimphidia," which was not printed before 1627, was written subsequently to "The Tempest;" Malone thinks in 1612.
+
+CRITICAL OPINIONS ON THE TEMPEST.
+
+"It is observed of 'The Tempest,' that its plan is regular. This the author of 'The Revisal' thinks, what I think too, an accidental effect of the story, not intended or regarded by our author. But whatever might be Shakespeare's intention in forming or adopting the plot, he has made it instrumental to the production of many characters, diversified with boundless invention, and preserved with profound skill in nature, extensive knowledge of opinions, and accurate observation of life. In a single drama are here exhibited princes, courtiers, and sailors, all speaking in their real characters. There is the agency of airy spirits, and of an earthly goblin; the operations of magick; the tumults of a storm, the adventurs of a desart island, the native effusion of untaught affection, the punishment of guilt, and the final happiness of the pair for whom our passions and reason are equally interested."-- Johnson.
+
+"'The Tempest,' according to all appearance, was written in Shakespeare's later days: hence most critics, on the supposition that the poet must have continued to improve with increasing maturity of mind, have honoured this piece with a marked preference over the 'Midsummer Night's Dream.' I cannot, however, altogether concur with them: the internal merit of these two works are, in my opinion, pretty nearly balanced, and a predilection for the one or the other can only be governed by personal taste. In profound and original characterisation, the superiority of 'The Tempest' is obvious: as a whole we must always admire the masterly skill which he has here displayed in the economy of his means, and the dexterity with which he has disguised his preparations,-- the scaffoldings for the wonderful aërial structure.
+
+"'The Tempest' has little action or progressive movement; the union of Ferdinand and Miranda is settled at their first interview, and Prospero merely throws apparent obstacles in their way; the shipwrecked band go leisurely about the island; the attempts of Sebastian and Antonio on the life of the King of Naples, and the plot of Caliban and the drunken sailors against Prospero, are nothing but a feint, for we foresee that they will be completely frustrated by the magical skill of the latter; nothing remains therefore but the punishment of the guilty by dreadful sights which harrow up their consciences, and then the discovery and final reconciliation. Yet this want of movement is so admirably concealed by the most varied display of the fascination of poetry, and the exhilaration of mirth, the details of the execution are so very attractive, that it requires no small degree of attention to perceive that the denouement is, in some degree, anticipated in the exposition. The history of the loves of Ferdinand and Miranda, developed in a few short scenes, is enchantingly beautiful: an affecting union of chivalrous magnanimity on the one part, and on the other of the virgin openness of a heart which, brought up far from the world on an uninhabited island, has never learned to disguise its innocent movements. The wisdom of the princely hermit Prospero has a magical and mysterious air; the disagreeable impression left by the black falsehood of the two usurpers is softened by the honest gossiping of the old and faithful Gonzalo; Trinculo and Stephano, two good-for-nothing drunkards, find a worthy associate in Caliban; and Ariel hovers sweetly over the whole as the personified genius of the wonderful fable.
+
+"Caliban has become a by-word as the strange creation of a poetical imagination. A mixture of gnome and savage, half demon, half brute, in his behavior we perceive at once the traces of his native disposition, and the influence of Prospero's education. The latter could only unfold his understanding, without, in the slightest degree taming his rooted malignity: it is as if the use of reason and human speech were communicated to an awkward ape. In inclination Caliban is malicious, cowardly, false, and base; and yet he is essentially different from the vulfar knaves of a civilized world, as portrayed occasionally by Shakespeare. He is rude, but not vulgar; he never falls into the prosaic and low familiarity of his drunken associates, for he is, in his way, a poetical being; he always speaks in verse. He has picked up everything dissonant and thorny in language to compose out of it a vocabulary of his own; and of the whole variety of nature, the hateful, repulsive, and pettily deformed, have alone been impressed on his imagination. The magical world of spirits, which the staff of Prospero has assembled on the island, casts merely a faint reflection into his mind, as a ray of light which falls into a dark cave, incapable of communicating to it either heat or illumination, serves merely to set in motion the poisonous vapours. The delineation of this monster is throughout inconceivably consistent and profound, and, notwithstanding its hatefulness, by no means hurtful to our feelings, as the honour of human nature is left untouched.
+
+"In the zephy-like Ariel, the image of air is not to be mistaken, his name even bears an allusion to it; as, on the other hand, Caliban signifies the heavy element of earth. Yet they are neither of them simple, allegorical personifications, but beings individually determined. In general we find in the 'Midsummer Night's Dream,' in 'The Tempest,' in the magical part of 'Macbeth,' and wherever Shakespeare avails himself of the popular belief in the invisible presence of spirits, and the possibility of coming in contact with them, a profound view of the inward life of nature and her mysterious springs, which, it is true, can never be altogether unknown to the genuine poet, as poetry is altogether incompatible with the mechanical physics, but which few have possessed in an equal degree with Dante and himself."--SCHLEGEL.
