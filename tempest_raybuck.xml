@@ -5082,7 +5082,7 @@
                      <l>Their several kinds have done. My high charms work,</l>
                      <l>And these, mine enemies, are all knit up</l>
                      <l>In their distractions: they now are in my power;</l>
-                     <cb n="2"></cb>
+                     <cb n="2"/>
                   </lg>
                </sp>
             </div>
@@ -5092,10 +5092,11 @@
          <div type="notes">
             <pb n="47"/>
             <head rend="case(allcaps)">Illustrative Comments</head>
-            <p>Act I.</p>
+            <p rend="case(allcaps)">Act I.</p>
+            <cb n="1"/>
             <note>
-               <ref rend="post(])">(1) <hi rend="case(smallcaps)">Scene I.</hi>-- We split, we
-                  split!</ref>
+               <ref rend="post(])">(1) <hi rend="case(smallcaps)">Scene I.</hi><quote>-- We split,
+                     we split!</quote></ref>
                <p>The following observations on the maritime technicalities in this scene, are
                   extracted from an article by Lord Mulgrave, which will be found at length in
                   Boswell's Variorum edition of Shakespeare, 1821:--</p>
@@ -5127,6 +5128,7 @@
                <ab rend="slant(italic)">2d Postion.</ab>
                <p>Yare, yare! Take in the topsail! Blow, till thou burst thy wind, if room
                   enough!</p>
+               <cb n="2"/>
                <ab rend="slant(italic)">3d Position.</ab>
                <p>Down with the topmast! <anchor rend="pre(*)" xml:id="aPLACE" corresp="#nPLACE"/>
                   Yare; lower, lower! Bring her to try with the main-course!</p>
@@ -5155,7 +5157,8 @@
                <p>The ship, not able to weather a point, is driven on the shore."</p>
             </note>
             <note>
-               <ref rend="post(])case(smallcaps)"><quote>(2) Scene II.-- Ariel.</quote></ref>
+               <ref rend="post(])case(smallcaps)"><quote><hi rend="case(smallcaps)">(2) Scene
+                        II.</hi>-- <persName>Ariel</persName>.</quote></ref>
                <p>According to the system of witchcraft or magic, which was formed an article of
                   popular creed in Shakespeare's day, the elementary spirits were divided into six
                   classes by some demonologists, and into four,-- those of the <hi
@@ -5178,10 +5181,474 @@
                   subject,</p>
                <fw type="pageNum" rend="align(right)">47</fw>
                <pb n="48"/>
+               <cb n="1"/>
                <p part="F">who are legion, <hi rend="slant(italic)">Batman uppon Bartholome his
                      booke De proprietatibus rerum</hi>, 1582; Scot's "Discoverie of Witchcraft,"
                   &amp;c., 1584; "The Demonologie" of James I.; "The Anatomie of Sorcerie" by Mason,
                   1612; and Burton's "Anatomy of Melancholy," 1617.</p>
+            </note>
+            <note>
+               <ref>(3) <hi rend="case(smallcaps)">Scene II</hi>.-- <quote
+                     rend="slant(italic)post(])">
+                     <lg>
+                        <l rend="indent(3)">-- on the topmast,</l>
+                        <l>The yards, and bowsprit, would I flame distinctly,</l>
+                        <l>Then meet, and join.</l>
+                     </lg>
+                  </quote>
+               </ref>
+               <p>This, as Douce remarks, is a description of the well-known meteor, called by the
+                  several names of <hi rend="slant(italic)">Saint Helen, Saint Elm, Saint Clare,
+                     Saint Peter,</hi> and <hi rend="slant(italic)">Saint Nicholas</hi>. "Whenever
+                  it appeared as a single flame, it was supposed by the ancients to be <hi
+                     rend="slant(italic)">Helena</hi>, the sister of Castor and Pollux; and in this
+                  state to bring ill-luck form the calamities which this lady is known to have
+                  caused in the Trojan war. When it came double, it was called Castor and Pollux,
+                  and accounted a good omen."</p>
+               <p>Hakluyt's collection of the "Voyages, Navigations, Traffiques, and Discoveries of
+                  the English Nation," furnishes an interesting account of this meteor, as seen
+                  during the "Voyage of Robert Tomson Marchant, into Nova Hispania, in the yeere
+                  1555:"--</p>
+               <p>"I do remember that in the great and boysterous storme of this foule weather, in
+                  the night, there came upon the toppe of our maine yarde and maine maste, a
+                  certaine little light, much like unto the light of a little candle, which the
+                  Spaniards called the <hi rend="slant(italic)">Cuerpo santo</hi>, and saide it was
+                     <hi rend="slant(italic)">S. Elmo</hi>, whom they take to be the advocate of
+                  sailers.*** This light continued aboord our ship about three houres, flying from
+                  maste to maste, and from top to top: and sometime it would be in two or three
+                  places at once. I informed myself of learned men afterward what that light should
+                  be, and they said, that it was but a congelation of the winde and vapours of the
+                  sea congealed with the extremitie of the weather, which, flyinge in the winde,
+                  many times doeth chance to hit on the masts and shrowds of the ships that are at
+                  sea in foule weather. And in trueth I do take it to be so: for that I have seene
+                  the like in other ships at sea, and in sundry ships at once."-- <hi
+                     rend="case(smallcaps)">Hakluyt</hi>, III. 450, <hi rend="slant(italic)"
+                  >ed</hi>. 1600</p>
+            </note>
+            <note>
+               <ref>(4) <hi rend="case(smallcaps)">Scene II</hi>.<quote rend="slant(italic)post(])"
+                     >The still-vex'd Bermoothes.</quote></ref>
+               <p>Shakespeare's first knowledge of the storm-vex'd coast of the Bermudas, was
+                  probably acquired from Sir Walter Raleigh's "Discoverie of the Large, Rich, and
+                  Beautiful Empire of Guiana," 1596, wherein, after speaking of the Channel of
+                  Bahama, the author adds,-- "The rest of the Indies for calms, and diseases, are
+                  very troublesome; and the <hi rend="slant(italic)">Bermudas</hi> a hellish sea,
+                  for <hi rend="slant(italic)">thunder, lightning,</hi> and <hi rend="slant(italic)"
+                     >storms</hi>." (See Chalmers' Apology, p. 578.) Or he might have derived his
+                  information from Hakluyt's Voyages, 1600, in which there is a description of
+                  Bermuda, by Henry May, who was shipwrecked there in 1593.</p>
+            </note>
+            <note>
+               <ref>(5) <hi rend="case(smallcaps)">Scene II</hi>.--
+                  <persName>Caliban</persName><quote/></ref>
+               <p>It has been surmised that the idea of this marvellous creation was derived from
+                  the subjoined passage in Eden's "History of Travayle in the West and East Indies,"
+                  4to., London, 1577-- a book from which it is exceedingly probably that Shakespeare
+                  borrowed the names of some of the principal characters of this piece, as Alonso,
+                  Ferdinand, Sebastian, Gonzalo, Antonio, &amp;c.</p>
+               <p part="I">"Departying from hence, they sayled to the 49 degree and a halfe under
+                  the pole antartike; where being wyntered, they were inforced to remayne there for
+                  the space of two monethes: all which tyme they sawe no man, excepte that one day
+                  by chaunce they espyed a man of the stature of a giant, who came to the haven
+                  daunsing and singying, and shortly after seemed to cast dust over his head. The
+                  captayne sent one of his men to the shore, with the shyppe boate, who made the
+                  lyke signe of peace. The which thyng the giant seeyng, was out of feare, and came
+                  with the captayne's servaunt, to his presence, into a little ilande. When he sawe
+                  the captayne with certayne"</p>
+               <cb n="2"/>
+               <p part="F">"of his company about hym, he was greatly amased, and made signes, <hi
+                     rend="slant(italic)">holdying up his hande to heaven, signifying thereby, that
+                     our men came from thence.</hi> This giant was so byg, that the head of one of
+                  our men of a meane stature came but to his waste. He was of good corporature, and
+                  well made in all partes of his bodie, with a large cisage painted with divers
+                  colours, but, for the most parte, yelow. Uppon his cheekes were paynted two
+                  hartes, and red circles about his eyes. The heare of his head was coloured whyte,
+                  and his apparell was the skynne of a beast sowde togeather. This beast, as seemed
+                  unto us, had a large head, and great eares lyke unto a mule, with the body of a
+                  camell and tayle of a horse. The feete of the giant were foulded in the sayde
+                  skynne, after the manner of shooes. *** The captayne caused him to eate and
+                  drynke, and gave him many thinges, and among other a great lookyng glasse, in the
+                  which, as soon as he sawe his owne lykeness, was sodaynly afrayde, and started
+                  backe with such violence,that hee overthrew two that stoode nearest about him.
+                  When the captayne had thus gyven him certayne haukes belles, and other great
+                  belles, with also a lookyng glasse, a combe, and a payre of beades of glasse, he
+                  sent him to lande with foure of his owne men well armed."</p>
+            </note>
+            <note>
+               <ref>(6) <hi rend="case(smallcaps)">Scene II</hi>.-- <quote
+                     rend="slant(italic)post(])">
+                     <lg>
+                        <l>As wicked dew as e'er my mother brush'd</l>
+                        <l>With raven's feather from unwholesome fen,</l>
+                        <l>Drop on you both! a south-west blow on ye,</l>
+                        <l>And blister you all o'er!</l>
+                     </lg>
+                  </quote></ref>
+               <p>Wicked, in the sense of baneful, hurtful, is often met with in old medical works
+                  applied to sores and wounds. "A wykked felone," <hi rend="slant(italic)">i.e.</hi>
+                  a bad sore, is mentioned in a tract on hawking, MS. Harl. 2340. An analogous use
+                  of the word, <hi rend="slant(italic)">fierce, savage,</hi> is mentioned in A
+                  Glossary of Provincial Words used in Herefordshire, 1839, p. 119, as still
+                  current.-- <hi rend="case(smallcaps)">Halliwell</hi>.</p>
+               <p>The following passage in <hi rend="slant(italic)">Batman uppon Bartholome his
+                     booke De proprietatibus rerum</hi>, 1582, folio, will not only throw
+                  considerable light on these lines, but furnish at the same time grounds for a
+                  conjecture that Shakespeare was indebted to it, with a slight alteration, for the
+                  name of Caliban's mother, Sycorax the witch. "The raven is called corvus of <hi
+                     rend="case(smallcaps)">Corax</hi> . . . . it is said that <hi
+                     rend="slant(italic)">ravens birdes</hi> be fed with <hi rend="slant(italic)"
+                     >deaw</hi> of heaven all the time that they have no black <hi
+                     rend="slant(italic)">feathers</hi> by benefite of age," lib. xii. c. 10. The
+                  same author will also account for the choice which is made, in the monster's
+                  speech, of the south-west wind.</p>
+               <p>"This <hi rend="slant(italic)">southern wind</hi> is hot and moyst. . . . <hi
+                     rend="slant(italic)">Southern winds</hi> corrupt and destroy; they heat and
+                  maketh men fall into sicknesse," lib. xi. c. 3.-- <hi rend="case(smallcaps)"
+                     >Douce</hi>.</p>
+            </note>
+            <note>
+               <ref>(7) <hi rend="case(smallcaps)">Scene II</hi>.-- <quote
+                     rend="slant(italic)post(])">It would control my dam's god,
+                  Setebos.</quote></ref>
+               <p>The same work, Eden's <hi rend="slant(italic)">History of Travayle</hi>, contains
+                  a curious notice, showing that Setebos was a mythological personage in the creed
+                  of the Patagonians:--</p>
+               <p>"The captayne retayned two of these [giants] which were youngest and beste made.
+                  He tooke them by a deceite in this manner,-- that givying them knyves, sheares,
+                  looking glasses, bells, beades of crystall and suche other trifles, he so filled
+                  theyr handes, that they could holde no more; then caused two payre of shackles of
+                  iron to be put on theyr legges, makyng signes that he would also give them those
+                  chaynes, which they lyked very wel, bycause they were made of bright and shining
+                  metall. *** When they felte the shackels faste about theyre legges, they began to
+                  doubt; but the captayne dyd put them in comfort, and bad them stand still. In
+                  fine, when they sawe how they were deceived, they roared lyke bulles, and cryed
+                  uppon theyr <hi rend="slant(italic)">great devill, Setebos,</hi> to helpe them.
+                  *** They say, that when any of them dye, there appeare X or XII devils, <hi
+                     rend="slant(italic)">leaping and daunsing</hi> about the bodie of the dead, and
+                  seeme to have their bodies paynted with divers colours, and that among other there
+                  is one seene bigger then the residue, who maketh great mirth and rejoysing. This
+                  great devyll they call Setebos." -- P. 434,</p>
+            </note>
+            <fw type="pageNum" rend="align(left)">48</fw>
+            <pb n="49"/>
+            <p rend="case(allcaps)">Act II.</p>
+            <cb n="1"/>
+            <note>
+               <ref>
+                  <quote rend="slant(italic)post(])">
+                     <lg>
+                        <l>--but nature should bring forth</l>
+                        <l>Of it own kind, all foizon, all abundance,</l>
+                        <l>To feed my innocent people.</l>
+                     </lg>
+                  </quote>
+               </ref>
+               <p>Among the most treasured rarities in the library of the British Museum, is
+                  Shakespeare's own copy of Florio's Montaigne, 1603, with his autograph, "William
+                  Shakspere," on the fly-leaf. This work, intituled, "The Essayes, or Morall,
+                  Politike and Millitarie Discourses, of Lo: Michaell de Montaigne, Knight," was
+                  evidently a favourite of the poet, and furnished him with the materials for
+                  Gonzalo's Utopian commonwealth. The passage he has adopted occurs in the thirtieth
+                  chapter of the First Book, and is headed, "Of the Caniballes:"--</p>
+               <p>"Those nations seeme therefore so barbarous unto mee, because they have received
+                  very little fashion from humane wit, and are yet neere their originall naturaliie.
+                  The lawes of nature do yet commaund them, which are but little bastardized by
+                  ours. And that with such puritie, as I am sometimes grieved the knowledge of it
+                  came no sooner to light, at what time ther were men, that better than wee could
+                  have judged of it. I am sorie, Licurgus and Plato had it not: for me seemeth that
+                  what in those nations we see by experience, doth not onlie exceede all the
+                  pictures wherewith licentious Poesie hath prowdly imbellished the golden age, and
+                  al hi quaint inventions to faine a happy condition of man, but also the conception
+                  and desire of Philosophie. they could not imagine a genuitie so pure and simple,
+                  as we see it by experience; nor ever beleeve out societie might be maintained with
+                  so little arte and humane combination. <hi rend="slant(italic)">It is a nation,
+                     would I answere Plato, that hath no kinde of traffike, no knowledge of Letters,
+                     no intelligence of numbers, no name of magistrate, nor of politike
+                     superioritie; no use of service, of riches, or of poverty; no contracts, no
+                     successions, no dividences, no occupation but idle; no respect of kindred, but
+                     common, no apparell but naturall, no manuring of lands, no use of wine, corne,
+                     or mettle. The very words that import lying, falshood, treason, dissimulation,
+                     covetousnes, envie, detraction, and pardon, were never heard of amongst
+                     them.</hi>"</p>
+            </note>
+            <note>
+               <ref>(2) <hi rend="case(smallcaps)">Scene I</hi>.-- <quote
+                     rend="slant(italic)post(])">We would so, and then go a
+                  bat-fowling.</quote></ref>
+               <p>The instructions for <hi rend="slant(italic)">Bat-fowling</hi> in Markham's
+                  "Hunger's Prevention," &amp;c. 1600, afford an accurate description of the way in
+                  which this sport was pursued in former times:--</p>
+               <p part="I">"For the manner of <hi rend="slant(italic)">Bat-fowling</hi> it may be
+                  vsed either with Nettes: If you vse it without Nettes (which indeede is the most
+                  common of the two) you shall then proceede in this manner. First, there shall be
+                  one to cary the cresset of fire (as was showed for the <hi rend="slant(italic)"
+                     >Lowbell</hi>) then a certain number as two, three, or foure (according to the
+                  greatnesse of your company), and these shall haue poales bound with dry round
+                  wispe of hay, straw, or such like stuffe, or else bound with pieces of Linkes, or
+                  Hurdes dipt in Pitch, Rosen, Grease, or any such like matter that will blaze. Then
+                  another company shall be armed with long poales, very rough and bushy at the
+                  vpper</p>
+               <cb n="2"/>
+               <p part="F">endes, of which the Willow, Byrche, or long Hazell are best, but indeed
+                  acording as the Country will afford, so you must be content to take."</p>
+               <p>"Thus being prepared and comming into the Bushy or rough ground where the haunts
+                  of Birds are, you shall then first kindle some of your fiers as halfe, or a third
+                  part, according as your prouision is, and then with your other bushy and rough
+                  poales you shall beat the Bushes, Trees and haunts of the Birds which are raysed,
+                  to flye and play about the lights and flames of the fier, for it is their nature
+                  through their amazednesse, and affright at the strangeness of the lightt and the
+                  extreame darknesse round about it, not to depart from it, but as it were almost to
+                  scorch their wings in the same: so that those which haue the rough bushye poales
+                  may (at their pleasures) beat them down with the same, and so take thē. Thus you
+                  may spend as much of th enight as is darke, for longer is not conuenient; and
+                  doubtlesse you shall finde much pastime, and take great store of birds, and in
+                  this you shall obseue all the obseruations formerly treated of in the <hi
+                     rend="slant(italic)">Lowbell</hi>; especially, that of silence, vntill your
+                  lights be kindled, but then you may vse your pleasure, for the noyse and the light
+                  when they are heard and seene a farre of, they make the birds sit the faster and
+                  surer.</p>
+               <p>"The byrdes which are commonly taken by this labour or exercise are, for the most
+                  part, the <hi rend="slant(italic)">Rookes, Ring-doues, Blackbirdes, Throstles,
+                     Feldyfares, Linnets, Bulfinches</hi>, and all other Byrdes whatsoeuer that
+                  pearch or sit vpon small boughes or bushes."</p>
+            </note>
+            <note>
+               <ref>(3) <hi rend="case(smallcaps)">Scene II</hi>.<quote rend="slant(italic)post(])"
+                     >They will lay out ten to see a dead Indian.</quote></ref>
+               <p>Some verses written by Henry Peacham, about the year 1609, give a curious list of
+                  most of the popular exhibitions then to be seen in the metropolis, together with a
+                  few notices of some of the sights of the country:--</p>
+               <lg>
+                  <l>"Why doe the rude vulgar so hastily post in a madnesse,</l>
+                  <l>To gaze at trifles and toyes not worthy the viewing?</l>
+                  <l>And thinke them happy, when may be shew'd for a penny,</l>
+                  <l>The Fleet-streete mandrakes, that heavenly motion of Eltham,</l>
+                  <l>Westminster monuments, and Guild-hall huge Corinæus,</l>
+                  <l>That horne of Windsor (of an unicorne very likely),</l>
+                  <l>The cave of Merlin, the skirts of an old Tom a Lincolne.</l>
+                  <l>King Johns sword at Linne, with the cup the Fraternity drinke in;</l>
+                  <l>The Tombe of Beauchampe, and sword of Sir Guy a Warwicke;</l>
+                  <l>The great long Dutchman, and roaring Marget a Barwicke,</l>
+                  <l>The Mummied Prines, and Cæsars wine yet i' Dover,</l>
+                  <l>Saint James his Ginney Hens, the Cassawarway moreover;</l>
+                  <l>The Beaver i' the Parke (strange beast as er'e any man saw)</l>
+                  <l>Downe-shearing willowes with teeth as sharpe as a hand-saw.</l>
+                  <l>The Lance of John a Gaunt and Brandons still i' the Tower:</l>
+                  <l>The fall of Ninive, with Norwich built in a hower!</l>
+                  <l>King Henries slip-shoes, the sword of valiant Edward;</l>
+                  <l>The Coventry boares-shield, and fire-workes seen but to bedward.</l>
+                  <l>Drakes ship at Detford, King Richards bedsted i' Leyster,</l>
+                  <l>The White Hall whale-bones, the silver Nason i' Chester:</l>
+                  <l>The live-caught dog-fish, the Wolfe, and Harry the Lyon,</l>
+                  <l>Hunkes of the Beare-garden, to be feared, if he be nigh on."</l>
+               </lg>
+               <ab><hi rend="case(smallcaps)">Halliwell</hi>, I. 327.</ab>
+            </note>
+            <p rend="case(allcaps)">Act III.</p>
+            <cb n="1"/>
+            <note>
+               <ref>(1) <hi rend="case(smallcaps)">Scene II</hi>.<quote rend="slant(italic)post(])"
+                     >The picture of Nobody.</quote></ref>
+               <p part="I">"No-body" was a ludicrous figure often found on street signs, and of
+                  which a representation is prefixed to the comedy of "No-body and Some-body," 1600.
+                  The following verses form the be</p>
+               <cb n="2"/>
+               <p part="M">ginning of a popular old ballad, called "The Well-spoken Nobody," the
+                  unique copy of which, in the Miller collection at Britwell-house, supplied Mr.
+                  Halliwell with a curious engraving, showing a floor all bestrewed with
+                  domestic</p>
+               <fw type="pageNum" rend="align(left)">49</fw>
+               <fw type="signature" rend="align(right)">E</fw>
+               <pb n="50"/>
+               <cb n="1"/>
+               <p part="F">utensils and implements broken to pieces, and a fantastic figure in the
+                  midst bearing a scroll with the words,-- </p>
+               <!--I cant read this in the pictures because the font is so wild-->
+               <lg rend="WACK">
+                  <l>"Nobody is my name</l>
+                  <l>that begreth every bodyes blame</l>
+               </lg>
+               <lg>
+                  <l>Many speke of Roben Hoode that never shott in his bowe,</l>
+                  <l>So many have layed faultes to me, which I did never knowe;</l>
+                  <l>But now beholde here I am,</l>
+                  <l>Whom all the worlde doeth diffame</l>
+                  <l>Long hath they also skorned me,</l>
+                  <l>And locked my mouthe for speking free.</l>
+                  <l>As many a Godly man they have so served,</l>
+                  <l>Which unto them Gods truth hath shewed;</l>
+                  <l>Of such they have burned and hanged some,</l>
+                  <l>That unto their ydolatrye wold not come:</l>
+                  <l>The ladye Truthe they have locked in cage,</l>
+                  <l>Sayeng that of her Nobody had knowledge,</l>
+                  <l>For as much nowe as they name Nobodye,</l>
+                  <l>I think verilye they speke of me:</l>
+                  <l>Wherfore to answere I nowe beginne,--</l>
+                  <l>The locke of my mouthe is opened with ginne,</l>
+                  <l>Wrought by no man, but by Gods grace,</l>
+                  <l>Unto whom be prayse in every place."</l>
+               </lg>
+            </note>
+            <cb n="2"/>
+            <note>
+               <ref>(2) <hi rend="case(smallcaps)">Scene II</hi>.<quote rend="slant(italic)post(])"
+                     >I would I could see this taborer!</quote></ref>
+               <p>"Several of the incidents in this scene," Steevens remarks, "viz.-- Ariel's
+                  mimickry of Trinculo, the tune played on the tabor, and Caliban's description of
+                  the twangling instruments, &amp;c., might have been borrowed from Marco Paolo, the
+                  old Venetian voyager; who, in lib. I. ch. 44, describing the desert of Lop, in
+                  Asia, says:-- 'Audiuntur ibi voces dæmonum, &amp;c. voces fingentes eorum quos
+                  comitari se putant. Audiuntur interdum in aere concentus musicorum
+                  instrumentorum.'" This work was translated into Enlgish by John Frampton in 1579,
+                  under the title of "The Most Noble and famous Travels of Marcus Paulus, one of the
+                  Nobilitie of the State of Venice," &amp;c., and the above passage is rendered:--
+                  "You shall heare in the ayre the sound of <hi rend="slant(italic)">tabers and
+                     other instruments</hi>, to put the travellers in feare, &amp;c., by evill
+                  spirites that make these soundes, and also do <hi rend="slant(italic)">call
+                     diverse of the travellers by their names</hi>," &amp;c.-- ch. 36, p. 32.</p>
+            </note>
+            <p rend="case(allcaps)">Act IV.</p>
+            <cb n="1"/>
+            <note>
+               <ref>(1) <hi rend="case(smallcaps)">Scene I</hi>.-- <quote
+                     rend="slant(italic)post(])">
+                     <lg>
+                        <l>And, like this insubstantial pageant faded,</l>
+                        <l>Leave not a rack behind.</l>
+                     </lg>
+                  </quote>
+               </ref>
+               <p>It is impossible to doubt that Shakespeare in this sublime passage remembered the
+                  lines in Lord Sterline's "Tragedie of Darius," 1604:--</p>
+               <lg>
+                  <l>"Let greatnesse of her glascie scepters vaunt,</l>
+                  <l>Not sceptors, no, but reeds, soone brus'd, soon broken;</l>
+                  <l>And let this worldlie pompe our wits inchant,</l>
+                  <l>All fades, and scarcelie leaves behinde a token.</l>
+                  <l>Those golden pallaces, those gorgeous halles,</l>
+                  <l>With fourniture superfluouslie faire:</l>
+                  <l>Those statelie courts, those sky-encountering walles,</l>
+                  <l>Evanish all like vapours in the aire."</l>
+               </lg>
+               <p>With regard to the disputed word, "<hi rend="slant(italic)">rack</hi>," which some
+                  editors, Mr. Dyce among them, conceive to be no more than an old form of <hi
+                     rend="slant(italic)">wreck</hi>, the reader is recommended to consult Whiter's
+                  "Specimen of a Commentary on Shakespeare," &amp;c., pp. 194-198, and Horne Tooke's
+                  <!--i do not have a damn clue what that is in the facsimile--> , Vol. II. pp.
+                  389-396. To what those writers have said on the subject we have only to add, that
+                  while it is evident that by <hi rend="slant(italic)">rack</hi> was understood the
+                  drifting vapour, or <hi rend="slant(italic)">scud</hi> as it is now termed, it
+                  would appear that Shakespeare, in the present instance, as in another, occurring
+                  in "Antony and Cleopatra," Act IV. Sc. 12,--</p>
+               <lg>
+                  <l>"That which is now a horse, even with a thought</l>
+                  <l>The rack dislimns," &amp;c.</l>
+               </lg>
+               <p>-- was thinking not more of the actual clouds than of those gauzy semblances
+                  which, in the pageants of his day as in the stage-spectacles of ours, were often
+                  used partly or totally to obscure the scene behind. Ben Jonson, in the
+                  descriptions of his masques, very frequently mentions this scenic contrivance.
+                  Thus in his "Entertainment at Theobalds:" -- "The King and Queen, with the princes
+                  of Wales and Lorrain, and the nobility, being entered into the gallery after
+                  dinner, there was seen nothing but a traverse of white across the room; which
+                  suddenly drawn, was discovered a gloomy obscure place, <hi rend="slant(italic)"
+                     >hung all with black silks,</hi>" &amp;c. Again, in his "Masque of Hymen:"--
+                  "At this, the whole scene being drawn again, and <hi rend="slant(italic)">all
+                     covered with clouds, as at night,</hi> they left off their intermixed dances,
+                  and returned to their first places."</p>
+               <p> The evanishing of the actors, then in Prospero's pageant-- whom</p>
+               <lg>
+                  <l>"Melted into air, into thin air,"</l>
+               </lg>
+               <cb n="2"/>
+               <p>--was doubtless effected by the agency of filmy curtains which, being drawn one
+                  over another to resemble the flying mists, gave to the scene an appearance of
+                  gradual dissolution; when the objects were totally hidden, the drapery was
+                  withdrawn in the same manner, veil by veil, till at length even that too had
+                  disappeared and there was left, then, not even a <hi rend="slant(italic)"
+                     >rack</hi> behind.</p>
+            </note>
+            <note>
+               <ref>(2) <hi rend="case(smallcaps)">Scene I</hi>.--<quote rend="slant(italic)post(])"
+                     >Come, hang them on this line.</quote></ref>
+               <p>Mr. Hunter successfully exposed the error of those editors who deemed it necessary
+                  to change the old spelling of "<hi rend="slant(italic)">line</hi>-grove," to "<hi
+                     rend="slant(italic)">lime</hi>-grove;" see note (ᵃ), p. 41; but to our thinking
+                  he has committed a graver mistake than theirs in his ingenious endeavour to prove
+                  that the "line" in this passage meant a <hi rend="slant(italic)">line-tree</hi>;--
+                  "When," he observes, "Prospero says to Ariel, who comes in bringing the glittering
+                  apparel, 'Come, hang them on this line,' he means on one of the line-trees near
+                  his cell, which could hardly have been if the word of the original copies, <hi
+                     rend="slant(italic)">line-grove</hi>, had been allowed to keep its place. But
+                  the ear having long been familiar with <hi rend="slant(italic)">lime-grove</hi>,
+                  the word suggested not the branches of a tree so-called, but a <hi
+                     rend="slant(italic)">cord-line</hi>, and, accordingly, when the play is
+                  represented, such a line is actually drawn across the stage, and the glittering
+                  apparel is hung upon it. Anything more remote from poetry than this can scarcely
+                  be imagined."-- <hi rend="slant(italic)">Disquisition on Shakespeare's
+                     Tempest.</hi></p>
+               <p>However unpoetic, and perhaps, as Mr. Knight has remarked, the incidents of the
+                  scene so far as the drunken butler and his companion are concerned were purposely
+                  rendered so, it is hardly possible to conceive that the coarse jesting,--
+                  "Mistress line, is not this my jerkin? Now is the jerkin <hi rend="slant(italic)"
+                     >under the line</hi>: now, jerkin, you are like <hi rend="slant(italic)">to
+                     lose your hair</hi>, and prove a bald jerkin;" and,--</p>
+               <lg>
+                  <l>--"we steal by <hi rend="slant(italic)">line and level</hi>," &amp;c.</l>
+               </lg>
+               <p>could have been provoked by, or indeed woud have been applicable to any other
+                  object than the familiar <hi rend="slant(italic)">horse-hair</hi> line which was
+                  formerly used to hang clothes on.</p>
+            </note>
+            <note>
+               <ref>(3) <hi rend="case(smallcaps)">Scene I</hi>.<quote rend="slant(italic)post(])"
+                     >And all be turn'd to barnacles.</quote></ref>
+               <p part="I">It was anciently believed that the barnacle shell-fish, which is found on
+                  timber exposed to the action of the sea, became, when broken off, a kind of goose.
+                  Some, indeed, supposed that the barnacles actually grew on trees, and thence
+                  dropping into the sea, became geese; and an interesting cut of these birds so
+                  growing, from a MS. of the fourteenth century, is given by Mr. Halliwell, who
+                  observes that "the</p>
+               <fw type="pageNum" rend="align(left)">50</fw>
+               <pb n="51"/>
+               <cb n="1"/>
+               <p part="M">barnacle mentioned by Caliban was no doubt the treegoose; and the true
+                  absurdity of our old writers, as Douce has observed, consisted in their believing
+                  that this bird was really produced from the shell of the fish." Innumerable
+                  allusions to this vulgar error occur in our old writers, but we wil adduce only
+                  the testimony of Sir John</p>
+               <cb n="2"/>
+               <p part="F">Maundeville, who declares that in his country "-- weren trees that beren
+                  a fruyt, that become briddles fleeynge; and tho that fellen into the water, lyven;
+                  and thei that fallen on the erthe, dyen anon: and thei ben right gode to mannes
+                  mete."</p>
+            </note>
+            <p rend="case(allcaps)">Act V.</p>
+            <cb n="1"/>
+            <note>
+               <ref>(1) <hi rend="case(smallcaps)">Scene I</hi>.--<quote rend="slant(italic)post(])"
+                     >By my so potent art.</quote></ref>
+               <p>This speech is founded upon the invocation of Medea in Ovid's Metamorphoses, for
+                  which it is evident, from several expressions, that Shakespeare consulted
+                  Golding's translation:--</p>
+               <lg>
+                  <l>"Ye Ayres and Windes, ye Elves of Hilles, of Brookes, of Woods alone,</l>
+                  <l>Of standing Lakes, and of the Night, approach ye everychone.</l>
+                  <l>Through helpe of whom (crooked bankes much wondring at the thing)</l>
+                  <l>I have compelled streames to run cleane backward to their spring.</l>
+                  <l>By charmes I raise and lay the windes, and burst the Viper's jaw,</l>
+                  <l>And from the bowels of the earth both stones and trees do draw.</l>
+                  <l>Whole woods and Forests I remoove, I make the Mountaines shake,</l>
+                  <l>And even the earth it selfe to grone and fearfully to quake.</l>
+                  <l>I call up deud men from their graves, and thee, O lightsome Moone,</l>
+                  <l>I darken oft, though beaten brass abate thy perill soone:</l>
+                  <cb n="2"></cb>
+                  <l>Our Sorcerie dimmes the Morning faire, and darks the Sun at Noone,</l>
+                  <l>The flaming breath of fierie Bulles ye quenched for my sake,</l>
+                  <l>And caused their unwieldy neckes the bended yoke to take.</l>
+                  <l>Among the earth-bred brothers you a mortal warre did set,</l>
+                  <l>And brought asleepe the Dragon fell, whose eyes were never shet."</l>
+               </lg>
             </note>
          </div>
       </back>
