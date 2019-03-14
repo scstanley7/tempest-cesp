@@ -362,7 +362,7 @@
                <lg>
                   <l rend="indent(3)">"Get me a conjuror,</l>
                   <l>One that can raise a water devil:</l>
-                  <!--row of stars denoting some kind of skip?-->
+                  <l>* * * * * * * *</l>
                   <l rend="indent(2)">-- any <hi rend="slant(italic)">blear-ey'd people</hi></l>
                   <l>With red heads, and flat noses, can perform it."</l>
                </lg>
@@ -840,8 +840,8 @@
       <front>
          <pb n="1"/>
          <figure xml:id="f001">
-            <figDesc>
-               <!--I have no clue whats going on in this illustration, it looks like a caveman is yelling at Jesus-->
+            <figDesc> Prospero stands holding Miranda with his left arm and staring down at Caliban
+               who is standing opposite of him, yelling and pointing at both Prospero and Miranda.
             </figDesc>
          </figure>
          <pb n="2"/>
@@ -996,7 +996,9 @@
          <div type="act" n="1">
             <div type="scene" n="1">
                <figure xml:id="f002">
-                  <figDesc><!--i really don't know enough about the Tempest to describe these man--></figDesc>
+                  <figDesc>A ship's deck is pictured where a group of sailors are fruitlessly trying
+                     to save their ship from being overwhelmed by waves and rain. Above the ship is
+                     Ariel, who is shown to be the source of the storm.</figDesc>
                </figure>
                <head type="act" rend="case(allcaps)">Act I.</head>
                <stage n="23" type="setting" rend="align(center)"><hi rend="case(allcaps)"
@@ -1158,7 +1160,6 @@
                   <speaker>Seb.</speaker>
                   <lg>
                      <l n="86" part="F">I'm out of patience.</l>
-                     <!--do the i m f thing when sarah puts it in the documentation-->
                   </lg>
                </sp>
                <sp who="#ant">
@@ -1181,6 +1182,7 @@
                      <l n="94">-- Mercy on us!-- We split, we split!-- Farewell, my wife and
                         children!</l>
                      <l n="95">Farewell, brother! We split, we split, we split!--(1)</l>
+                     <!--illustrative comment-->
                   </lg></stage>
                <stage type="exit" rend="pre([)" n="96">Exit <persName>Boatswain</persName>.</stage>
                <sp who="#ant">
@@ -1216,7 +1218,9 @@
                      <fw type="pageNum" rend="align(left)">6</fw>
                      <pb n="7"/>
                      <figure xml:id="f003">
-                        <figDesc><!--bruh--></figDesc>
+                        <figDesc>Prospero is shown holding Miranda with his left arm and talking to
+                           her intently as she hangs onto his robe. In his right arm is a slim but
+                           majestic staff.</figDesc>
                      </figure>
                      <cb n="1"/>
                      <l n="108">But that the sea, mounting to the welkin's cheek,<anchor
@@ -1238,7 +1242,6 @@
                   <speaker>Pro.</speaker>
                   <lg>
                      <l n="118" part="F">Be collected;</l>
-                     <!--i m f thing-->
                      <l n="119">No more amazement: tell your piteous heart</l>
                      <l n="120" part="I">There's no harm done.</l>
                   </lg>
@@ -1639,7 +1642,8 @@
                <fw type="pageNum" rend="align(right)">9</fw>
                <pb n="10"/>
                <figure xml:id="f004">
-                  <figDesc><!--I'm like 90% sure this is supposed to be Prospero and Miranda adrift at sea with the island barely in view on the horizon?--></figDesc>
+                  <figDesc>Prospero and Miranda adrift at sea in a small boat full of supplies with
+                     the island barely in view on the horizon</figDesc>
                </figure>
                <cb n="1"/>
                <sp who="#pro">
@@ -1686,6 +1690,7 @@
                </sp>
                <stage n="323" type="entrance"><hi rend="slant(italic)">Enter</hi>
                   <hi rend="case(smallcaps)">Ariel</hi>.(2)</stage>
+               <!--illustrative comment-->
                <sp who="#ari">
                   <speaker>Ari.</speaker>
                   <lg>
@@ -1716,6 +1721,7 @@
                            xml:id="a021" corresp="#n021"/></l>
                      <l n="337">Then meet, and join.(3) Jove's lightnings, <anchor rend="pre(†)"
                            xml:id="a022" corresp="#n022"/>the precursors</l>
+                     <!--illustrative comments-->
                      <l n="338">O' the dreadful thunder-claps, more momentary</l>
                      <l n="339">And sight-outrnning were not: the fire, and cracks</l>
                      <l n="340">Of sulfurous roaring, the most mighty Neptune</l>
@@ -1802,6 +1808,7 @@
                      <l n="370">Is the king's ship; in the deep nook, where once</l>
                      <l n="371">Thou call'dst me up at midnight to fetch dew</l>
                      <l n="372">From the still-vex'd Bermoothes,(4) there she's hid:</l>
+                     <!--illustrative comment-->
                      <l n="373">The mariners all under hatches stow'd;</l>
                      <l n="374">Whom, with a charm join'd to their suffer'd labour,</l>
                      <l n="375">I have left asleep: and for the rest o' the fleet,</l>
@@ -1830,7 +1837,9 @@
                <fw type="pageNum" rend="align(right)">11</fw>
                <pb n="12"/>
                <figure xml:id="f006">
-                  <figDesc><!--what--></figDesc>
+                  <figDesc>Sycorax in a large, dark robe obscuring her face and body stands hunched
+                     with Caliban, yelling and shaking her fist at a much younger Ariel as he flies
+                     around their campsite.</figDesc>
                </figure>
                <cb n="1"/>
                <sp who="#pro">
@@ -2119,7 +2128,7 @@
                   </lg>
                </sp>
                <stage type="entrance" n="486" rend="slant(italic)align(center)">Enter
-                     <persName>Caliban</persName>.(5)</stage>
+                     <persName>Caliban</persName>.(5)</stage><!--illustrative comment-->
                <sp who="#cal">
                   <speaker>Cal.</speaker>
                   <lg>
@@ -2259,7 +2268,6 @@
                <stage n="548" type="mixed" rend="align(center)slant(italic)">Re-enter
                      <persName>Ariel</persName>, invisible, playing and singing;
                      <persName>Ferdinand</persName> following.</stage>
-               <!--not sure if this is right-->
                <stage n="549" type="setting" rend="slant(italic)"><persName>Ariel's</persName>
                   Song.</stage>
                <lg rend="slant(italic)">
@@ -2647,13 +2655,15 @@
                <fw type="pageNum" rend="align(left)">17</fw>
                <fw type="signature" rend="align(right)">C</fw>
             </div>
-            <!--scene 2 div-->
          </div>
-         <!--act 1 div-->
          <div type="act" n="2">
             <div type="scene" n="1">
+               <pb n="18"/>
                <figure xml:id="f010">
-                  <figDesc><!--idk a bunch of sassy dudebros in a forest--></figDesc>
+                  <figDesc>A crowd of finely dressed gentlemen are standing in a forest. To the left
+                     is Alonso, deep in thought as Gonzalo talks to him. To the right are Sebastian,
+                     Antionio, Adrian, Francisco and others leaning on a tree and talking as they
+                     look at Gonzalo.</figDesc>
                </figure>
                <head type="act" rend="case(allcaps)">Act II.</head>
                <stage type="setting" rend="align(center)"><hi rend="case(allcaps)">Scene I</hi>.--
@@ -4650,7 +4660,7 @@
                   <lg>
                      <l>Why, as I told thee, 't is a custom with him</l>
                      <fw type="pageNum" rend="align(right)">31</fw>
-                     <pb n="31"/>
+                     <pb n="32"/>
                      <l>I' the afternoon to sleep: there thou mayst brain him,</l>
                      <l>Having first seiz'd his books; or with a log</l>
                      <l>Batter his skull, or paunch him with a stake,</l>
@@ -5632,24 +5642,134 @@
                   which it is evident, from several expressions, that Shakespeare consulted
                   Golding's translation:--</p>
                <lg>
-                  <l>"Ye Ayres and Windes, ye Elves of Hilles, of Brookes, of Woods alone,</l>
-                  <l>Of standing Lakes, and of the Night, approach ye everychone.</l>
-                  <l>Through helpe of whom (crooked bankes much wondring at the thing)</l>
+                  <l>"Ye Ayres and Windes, ye <hi rend="slant(italic)">Elves of Hilles, of
+                        Brookes</hi>, of Woods alone,</l>
+                  <l>Of <hi rend="slant(italic)">standing Lakes</hi>, and of the Night, approach ye
+                     everychone.</l>
+                  <l><hi rend="slant(italic)">Through helpe of whom</hi> (crooked bankes much
+                     wondring at the thing)</l>
                   <l>I have compelled streames to run cleane backward to their spring.</l>
-                  <l>By charmes I raise and lay the windes, and burst the Viper's jaw,</l>
+                  <l>By charms I make the calm seas rough, and make the rough seas playne,</l>
+                  <l>And cover all the Skin with clouds, and <hi rend="slant(italic)">chase</hi>
+                     them thence again.</l>
+                  <l><hi rend="slant(italic)">By charmes I raise and lay the windes</hi>, and burst
+                     the Viper's jaw,</l>
                   <l>And from the bowels of the earth both stones and trees do draw.</l>
-                  <l>Whole woods and Forests I remoove, I make the Mountaines shake,</l>
+                  <l>Whole woods and Forests I remoove, <hi rend="slant(italic)">I make the
+                        Mountaines shake</hi>,</l>
                   <l>And even the earth it selfe to grone and fearfully to quake.</l>
-                  <l>I call up deud men from their graves, and thee, O lightsome Moone,</l>
+                  <l><hi rend="slant(italic)">I call up deud men from their graves</hi>, and thee, O
+                     lightsome Moone,</l>
                   <l>I darken oft, though beaten brass abate thy perill soone:</l>
-                  <cb n="2"></cb>
-                  <l>Our Sorcerie dimmes the Morning faire, and darks the Sun at Noone,</l>
+                  <cb n="2"/>
+                  <l>Our Sorcerie dimmes the Morning faire, and <hi rend="slant(italic)">darks the
+                        Sun at Noone</hi>,</l>
                   <l>The flaming breath of fierie Bulles ye quenched for my sake,</l>
                   <l>And caused their unwieldy neckes the bended yoke to take.</l>
-                  <l>Among the earth-bred brothers you a mortal warre did set,</l>
+                  <l>Among the earth-bred brothers you a <hi rend="slant(italic)">mortal warre did
+                        set</hi>,</l>
                   <l>And brought asleepe the Dragon fell, whose eyes were never shet."</l>
                </lg>
+               <ab>Golding's <hi rend="slant(italic)">Ovid</hi>, lib. 7, 1567.</ab>
             </note>
+            <note>
+               <ref>(2) <hi rend="case(smallcaps)">Scene I</hi>.--<quote rend="slant(italic)post(])"
+                     >Under the blossom that hangs on the bough.</quote></ref>
+               <p>The beautiful fancy in the second line of Ariel's song,--</p>
+               <lg>
+                  <l rend="slant(italic)">"In a cowslip's bell I lie,"</l>
+               </lg>
+               <p>was once supposed to have been borrowed from a stanza in Drayton's delicious
+                  "Nimphidia:"--</p>
+               <lg>
+                  <l>"At midnight the appointed hour;</l>
+                  <l>And for the queen a fitting <hi rend="slant(italic)">bower</hi>,</l>
+                  <l>Quoth he, is that <hi rend="slant(italic)">fair cowslip-flower</hi></l>
+                  <l>On Hip-cut hill that bloweth."</l>
+               </lg>
+               <p>It is now, however, generally believd that "Nimphidia," which was not printed
+                  before 1627, was written subsequently to "The Tempest;" Malone thinks in 1612.</p>
+            </note>
+            <!--need a way to include more than one head or create a new div?? unsure what to do here.-->
+            <head rend="case(allcaps)">Critical Opinions on the Tempest</head>
+            <p>"It is observed of 'The Tempest,' that its plan is regular. This the author of 'The
+               Revisal' thinks, what I think too, an accidental effect of the story, not intended or
+               regarded by our author. But whatever might be Shakespeare's intention in forming or
+               adopting the plot, he has made it instrumental to the production of many characters,
+               diversified with boundless invention, and preserved with profound skill in nature,
+               extensive knowledge of opinions, and accurate observation of life. In a single drama
+               are here exhibited princes, courtiers, and sailors, all speaking in their real
+               characters. There is the agency of airy spirits, and of an earthly goblin; the
+               operations of magick; the tumults of a storm, the adventurs of a desart island, the
+               native effusion of untaught affection, the punishment of guilt, and the final
+               happiness of the pair for whom our passions and reason are equally interested."-- <hi
+                  rend="case(smallcaps)">Johnson</hi>.</p>
+            <p> "'The Tempest,' according to all appearance, was written in Shakespeare's later
+               days: hence most critics, on the supposition that the poet must have continued to
+               improve with increasing maturity of mind, have honoured this piece with a marked
+               preference over the 'Midsummer Night's Dream.' I cannot, however, altogether concur
+               with them: the internal merit of these two works are, in my opinion, pretty nearly
+               balanced, and a predilection for the one or the other can only be governed by
+               personal taste. In profound and original characterisation, the superiority of 'The
+               Tempest' is obvious: as a whole we must always admire the masterly skill which he has
+               here displayed in the economy of his means, and the dexterity with which he has
+               disguised his preparations,-- the scaffoldings for the wonderful aërial
+               structure.</p>
+            <fw type="pageNum" rend="align(left)">51</fw>
+            <fw type="signature" rend="align(right)">E2</fw>
+            <pb n="52"/>
+            <p>"'The Tempest' has little action or progressive movement; the union of Ferdinand and
+               Miranda is settled at their first interview, and Prospero merely throws apparent
+               obstacles in their way; the shipwrecked band go leisurely about the island; the
+               attempts of Sebastian and Antonio on the life of the King of Naples, and the plot of
+               Caliban and the drunken sailors against Prospero, are nothing but a feint, for we
+               foresee that they will be completely frustrated by the magical skill of the latter;
+               nothing remains therefore but the punishment of the guilty by dreadful sights which
+               harrow up their consciences, and then the discovery and final reconciliation. Yet
+               this want of movement is so admirably concealed by the most varied display of the
+               fascination of poetry, and the exhilaration of mirth, the details of the execution
+               are so very attractive, that it requires no small degree of attention to perceive
+               that the denouement is, in some degree, anticipated in the exposition. The history of
+               the loves of Ferdinand and Miranda, developed in a few short scenes, is enchantingly
+               beautiful: an affecting union of chivalrous magnanimity on the one part, and on the
+               other of the virgin openness of a heart which, brought up far from the world on an
+               uninhabited island, has never learned to disguise its innocent movements. The wisdom
+               of the princely hermit Prospero has a magical and mysterious air; the disagreeable
+               impression left by the black falsehood of the two usurpers is softened by the honest
+               gossiping of the old and faithful Gonzalo; Trinculo and Stephano, two
+               good-for-nothing drunkards, find a worthy associate in Caliban; and Ariel hovers
+               sweetly over the whole as the personified genius of the wonderful fable.</p>
+            <p>"Caliban has become a by-word as the strange creation of a poetical imagination. A
+               mixture of gnome and savage, half demon, half brute, in his behavior we perceive at
+               once the traces of his native disposition, and the influence of Prospero's education.
+               The latter could only unfold his understanding, without, in the slightest degree
+               taming his rooted malignity: it is as if the use of reason and human speech were
+               communicated to an awkward ape. In inclination Caliban is malicious, cowardly, false,
+               and base; and yet he is essentially different from the vulfar knaves of a civilized
+               world, as portrayed occasionally by Shakespeare. He is rude, but not vulgar; he never
+               falls into the prosaic and low familiarity of his drunken associates, for he is, in
+               his way, a poetical being; he always speaks in verse. He has picked up everything
+               dissonant and thorny in language to compose out of it a vocabulary of his own; and of
+               the whole variety of nature, the hateful, repulsive, and pettily deformed, have alone
+               been impressed on his imagination. The magical world of spirits, which the staff of
+               Prospero has assembled on the island, casts merely a faint reflection into his mind,
+               as a ray of light which falls into a dark cave, incapable of communicating to it
+               either heat or illumination, serves merely to set in motion the poisonous vapours.
+               The delineation of this monster is throughout inconceivably consistent and profound,
+               and, notwithstanding its hatefulness, by no means hurtful to our feelings, as the
+               honour of human nature is left untouched.</p>
+            <p>"In the zephy-like Ariel, the image of air is not to be mistaken, his name even bears
+               an allusion to it; as, on the other hand, Caliban signifies the heavy element of
+               earth. Yet they are neither of them simple, allegorical personifications, but beings
+               individually determined. In general we find in the 'Midsummer Night's Dream,' in 'The
+               Tempest,' in the magical part of 'Macbeth,' and wherever Shakespeare avails himself
+               of the popular belief in the invisible presence of spirits, and the possibility of
+               coming in contact with them, a profound view of the inward life of nature and her
+               mysterious springs, which, it is true, can never be altogether unknown to the genuine
+               poet, as poetry is altogether incompatible with the mechanical physics, but which few
+               have possessed in an equal degree with Dante and himself."--<hi
+                  rend="case(smallcaps)">Schlegel</hi>.</p>
+            <fw type="pageNum" rend="align(left)">52</fw>
          </div>
       </back>
    </text>
