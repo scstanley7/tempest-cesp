@@ -4324,69 +4324,69 @@
                      <l n="1275">The very instant that I saw you, did</l>
                      <l n="1276">My heart fly to your service; there resides,</l>
                      <l n="1277">To make me slave to it; and for your sake</l>
-                     <l part="I">Am I this patient log-man.</l>
+                     <l part="I" n="1278">Am I this patient log-man.</l>
                   </lg>
                </sp>
                <sp who="#mira">
                   <speaker>Mira.</speaker>
                   <lg>
-                     <l part="F">Do you love me?</l>
+                     <l part="F" n="1279">Do you love me?</l>
                   </lg>
                </sp>
                <sp who="#fer">
                   <speaker>Fer.</speaker>
                   <lg>
-                     <l>O heaven! O earth! bear witness to this sound,</l>
-                     <l>And crown what I profess with kind event,</l>
-                     <l>If I speak true! if hollowly, invert</l>
-                     <l>What best is boded me, to mischief! I,</l>
-                     <l>Beyond all limit of what else i' the world,</l>
-                     <l part="I">Do love, prize, honour you.</l>
+                     <l n="1280">O heaven! O earth! bear witness to this sound,</l>
+                     <l n="1281">And crown what I profess with kind event,</l>
+                     <l n="1282">If I speak true! if hollowly, invert</l>
+                     <l n="1283">What best is boded me, to mischief! I,</l>
+                     <l n="1284">Beyond all limit of what else i' the world,</l>
+                     <l part="I" n="1285">Do love, prize, honour you.</l>
                   </lg>
                </sp>
                <sp who="#mira">
                   <speaker>Mira.</speaker>
                   <lg>
-                     <l part="F">I am a fool,</l>
-                     <l part="I">To weep at what I am glad of.</l>
+                     <l part="F" n="1286">I am a fool,</l>
+                     <l part="I" n="1287">To weep at what I am glad of.</l>
                   </lg>
                </sp>
                <sp who="#pro">
                   <speaker>Pro.</speaker>
                   <lg>
-                     <l part="F"><stage type="delivery" rend="pre([)post(])slant(italic)"
+                     <l part="F" n="1288"><stage type="delivery" rend="pre([)post(])slant(italic)"
                            >Aside.</stage> Fair encounter</l>
-                     <l>Of two most rare affections! Heavens rain grace</l>
-                     <l part="I">On that which breeds between 'em!</l>
+                     <l n="1289">Of two most rare affections! Heavens rain grace</l>
+                     <l part="I" n="1290">On that which breeds between 'em!</l>
                   </lg>
                </sp>
                <sp who="#fer">
                   <speaker>Fer.</speaker>
                   <lg>
-                     <l>Wherefore weep you?</l>
+                     <l n="1291">Wherefore weep you?</l>
                   </lg>
                </sp>
                <sp who="#mira">
                   <speaker>Mira.</speaker>
                   <lg>
-                     <l>At mine unworthiness, that dare not offer</l>
-                     <l>What I desire to give; and much less take</l>
-                     <l>What I shall die to want. But this is trifling;</l>
-                     <l>And all the more it seeks to hide itself,</l>
-                     <l>The bigger bulk it shows. Hence, bashful cunning!</l>
-                     <l>And prompt me, plain and holy innocence!</l>
-                     <l>I am your wife, if you will marry me;</l>
-                     <l>If not, I'll die your maid: to be your fellow<anchor rend="pre(ᵇ)"
+                     <l n="1292">At mine unworthiness, that dare not offer</l>
+                     <l n="1293">What I desire to give; and much less take</l>
+                     <l n="1294">What I shall die to want. But this is trifling;</l>
+                     <l n="1295">And all the more it seeks to hide itself,</l>
+                     <l n="1296">The bigger bulk it shows. Hence, bashful cunning!</l>
+                     <l n="1297">And prompt me, plain and holy innocence!</l>
+                     <l n="1298">I am your wife, if you will marry me;</l>
+                     <l n="1299">If not, I'll die your maid: to be your fellow<anchor rend="pre(ᵇ)"
                            xml:id="a073" corresp="#n073"/></l>
-                     <l>You may deny me; but I'll be your servant,</l>
-                     <l part="I">Whether you will or no.</l>
+                     <l n="1300">You may deny me; but I'll be your servant,</l>
+                     <l part="I" n="1301">Whether you will or no.</l>
                   </lg>
                </sp>
                <sp who="#fer">
                   <speaker>Fer.</speaker>
                   <lg>
-                     <l part="F">My mistress, dearest!</l>
-                     <l part="I">And I thus humble ever.</l>
+                     <l part="F" n="1302">My mistress, dearest!</l>
+                     <l part="I" n="1303">And I thus humble ever.</l>
                   </lg>
                </sp>
                <fw type="pageNum">29</fw>
@@ -4395,40 +4395,40 @@
                <sp who="#mira">
                   <speaker>Mira.</speaker>
                   <lg>
-                     <l part="F">My husband, then?</l>
+                     <l part="F" n="1304">My husband, then?</l>
                   </lg>
                </sp>
                <sp who="#fer">
                   <speaker>Fer.</speaker>
                   <lg>
-                     <l>Ay, with a heart as willing</l>
-                     <l>As bondage e'er of freedom: here's my hand.</l>
+                     <l n="1305">Ay, with a heart as willing</l>
+                     <l n="1306">As bondage e'er of freedom: here's my hand.</l>
                   </lg>
                </sp>
                <sp who="#mira">
                   <speaker>Mira.</speaker>
                   <lg>
-                     <l>And mine, with my heart in't: and now, farewell</l>
-                     <l>Till half an hour hence.</l>
+                     <l n="1307">And mine, with my heart in't: and now, farewell</l>
+                     <l n="1308">Till half an hour hence.</l>
                   </lg>
                </sp>
                <sp who="#fer">
                   <speaker>Fer.</speaker>
                   <lg>
-                     <l>A thousand thousand!</l>
+                     <l n="1309">A thousand thousand!</l>
                   </lg>
                </sp>
-               <stage type="exit" rend="slant(italic)pre([)align(right)">Exeunt
+               <stage type="exit" rend="slant(italic)pre([)align(right)" n="1310">Exeunt
                      <persName>Ferdinand</persName> and <persName>Miranda</persName>
                   severally.</stage>
                <sp who="#pro">
                   <speaker>Pro.</speaker>
                   <lg>
-                     <l>So glad of this as they I cannot be,</l>
-                     <l>Who are surpris'd with all; but my rejoicing</l>
-                     <l>At nothing can be more. I'll to my book;</l>
-                     <l>For yet, ere supper-time, must I perform</l>
-                     <l>Much business appertaining. <stage type="exit"
+                     <l n="1311">So glad of this as they I cannot be,</l>
+                     <l n="1312">Who are surpris'd with all; but my rejoicing</l>
+                     <l n="1313">At nothing can be more. I'll to my book;</l>
+                     <l n="1314">For yet, ere supper-time, must I perform</l>
+                     <l n="1315">Much business appertaining. <stage type="exit"
                            rend="pre([)slant(italic)align(right)">Exit.</stage></l>
                   </lg>
                </sp>
@@ -4441,69 +4441,69 @@
                   following.</stage>
                <sp who="#ste">
                   <speaker>Ste.</speaker>
-                  <p>Tell not me;-- when the butt is out we will drink water; not a drop before:
-                     therefore bear up, and board 'em.-- Servant-monster, drink to me.</p>
+                  <p><s n="1316">Tell not me;-- when the butt is out we will drink water; not a drop before:
+                     therefore bear up, and board 'em.</s><s n="1317">-- Servant-monster, drink to me.</s></p>
                </sp>
                <sp who="#tri">
                   <speaker>Trin.</speaker>
-                  <p><hi rend="slant(italic)">Servant-monster?</hi> the folloy of this island! They
+                  <p><s n="1318"><hi rend="slant(italic)">Servant-monster?</hi> the folloy of this island!</s><s n="1319"> They
                      say there's but five upon this isle: we are three of them; if the other two be
-                     brained like us, the state totters.</p>
+                     brained like us, the state totters.</s></p>
                </sp>
                <sp who="#ste">
                   <speaker>Ste.</speaker>
-                  <p>Drink, servant-monster, when I bid thee; thy eyes are almost set in thy
-                     head.</p>
+                  <p><s n="1320">Drink, servant-monster, when I bid thee; thy eyes are almost set in thy
+                     head.</s></p>
                </sp>
                <sp who="#tri">
                   <speaker>Trin.</speaker>
-                  <p>Where should they be set else? he were a brave monster indeed, if they were set
-                     in his tail. </p>
+                  <p><s n="1321">Where should they be set else?</s><s n="1322"> he were a brave monster indeed, if they were set
+                     in his tail. </s></p>
                </sp>
                <sp who="#ste">
                   <speaker>Ste.</speaker>
-                  <p>My man-monster hath drowned his tongue in sack: for my part, the sea cannot
+                  <p><s n="1323">My man-monster hath drowned his tongue in sack: for my part, the sea cannot
                      drown me; I swam, ere I could recover the shore, five-and-thirty leagues, off
-                     and on. By this light thou shalt be my lieutenant, monster, or my standard.</p>
+                     and on.</s><s n="1324"> By this light thou shalt be my lieutenant, monster, or my standard.</s></p>
                </sp>
                <sp who="#tri">
                   <speaker>Trin.</speaker>
-                  <p>Your lieutenant, if you list; he's no standard.</p>
+                  <p><s n="1325">Your lieutenant, if you list; he's no standard.</s></p>
                </sp>
                <sp who="#ste">
                   <speaker>Ste.</speaker>
-                  <p>We'll not run, monsieur Monster.</p>
+                  <p><s n="1326">We'll not run, monsieur Monster.</s></p>
                </sp>
                <sp who="#tri">
                   <speaker>Trin.</speaker>
-                  <p>Nor go neither: but you'll lie, like dogs; and yet say nothing neither.</p>
+                  <p><s n="1327">Nor go neither: but you'll lie, like dogs; and yet say nothing neither.</s></p>
                </sp>
                <sp who="#ste">
                   <speaker>Ste.</speaker>
-                  <p>Moon-calf, speak once in thy life, if thou beest a good moon-calf.</p>
+                  <p><s n="1328">Moon-calf, speak once in thy life, if thou beest a good moon-calf.</s></p>
                </sp>
                <sp who="#cal">
                   <speaker>Cal.</speaker>
                   <lg>
-                     <l>How does thy honour? Let me lick thy shoe.</l>
-                     <l>I'll not serve him, he is not valiant.</l>
+                     <l n="1329">How does thy honour? Let me lick thy shoe.</l>
+                     <l n="1330">I'll not serve him, he is not valiant.</l>
                   </lg>
                </sp>
                <sp who="#tri">
                   <speaker>Trin.</speaker>
-                  <p>Thou liest, most ignorant monster; I am in case to justle a constable. Why,
+                  <p><s n="1331">Thou liest, most ignorant monster; I am in case to justle a constable.</s><s n="1332"> Why,
                      thou deboshed fish, thou, was there ever a man a coward that hath drunk so much
-                     sack as I to-day? Wilt thou tell a monstrous lie, being but half a fish, and
-                     half a monster?</p>
+                     sack as I to-day?</s><s n="1333"> Wilt thou tell a monstrous lie, being but half a fish, and
+                     half a monster?</s></p>
                </sp>
                <sp who="#cal">
                   <speaker>Cal.</speaker>
-                  <p>Lo, how he mocks me! wilt thou let him, my lord?</p>
+                  <p><s n="1334">Lo, how he mocks me!</s><s n="1335"> wilt thou let him, my lord?</s></p>
                </sp>
                <sp who="#tri">
                   <speaker>Trin.</speaker>
-                  <p><hi rend="slant(italic)">Lord</hi>, quoth he!-- that a monster should be such a
-                     natural!</p>
+                  <p><s n="1336"><hi rend="slant(italic)">Lord</hi>, quoth he!</s><s n="1337">-- that a monster should be such a
+                     natural!</s></p>
                </sp>
                <sp who="#cal">
                   <speaker>Cal.</speaker>
