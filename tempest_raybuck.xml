@@ -2128,7 +2128,8 @@
                   </lg>
                </sp>
                <stage type="entrance" n="486" rend="slant(italic)align(center)">Enter
-                     <persName>Caliban</persName>.(5)</stage><!--illustrative comment-->
+                     <persName>Caliban</persName>.(5)</stage>
+               <!--illustrative comment-->
                <sp who="#cal">
                   <speaker>Cal.</speaker>
                   <lg>
@@ -2136,7 +2137,7 @@
                         as e'er my mother brush'd</l>
                      <l n="488">With raven's feather from unwholesome fen,</l>
                      <l n="489">Drop on you both! a south-west blow on ye,</l>
-                     <l n="490">And blister you all o'er! (6)</l>
+                     <l n="490">And blister you all o'er! (6)</l><!--illustrative comment-->
                   </lg>
                </sp>
                <sp who="#pro">
@@ -2253,7 +2254,7 @@
                      <l n="542" part="F">No, pray thee--</l>
                      <l n="543"><stage type="delivery" rend="pre([)post(])slant(italic)"
                            >Aside.</stage>I must obey: his art is of such power,</l>
-                     <l n="544">It would control my dam's god, Setebos, (7)</l>
+                     <l n="544">It would control my dam's god, Setebos, (7)</l><!--illustrative comment-->
                      <l n="545" part="I">And make a vassal of him.</l>
                   </lg>
                </sp>
