@@ -5150,7 +5150,7 @@
                    <l part="F">Follow, I pray you.</l>
                  </lg>
                </sp>
-               <stage rend="slant(italic)pre([)align(right)">Exeunt.</stage>
+               <stage type="exit" rend="slant(italic)pre([)align(right)">Exeunt.</stage>
                <figure>
                  <figDesc>A harpy with Ariel's face flies into the scene on a rolling cloud of wind.</figDesc>
                </figure>
@@ -5166,7 +5166,7 @@
              <stage n="1198" type="setting" rend="align(center)"><hi rend="case(allcaps)">Scene
                    I</hi>.-- <hi rend="slant(italic)">Before <persName>Prospero's</persName>
                    Cell.</hi></stage>
-             <cb n="1">
+             <cb n="1"/>
              <stage type="entrance" rend="slant(italic)align(center)">Enter <persName>Prospero</persName>, <persName>Ferdinand</persName>, and <persName>Miranda</persName>.</stage>
              <sp who="#pro">
                <speaker>Pro.</speaker>
@@ -5233,7 +5233,7 @@
                  <l>What, Ariel! my industrious servant, Ariel!</l>
                </lg>
              </sp>
-             <stage>Enter <persName>Ariel<persName>.</stage>
+             <stage type="entrance">Enter <persName>Ariel</persName>.</stage>
              <sp who="#ari">
                <speaker>Ari.</speaker>
                <lg>
@@ -5285,7 +5285,7 @@
              <sp who="#ari">
                <speaker>Ari.</speaker>
                <lg>
-                 <l part="F">Well I conceive.<stage rend="slant(italic)align(right)pre([)">Exit.</stage></l>
+                 <l part="F">Well I conceive.<stage type="exit" rend="slant(italic)align(right)pre([)">Exit.</stage></l>
                </lg>
              </sp>
              <sp who="#pro">
@@ -5314,9 +5314,9 @@
                  <l>No tongue; all eyes; be silent!<stage type="business" rend="slant(italic)pre([)align(right)">Soft music.</stage></l>
                </lg>
              </sp>
-             <stage>A Masque. Enter <persName>Iris</persName>.</stage>
+             <stage type="entrance" rend="slant(italic)align(center)">A Masque. Enter <persName>Iris</persName>.</stage>
              <sp who="#iris">
-               <speaker>Iris.<speaker>
+               <speaker>Iris.</speaker>
                  <lg>
                    <l>Ceres, most bounteous lady, thy rich leas</l>
                    <l>Of wheat, rye, barley, vetches, oats, and pease;</l>
@@ -5337,7 +5337,7 @@
                    <l>Approach, rich Ceres, her to entertain.</l>
                  </lg>
              </sp>
-             <stage>Enter <persNamee>Ceres</persName>.</stage>
+              <stage type="entrance" rend="slant(italic)align(center)">Enter <persName>Ceres</persName>.</stage>
              <sp who="#ceres">
                <speaker>Cer.</speaker>
                <lg>
@@ -5370,7 +5370,6 @@
                  <l>I have forsworn.</l>
                </lg>
              </sp>
-
            </div>
          </div>
       </body>
@@ -5966,6 +5965,8 @@
                <p>It is now, however, generally believd that "Nimphidia," which was not printed
                   before 1627, was written subsequently to "The Tempest;" Malone thinks in 1612.</p>
             </note>
+         </div>
+         <div type="notes">
             <!--need a way to include more than one head or create a new div?? unsure what to do here.-->
             <head rend="case(allcaps)">Critical Opinions on the Tempest</head>
             <p>"It is observed of 'The Tempest,' that its plan is regular. This the author of 'The
