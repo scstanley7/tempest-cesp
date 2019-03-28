@@ -879,7 +879,63 @@
                   have lost our liberty, marriage is an hell: give me my <hi rend="slant(italic)"
                      >yellow</hi> hose again."</p>
             </note>
-            <note/>
+            <note rend="pre(ᵃ)" xml:id="n094" target="#a094">
+               <ref rend="post(])"><quote>
+                     <sp who="#ceres">
+                        <speaker>Cer.</speaker>
+                        <lg>
+                           <l>Earth's increase &amp;c.</l>
+                        </lg>
+                     </sp>
+                  </quote></ref>
+               <p>The prefix <hi rend="slant(italic)">"Cer."</hi> to this part of the song is
+                  omitted by mistake in the old copies, and was first inserted by Theobald.</p>
+            </note>
+            <note rend="pre(ᵇ)" xml:id="n095" target="#a095">
+               <ref rend="post(])"><quote>
+                     <lg>
+                        <l>Spring come to you, at the farthest,</l>
+                        <l>In the very end of harvest!</l>
+                     </lg>
+                  </quote></ref>
+               <p>Mr. Collier's annotator would alter this, strangely enough, to, "Rain come to
+                  you," &amp;c. See the "Faiery Queen," B. III. C. 6, St. 42,-- <lg>
+                     <l>"There is continuall spring, and harvest there</l>
+                     <l>Continuall, both meeting at one time."</l>
+                  </lg> See also Amos, c. ix. v. 13:-- "Behold, the days come, saith the Lord, that
+                  the plowman shall overtake the reaper, and the treader of grapes him that soweth
+                  seed." </p>
+            </note>
+            <note rend="pre(ᶜ)" xml:id="n096" target="#a096">
+               <ref rend="post(])"><quote>Harmonious charmingly:</quote></ref>
+               <p><hi rend="slant(italic)">Charmingly</hi> here imports <hi rend="slant(italic)"
+                     >magically</hi>, not delightfully.</p>
+            </note>
+            <note rend="pre(ᵈ)" xml:id="n097" target="#a097">
+               <ref rend="post(])"><quote>
+                     <lg>
+                        <l>So rare a wonder, and a father wise,</l>
+                        <l>Makes this place Paradise.</l>
+                     </lg>
+                  </quote></ref>
+               <p>In the ancient copies this reads,-- <lg>
+                     <l>"So rare a wondred Father, and a wise</l>
+                     <l>Makes this place Paradise;"</l>
+                  </lg> and is usually altered to,-- <lg>
+                     <l>"So rare a wonder'd father and a <hi rend="slant(italic)">wife</hi>,</l>
+                     <l><hi rend="slant(italic)">Make</hi> this place Paradise.</l>
+                  </lg>It is pretty evident that Ferdinand expresses a compliment to father and
+                  daughter; and equally so that the lines were intended to rhyme; with the very
+                  slight change we have ventured, the passage fulfils both conditions. It is
+                  noteworthy that the same rhyme occurs in teh opening stanza of our author's
+                  "Passionate Pilgrim,"-- <lg>
+                     <l rend="indent(1)">"-- what fool is not so wise,</l>
+                     <l>To break an oath, to win a paradise?"</l>
+                  </lg> a stanza quoted in "Love's Labour's Lost," Act IV. Sc. 3.</p>
+            </note>
+            <note rend="pre((*))" xml:id="n098" target="#a098">
+               <p>Old text, <hi rend="slant(italic)">windring</hi>.</p>
+            </note>
             <note rend="pre(*)" xml:id="nPLACE" target="#aPLACE">
                <p>The striking the top masts was a new invention in Shakespeare's time, which he
                   here very properly introduces. Sir Henry Manwaring says, "It is not yet agreed
@@ -5472,7 +5528,7 @@
                      <l>Great Juno comes! I know her by her gait.</l>
                   </lg>
                </sp>
-               <fw type="pageNum" rend="algin(left)">36</fw>
+               <fw type="pageNum" rend="align(left)">36</fw>
                <pb n="37"/>
                <sp who="#juno">
                   <speaker>Jun.</speaker>
@@ -5507,6 +5563,116 @@
                      <l>Ceres' blessing so is on you.</l>
                   </lg>
                </sp>
+               <sp who="#fer">
+                  <speaker>Fer.</speaker>
+                  <lg>
+                     <l>This is a most majestic vision, and</l>
+                     <l>Harmonious charmingly:<anchor rend="pre(ᶜ)" xml:id="a096" corresp="#n096"/>
+                        may I be bold </l>
+                     <l part="I">To think these spirits?</l>
+                  </lg>
+               </sp>
+               <sp who="#pro">
+                  <speaker>Pro.</speaker>
+                  <lg>
+                     <l part="F">Spirits, which by mine art</l>
+                     <l>I have from their confines call'd to enact</l>
+                     <l part="I">My present fancies.</l>
+                  </lg>
+               </sp>
+               <sp who="#fer">
+                  <speaker>Fer.</speaker>
+                  <lg>
+                     <l part="F">Let me live here ever;</l>
+                     <l>So rare a wonder, and a father wise,<anchor rend="pre(ᵈ)" xml:id="a097"
+                           corresp="#n097"/></l>
+                     <l part="I">Makes this place Paradise.</l>
+                  </lg>
+               </sp>
+               <stage type="business" rend="slant(italic)pre([)align(right)"
+                     ><persName>Juno</persName> and <persName>Ceres</persName> whisper, and send
+                     <persName>Iris</persName> on employment.</stage>
+               <sp who="#pro">
+                  <speaker>Pro.</speaker>
+                  <lg>
+                     <l part="F">Sweet now, silence!</l>
+                     <l>Juno and Ceres whisper seriously;</l>
+                     <l>There's something else to do: hush, and be mute,</l>
+                     <l>Or else our spell is marred.</l>
+                  </lg>
+               </sp>
+               <sp who="#iris">
+                  <speaker>Iris.</speaker>
+                  <lg>
+                     <l>You nymphs, call'd Naiads, of the wandering<anchor rend="pre(*)"
+                           xml:id="a098" corresp="#n098"/> brooks,</l>
+                     <l>With your sedgld crowns, and ever-harmless looks,</l>
+                     <l>Leave your crisp channels, and on this green land</l>
+                     <l>Answer your summons: Juno does command:</l>
+                     <l>Come, temperate nymphs, and help to celebrate</l>
+                     <l>A contract of true love; be not too late.</l>
+                     <l>You sun-burn'd sicklemen of August, weary,</l>
+                     <l>Come hither from the furrow, and be merry;</l>
+                     <l>Make holiday: your rye-straw hats put on,</l>
+                     <l>And these fresh nymphs encounter every one</l>
+                     <l>In country footing.</l>
+                  </lg>
+               </sp>
+               <stage type="business" rend="slant(italic)align(center)">Enter certain
+                     <persName>Reapers</persName>, properly habited; they join with the
+                     <persName>Nymphs</persName> in a graceful dance; towards the end wherof
+                     <persName>Prospero</persName> starts suddenly, and speaks; after which, to a
+                  strange, hollow, and confsued noise, they heavily vanish.</stage>
+               <sp who="#pro">
+                  <speaker>Pro.</speaker>
+                  <lg>
+                     <l><stage type="delivery" rend="pre([)post(])">Aside.</stage>I had forgot that
+                        foul conspiracy</l>
+                     <l>Of the beast Caliban and his confederates,</l>
+                     <l>Against my life; the minute of their plot</l>
+                     <l>Is almost come.--<stage type="delivery" rend="pre([)post(])">To the
+                              <persName>Spirits</persName>.</stage>Well done;-- avoid!-- no
+                        more!</l>
+                  </lg>
+               </sp>
+               <sp who="#fer">
+                  <speaker>Fer.</speaker>
+                  <lg>
+                     <l>This is strange: your father's in some passion</l>
+                     <l part="I">That works him strongly.</l>
+                  </lg>
+               </sp>
+               <sp who="#mira">
+                  <speaker>Mira.</speaker>
+                  <lg>
+                     <l part="F">Never till this day,</l>
+                     <l>Saw I him touch'd with anger so distempere'd.</l>
+                  </lg>
+               </sp>
+               <sp who="#pro">
+                  <speaker>Pro.</speaker>
+                  <lg>
+                     <l>You do look, my son, in a mov'd sort,</l>
+                     <l>As if you were dismay'd: be cheerful, sir.</l>
+                     <l>Our revels now are ended. These our actors,</l>
+                     <l>As I foretold you, were all spirits, and</l>
+                     <l>Are melted into air, into thin air:</l>
+                     <l>And, like the baseless fabric of this vision,</l>
+                     <l>The cloud-capp'd towers, the gorgeous palaces,</l>
+                     <l>The solemn temples, the gret globe itself,</l>
+                     <l>Yea, all which it inherit, shall dissolve,</l>
+                     <l>And, like this insubstantial pageant faded,</l>
+                     <l>Leave not a rack behind.(1)<!--illustrative comment--> We are such stuff</l>
+                     <l>As dreams are made on, and our little life</l>
+                     <l>Is rounded with a sleep.-- Sir, I am vex'd;</l>
+                     <l>Bear with my weakness; my old brain is troubled:</l>
+                     <l>Be not disturb'd with my infirmity:</l>
+                     <l>If you be pleas'd, retire into my cell,</l>
+                     <l>And there repose; a turn or two I'll walk,</l>
+                     <l>To still my beating mind.</l>
+                  </lg>
+               </sp>
+               <fw type="pageNum" rend="align(right)">37</fw>
             </div>
          </div>
       </body>
