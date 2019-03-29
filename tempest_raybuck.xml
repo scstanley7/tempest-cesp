@@ -936,6 +936,18 @@
             <note rend="pre((*))" xml:id="n098" target="#a098">
                <p>Old text, <hi rend="slant(italic)">windring</hi>.</p>
             </note>
+            <note rend="pre(ᵃ)" xml:id="n099" target="#a099">
+               <ref rend="post(])"><quote>I <hi rend="slant(italic)">thank</hi> thee.</quote></ref>
+               <p>Steevens, rightly, we believe, considered these words to be in reply to teh mutual
+                  wish of Ferdinand and Miranda, but wrongly, perhaps, altered them to, "I thank <hi
+                     rend="slant(italic)">you.</hi>" <hi rend="slant(italic)">Thee</hi>, however
+                  ungrammatical, appears to have been sometimes used in a plural sense: thus in
+                  "Hamlet," Act II. Sc. 2; the prince, addressing the players, says,-- "I am glad to
+                  see <hi rend="slant(italic)">thee</hi> well."</p>
+            </note>
+            <note rend="pre((*))" xml:id="n100" target="#a100">
+               <p>Old text, <hi rend="slant(italic)">on them</hi>.</p>
+            </note>
             <note rend="pre(*)" xml:id="nPLACE" target="#aPLACE">
                <p>The striking the top masts was a new invention in Shakespeare's time, which he
                   here very properly introduces. Sir Henry Manwaring says, "It is not yet agreed
@@ -5530,6 +5542,7 @@
                </sp>
                <fw type="pageNum" rend="align(left)">36</fw>
                <pb n="37"/>
+               <cb n="2"/>
                <sp who="#juno">
                   <speaker>Jun.</speaker>
                   <lg>
@@ -5611,6 +5624,7 @@
                      <l>Answer your summons: Juno does command:</l>
                      <l>Come, temperate nymphs, and help to celebrate</l>
                      <l>A contract of true love; be not too late.</l>
+                     <cb n="2"/>
                      <l>You sun-burn'd sicklemen of August, weary,</l>
                      <l>Come hither from the furrow, and be merry;</l>
                      <l>Make holiday: your rye-straw hats put on,</l>
@@ -5673,6 +5687,196 @@
                   </lg>
                </sp>
                <fw type="pageNum" rend="align(right)">37</fw>
+               <pb n="38"/>
+               <figure>
+                  <figDesc><!--yeah this just looks like two donald trumps beating up a mime--></figDesc>
+               </figure>
+               <cb n="1"/>
+               <!--two speakers?????-->
+               <sp who="#fer #mira">
+                  <speaker>Fer., Mira.</speaker>
+                  <lg>
+                     <l>We wish your peace.<stage type="exit" rend="slant(italic)align(right)pre([)"
+                           >Exeunt.</stage></l>
+                  </lg>
+               </sp>
+               <sp who="#pro">
+                  <speaker>Pro.</speaker>
+                  <lg>
+                     <l>Come with a thought!-- I thank thee.--<anchor rend="pre(ᵃ)" xml:id="a099"
+                           corresp="#n099"/> Ariel, come!</l>
+                  </lg>
+               </sp>
+               <stage type="entrance">Enter <persName>Ariel</persName>.</stage>
+               <sp who="#ari">
+                  <speaker>Ari.</speaker>
+                  <lg>
+                     <l part="I">Thy thoughts I cleave to. What's thy pleasure?</l>
+                  </lg>
+               </sp>
+               <sp who="#pro">
+                  <speaker>Pro.</speaker>
+                  <lg>
+                     <l part="F">Spirit,</l>
+                     <l>We must prepare to meet with Caliban.</l>
+                  </lg>
+               </sp>
+               <sp who="#ari">
+                  <speaker>Ari.</speaker>
+                  <lg>
+                     <l>Ay, my commander; when I presented Ceres,</l>
+                     <l>I thought to have told thee of it; but I fear'd</l>
+                     <l>Lest I might anger thee.</l>
+                  </lg>
+               </sp>
+               <sp who="#pro">
+                  <speaker>Pro.</speaker>
+                  <lg>
+                     <l>Say again, where didst thou leave these varlets?</l>
+                  </lg>
+               </sp>
+               <sp who="#ari">
+                  <speaker>Ari.</speaker>
+                  <lg>
+                     <l>I told you, sir, they were red-hot with drinking;</l>
+                     <l>So full of valour that they spote the air</l>
+                     <l>For breathing in their faces; beat the ground</l>
+                     <l>For kissing of their feet; yet always bending</l>
+                     <l>Towards their project. Then I beat my tabor,</l>
+                     <l>At which, like unback'd colts, they pricked their ears,</l>
+                     <l>Advanc'd their eyelids, lifted up their noses</l>
+                     <l>As they smelt music; so I charm'd their ears,</l>
+                     <l>That, calf-like, they my lowing follow'd through</l>
+                     <cb n="2"/>
+                     <l>Tooth'd briers, sharp furzes, pricking goss, and thorns,</l>
+                     <l>Which enter'd their frail shins: atl last I left them</l>
+                     <l>I' the filthy mantled pool beyond your cell,</l>
+                     <l>There dancing up to the chins, that the foul lake</l>
+                     <l part="I">O'erstunk their feet.</l>
+                  </lg>
+               </sp>
+               <sp who="#pro">
+                  <speaker>Pro.</speaker>
+                  <lg>
+                     <l part="F">This was well done, my bird.</l>
+                     <l>Thy shape invisible retain thou still:</l>
+                     <l>The trumpery in my house, go, bring it hither,</l>
+                     <l>For stale to catch these thieves.</l>
+                  </lg>
+               </sp>
+               <sp who="#ari">
+                  <speaker>Ari.</speaker>
+                  <lg>
+                     <l>I go, I go. <stage type="exit" rend="slant(italic)align(right)pre([)"
+                           >Exit.</stage></l>
+                  </lg>
+               </sp>
+               <sp who="#pro">
+                  <speaker>Pro.</speaker>
+                  <lg>
+                     <l>A devil, a born devil, on whose nature</l>
+                     <l>Nurture can never stick; on whom my pains,</l>
+                     <l>Humanely taken all, all lost, quite lost;</l>
+                     <l>And as, with age, his body uglier grows,</l>
+                     <l>So his mind cankers. I will plague them all,</l>
+                     <l part="I">Even to roaring.--</l>
+                     <stage type="entrance" rend="slant(italic)align(center)">Re-enter
+                           <persName>Ariel</persName>, loaden with glistering apparel,
+                        &amp;c.</stage>
+                     <l part="F">Come, hang them on <anchor rend="pre(*)" xml:id="a100"
+                           corresp="#n100"/> this line.(2)<!--illustrative comment--></l>
+                  </lg>
+               </sp>
+               <stage type="mixed"><persName>Prospero</persName>, and <persName>Ariel</persName>
+                  remain invisible. Enter <persName>Caliban</persName>,
+                     <persName>Stephano</persName>, and <persName>Trinculo</persName>, all
+                  wet.</stage>
+               <sp who="#cal">
+                  <speaker>Cal.</speaker>
+                  <lg>
+                     <l>Pray you, tread softly, that the blind mole may not</l>
+                     <l>Hear a foot fall: we now are near his cell.</l>
+                  </lg>
+               </sp>
+               <fw type="pageNum" rend="align(left)">38</fw>
+               <pb n="39"/>
+               <figure>
+                  <figDesc><!--AGAIN what on EARTH is HAPPENING--></figDesc>
+               </figure>
+               <cb n="1"/>
+               <sp who="#ste">
+                  <speaker>Ste.</speaker>
+                  <p>Monster, your fairy, which you say is a harmless fairy, has done little better
+                     than played the Jack with us.</p>
+               </sp>
+               <sp who="#tri">
+                  <speaker>Trin.</speaker>
+                  <p>Monster, I do smell all horse-piss; at which my nose is in great
+                     indignation.</p>
+               </sp>
+               <sp who="#ste">
+                  <speaker>Ste.</speaker>
+                  <p>So is mine.-- Do you hear, monster? If I should take a displeasure against you,
+                     look you,--</p>
+               </sp>
+               <sp who="#tri">
+                  <speaker>Trin.</speaker>
+                  <p>Thou wert but a lost monster.</p>
+               </sp>
+               <sp who="#cal">
+                  <speaker>Cal.</speaker>
+                  <lg>
+                     <l>Good my lord, give me thy favour still.</l>
+                     <l>Be patient, for the prize I'll bring thee to</l>
+                     <l>Shall hoodwink this mischance: therefore speak softly;--</l>
+                     <l>All's hush'd as midnight yet.</l>
+                  </lg>
+               </sp>
+               <sp who="#tri">
+                  <speaker>Trin.</speaker>
+                  <p>Ay, but to lose our bottles in the pool,--</p>
+               </sp>
+               <sp who="#ste">
+                  <speaker>Ste.</speaker>
+                  <p>There is not only disgrace and dishonour in that, monster, but an infinite
+                     loss.</p>
+               </sp>
+               <cb n="2"/>
+               <sp who="tri">
+                  <speaker>Trin.</speaker>
+                  <p>That's more to me than my wetting; yet this is your harmless fairy,
+                     monster.</p>
+               </sp>
+               <sp who="#ste">
+                  <speaker>Ste.</speaker>
+                  <p>I will fetch off my bottle, though I be o'er ears for my labour.</p>
+               </sp>
+               <sp who="#cal">
+                  <speaker>Cal.</speaker>
+                  <lg>
+                     <l>Py'thee, my king, be quiet. See'st thou here,</l>
+                     <l>This is the mouth o' the cell: no noise, and enter.</l>
+                     <l>Do that good mischief, which may make this island</l>
+                     <l>Thine own for ever, and I, thy Caliban,</l>
+                     <l>For aye thy foot-licker.</l>
+                  </lg>
+               </sp>
+               <sp who="#ste">
+                  <speaker>Ste.</speaker>
+                  <p>Give me thy hand. I do begin to have bloody thoughts.</p>
+               </sp>
+               <sp who="#tri">
+                  <speaker>Trin.</speaker>
+                  <p>O, king Stephano! O, peer! O, worthy Stephano! look what a wardrobe here is for
+                     thee!</p>
+               </sp>
+               <sp who="#cal">
+                  <speaker>Cal.</speaker>
+                  <lg>
+                     <l>Let it alone, thou fool; it is but trash.</l>
+                  </lg>
+               </sp>
+               <fw type="pageNum" rend="align(right)">39</fw>
             </div>
          </div>
       </body>
