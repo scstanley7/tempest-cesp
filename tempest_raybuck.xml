@@ -948,6 +948,71 @@
             <note rend="pre((*))" xml:id="n100" target="#a100">
                <p>Old text, <hi rend="slant(italic)">on them</hi>.</p>
             </note>
+            <note rend="pre(ᵃ)" xml:id="n101" target="#a101">
+               <ref rend="post(])"><quote>A frippery:--</quote></ref>
+               <p>A <hi rend="slant(italic)">frippery</hi> was the name of a shop for the sale of a
+                  second-hand apparel; the proprietor of which was called a <hi rend="slant(italic)"
+                     >fripper</hi>. The chief mart of the frippers, Strype tells us, was Birchin
+                  Lane and Cornhill.</p>
+            </note>
+            <note rend="pre(ᵇ)" xml:id="n102" target="#a102">
+               <ref rend="post(])"><quote>Let's alone,--</quote></ref>
+               <p>Theobald reads, "Let's <hi rend="slant(italic)">along</hi>;" which, if <hi
+                     rend="slant(italic)">alone</hi> was not sometimes used in the same sense, is
+                  undoubtedly the right word: but see note (), p.81, Vol. I.</p>
+            </note>
+            <note rend="pre(ᶜ)" xml:id="n103" target="#a103">
+               <ref rend="post(])"><quote>--now, jerkin, you are like to lose your
+                  hair,--</quote></ref>
+               <p>A quibble on the loss of hair sometimes suffered by those who visit hot climates,
+                  and the hair clohtes-line on which the "glistering apparel" is suspended.</p>
+            </note>
+            <note rend="pre(ᵃ)" xml:id="n104" target="#a104">
+               <ref rend="post(])"><quote>Line-grove--</quote></ref>
+               <p>Mr. Hunter, in his "Disquisition on Shakespeare's Tempest," has clearly proved
+                  that the linden, or lime, was formerly called the "line-tree."</p>
+            </note>
+            <note rend="pre(ᵇ)" xml:id="n105" target="#a105">
+               <ref rend="post(])"><quote>Passion as they--</quote></ref>
+               <p>We should probably read, "Passion'd as they."</p>
+            </note>
+            <note rend="pre((*))" xml:id="n106" target="#a106">
+               <p>Old text, <hi rend="slant(italic)">boile</hi>.</p>
+            </note>
+            <note rend="pre(ᵃ)" xml:id="n107" target="#a107">
+               <ref rend="slant(italic)post(])"><quote>
+                     <lg>
+                        <l><hi rend="slant(upright)">Holy Gonzalo</hi>, honourable man,</l>
+                        <l>Mine eyes, even sociable to the <hi rend="slant(upright)">show</hi> of
+                           thine,--</l>
+                     </lg>
+                  </quote></ref>
+               <p>On this passage Mr. Collier has teh following observations in his last edition:--
+                  "'Noble' and 'flow' are from the corrected folio, 1632, and, we may be confident,
+                  are restorations of the poet's language. Why has Prospero to call Gonzalo <hi
+                     rend="slant(italic)">holy</hi>, as the epithet stands in the folios?-- he was
+                  'noble' and 'honourable,' but in no respect <hi rend="slant(italic)">holy</hi>;
+                  the error of <hi rend="slant(italic)">show</hi> for 'flow' is also transparent,
+                  and must have been occasioned chiefly by the mistake of the long <hi
+                     rend="slant(italic)">s</hi> for <hi rend="slant(italic)">f</hi>." In his
+                  anxiety to sustain the changes proposed by his annotator, Mr. Collier appears to
+                  have forgotten two or three facts which militate very strongly against them. In
+                  the first place, the word "holy," in Shakespeare's time, besides its ordinary
+                  meaning of <hi rend="slant(italic)">godly, sanctified</hi>, and the like,
+                  signified also <hi rend="slant(italic)">pure, just, righteous</hi>, &amp;c.: in
+                  this sense, Leontes, in "The Winter's Tale," Act V. Sc. 1, speaks of Polixenes as
+                  "holy,"-- <lg>
+                     <l rend="indent(2)">"You have a <hi rend="slant(italic)">holy</hi> father,</l>
+                     <l>A graceful gentleman."</l>
+                  </lg> In the next place, the old text has <hi rend="slant(italic)">"shew,"</hi>
+                  not <hi rend="slant(italic)">show</hi>; and, thirdly, the misprint, if there were
+                  one, could not have been occasioned chiefly by the mistake of the long <hi
+                     rend="slant(italic)">s</hi> for <hi rend="slant(italic)">f</hi>, seeing the <hi
+                     rend="slant(italic)">sh</hi> of "show" in old typography formed a single
+                  character, fh, which was far less likely to be confounded with the type which
+                  represented "fl"-- fl, than the single long <hi rend="slant(italic)">s</hi> with
+                     <hi rend="slant(italic)">f</hi>. </p>
+            </note>
             <note rend="pre(*)" xml:id="nPLACE" target="#aPLACE">
                <p>The striking the top masts was a new invention in Shakespeare's time, which he
                   here very properly introduces. Sir Henry Manwaring says, "It is not yet agreed
@@ -5877,6 +5942,327 @@
                   </lg>
                </sp>
                <fw type="pageNum" rend="align(right)">39</fw>
+               <pb n="40"/>
+               <cb n="1"/>
+               <sp who="#tri">
+                  <speaker>Trin.</speaker>
+                  <p>O, ho, monster! we know what belongs to a frippery:<anchor rend="pre(ᵃ)"
+                        xml:id="a101" corresp="#n101"/>-- O, king Stephano!</p>
+               </sp>
+               <sp who="#ste">
+                  <speaker>Ste.</speaker>
+                  <p>Put off that gown, Trinculo: by this hand, I'll have that gown.</p>
+               </sp>
+               <sp who="#tri">
+                  <speaker>Trin.</speaker>
+                  <p>Thy grace shall have it.</p>
+               </sp>
+               <sp who="#cal">
+                  <speaker>Cal.</speaker>
+                  <lg>
+                     <l>The dropsy drown this fool! what do you mean,</l>
+                     <l>To dote thus on such luggage? Let's alone,<anchor rend="pre(ᵇ)"
+                           xml:id="a102" corresp="#n102"/></l>
+                     <l>And do the murder first: if he awake,</l>
+                     <l>From toe to crown he'll fill our skins with pinches;</l>
+                     <l>Make us strange stuff.</l>
+                  </lg>
+               </sp>
+               <sp who="#ste">
+                  <speaker>Ste.</speaker>
+                  <p>Be you quiet, monster.-- Mistress line, is not this my jerkin? Now is the
+                     jerkin under the line: now, jerkin, you are like to lose your hair,<anchor
+                        rend="pre(ᶜ)" xml:id="a103" corresp="#n103"/> and prove a bald jerkin.</p>
+               </sp>
+               <sp who="#tri">
+                  <speaker>Trin.</speaker>
+                  <p>Do, do: we steal by line and level, an't like your grace.</p>
+               </sp>
+               <sp who="#ste">
+                  <speaker>Ste.</speaker>
+                  <p>I thank thee for that jest: here's a garment for 't: wit shall not go
+                     unrewarded hwile I am king of this country. <hi rend="slant(italic)">Steal by
+                        line and level</hi> is an excellent pass of pate; theres another garment for
+                     't.</p>
+               </sp>
+               <sp who="#tri">
+                  <speaker>Trin.</speaker>
+                  <p>Monster, come, put some lime upon your fingers, and away with the rest.</p>
+               </sp>
+               <sp who="#cal">
+                  <speaker>Cal.</speaker>
+                  <lg>
+                     <l>I will have none on't; we shall lose our time,</l>
+                     <l>And all be turn'd to barnacles,(3)<!--illustrative comment--> or to apes</l>
+                     <l>With foreheads villainous low.</l>
+                  </lg>
+               </sp>
+               <cb n="2"/>
+               <sp who="#ste">
+                  <speaker>Ste.</speaker>
+                  <p>Monster, lay-to your fingers; help to bear this away where my hogshead of win
+                     is, or I'll turn you out of my kingdom: go to, carry this.</p>
+               </sp>
+               <sp who="#tri">
+                  <speaker>Trin.</speaker>
+                  <p> And this.</p>
+               </sp>
+               <sp who="#ste">
+                  <speaker>Ste.</speaker>
+                  <p>Ay, and this.</p>
+               </sp>
+               <stage type="mixed" rend="slant(italic)align(center)">A noise of
+                     <persName>Hunters</persName> heard. Enter divers <persName>Spirits</persName>,
+                  in shape of hounds, and hunt them about; <persName>Prospero</persName> and
+                     <persName>Ariel</persName> setting them on.</stage>
+               <sp who="#pro">
+                  <speaker>Pro.</speaker>
+                  <lg>
+                     <l>Hey, <hi rend="slant(italic)">Mountain</hi>, hey!</l>
+                  </lg>
+               </sp>
+               <sp who="#ari">
+                  <speaker>Ari.</speaker>
+                  <lg>
+                     <l><hi rend="slant(italic)">Silver</hi>! there it goes, <hi
+                           rend="slant(italic)">Silver</hi>!</l>
+                  </lg>
+               </sp>
+               <sp who="#pro">
+                  <speaker>Pro.</speaker>
+                  <lg>
+                     <l><hi rend="slant(italic)">Fury, Fury</hi>! there, <hi rend="slant(italic)"
+                           >Tyrant</hi>, there! hark, hark!</l>
+                     <stage type="exit" rend="slant(italic)align(right)pre([s)">Caliban, Stephano,
+                        and Trinculo are driven out.</stage>
+                     <l>Go, charge my goblins that they grind their joints</l>
+                     <l>With dry convulsions; shorten up their sinews</l>
+                     <l>With aged cramps; and more pinch-spotted make them,</l>
+                     <l part="I">Than pard or cat o' mountain.</l>
+                  </lg>
+               </sp>
+               <sp who="#ari">
+                  <speaker>Ari.</speaker>
+                  <lg>
+                     <l>Hark, they roar!</l>
+                  </lg>
+               </sp>
+               <sp who="#pro">
+                  <speaker>Pro.</speaker>
+                  <lg>
+                     <l>Let them be hunted soundly. At this hour</l>
+                     <l>Lie at my mercy all mine enemies:</l>
+                     <l>Shortly shall all my labours end, and thou</l>
+                     <l>Shalt have the air at freedom: for a litle,</l>
+                     <l>Follow, and do me service. <stage type="exit"
+                           rend="align(right)slant(italic)pre([)">Exeunt.</stage></l>
+                  </lg>
+               </sp>
+               <figure>
+                  <figDesc>A bottle of wine is laying on its side nestled between gnarled roots and
+                     roots on the ground. Wine is pouring out of it and collecting in a small
+                     pool</figDesc>
+               </figure>
+            </div>
+         </div>
+         <div type="act" n="5">
+            <div type="scene" n="1">
+
+               <figure>
+                  <figDesc>Prospero standing and looking out to the right while clothed in a fancy
+                     but simple tunic holding his staff and wearing a regal hat.</figDesc>
+               </figure>
+               <head rend="align(center)case(allcaps)">Act V.</head>
+               <stage type="setting"><hi rend="case(allcaps)">Scene I.</hi> -- <hi
+                     rend="slant(italic)">Before the Cell of
+                  </hi><persName>Prospero</persName>.</stage>
+               <cb n="1"/>
+               <stage type="entrance" rend="align(center)slant(italic)">Enter
+                     <persName>Prospero</persName> in his magic robes, and
+                     <persName>Ariel</persName>.</stage>
+               <sp who="#pro">
+                  <speaker>Pro.</speaker>
+                  <lg>
+                     <l>Now does my project gather to a head:</l>
+                     <l>My charms crack not; my spirits obey; and Time</l>
+                     <l>Goes upright with his carriage. How's the day?</l>
+                  </lg>
+               </sp>
+               <sp who="#ari">
+                  <speaker>Ari,</speaker>
+                  <lg>
+                     <l>On the sixth hour; at which time, my lord,</l>
+                     <l part="I">You said our work should cease.</l>
+                  </lg>
+               </sp>
+               <sp who="#pro">
+                  <speaker>Pro.</speaker>
+                  <lg>
+                     <l part="F">I did say so,</l>
+                     <l>When first I rais'd the tempest. Say, my spirit,</l>
+                     <l part="I">How fares the king and's followers?</l>
+                  </lg>
+               </sp>
+               <sp who="#ari">
+                  <speaker>Ari.</speaker>
+                  <lg>
+                     <l part="F">Confin'd together,</l>
+                     <l>In the same fashion as you gave in charge,</l>
+                     <l>Just as you left them; all prisoners, sir,</l>
+                     <l>In the line-grove<anchor rend="pre(ᵃ)" xml:id="a104" corresp="#n104"/> which
+                        weather-fends your cell;</l>
+                     <l>They cannot budge till your release. The king,</l>
+                     <l>His brother, and yours, abide all three distracted;</l>
+                     <l>And the remainder mourning over them,</l>
+                     <cb n="2"/>
+                     <l>Brim-full of sorrow and dismay; but chiefly</l>
+                     <l>Him that you term'd, sir, <hi rend="slant(italic)">The good old lord,
+                           Gonzalo;</hi></l>
+                     <l>His tears run down his beard, like winter's drops</l>
+                     <l>From eaves of reeds: your charm so strongly works 'em,</l>
+                     <l>That if you now beheld them, your affections</l>
+                     <l part="I">Would become tender.</l>
+                  </lg>
+               </sp>
+               <sp who="#pro">
+                  <speaker>Pro.</speaker>
+                  <lg>
+                     <l part="F">Dost thou think so, spirit?</l>
+                  </lg>
+               </sp>
+               <sp who="#ari">
+                  <speaker>Ari.</speaker>
+                  <lg>
+                     <l part="I">Mine would, sir, were I human.</l>
+                  </lg>
+               </sp>
+               <sp who="#pro">
+                  <speaker>Pro.</speaker>
+                  <lg>
+                     <l part="F">And mine shall.</l>
+                     <l>Hast thou, which art but air, a touch, a feeling</l>
+                     <l>Of their afflictions? and shall not myself,</l>
+                     <l>One of their kind, that relish all as sharply,</l>
+                     <l>Passion<anchor rend="pre(ᵇ)" xml:id="a105" corresp="#n105"/> as they, be
+                        kindlier mov'd than thou art?</l>
+                     <l>Though with their high wrongs I am struck to the quick,</l>
+                     <l>Yet, with my nobler reason 'gainst my fury</l>
+                     <fw type="pageNum" rend="align(right)">41</fw>
+                     <pb n="42"/>
+                     <cb n="1"/>
+                     <l>Do I take part. The rarer action is</l>
+                     <l>In virtue than in vengeance: they being penitent,</l>
+                     <l>The sole drift of my purpose doth extend</l>
+                     <l>Not a frown further. Go, release them, Ariel;</l>
+                     <l>My charms I'll break, their senses I'll restore,</l>
+                     <l>And they shall be themselves.</l>
+                  </lg>
+               </sp>
+               <sp who="#ari">
+                  <speaker>Ari.</speaker>
+                  <lg>
+                     <l>I'll fetch them, sir.<stage type="exit"
+                           rend="slant(italic)pre([)align(right)">Exit.</stage></l>
+                  </lg>
+               </sp>
+               <sp who="#pro">
+                  <speaker>Pro.</speaker>
+                  <lg>
+                     <l>Ye elves of hills, brooks, standing lakes, and groves;</l>
+                     <l>And ye that on the sands with printless foot</l>
+                     <l>Do chase the ebbing Neptune, and do fly him</l>
+                     <l>When he comes back; you demi-puppets that</l>
+                     <l>By moonshine do the green-sour ringlets make,</l>
+                     <l>Whereof the ewe not bites; and you, whose pastime</l>
+                     <l>Is to make midnight-mushrooms, that rejoice</l>
+                     <l>To hear the solemn curfew; by whose aid--</l>
+                     <l>Weak masters through te be-- I have bedimm'd</l>
+                     <l>The noontide sun, call'd forth the mutinous winds,</l>
+                     <l>And 'twixt the green sea and the azur'd vault</l>
+                     <l>Set roaring war: to the dread rattling thunder</l>
+                     <l>Have I given fire, and rifted Jove's stout oak</l>
+                     <l>With his own bolt: the strong-bas'd promontory</l>
+                     <l>Have I made shake; and by the spurs pluck'd up</l>
+                     <l>The pine and cedar: graves, at my command,</l>
+                     <l>Have wak'd their sleepers; op'd, and let them forth</l>
+                     <l>By my so potent art.(1)<!--illustrative comment--> But this rough magic</l>
+                     <l>I here abjure; and, when I have requir'd</l>
+                     <l>Some heavenly music,-- which even now I do,--</l>
+                     <l>To work mine end upon their senses that</l>
+                     <l>This airy charm is for, I'll break my staff,</l>
+                     <l>Bury it certain fathoms in the earth,</l>
+                     <l>And, deeper than did ever plummet sound,</l>
+                     <l>I'll drown my book.<stage type="business"
+                           rend="slant(italic)pre([)align(right)">Solemn music.</stage></l>
+                     <stage type="mixed" rend="slant(italic)align(center)">Re-enter
+                           <persName>Ariel</persName>: after him, <persName>Alonso</persName>, with
+                        a frantic gesture, attended by <persName>Gonzalo</persName>;
+                           <persName>Sebastian</persName> and <persName>Antonio</persName> in like
+                        manner, attended by <persName>Adrian</persName> and
+                           <persName>Francisco</persName>: they all enter the circle which
+                           <persName>Prospero</persName> had made, and there stand charmed; which
+                           <persName>Prospero</persName> observing, speaks.</stage>
+                     <l>A solemn air, and the best comforter</l>
+                     <l>To an unsettled fancy, cure thy brains,</l>
+                     <l>Now useless, boil'd<anchor rend="pre(*)" xml:id="a106" corresp="#n106"/>
+                        within thy skull! There stand,</l>
+                     <l>For you are spell-stopp'd.--</l>
+                     <l>Holy Gonzalo, honourable man,</l>
+                     <cb n="2"/>
+                     <l>Mine eyes, even sociable to the show<anchor rend="pre(ᵃ)" xml:id="a107"
+                           corresp="#n107"/> of thine,</l>
+                     <l>Fall fellowly drops.-- The charm dissolves apace;</l>
+                     <l>And as the morning steals upon the night,</l>
+                     <l>Melting the darkness, so their rising senses</l>
+                     <l>Begin to chase the ignorant fumes that mantle</l>
+                     <l>Their clearer reason.-- O, good Gonzalo,</l>
+                     <l>My true preserver, and a loyal sir</l>
+                     <l>To him thou follow'st! I will pay thy graces</l>
+                     <l>Home, both in word and deed.-- Most cruelly</l>
+                     <l>Didst thou, Alonso, use me and my daughter:</l>
+                     <l>Thy brother was a furtherer in the act;--</l>
+                     <l>Thou art pinch'd for't now, Sebastian.-- Flesh and blood,</l>
+                     <l>You brother mine, that entertain ambition,</l>
+                     <l>Expell'd remorse and nature; who, with Sebastian,--</l>
+                     <l>Whose inward pinches therefore are most strong,--</l>
+                     <l>Would here have kill'd your king; I do forgive thee,</l>
+                     <l>Unnatural though thou art.-- Their understanding</l>
+                     <l>Begins to swell; and the approaching tide</l>
+                     <l>Will shortly fill the reasonable shore,</l>
+                     <l>That now lies foul and muddy. Not one of them</l>
+                     <l>That yet looks on me, or would know me:-- Ariel,</l>
+                     <l>Fetch me the hat and rapier in my cell;--</l>
+                     <stage type="exit" rend="slant(italic)align(right)pre([)">Exit Ariel.</stage>
+                     <l>I will discase me, and myself present,</l>
+                     <l>As I was sometime Milan:-- quickly, spirit;</l>
+                     <l>Thou shalt ere long be free.</l>
+                  </lg>
+               </sp>
+               <stage type="mixed" rend="slant(italic)align(center)"><persName>Ariel</persName>
+                  re-enters, singing, and helps to attire <persName>Prospero</persName>.</stage>
+               <sp who="#ari">
+                  <speaker>Ari.</speaker>
+                  <lg type="song" rend="slant(italic)">
+                     <l>Where the bee sucks, there suck I;</l>
+                     <l>In a cowslip's bell I lie,</l>
+                     <l>There I couch when owls do cry:</l>
+                     <l>On the bat's back I do fly</l>
+                     <l>After summer merrily:</l>
+                     <l>Merrily, merrily, shall I live now,</l>
+                     <l>Under the blossom that hangs on the bough.(2)<!--illustrative comment--></l>
+                  </lg>
+               </sp>
+               <sp who="#pro">
+                  <speaker>Pro.</speaker>
+                  <lg>
+                     <l>Why, that's my dainty Ariel! I shall miss thee;</l>
+                     <l>But yet thou shalt have freedom: so, so, so.--</l>
+                     <l>To the king's ship, invisible as thou art:</l>
+                     <l>There shalt thou find the mariners asleep</l>
+                     <l>Under the hatches; the master and the boatswain,</l>
+                     <fw type="pageNum" rend="align(left)">42</fw>
+                  </lg>
+               </sp>
             </div>
          </div>
       </body>
