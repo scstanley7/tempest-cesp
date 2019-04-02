@@ -1013,6 +1013,16 @@
                   represented "fl"-- fl, than the single long <hi rend="slant(italic)">s</hi> with
                      <hi rend="slant(italic)">f</hi>. </p>
             </note>
+            <note rend="pre(ᵃ)" xml:id="n108" target="#a108">
+               <ref rend="post(])"><quote>Or <hi rend="slant(italic)">some enchanted</hi>
+                     trifle--</quote></ref>
+               <p>Mr. Collier's annotator substitutes <hi rend="slant(italic)">devil</hi> for
+                  "trifle;" a change as wanton as it is foolish. <hi rend="slant(italic)"
+                     >Trifle</hi> meant <hi rend="slant(italic)">phantom</hi>; thus, in Beaumont and
+                  Fletcher's "Bonduca," Act V. Sc. 2,-- <lg>
+                     <l>"In love too with a <hi rend="slant(italic)">trifle</hi> to abuse me."</l>
+                  </lg></p>
+            </note>
             <note rend="pre(*)" xml:id="nPLACE" target="#aPLACE">
                <p>The striking the top masts was a new invention in Shakespeare's time, which he
                   here very properly introduces. Sir Henry Manwaring says, "It is not yet agreed
@@ -6067,7 +6077,7 @@
          </div>
          <div type="act" n="5">
             <div type="scene" n="1">
-
+               <pb n="41"/>
                <figure>
                   <figDesc>Prospero standing and looking out to the right while clothed in a fancy
                      but simple tunic holding his staff and wearing a regal hat.</figDesc>
@@ -6261,6 +6271,238 @@
                      <l>There shalt thou find the mariners asleep</l>
                      <l>Under the hatches; the master and the boatswain,</l>
                      <fw type="pageNum" rend="align(left)">42</fw>
+                     <pb n="43"/>
+                     <cb n="1"/>
+                     <l>Being awake, enforce them to this place;</l>
+                     <l>And presently, I pr'ythee.</l>
+                  </lg>
+               </sp>
+               <sp who="#ari">
+                  <speaker>Ari.</speaker>
+                  <lg>
+                     <l>I drink the air before me, and return</l>
+                     <l>Or e'er your pulse twice beat. <stage rend="pre([)slant(italic)align(right)"
+                           >Exit.</stage></l>
+                  </lg>
+               </sp>
+               <sp who="#gon">
+                  <speaker>Gon.</speaker>
+                  <lg>
+                     <l>All torment, trouble, wonder, and amazement</l>
+                     <l>Inhabits here: some heavenly power guide us</l>
+                     <l part="I">Out of this fearful country!</l>
+                  </lg>
+               </sp>
+               <sp who="#pro">
+                  <speaker>Pro.</speaker>
+                  <lg>
+                     <l part="F">Behold, sir king,</l>
+                     <l>The wronged duke of Milan, Prospero:</l>
+                     <l>For more assurance that a living prince</l>
+                     <l>Does now speak to thee, I embrace thy body;</l>
+                     <l>And to thee and thy company, I bid</l>
+                     <l part="I">A hearty welcome.</l>
+                  </lg>
+               </sp>
+               <sp who="#alo">
+                  <speaker>Alon.</speaker>
+                  <lg>
+                     <l part="F">Whêr thou beest he, or no,</l>
+                     <l>Or some enchanted trifle<anchor rend="pre(ᵃ)" xml:id="a108" corresp="#n108"
+                        /> to abuse me,</l>
+                     <l>As late I have been, I not know: thy pulse</l>
+                     <l>Beats, as of flesh and blood; and, since I saw thee,</l>
+                     <l>The affliction of my mind amends, with which,</l>
+                     <l>I fear, a madness held me: this must crave--</l>
+                     <l>An if this be at all-- a most strange story.</l>
+                     <l>Thy dukedom I resign; and do entreat</l>
+                     <l>Thou pardon me my wrongs.-- But how should Prospero</l>
+                     <l part="I">Be living, and be here?</l>
+                  </lg>
+               </sp>
+               <sp who="#pro">
+                  <speaker>Pro.</speaker>
+                  <lg>
+                     <l part="F"><stage type="delivery" rend="pre([)post(])align(left)slant(italic)"
+                           >To <persName>Gon.</persName></stage> First, noble friend,</l>
+                     <l>Let me embrace thine age, whose honour cannot</l>
+                     <l part="I">Be measur'd or confin'd.</l>
+                  </lg>
+               </sp>
+               <sp who="#gon">
+                  <speaker>Gon.</speaker>
+                  <lg>
+                     <l part="F">Whether this be,</l>
+                     <l part="I">Or be not, I'll not swear.</l>
+                  </lg>
+               </sp>
+               <sp who="#pro">
+                  <speaker>Pro.</speaker>
+                  <lg>
+                     <l part="F">You do yet taste</l>
+                     <l>Some subtleties o' the isle, that will not let you</l>
+                     <l>Believe things certain.-- Welcome, my friends all:--</l>
+                     <l>But you, my brace of lords, were I so minded,</l>
+                     <stage type="delivery" rend="pre([)align(right)slant(italic)">Aside to
+                           <persName>Sebastian</persName> and <persName>Antonio</persName>.</stage>
+                     <l>I here could pluck his highness' frown upon you,</l>
+                     <l>And justify you traitors; at this time</l>
+                     <l>I'll tell no tales.</l>
+                  </lg>
+               </sp>
+               <sp who="#seb">
+                  <speaker>Seb.</speaker>
+                  <lg>
+                     <l part="I"><stage type="delivery" rend="slant(italic)pre([)post(])align(left)"
+                           >Aside.</stage>The devil speaks in him.</l>
+                  </lg>
+               </sp>
+               <sp who="#pro">
+                  <speaker>Pro.</speaker>
+                  <lg>
+                     <l part="F">No:--</l>
+                     <l>For you, most wicked sir, whom to call brother</l>
+                     <l>Would even infect my mouth, I do forgive</l>
+                     <l>Thy rankest fault,-- all of them; and require</l>
+                     <l>My dukedom of thee, which, perforce, I know</l>
+                     <l part="I">Thou must restore.</l>
+                  </lg>
+               </sp>
+               <sp who="#alo">
+                  <speaker>Alon.</speaker>
+                  <lg>
+                     <l>If thou beest Prospero,</l>
+                     <l>Give us particulars of thy preservation;</l>
+                     <l>How thou hast met us here, who three hours since</l>
+                     <l>Were wreck'd upon this shore; where I have lost--</l>
+                     <l>How sharp the point of this remembrance is!--</l>
+                     <l part="I">My dear son Ferdinand.</l>
+                  </lg>
+               </sp>
+               <sp who="#pro">
+                  <speaker>Pro.</speaker>
+                  <lg>
+                     <l part="F">I am woe for't, sir.</l>
+                  </lg>
+               </sp>
+               <sp who="#alo">
+                  <speaker>Alon.</speaker>
+                  <lg>
+                     <l>Irreparable is the loss; and Patience</l>
+                     <l part="I">Says it is past her cure.</l>
+                  </lg>
+               </sp>
+               <cb n="1"/>
+               <sp who="#pro">
+                  <speaker>Pro.</speaker>
+                  <lg>
+                     <l part="F">I rather think,</l>
+                     <l>You have not sought her help; of whose soft grace,</l>
+                     <l>For the like loss I have her sovereign aid</l>
+                     <l part="I">And rest myself content.</l>
+                  </lg>
+               </sp>
+               <sp who="#alo">
+                  <speaker>Alon.</speaker>
+                  <lg>
+                     <l part="F">You the like loss?</l>
+                  </lg>
+               </sp>
+               <sp who="#pro">
+                  <speaker>Pro.</speaker>
+                  <lg>
+                     <l>As great to me, as late,-- and supportable</l>
+                     <l>To make the dear loss, have I means much weaker</l>
+                     <l>Than you may call to comfort you,-- for I</l>
+                     <l part="I">Have lost my daughter.</l>
+                  </lg>
+               </sp>
+               <sp who="alo">
+                  <speaker>Alon.</speaker>
+                  <lg>
+                     <l part="F">A daughter?</l>
+                     <l>O heavens! that they were living both in Naples,</l>
+                     <l>The king and queen there! that they were, I wish</l>
+                     <l>Myself were mudded in that oozy bed</l>
+                     <l>Where my son lies. When did you lose your daughter?</l>
+                  </lg>
+               </sp>
+               <sp who="#pro">
+                  <speaker>Pro.</speaker>
+                  <lg>
+                     <l>In this last tempest.-- I perceiv these lords</l>
+                     <l>At this encounter do so much admire,</l>
+                     <l>That they devour their reason, and scarce think</l>
+                     <l>Their eyes do offices of truth, their words</l>
+                     <l>Are natural breath: but, howsoe'er you have</l>
+                     <l>Been justled from your senses, know for certain</l>
+                     <l>That I am Prospero, and that very duke</l>
+                     <l>Which was thrust forth of Milan; who most strangely landed</l>
+                     <l>Upon this shore, where you were wreck'd, was</l>
+                     <l>To be lord on 't. No more yet of this;</l>
+                     <l>For 't is a chronicle of day by day,</l>
+                     <l>Not a relation for a breakfast, nor</l>
+                     <l>Befitting this first meeting. Welcome, sir;</l>
+                     <l>This cell's my court: here have I few attendants,</l>
+                     <l>And subjects none abroad: pray you, look in.</l>
+                     <l>My dukedom since you have given me again,</l>
+                     <l>I will requite you with as good a thing;</l>
+                     <l>At least, bring forth a wonder to content ye,</l>
+                     <l>As much as me my dukedom.</l>
+                  </lg>
+               </sp>
+               <stage type="business" rend="slant(italic)align(center)">The entrance of the Cell
+                  opens, and discovers <persName>Ferdinand</persName> and
+                     <persName>Miranda</persName> playing at chess.</stage>
+               <sp who="#mira">
+                  <speaker>Mira.</speaker>
+                  <lg>
+                     <l part="I">Sweet lord, you play me false.</l>
+                  </lg>
+               </sp>
+               <sp who="#fer">
+                  <speaker>Fer.</speaker>
+                  <lg>
+                     <l part="F">No, my dear'st love,</l>
+                     <l>I would not for the world.</l>
+                  </lg>
+               </sp>
+               <sp who="#mira">
+                  <speaker>Mira.</speaker>
+                  <lg>
+                     <l>Yes, for a score of kingdoms you should wrangle,</l>
+                     <l part="I">And I would call it fair play.</l>
+                  </lg>
+               </sp>
+               <sp who="#alo">
+                  <speaker>Alon.</speaker>
+                  <lg>
+                     <l part="F">If this prove</l>
+                     <l>A vision of the island, one dear son</l>
+                     <l part="I">Shall I twice lose.</l>
+                  </lg>
+               </sp>
+               <sp who="#seb">
+                  <speaker>Seb.</speaker>
+                  <lg>
+                     <l part="F">A most high miracle!</l>
+                  </lg>
+               </sp>
+               <sp who="#fer">
+                  <speaker>Fer.</speaker>
+                  <lg>
+                     <l>Though the seas threaten, they are merciful;</l>
+                     <l part="I">I have curs'd them without cause.</l>
+                  </lg>
+               </sp>
+               <stage type="business" rend="slant(italic)align(right)pre([)">Kneels to
+                     <persName>Alonso</persName>.</stage>
+               <sp who="#alo">
+                  <speaker>Alon.</speaker>
+                  <lg>
+                     <l part="F">Now all the blessings</l>
+                     <fw type="pageNum">43</fw>
+                     <pb n="44"/>
                   </lg>
                </sp>
             </div>
