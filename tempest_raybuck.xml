@@ -6503,8 +6503,370 @@
                      <l part="F">Now all the blessings</l>
                      <fw type="pageNum">43</fw>
                      <pb n="44"/>
+                     <figure>
+                        <figDesc><!--idk two scruffy dudes and ariel--></figDesc>
+                     </figure>
+                     <cb n="1"/>
+                     <l>Of a glad father compass thee about!</l>
+                     <l part="I">Arise, and say how thou cam'st here.</l>
                   </lg>
                </sp>
+               <sp who="#mira">
+                  <speaker>Mira.</speaker>
+                  <lg>
+                     <l part="F">O, wonder!</l>
+                     <l>How many godly creatures are there here!</l>
+                     <l>How beauteous mankind is! O brave new world,</l>
+                     <l part="I">That has such people in't!</l>
+                  </lg>
+               </sp>
+               <sp who="#pro">
+                  <speaker>Pro.</speaker>
+                  <lg>
+                     <l part="F">'T is new to thee.</l>
+                  </lg>
+               </sp>
+               <sp who="#alo">
+                  <speaker>Alon.</speaker>
+                  <lg>
+                     <l>What is this maid, with whom thou wast at play?</l>
+                     <l>Your eld'st acquaintance cannot be three hours:</l>
+                     <l>Is she the goddess that hath sever'd us,</l>
+                     <l>And brought us thus together?</l>
+                  </lg>
+               </sp>
+               <sp who="#fer">
+                  <speaker>Fer.</speaker>
+                  <lg>
+                     <l>Sir, she is mortal;</l>
+                     <l>But, by immortal Providence, she's mine;</l>
+                     <l>I chose her, when I could not ask my father</l>
+                     <l>For his advice, nor thought I had one. She</l>
+                     <l>Is daughter to this famous duke of Milan,</l>
+                     <l>Of whom so often I have heard renown,</l>
+                     <l>But never saw before; of whom I have</l>
+                     <l>Receiv'd a second life; and second father</l>
+                     <l part="I">This lady makes him to me.</l>
+                  </lg>
+               </sp>
+               <sp who="#alo">
+                  <speaker>Alon.</speaker>
+                  <lg>
+                     <l part="F">I am hers:</l>
+                     <l>But O, how oddly will it sound that I</l>
+                     <l part="I">Must ask my child forgiveness!</l>
+                  </lg>
+               </sp>
+               <sp who="#pro">
+                  <speaker>Pro.</speaker>
+                  <lg>
+                     <l part="F">There, sir, stop;</l>
+                     <l>Let us not burden our remembrances with</l>
+                     <l part="I">A heaviness that's gone.</l>
+                  </lg>
+               </sp>
+               <sp who="#gon">
+                  <speaker>Gon.</speaker>
+                  <lg>
+                     <l part="F">I have inly wept,</l>
+                     <l>Or should have spoke ere this.-- Look down, you gods,</l>
+                     <cb n="1"/>
+                     <l>And on this couple drop a blessed crown!</l>
+                     <l>For it is you that have chalk'd forth the way</l>
+                     <l part="I">Which brought us hither.</l>
+                  </lg>
+               </sp>
+               <sp who="#alo">
+                  <speaker>Alon.</speaker>
+                  <lg>
+                     <l part="F">I say, Amen, Gonzalo!</l>
+                  </lg>
+               </sp>
+               <sp who="#gon">
+                  <speaker>Gon.</speaker>
+                  <lg>
+                     <l>Was Milan thrust from Milan, that his issue</l>
+                     <l>Should become kings of Naples? O, rejoice</l>
+                     <l>Beyond a common joy! and set it down</l>
+                     <l>With gold on lasting pillars,-- in one voyage</l>
+                     <l>Did Claribel her husband find at Tunis;</l>
+                     <l>And Ferdinand, her brother, found a wife</l>
+                     <l>Where he himself was lost; Prospero, his dukedom,</l>
+                     <l>In a poor isle; and all of us, ourselves,</l>
+                     <l>When no man was his own!</l>
+                  </lg>
+               </sp>
+               <sp who="#alo">
+                  <speaker>Alon.</speaker>
+                  <lg>
+                     <l><stage type="delivery" rend="pre([)post(])slant(italic)align(left)">To
+                              <persName>Ferdinand</persName> and
+                           <persName>Miranda</persName>.</stage> Give me your hands:</l>
+                     <l>Let grief and sorrow still embrace his heart</l>
+                     <l>That doth not wish you joy!</l>
+                  </lg>
+               </sp>
+               <sp who="#gon">
+                  <speaker>Gon.</speaker>
+                  <lg>
+                     <l>Be't so! Amen!</l>
+                     <stage type="entrance" rend="slant(italic)align(center)">Re-enter
+                           <persName>Ariel</persName>, with the <persName>Master</persName> and
+                           <persName>Boatswain</persName> amazedly following.</stage>
+                     <l>O look, sir, look, sir! here are more of us!</l>
+                     <l>I prophesied if a gallows were on land,</l>
+                     <l>This fellow could not drown.-- Now, blasphemy,</l>
+                     <l>That swear'st grace o'erboard, not an oath on shore?</l>
+                     <l>Hast thou no mouth by land? What is the news?</l>
+                  </lg>
+               </sp>
+               <sp who="#boat">
+                  <speaker>Boatswain</speaker>
+                  <lg>
+                     <l>The best news is that we have safely found</l>
+                     <fw type="pageNum" rend="align(left)">44</fw>
+                     <pb n="45"/>
+                     <cb n="1"/>
+                     <l>Our king and company: the next, our ship,--</l>
+                     <l>Which, but three glasses since, we gave out split,--</l>
+                     <l>Is tight, and yare, and bravely rigg'd, as when</l>
+                     <l>We first put out to sea.</l>
+                  </lg>
+               </sp>
+               <sp who="#ari">
+                  <speaker>Ari.</speaker>
+                  <lg>
+                     <l><stage type="delivery" rend="slant(italic)align(left)pre([)post(])">Aside to
+                              <persName>Pro</persName>.</stage>Sir, all this service</l>
+                     <l>Have I done since I went.</l>
+                  </lg>
+               </sp>
+               <sp who="#pro">
+                  <speaker>Pro</speaker>
+                  <lg>
+                     <l><stage type="delivery" rend="slant(italic)align(left)pre([)post(])">Aside to
+                              <persName>Ariel</persName>.</stage>My tricksy spirit!</l>
+                  </lg>
+               </sp>
+               <sp who="#alo">
+                  <speaker>Alon.</speaker>
+                  <lg>
+                     <l>These are not natural events; they strengthen,</l>
+                     <l>From strange to stranger,-- Say, how came you</l>
+                  </lg>
+               </sp>
+               <sp who="#boat">
+                  <speaker>Boats.</speaker>
+                  <lg>
+                     <l>If I did think, sir, I were well awake,</l>
+                     <l>I'd strive to tell you. We were dead of sleep,</l>
+                     <l>And-- how, we know not-- all clapp'd under hatches,</l>
+                     <l>Where, but even now, with strange and several noises</l>
+                     <l>Of roaring, shrieking, howling, jingling chains,</l>
+                     <l>And more diversity of sounds, all horrible,</l>
+                     <l>We were awak'd; straightway, at liberty:</l>
+                     <l>Where we, in all her<anchor rend="pre(*)" xml:id="a109" corresp="#n109"/>
+                        trim, freshly beheld</l>
+                     <l>Our royal, good, and gallant ship; our master</l>
+                     <l>Capering to eye her: on a trice, so please you,</l>
+                     <l>Even in a dream, were we divided from them,</l>
+                     <l>And were brought moping hither.</l>
+                  </lg>
+               </sp>
+               <sp who="#ari">
+                  <speaker>Ari.</speaker>
+                  <lg>
+                     <l><stage type="delivery" rend="pre([)post(])slant(italic)align(left)">Aside to
+                              <persName>Pro</persName>.</stage> Was't well done?</l>
+                  </lg>
+               </sp>
+               <sp who="#pro">
+                  <speaker>Pro.</speaker>
+                  <lg>
+                     <l><stage type="delivery" rend="pre([)post(])slant(italic)align(left)">Aside to
+                              <persName>Ariel</persName>.</stage>Bravely, my diligence.</l>
+                     <l>Thou shalt be free.</l>
+                  </lg>
+               </sp>
+               <sp who="#alo">
+                  <speaker>Alon.</speaker>
+                  <lg>
+                     <l>This is as strange a maze as e'er men</l>
+                     <l>And there is in this business more than nature</l>
+                     <l>Was ever conduct of: some oracle</l>
+                     <l part="I">Must rectify our knowledge.</l>
+                  </lg>
+               </sp>
+               <sp who="#pro">
+                  <speaker>Pro.</speaker>
+                  <lg>
+                     <l part="F">Sir, my liege,</l>
+                     <l>Do not infest your mind with beating on</l>
+                     <l>The strangeness of this business; at pick'd leisure,</l>
+                     <l>Which shall be shortly, single I'll resolve you--</l>
+                     <l>Which to you shall seem probably-- of every</l>
+                     <l>These happen'd accidents: till when, be cheerful,</l>
+                     <l>And think of each thing well.--<stage type="delivery"
+                           rend="pre([)post(])slant(italic)">Aside to
+                           <persName>Ariel</persName>.</stage>Come hither, spirit;</l>
+                     <l>Set Caliban and his companions free:</l>
+                     <l>Untie the spell.<stage type="exit" rend="pre([)post(])slant(italic)">Exit
+                              <persName>Ariel</persName>.</stage> How fares my gracious sir?</l>
+                     <l>There are yet missing of your company</l>
+                     <l>Some few odd lads that you remember not.</l>
+                  </lg>
+               </sp>
+               <stage type="entrance" rend="slant(italic)align(center)">Re-enter Ariel, driving in
+                     <persName>Caliban</persName>, <persName>Stephano</persName>, and
+                     <persName>Trinculo</persName>, in their stolen appaarel.</stage>
+               <sp who="#ste">
+                  <speaker>Ste.</speaker>
+                  <p>Every man shift for all the rest, and let no man take care for himself; for all
+                     is but fortune!-- <hi rend="slant(italic)">Coragio</hi>, bully-monster, <hi
+                        rend="slant(italic)">Coragio</hi>!</p>
+               </sp>
+               <sp who="#tri">
+                  <speaker>Trin.</speaker>
+                  <p>If these be true spies which I wear in my head, here's a goodly sight.</p>
+               </sp>
+               <sp who="#cal">
+                  <speaker>Cal.</speaker>
+                  <lg>
+                     <l>O, Setebos, these be brave spirits, indeed!</l>
+                     <l>How fine my master is! I am afraid</l>
+                     <l part="I">He will chastise me.</l>
+                  </lg>
+               </sp>
+               <sp who="#seb">
+                  <speaker>Seb</speaker>
+                  <lg>
+                     <l part="F">Ha, ha!</l>
+                     <l>What things are these, my lord Antonio?</l>
+                     <l part="I">Will money buy them?</l>
+                  </lg>
+               </sp>
+               <sp who="#ant">
+                  <speaker>Ant.</speaker>
+                  <lg>
+                     <l part="F">Very like; one of them</l>
+                     <l>Is a plain fish, and, no doubt, marketable.</l>
+                  </lg>
+               </sp>
+               <sp who="#pro">
+                  <speaker>Pro.</speaker>
+                  <lg>
+                     <l>Mark but the badges of these men, my lords,</l>
+                     <l>Then say if they be true. This mis-shapen knave,--</l>
+                     <l>His mother was a witch, and one so strong</l>
+                     <l>That could control the moon,<anchor rend="pre(ᵃ)" xml:id="a110"
+                           corresp="#n110"/> make flows and ebbs,</l>
+                     <l>And deal in her command, without<anchor rend="pre(ᵇ)" xml:id="a111"
+                           corresp="#n111"/> her power.</l>
+                     <l>These three have robb'd me; and this demi-devil--</l>
+                     <l>For he's a bastard one-- had plotted with them</l>
+                     <l>To take my life: two of these fellows you</l>
+                     <l>Must know and own; this thing of darkness I</l>
+                     <l part="I">Acknowledge mine.</l>
+                  </lg>
+               </sp>
+               <sp who="#cal">
+                  <speaker>Cal.</speaker>
+                  <lg>
+                     <l>I shall be pinch'd to death.</l>
+                  </lg>
+               </sp>
+               <sp who="#alo">
+                  <speaker>Alon.</speaker>
+                  <lg>
+                     <l>Is not this Stephano, my drunken butler?</l>
+                  </lg>
+               </sp>
+               <sp who="#seb">
+                  <speaker>Seb.</speaker>
+                  <lg>
+                     <l>He is drunk now: where had he wine?</l>
+                  </lg>
+               </sp>
+               <sp who="#alo">
+                  <speaker>Alon.</speaker>
+                  <lg>
+                     <l>And Trinculo is reeling ripe: where should they</l>
+                     <l>Find this grand liquor that hath gilded 'em?--</l>
+                     <l>How cam'st thou in this pickle?</l>
+                  </lg>
+               </sp>
+               <sp who="#tri">
+                  <speaker>Trin.</speaker>
+                  <p>I have been in such a pickle, since I saw you last, that, I fear me, will never
+                     out of my bones: I shall not fear fly-blowing.</p>
+               </sp>
+               <sp who="#seb">
+                  <speaker>Seb.</speaker>
+                  <lg>
+                     <l>Why, how now, Stephano?</l>
+                  </lg>
+               </sp>
+               <sp who="ste">
+                  <speaker>Ste.</speaker>
+                  <p>O, touch me not; I am not Stephano but a cramp.</p>
+               </sp>
+               <sp who="#pro">
+                  <speaker>Pro.</speaker>
+                  <lg>
+                     <l>You'd be king o' the isle, sirrah?</l>
+                  </lg>
+               </sp>
+               <sp who="#ste">
+                  <speaker>Ste.</speaker>
+                  <p>I should have been a sore one, then.</p>
+               </sp>
+               <sp who="#alo">
+                  <speaker>Alon.</speaker>
+                  <lg>
+                     <l>This is a strange thing as e'er I look'd on.</l>
+                     <stage type="business" rend="slant(italic)pre([)align(right)">Pointing to
+                           <persName>Caliban</persName>.</stage>
+                  </lg>
+               </sp>
+               <sp who="#pro">
+                  <speaker>Pro.</speaker>
+                  <lg>
+                     <l>He is as disproportion'd in his manners</l>
+                     <l>As in his shape.-- Go, sirrah, to my cell;</l>
+                     <l>Take with you your companions; as you look</l>
+                     <l>To have my pardon, trim it handsomely.</l>
+                  </lg>
+               </sp>
+               <sp who="#cal">
+                  <speaker>Cal.</speaker>
+                  <lg>
+                     <l>Ay, that I will; and I'll be wise hereafter,</l>
+                     <l>And seek for grace. What a thrice-double ass</l>
+                     <l>Was I, to take this drunkard for a god,</l>
+                     <l part="I">And worship this dull fool!</l>
+                  </lg>
+               </sp>
+               <sp who="#pro">
+                  <speaker>Pro.</speaker>
+                  <lg>
+                     <l part="F">Go to; away!</l>
+                  </lg>
+               </sp>
+               <sp who="#alo">
+                  <speaker>Alon.</speaker>
+                  <lg>
+                     <l>Hence, and bestow your luggace where you found it.</l>
+                  </lg>
+               </sp>
+               <sp who="#seb">
+                  <speaker>Seb.</speaker>
+                  <lg>
+                     <l>Or stole it, rather.</l>
+                  </lg>
+               </sp>
+               <stage type="exit" rend="slant(italic)align(right)pre([)">Exeunt
+                     <persName>Caliban</persName>, <persName>Stephano</persName>, and
+                     <persName>Trinculo</persName>.</stage>
             </div>
          </div>
       </body>
