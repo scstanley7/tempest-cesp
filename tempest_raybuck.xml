@@ -2039,8 +2039,8 @@
                      <l n="369" part="F">Safely in harbour</l>
                      <l n="370">Is the king's ship; in the deep nook, where once</l>
                      <l n="371">Thou call'dst me up at midnight to fetch dew</l>
-                     <l n="372">From the still-vex'd Bermoothes,<anchor rend="((4))" xml:id="st004"
-                           corresp="#ic004"/> there she's hid:</l>
+                     <l n="372">From the still-vex'd Bermoothes,<anchor rend="pre((4))"
+                           xml:id="st004" corresp="#ic004"/> there she's hid:</l>
                      <l n="373">The mariners all under hatches stow'd;</l>
                      <l n="374">Whom, with a charm join'd to their suffer'd labour,</l>
                      <l n="375">I have left asleep: and for the rest o' the fleet,</l>
@@ -3509,7 +3509,7 @@
                      <persName>Ariel</persName>, invisible, solemn Music playing.</stage>
                <sp who="#seb">
                   <speaker>Seb.</speaker>
-                  <p><s n="867">We would so, and then go a bat-fowling.<anchor rend="((2))"
+                  <p><s n="867">We would so, and then go a bat-fowling.<anchor rend="pre((2))"
                            xml:id="st009" corresp="#ic009"/></s></p>
                </sp>
                <sp who="#ant">
@@ -5066,8 +5066,8 @@
                </sp>
                <sp who="#ste">
                   <speaker>Ste.</speaker>
-                  <p>Lead, monster; we'll follow.-- I would I could see this taborer! (2)
-                     <!--illustrative comment--> he lays it on.</p>
+                  <p>Lead, monster; we'll follow.-- I would I could see this taborer! <anchor
+                        rend="pre((2))" xml:id="st012" corresp="#ic012"/>he lays it on.</p>
                </sp>
                <sp who="#tri">
                   <speaker>Trin.</speaker>
@@ -5786,7 +5786,8 @@
                      <l>The solemn temples, the gret globe itself,</l>
                      <l>Yea, all which it inherit, shall dissolve,</l>
                      <l>And, like this insubstantial pageant faded,</l>
-                     <l>Leave not a rack behind.(1)<!--illustrative comment--> We are such stuff</l>
+                     <l>Leave not a rack behind.<anchor rend="pre((1))" xml:id="st013"
+                           corresp="#ic013"/> We are such stuff</l>
                      <l>As dreams are made on, and our little life</l>
                      <l>Is rounded with a sleep.-- Sir, I am vex'd;</l>
                      <l>Bear with my weakness; my old brain is troubled:</l>
@@ -5799,10 +5800,10 @@
                <fw type="pageNum" rend="align(right)">37</fw>
                <pb n="38"/>
                <figure>
-                  <figDesc><!--yeah this just looks like two donald trumps beating up a mime--></figDesc>
+                  <figDesc>Trinculo getting his fancy cloak ripped off my Stephano and
+                     Caliban.</figDesc>
                </figure>
                <cb n="1"/>
-               <!--two speakers?????-->
                <sp who="#fer #mira">
                   <speaker>Fer., Mira.</speaker>
                   <lg>
@@ -5894,7 +5895,8 @@
                            <persName>Ariel</persName>, loaden with glistering apparel,
                         &amp;c.</stage>
                      <l part="F">Come, hang them on <anchor rend="pre(*)" xml:id="a100"
-                           corresp="#n100"/> this line.(2)<!--illustrative comment--></l>
+                           corresp="#n100"/> this line.<anchor rend="pre((2))" xml:id="st014"
+                           corresp="#ic014"/></l>
                   </lg>
                </sp>
                <stage type="mixed"><persName>Prospero</persName>, and <persName>Ariel</persName>
@@ -5911,7 +5913,8 @@
                <fw type="pageNum" rend="align(left)">38</fw>
                <pb n="39"/>
                <figure>
-                  <figDesc><!--AGAIN what on EARTH is HAPPENING--></figDesc>
+                  <figDesc>Trinculo, Stephano, and Caliban being attacked by dogs as Prospero and
+                     Ariel look on.</figDesc>
                </figure>
                <cb n="1"/>
                <sp who="#ste">
@@ -6038,7 +6041,8 @@
                   <speaker>Cal.</speaker>
                   <lg>
                      <l>I will have none on't; we shall lose our time,</l>
-                     <l>And all be turn'd to barnacles,(3)<!--illustrative comment--> or to apes</l>
+                     <l>And all be turn'd to barnacles,(3)<anchor rend="pre((3))" xml:id="st015"
+                           corresp="#ic015"/>15 or to apes</l>
                      <l>With foreheads villainous low.</l>
                   </lg>
                </sp>
@@ -6230,7 +6234,8 @@
                      <l>Have I made shake; and by the spurs pluck'd up</l>
                      <l>The pine and cedar: graves, at my command,</l>
                      <l>Have wak'd their sleepers; op'd, and let them forth</l>
-                     <l>By my so potent art.(1)<!--illustrative comment--> But this rough magic</l>
+                     <l>By my so potent art.<anchor rend="pre((1))" xml:id="st016" corresp="#ic016"
+                        /> But this rough magic</l>
                      <l>I here abjure; and, when I have requir'd</l>
                      <l>Some heavenly music,-- which even now I do,--</l>
                      <l>To work mine end upon their senses that</l>
@@ -6294,7 +6299,8 @@
                      <l>On the bat's back I do fly</l>
                      <l>After summer merrily:</l>
                      <l>Merrily, merrily, shall I live now,</l>
-                     <l>Under the blossom that hangs on the bough.(2)<!--illustrative comment--></l>
+                     <l>Under the blossom that hangs on the bough.<anchor rend="pre((2))"
+                           xml:id="st017" corresp="#ic017"/></l>
                   </lg>
                </sp>
                <sp who="#pro">
@@ -6539,7 +6545,8 @@
                      <fw type="pageNum">43</fw>
                      <pb n="44"/>
                      <figure>
-                        <figDesc><!--idk two scruffy dudes and ariel--></figDesc>
+                        <figDesc>Ariel leading the Boatswain and Master back from the
+                           cave.</figDesc>
                      </figure>
                      <cb n="1"/>
                      <l>Of a glad father compass thee about!</l>
@@ -6985,7 +6992,7 @@
             <head rend="case(allcaps)">Illustrative Comments</head>
             <p rend="case(allcaps)">Act I.</p>
             <cb n="1"/>
-            <note>
+            <note xml:id="ic001" target="#st001">
                <ref rend="post(])">(1) <hi rend="case(smallcaps)">Scene I.</hi><quote>-- We split,
                      we split!</quote></ref>
                <p>The following observations on the maritime technicalities in this scene, are
@@ -7047,7 +7054,7 @@
                <ab rend="slant(italic)">5th Position.</ab>
                <p>The ship, not able to weather a point, is driven on the shore."</p>
             </note>
-            <note>
+            <note xml:id="ic002" target="#st002">
                <ref rend="post(])case(smallcaps)"><quote><hi rend="case(smallcaps)">(2) Scene
                         II.</hi>-- <persName>Ariel</persName>.</quote></ref>
                <p>According to the system of witchcraft or magic, which was formed an article of
@@ -7078,7 +7085,7 @@
                   &amp;c., 1584; "The Demonologie" of James I.; "The Anatomie of Sorcerie" by Mason,
                   1612; and Burton's "Anatomy of Melancholy," 1617.</p>
             </note>
-            <note>
+            <note xml:id="ic003" target="#st003">
                <ref>(3) <hi rend="case(smallcaps)">Scene II</hi>.-- <quote
                      rend="slant(italic)post(])">
                      <lg>
@@ -7116,7 +7123,7 @@
                      rend="case(smallcaps)">Hakluyt</hi>, III. 450, <hi rend="slant(italic)"
                   >ed</hi>. 1600</p>
             </note>
-            <note>
+            <note xml:id="ic004" target="#st004">
                <ref>(4) <hi rend="case(smallcaps)">Scene II</hi>.<quote rend="slant(italic)post(])"
                      >The still-vex'd Bermoothes.</quote></ref>
                <p>Shakespeare's first knowledge of the storm-vex'd coast of the Bermudas, was
@@ -7129,7 +7136,7 @@
                   information from Hakluyt's Voyages, 1600, in which there is a description of
                   Bermuda, by Henry May, who was shipwrecked there in 1593.</p>
             </note>
-            <note>
+            <note xml:id="ic005" target="#st005">
                <ref>(5) <hi rend="case(smallcaps)">Scene II</hi>.--
                   <persName>Caliban</persName><quote/></ref>
                <p>It has been surmised that the idea of this marvellous creation was derived from
@@ -7165,7 +7172,7 @@
                   belles, with also a lookyng glasse, a combe, and a payre of beades of glasse, he
                   sent him to lande with foure of his owne men well armed."</p>
             </note>
-            <note>
+            <note xml:id="ic006" target="#st006">
                <ref>(6) <hi rend="case(smallcaps)">Scene II</hi>.-- <quote
                      rend="slant(italic)post(])">
                      <lg>
@@ -7197,7 +7204,7 @@
                   maketh men fall into sicknesse," lib. xi. c. 3.-- <hi rend="case(smallcaps)"
                      >Douce</hi>.</p>
             </note>
-            <note>
+            <note xml:id="ic007" target="#st007">
                <ref>(7) <hi rend="case(smallcaps)">Scene II</hi>.-- <quote
                      rend="slant(italic)post(])">It would control my dam's god,
                   Setebos.</quote></ref>
@@ -7224,7 +7231,7 @@
             <pb n="49"/>
             <p rend="case(allcaps)">Act II.</p>
             <cb n="1"/>
-            <note>
+            <note xml:id="ic008" target="#st008">
                <ref>
                   <quote rend="slant(italic)post(])">
                      <lg>
@@ -7262,7 +7269,7 @@
                      covetousnes, envie, detraction, and pardon, were never heard of amongst
                      them.</hi>"</p>
             </note>
-            <note>
+            <note xml:id="ic009" target="#st009">
                <ref>(2) <hi rend="case(smallcaps)">Scene I</hi>.-- <quote
                      rend="slant(italic)post(])">We would so, and then go a
                   bat-fowling.</quote></ref>
@@ -7303,7 +7310,7 @@
                      Feldyfares, Linnets, Bulfinches</hi>, and all other Byrdes whatsoeuer that
                   pearch or sit vpon small boughes or bushes."</p>
             </note>
-            <note>
+            <note xml:id="ic010" target="#st010">
                <ref>(3) <hi rend="case(smallcaps)">Scene II</hi>.<quote rend="slant(italic)post(])"
                      >They will lay out ten to see a dead Indian.</quote></ref>
                <p>Some verses written by Henry Peacham, about the year 1609, give a curious list of
@@ -7337,7 +7344,7 @@
             </note>
             <p rend="case(allcaps)">Act III.</p>
             <cb n="1"/>
-            <note>
+            <note xml:id="ic011" target="#st011">
                <ref>(1) <hi rend="case(smallcaps)">Scene II</hi>.<quote rend="slant(italic)post(])"
                      >The picture of Nobody.</quote></ref>
                <p part="I">"No-body" was a ludicrous figure often found on street signs, and of
@@ -7380,7 +7387,7 @@
                </lg>
             </note>
             <cb n="2"/>
-            <note>
+            <note xml:id="ic012" target="#st012">
                <ref>(2) <hi rend="case(smallcaps)">Scene II</hi>.<quote rend="slant(italic)post(])"
                      >I would I could see this taborer!</quote></ref>
                <p>"Several of the incidents in this scene," Steevens remarks, "viz.-- Ariel's
@@ -7399,7 +7406,7 @@
             </note>
             <p rend="case(allcaps)">Act IV.</p>
             <cb n="1"/>
-            <note>
+            <note xml:id="ic013" target="#st013">
                <ref>(1) <hi rend="case(smallcaps)">Scene I</hi>.-- <quote
                      rend="slant(italic)post(])">
                      <lg>
@@ -7458,7 +7465,7 @@
                   disappeared and there was left, then, not even a <hi rend="slant(italic)"
                      >rack</hi> behind.</p>
             </note>
-            <note>
+            <note xml:id="ic014" target="#st014">
                <ref>(2) <hi rend="case(smallcaps)">Scene I</hi>.--<quote rend="slant(italic)post(])"
                      >Come, hang them on this line.</quote></ref>
                <p>Mr. Hunter successfully exposed the error of those editors who deemed it necessary
@@ -7490,7 +7497,7 @@
                   object than the familiar <hi rend="slant(italic)">horse-hair</hi> line which was
                   formerly used to hang clothes on.</p>
             </note>
-            <note>
+            <note xml:id="ic015" target="#st015">
                <ref>(3) <hi rend="case(smallcaps)">Scene I</hi>.<quote rend="slant(italic)post(])"
                      >And all be turn'd to barnacles.</quote></ref>
                <p part="I">It was anciently believed that the barnacle shell-fish, which is found on
@@ -7515,7 +7522,7 @@
             </note>
             <p rend="case(allcaps)">Act V.</p>
             <cb n="1"/>
-            <note>
+            <note xml:id="ic016" target="#st016">
                <ref>(1) <hi rend="case(smallcaps)">Scene I</hi>.--<quote rend="slant(italic)post(])"
                      >By my so potent art.</quote></ref>
                <p>This speech is founded upon the invocation of Medea in Ovid's Metamorphoses, for
@@ -7552,7 +7559,7 @@
                </lg>
                <ab>Golding's <hi rend="slant(italic)">Ovid</hi>, lib. 7, 1567.</ab>
             </note>
-            <note>
+            <note xml:id="ic017" target="#st017">
                <ref>(2) <hi rend="case(smallcaps)">Scene I</hi>.--<quote rend="slant(italic)post(])"
                      >Under the blossom that hangs on the bough.</quote></ref>
                <p>The beautiful fancy in the second line of Ariel's song,--</p>
