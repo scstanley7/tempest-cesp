@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="out/tempest.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-stylesheet type="text/xsl" href="attempt.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <!--
@@ -1161,7 +1162,7 @@
                <l>Nor ere is known to sleepe."</l>
             </lg>
             <div type="castList">
-               <head n="1">Persons Represented.</head>
+               <head n="1" type="castlist">Persons Represented.</head>
                <castList>
                   <cb n="1"/>
                   <castItem n="2">
@@ -1233,8 +1234,8 @@
                      Ariel, who is shown to be the source of the storm.</figDesc>
                </figure>
                <head type="act" rend="case(allcaps)">Act I.</head>
-               <stage n="23" type="setting" rend="align(center)"><hi rend="case(allcaps)"
-                  >Scene</hi>.-- <hi rend="slant(italic)">On a Ship at Sea. A tempestuous noise of
+               <stage n="23" type="setting" rend="align(center)"><hi rend="case(allcaps)">Scene
+                     I</hi>.-- <hi rend="slant(italic)">On a Ship at Sea. A tempestuous noise of
                      thunder and lightning heard.</hi></stage>
                <cb n="1"/>
                <stage n="24" type="entrance" rend="slant(italic)">Enter a Ship-master and a
@@ -1437,7 +1438,9 @@
                <stage type="exit" rend="pre([)" n="103">Exit</stage>
             </div>
             <div type="scene" n="2">
-               <head>Scene II.--The Island: before the Cell of Prospero.</head>
+               <stage type="setting"><hi rend="case(allcaps)">Scene II</hi>.--<hi
+                     rend="slant(italic)">The <hi rend="slant(upright)">Island</hi>: before the Cell
+                     of <persName>Prospero</persName></hi>.</stage>
                <stage type="entrance" n="104">Enter <persName>Prospero</persName> and
                      <persName>Miranda</persName>.</stage>
                <sp who="#mira">
