@@ -12,8 +12,8 @@
     <xsl:template match="tei:text">
         <html>
             <head>
-                <link rel="stylesheet" type="text/css" href="style.css"></link>
-                <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet"></link>
+                <link rel="stylesheet" type="text/css" href="style.css"/>
+                <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet"/>
                 <title>The Tempest - Test</title>
             </head>
             <body>
@@ -34,15 +34,22 @@
             <xsl:apply-templates/>
         </h2>
     </xsl:template>
+    <xsl:template match="tei:head[@type eq 'castlist']">
+        <h2>
+            <xsl:apply-templates/>
+        </h2>
+    </xsl:template>
     <!--div transformation-->
     <xsl:template match="tei:div[@type eq 'act']">
         <div class="act">
             <xsl:apply-templates/>
         </div>
     </xsl:template>
-    <xsl:template match="tei:div[@type eq 'scene']">
+    <xsl:template match="tei:stage[@type eq 'setting']">
         <div class="scene">
-            <xsl:apply-templates/>
+            <h3>
+                <xsl:apply-templates/>
+            </h3>
         </div>
     </xsl:template>
     <!--castList transformation-->
@@ -88,7 +95,7 @@
         </div>
     </xsl:template>
     <xsl:template match="tei:speaker">
-        <p style="font-variant: small-caps;">
+        <p class="speaker" style="font-variant: small-caps;">
             <xsl:apply-templates/>
         </p>
     </xsl:template>
@@ -104,5 +111,8 @@
     </xsl:template>
     <!--surpressed-->
     <xsl:template match="tei:fw"/>
-    <xsl:template match="tei:milestone"/>
+    <xsl:template match="tei:fig"/>
+    <xsl:template match="tei:figDesc"/>
+    <xsl:template match="tei:hyperDiv"/>
+
 </xsl:stylesheet>

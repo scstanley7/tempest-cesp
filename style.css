@@ -13,4 +13,8 @@ h1, h2{
 }
 p, ul, li{
     font-family: 'Open Sans', sans-serif;
+    margin: 0px;
+}
+.speaker{
+    margin-top: 10px;
 }
