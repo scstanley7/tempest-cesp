@@ -109,10 +109,34 @@
             <xsl:apply-templates/>
         </p>
     </xsl:template>
+    <!--notes transformation-->
+    <xsl:template match="tei:note">
+        <!--<xsl:variable name="note_id">
+            <xsl:value-of select="note/@xml:id" />
+        </xsl:variable>-->
+        <div class="note">
+            <xsl:apply-templates/>
+        </div>
+    </xsl:template>
+    <xsl:template match="tei:hyperDiv">
+        <xsl:result-document href="attempt_raybuck_notes.html" method="html">
+            <html>
+                <head>
+                    <link rel="stylesheet" type="text/css" href="style.css"/>
+                    <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet"/>
+                    <title>The Tempest - Notes</title>
+                </head>
+                <body>
+                    <div class="container">
+                        <xsl:apply-templates/>
+                    </div>
+                </body>
+            </html>
+        </xsl:result-document>
+    </xsl:template>
     <!--surpressed-->
     <xsl:template match="tei:fw"/>
     <xsl:template match="tei:fig"/>
     <xsl:template match="tei:figDesc"/>
-    <xsl:template match="tei:hyperDiv"/>
 
 </xsl:stylesheet>
