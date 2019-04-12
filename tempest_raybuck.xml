@@ -120,9 +120,6 @@
    </teiHeader>
    <text>
       <hyperDiv>
-         <castList>
-            <castItem><!-- put any stray cast members without a reference in the Dramatis Personae here! --></castItem>
-         </castList>
          <div type="notes">
             <note xml:id="n001" target="#a001" rend="pre(ᵃ)">
                <p><ref rend="post(—])"><quote>Yarely,</quote></ref>
