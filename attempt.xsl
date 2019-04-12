@@ -109,15 +109,38 @@
             <xsl:apply-templates/>
         </p>
     </xsl:template>
+    <xsl:template match="tei:anchor">
+        <a>
+            <xsl:attribute name="id">
+                <xsl:value-of select="@xml:id"/>
+            </xsl:attribute>
+            <xsl:attribute name="href">attempt_raybuck_notes.html<xsl:value-of select="@corresp"
+                /></xsl:attribute>
+            <xsl:value-of select="@rend"/>
+            <xsl:apply-templates/>
+
+        </a>
+
+    </xsl:template>
     <!--notes transformation-->
     <xsl:template match="tei:note">
         <!--<xsl:variable name="note_id">
             <xsl:value-of select="note/@xml:id" />
         </xsl:variable>-->
         <div class="note">
+            <xsl:attribute name="id">
+                <xsl:value-of select="@xml:id"/>
+            </xsl:attribute>
+            <h4>
+                <!--how to select only part of @rend value?-->
+                <xsl:value-of select="@rend"/>
+            </h4>
             <xsl:apply-templates/>
+            <a><xsl:attribute name="href">attempt_raybuck.html<xsl:value-of select="@target"
+                    /></xsl:attribute>↩</a>
         </div>
     </xsl:template>
+
     <xsl:template match="tei:hyperDiv">
         <xsl:result-document href="attempt_raybuck_notes.html" method="html">
             <html>
@@ -133,6 +156,11 @@
                 </body>
             </html>
         </xsl:result-document>
+    </xsl:template>
+    <xsl:template match="tei:ref">
+        <p>
+            <xsl:apply-templates/>
+        </p>
     </xsl:template>
     <!--surpressed-->
     <xsl:template match="tei:fw"/>
