@@ -124,16 +124,13 @@
     </xsl:template>
     <!--notes transformation-->
     <xsl:template match="tei:note">
-        <!--<xsl:variable name="note_id">
-            <xsl:value-of select="note/@xml:id" />
-        </xsl:variable>-->
         <div class="note">
             <xsl:attribute name="id">
                 <xsl:value-of select="@xml:id"/>
             </xsl:attribute>
             <h4>
-                <!--how to select only part of @rend value?-->
-                <xsl:value-of select="@rend"/>
+                <!--possibly use substring-before-last?? I have no idea how to use it though -->
+                <xsl:value-of select="substring-before(substring-after(@rend, 'pre('), ')')"/>
             </h4>
             <xsl:apply-templates/>
             <a><xsl:attribute name="href">attempt_raybuck.html<xsl:value-of select="@target"
