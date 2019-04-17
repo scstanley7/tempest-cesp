@@ -3,6 +3,24 @@
     xmlns:xs="http://www.w3.org/2001/XMLSchema" exclude-result-prefixes="xs tei" version="2.0"
     xmlns:tei="http://www.tei-c.org/ns/1.0">
 
+    <xsl:template name="substring-before-last">
+        <xsl:param name="string1" select="''" />
+        <xsl:param name="string2" select="''" />
+        
+        <xsl:if test="$string1 != '' and $string2 != ''">
+            <xsl:variable name="head" select="substring-before($string1, $string2)" />
+            <xsl:variable name="tail" select="substring-after($string1, $string2)" />
+            <xsl:value-of select="$head" />
+            <xsl:if test="contains($tail, $string2)">
+                <xsl:value-of select="$string2" />
+                <xsl:call-template name="substring-before-last">
+                    <xsl:with-param name="string1" select="$tail" />
+                    <xsl:with-param name="string2" select="$string2" />
+                </xsl:call-template>
+            </xsl:if>
+        </xsl:if>
+    </xsl:template>
+
     <xsl:template match="/">
         <xsl:apply-templates/>
     </xsl:template>
@@ -123,18 +141,44 @@
 
     </xsl:template>
     <!--notes transformation-->
+    <!--
     <xsl:template match="tei:note">
         <div class="note">
             <xsl:attribute name="id">
                 <xsl:value-of select="@xml:id"/>
             </xsl:attribute>
-            <h4>
+            <h4>-->
                 <!--possibly use substring-before-last?? I have no idea how to use it though -->
+    <!--           
                 <xsl:value-of select="substring-before(substring-after(@rend, 'pre('), ')')"/>
             </h4>
             <xsl:apply-templates/>
             <a><xsl:attribute name="href">attempt_raybuck.html<xsl:value-of select="@target"
                     /></xsl:attribute>↩</a>
+        </div>
+    </xsl:template>
+    -->
+    <xsl:template match="tei:note">
+        <div class="note">
+            <xsl:attribute name="id">
+                <xsl:value-of select="@xml:id"/>
+            </xsl:attribute>
+            <h3>
+                <xsl:variable name="notenamepart1">
+                    <xsl:value-of select="substring-after(@rend, 'pre(')"/>
+                </xsl:variable>
+
+                <xsl:variable name="notenamepart2" >
+                    <xsl:call-template name="substring-before-last">
+                       <xsl:with-param name="string1" select="$notenamepart1"></xsl:with-param>
+                       <xsl:with-param name="string2" select="')'"></xsl:with-param>
+                    </xsl:call-template>
+                </xsl:variable>
+                <xsl:value-of select="$notenamepart2"></xsl:value-of>
+            </h3>
+            <xsl:apply-templates/>
+            <a><xsl:attribute name="href">attempt_raybuck.html<xsl:value-of select="@target"
+            /></xsl:attribute>↩</a>
         </div>
     </xsl:template>
 
