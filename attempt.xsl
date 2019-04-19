@@ -158,7 +158,7 @@
         </div>
     </xsl:template>
     -->
-    <xsl:template match="tei:note">
+    <xsl:template match="tei:hyperDiv//tei:note">
         <div class="note">
             <xsl:attribute name="id">
                 <xsl:value-of select="@xml:id"/>
